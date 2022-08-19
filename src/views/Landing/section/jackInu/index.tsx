@@ -2,6 +2,7 @@ import React from 'react';
 import { Box, Typography, Stack } from '@mui/material'; 
 import Fade from 'react-reveal/Fade';
 import Lottie from "lottie-react";
+import Particle from '../../components/particle';
 import dog from './dog1.json'
 import styles from './jackInu.module.css';
 
@@ -10,8 +11,10 @@ import styles from './jackInu.module.css';
 const JackInu = () => {
   return(
     <>
+      <Particle/>
       <section className="vc_row wpb_row vc_row-fluid mobile-center banner-particle banner-curb vc_custom_1629564107647 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex banner banner-full d-flex align-items-center">
         <div id="particles-js" className="particles-container particles-js">
+
           <Box className={styles.jack_container}>
               
               <Fade bottom style={{zIndex:'1000 !important'}}>

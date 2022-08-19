@@ -11,9 +11,9 @@ import styles from './header.module.css';
 const Header = () => {
   const [color, setColor] = useState<string>('transparent');
   const handleScrollbar = () => {
-    if(window.pageYOffset < 100) setColor("transparent")
+    if(window.pageYOffset < 100) setColor("transparent");
     else if( window.pageYOffset >= 100 ) setColor('black');
-    else setColor('#020207');
+    else if( window.pageYOffset >= 300 ) setColor('#020207');
   }
 
   useEffect(() => {

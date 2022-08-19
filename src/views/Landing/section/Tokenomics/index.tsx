@@ -118,7 +118,6 @@ const Tokenomics = () => {
               </div>
             </div>
           </div>
-          <PieChart/>
       </Box>
     </>
   );

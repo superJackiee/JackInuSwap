@@ -50,10 +50,7 @@ const PieChart = () => {
             }
           }
         },
-        markers: {
-          // offsetX: number
-          offsetY: -150
-        }
+        
       },
       series: [40, 30, 20, 10, 5, 10]
     });
