@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Einsatz von LP-Token"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Stornieren"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Ausstehende Bestätigung"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Bestätigen"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Erhalten"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "LP-Token abstecken"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Abstecken"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 17578,
+            "text": "Farm",
+            "user": {
+                "id": 14451708,
+                "username": "Billbo",
+                "fullName": "Billbo",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/4de66a01b70c788c2b544bf38c9b1380?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-12T13:27:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 9356,
+            "text": "Staking",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 24300,
+            "text": "Umtauschen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9512,
+            "text": "Dokumente",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 24302,
+            "text": "Abstimmen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9616,
+            "text": "Lotterie",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 24304,
+            "text": "Wallet freischalten",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 24306,
+            "text": "Ihr %asset% Guthaben",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 24308,
+            "text": "Gesamte %asset% Einzahlung",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9822,
+            "text": "GESPERRT",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 24310,
+            "text": "Harvest ausstehend",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9926,
+            "text": "Neue Belohnungen pro Block",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 24312,
+            "text": "Gesamtanzahl an CAKE seit dem Start",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 24314,
+            "text": "Siehe Kitchen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10082,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10134,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10186,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10238,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 16506,
+            "text": "Einzahlung",
+            "user": {
+                "id": 14451708,
+                "username": "Billbo",
+                "fullName": "Billbo",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/4de66a01b70c788c2b544bf38c9b1380?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T14:02:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 10342,
+            "text": "Verdienen",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 24316,
+            "text": "Setzen Sie LP-Token ein, um CAKE zu sammeln",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 24322,
+            "text": "Sie k\u00f6nnen jederzeit zur\u00fccktauschen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 24324,
+            "text": "%asset% Verdient",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 24326,
+            "text": "Eingesetzte Token",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 24328,
+            "text": "Jedes Mal, wenn Sie CAKE-Token einsetzen bzw. den Einsatz aufheben, bringt Ihnen der Contract automatisch CAKE-Belohnungen ein!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 24334,
+            "text": "Verdiente XVS-Tokens",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 24338,
+            "text": "Die Belohnungen werden pro Block berechnet und die Gesamtbelohnungen werden automatisch am Ende der Farming-Periode des jeweiligen Projekts verteilt.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11118,
+            "text": "Pool",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 24340,
+            "text": "Demn\u00e4chst verf\u00fcgbar",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11222,
+            "text": "APY",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 24342,
+            "text": "Gesamtliquidit\u00e4t",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 24344,
+            "text": "In BscScan anzeigen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 24346,
+            "text": "Preis von Cake",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 24348,
+            "text": "%asset% Verdiente Token",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 24350,
+            "text": "%num% Bl\u00f6cke bis zum Ende des Farmings",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 24354,
+            "text": "Demn\u00e4chst verf\u00fcgbar ...",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 16518,
+            "text": "Ihr Einsatz",
+            "user": {
+                "id": 14451708,
+                "username": "Billbo",
+                "fullName": "Billbo",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/4de66a01b70c788c2b544bf38c9b1380?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T14:03:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 24356,
+            "text": "Farming beginnt in %num% Bl\u00f6cken",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 24358,
+            "text": "Abgeschlossen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 24360,
+            "text": "Farming endet in %num% Bl\u00f6cken",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 24362,
+            "text": "Projektseite",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 24372,
+            "text": "Die Belohnungen werden pro Block berechnet.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 24374,
+            "text": "Gesamt",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 24376,
+            "text": "Ende",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 24378,
+            "text": "Projektseite ansehen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 24380,
+            "text": "Ihr Projekt?",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 24382,
+            "text": "Erstellen Sie einen Pool f\u00fcr Ihren Token",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 24384,
+            "text": "Jetzt bewerben",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 24386,
+            "text": "Runde 1: KAUFEN",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 24390,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 24392,
+            "text": "Kaufen Sie mit CAKE Tickets, und tragen Sie damit zum Pool der Verlosung bei. Der Loskauf endet ca. 30 Minuten vor der Verlosung. Gewinnen Sie Preise, wenn 2, 3 oder 4 Ihrer Ticketzahlen mit den Gewinnzahlen und deren Positionen \u00fcbereinstimmen! Viel Gl\u00fcck!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 24394,
+            "text": "Ihre gesamten Tickets f\u00fcr diese Runde",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 24396,
+            "text": "Ticket kaufen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 24398,
+            "text": "Ihre Tickets anzeigen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 24400,
+            "text": "Ungef\u00e4hr verbleibende Zeit, um Tickets zu kaufen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 24404,
+            "text": "Schlie\u00dfen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 24406,
+            "text": "Letzte Gewinnzahlen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 24408,
+            "text": "Tickets mit 4 gleichen Zahlen:",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 24410,
+            "text": "Tickets mit 3 gleichen Zahlen:",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 24412,
+            "text": "Tickets mit 2 gleichen Zahlen:",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 24414,
+            "text": "Aktuelle Gewinnzahlen exportieren",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 24416,
+            "text": "Anzahl der zu kaufenden Tickets eingeben",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 24418,
+            "text": "Max.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 24420,
+            "text": "%num% CAKE verf\u00fcgbar",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 24422,
+            "text": "Ihr Betrag muss ein Vielfaches von 10 CAKE sein",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 24424,
+            "text": "1 Ticket = 10 CAKE",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 24426,
+            "text": "Sie geben folgende Menge aus: %num% CAKE",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 24428,
+            "text": "Abbrechen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 24430,
+            "text": "Best\u00e4tigen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 24432,
+            "text": "Warnhinweis",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 24434,
+            "text": "Der Kauf von Tickets zur Verlosung ist endg\u00fcltig.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 24436,
+            "text": "Ihre CAKE werden nicht zur\u00fcckgegeben, nachdem Sie sie f\u00fcr den Kauf von Tickets ausgegeben haben.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 24438,
+            "text": "Die Tickets sind nur f\u00fcr eine Verlosung g\u00fcltig und werden nach der Verlosung verbrannt.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 24440,
+            "text": "Der Kauf von Tickets garantiert keine Gewinne. Bitte nehmen Sie nur teil, wenn Sie die Risiken verstehen.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 24442,
+            "text": "Ich verstehe",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 24444,
+            "text": "Ticketk\u00e4ufe sind endg\u00fcltig. Ihre CAKE k\u00f6nnen nach dem Kauf von Tickets nicht zur\u00fcckgegeben werden.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 24446,
+            "text": "Preise beanspruchen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 24448,
+            "text": "Verf\u00fcgbare CAKE-Preise",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 24450,
+            "text": "Runde 2: BEANSPRUCHEN",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 24370,
+            "text": "Sie k\u00f6nnen den Einsatz jederzeit aufheben.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 24452,
+            "text": "Best\u00e4tigung ausstehend",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 24402,
+            "text": "Meine Tickets (Gesamt: %TICKETS%)",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 24454,
+            "text": "Ungef\u00e4hre Zeit bis zum Start der n\u00e4chsten Verlosung",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 24456,
+            "text": "CAKE genehmigen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 24458,
+            "text": "IFO: Intitial Farm Offerings",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 24460,
+            "text": "Kaufen Sie neue Tokens mit einem brandneuen Token-Verkaufsmodell.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 24462,
+            "text": "Sie werden f\u00fcr die neuen Tokens mit CAKE-BNB LP-Tokens bezahlen. Das bedeutet, dass Sie gleiche Mengen an CAKE und BNB in einem Liquidit\u00e4tspool einsetzen m\u00fcssen, um teilzunehmen.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 24464,
+            "text": "CAKE-BNB LP kaufen >",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 24466,
+            "text": "Das Projekt erzielt BNB, PancakeSwap vernichtet CAKE.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 24468,
+            "text": "Sie erhalten die Tokens.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 24470,
+            "text": "M\u00f6chten Sie Ihr eigenes IFO starten?",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 24472,
+            "text": "Starten Sie Ihr Projekt mit PancakeSwap, dem meistgenutzten AMM-Projekt und Liquidit\u00e4tsanbieter von Binance Smart Chain, um Ihren Token direkt in die aktivste und schnell wachsende Community in der BSC zu bringen.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 24474,
+            "text": "Zum Start anmelden",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 24478,
+            "text": "Community",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 24480,
+            "text": "Kern",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 24482,
+            "text": "Verf\u00fcgbar",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 24484,
+            "text": "Mein Wallet",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 24486,
+            "text": "Abmelden",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 24488,
+            "text": "Alle auszahlen (%count%)",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 24490,
+            "text": "Cake-Statistiken",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 24492,
+            "text": "Gesamtanzahl eingezahlter CAKE",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 24494,
+            "text": "Gesamtanzahl vernichteter CAKE",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 24496,
+            "text": "Neuer CAKE\/Block",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 24498,
+            "text": "Farms und Einsetzen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 24500,
+            "text": "CAKE zum Auszahlen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 24502,
+            "text": "CAKE im Wallet",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 24504,
+            "text": "CAKE sammeln",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 24506,
+            "text": "Ihre Verlosungsgewinne",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 24508,
+            "text": "CAKE zum Sammeln",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 24510,
+            "text": "Gesamt-Jackpot in dieser Runde",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 24512,
+            "text": "Gewinne sammeln",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 24514,
+            "text": "Tickets kaufen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 24516,
+            "text": "Harvest",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 24518,
+            "text": "Genehmigen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 24522,
+            "text": "W\u00e4hlen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 24524,
+            "text": "Gewinnzahlen dieser Runde",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 24526,
+            "text": "Einsatz-Pool",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 24528,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 24530,
+            "text": "Die Nr. 1 AMM und Yield Farm in der Binance Smart Chain.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 24532,
+            "text": "Setzen Sie CAKE ein, um neue Token zu verdienen.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 24534,
+            "text": "Startzeit",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 24536,
+            "text": "Zu verkaufen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 24538,
+            "text": "CAKE zum Verbrennen (USD)",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 24540,
+            "text": "Einsatz aufheben",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 24542,
+            "text": "Jedes Mal, wenn Sie LP-Tokens einsetzen bzw. den Einsatz aufheben, bringt Ihnen der Contract automatisch CAKE-Belohnungen ein!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 24544,
+            "text": "Wie man teilnimmt",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 24546,
+            "text": "Vor dem Verkauf",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 24548,
+            "text": "CAKE- und BNB-Tokens kaufen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 24550,
+            "text": "Erhalten Sie CAKE-BNB LP-Token, indem Sie CAKE- und BNB-Liquidit\u00e4t hinzuf\u00fcgen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 24552,
+            "text": "W\u00e4hrend des Verkaufs",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 24554,
+            "text": "W\u00e4hrend der Verkauf stattfindet, kaufen Sie mit Ihren CAKE-LP-Tokens IFO-Tokens",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 24556,
+            "text": "Nach dem Verkauf",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 24558,
+            "text": "Beanspruchen Sie die von Ihnen gekauften Token zusammen mit nicht ausgegebenen Mitteln.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 24560,
+            "text": "Fertig!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 24562,
+            "text": "Erfahren Sie mehr",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 24564,
+            "text": "Verbinden",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 24566,
+            "text": "Tauschen Sie sie gegen CAKE, oder behalten Sie sie f\u00fcr Ihre Sammlung!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 24568,
+            "text": "Registrieren Sie Ihr Interesse am Gewinn eines NFTs unten.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 24570,
+            "text": "Registrieren Sie sich f\u00fcr eine Chance zu gewinnen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 24572,
+            "text": "Erfahren Sie mehr",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 24574,
+            "text": "Handel mit NFT",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 24576,
+            "text": "Handel mit",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 24578,
+            "text": "Sie erhalten",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 24580,
+            "text": "Wenn Sie diesen NFT eintauschen, um CAKE zu erhalten, verlieren Sie den Zugriff darauf - f\u00fcr immer!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 24582,
+            "text": "NFT beanspruchen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 24584,
+            "text": "Wie es funktioniert",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 24586,
+            "text": "Die Gewinner k\u00f6nnen auf dieser Seite einen NFT beantragen, sobald der Zeitraum f\u00fcr die Beantragung beginnt.",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 24588,
+            "text": "Wenn Sie nicht ausgew\u00e4hlt werden, k\u00f6nnen Sie keinen Anspruch erheben. Mehr Gl\u00fcck beim n\u00e4chsten Mal!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 24590,
+            "text": "Die Gewinner k\u00f6nnen ihre NFTs bis zu dem unten angegebenen Verfallsdatum gegen einen CAKE-Wert eintauschen. Wenn Sie Ihr NFT bis dahin nicht eintauschen, keine Sorge: Sie behalten es trotzdem in Ihrem Wallet!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 24592,
+            "text": "Wie werden die Gewinner ausgew\u00e4hlt?",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 24594,
+            "text": "Die Gewinner werden nach dem Zufallsprinzip ausgew\u00e4hlt! Viel Gl\u00fcck!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 24596,
+            "text": "Wert beim Eintauschen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 24598,
+            "text": "Anzahl Pr\u00e4gungen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 24600,
+            "text": "Anzahl Verbrennungen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 24602,
+            "text": "Diesen NFT beanspruchen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 24604,
+            "text": "Umtausch gegen CAKE",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 24606,
+            "text": "Laden ...",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 24608,
+            "text": "Details",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 24610,
+            "text": "Sie haben gewonnen!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 24612,
+            "text": "Beanspruchen Sie einen NFT aus den unten stehenden Optionen!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 24614,
+            "text": "Kann gehandelt werden bis",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 24616,
+            "text": "Wallet getrennt",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 24618,
+            "text": "Verbinden Sie es, um zu sehen, ob Sie einen NFT gewonnen haben!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 24620,
+            "text": "Startseite",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 24622,
+            "text": "Handel",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 24624,
+            "text": "Farms",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Nur abgesteckt"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 24626,
+            "text": "Pools",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 24628,
+            "text": "NFT",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 24630,
+            "text": "Info",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 24632,
+            "text": "IFO",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 24634,
+            "text": "Mehr",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 24636,
+            "text": "Liquidit\u00e4t",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 24638,
+            "text": "\u00dcbersicht",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 24640,
+            "text": "Token",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 24642,
+            "text": "Paare",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 24644,
+            "text": "Konten",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 24646,
+            "text": "Setzen Sie LP-Token ein, um CAKE zu verdienen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 24648,
+            "text": "Aktiv",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 24650,
+            "text": "Inaktiv",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 24652,
+            "text": "Dual",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 24654,
+            "text": "Aufzinsung",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 24656,
+            "text": "Einsatz von %asset% aufheben",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 24658,
+            "text": "Die CAKE-Verlosung",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 24660,
+            "text": "Tickets kaufen mit CAKE",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 24662,
+            "text": "Gewinnen Sie, wenn 2, 3 oder 4 Ihrer Ticketzahlen \u00fcbereinstimmen!",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 24666,
+            "text": "N\u00e4chste Verlosung",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 24668,
+            "text": "Vergangene Verlosungen",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 24670,
+            "text": "Runde %num%",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 24672,
+            "text": "Gesamt-Jackpot",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 24674,
+            "text": "Ihre Tickets f\u00fcr diese Runde",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 24676,
+            "text": "Es tut uns leid, es gibt keine Preise",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 24678,
+            "text": "In Wallet",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 24680,
+            "text": "Laden ...",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 24682,
+            "text": "N\u00e4chste IFO",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 24684,
+            "text": "Fr\u00fchere IFOs",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Setzen Sie LP-Token ein, um FAST zu verdienen"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 24686,
+            "text": "Effektiver Jahreszins",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Gesamtliquidität"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 24298,
+            "text": "Syrup-Pool",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Abgesteckt"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 24664,
+            "text": "%time% Bis zur Verlosung",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Vertrag genehmigen"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 24688,
+            "text": "W\u00e4hlen Sie die Verlosungszahl:",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Verdient"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 24690,
+            "text": "Suche",
+            "user": {
+                "id": 13755775,
+                "username": "markusmeuter",
+                "fullName": "markusmeuter",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/7cf931e0ee03e137a119bad94f8edd45?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-01T18:07:45+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Cổ phần mã thông báo LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Huỷ bỏ"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Chờ xác nhận"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Xác nhận"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Được"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Hủy bỏ mã thông báo LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Không bắt đầu"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 34594,
+            "text": "Trang tr\u1ea1i",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T17:35:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 9386,
+            "text": "\u0110\u1eb7t c\u1ecdc",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9490,
+            "text": "Giao d\u1ecbch",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 21252,
+            "text": "T\u00e0i li\u1ec7u",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:37:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9594,
+            "text": "B\u1ecf phi\u1ebfu",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9646,
+            "text": "X\u1ed5 s\u1ed1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 9698,
+            "text": "M\u1edf kh\u00f3a v\u00ed",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 9748,
+            "text": "S\u1ed1 d\u01b0 %asset% c\u1ee7a b\u1ea1n",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 36108,
+            "text": "T\u1ed5ng ngu\u1ed3n c\u1ea5p %asset%",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:16:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9852,
+            "text": "\u0110\u00c3 KHO\u00c1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 9904,
+            "text": "\u0110ang ch\u1edd thu ho\u1ea1ch",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9956,
+            "text": "Ph\u1ea7n th\u01b0\u1edfng m\u1ed7i kh\u1ed1i",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 36110,
+            "text": "T\u1ed5ng s\u1ed1 CAKE \u0111\u00e3 \u0111\u1ed1t t\u1eeb khi tri\u1ec3n khai",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:17:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 10060,
+            "text": "Xem B\u1ebfp \u0103n",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10112,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10164,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10216,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10268,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 10320,
+            "text": "N\u1ea1p ti\u1ec1n",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 10372,
+            "text": "Ki\u1ebfm ti\u1ec1n",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 10424,
+            "text": "\u0110\u1eb7t c\u1ecdc \u0111\u1ed3ng ti\u1ec1n FLIP \u0111\u1ec3 nh\u1eadn CAKE",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 10630,
+            "text": "Ba\u0323n co\u0301 th\u00ea\u0309 hoa\u0301n \u0111\u00f4\u0309i b\u00e2\u0301t ky\u0300 lu\u0301c na\u0300o",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 10680,
+            "text": "Nh\u1eadn \u0111\u01b0\u1ee3c %asset%",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 34596,
+            "text": "Token \u0111a\u0303 \u0111\u0103\u0323t co\u0323c",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T17:35:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 10784,
+            "text": "B\u1ea5t c\u1ee9 khi n\u00e0o b\u1ea1n \u0111\u1eb7t c\u1ecdc ho\u1eb7c h\u1ee7y \u0111\u1eb7t c\u1ecdc CAKE, h\u1ee3p \u0111\u1ed3ng th\u00f4ng minh s\u1ebd t\u1ef1 \u0111\u1ed9ng thu ho\u1ea1ch ph\u1ea7n th\u01b0\u1edfng CAKE cho b\u1ea1n!",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 10992,
+            "text": "S\u1ed1 XVS \u0111\u00e3 ki\u1ebfm \u0111\u01b0\u1ee3c",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 34590,
+            "text": "C\u00e1c ph\u1ea7n th\u01b0\u1edfng s\u1ebd \u0111\u01b0\u1ee3c t\u00ednh to\u00e1n cho m\u1ed7i kh\u1ed1i v\u00e0 t\u1ed5ng ph\u1ea7n th\u01b0\u1edfng s\u1ebd \u0111\u01b0\u1ee3c ph\u00e2n b\u1ed5 t\u1ef1 \u0111\u1ed9ng khi k\u1ebft th\u00fac th\u1eddi h\u1ea1n canh t\u00e1c.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T17:35:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 21266,
+            "text": "Nh\u00f3m",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:46:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11200,
+            "text": "S\u1eafp ra m\u1eaft",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 21270,
+            "text": "L\u00e3i",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:48:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11302,
+            "text": "T\u1ed5ng thanh kho\u1ea3n",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 21272,
+            "text": "Xem tr\u00ean BSC",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:49:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11402,
+            "text": "Gi\u00e1 Cake",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 21274,
+            "text": "\u0110\u00e3 ki\u1ebfm \u0111\u01b0\u1ee3c %asset%",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:51:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 36074,
+            "text": "Qu\u00e1 tr\u00ecnh canh t\u00e1c s\u1ebd k\u1ebft th\u00fac sau %num% kh\u1ed1i",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:04:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 14320,
+            "text": "S\u1eafp ra m\u1eaft...",
+            "user": {
+                "id": 14439034,
+                "username": "vo.viethan",
+                "fullName": "Vi\u1ec7t H\u1ea3n V\u00f5",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439034\/medium\/0d9f98508094c9b212edcf8407c047f5.jpg"
+            },
+            "createdAt": "2020-10-11T10:42:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 36076,
+            "text": "\u0110\u1eb7t c\u1ecdc c\u1ee7a b\u1ea1n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:04:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 21282,
+            "text": "Canh t\u00e1c di\u1ec5n ra trong %num% kh\u1ed1i",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:55:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 21284,
+            "text": "K\u1ebft th\u00fac",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:56:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 21286,
+            "text": "Canh t\u00e1c s\u1ebd k\u1ebft th\u00fac trong %num% kh\u1ed1i",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:57:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 14560,
+            "text": "Trang d\u1ef1 \u00e1n",
+            "user": {
+                "id": 14439034,
+                "username": "vo.viethan",
+                "fullName": "Vi\u1ec7t H\u1ea3n V\u00f5",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439034\/medium\/0d9f98508094c9b212edcf8407c047f5.jpg"
+            },
+            "createdAt": "2020-10-11T10:49:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 21144,
+            "text": "Ph\u1ea7n th\u01b0\u1edfng \u0111\u01b0\u1ee3c t\u00ednh cho t\u1eebng kh\u1ed1i.",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:34:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 21146,
+            "text": "T\u1ed5ng s\u1ed1",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:34:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 21148,
+            "text": "Cu\u1ed1i c\u00f9ng",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:35:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 21150,
+            "text": "Xem website d\u1ef1 \u00e1n",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:36:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 21152,
+            "text": "D\u1ef1 \u00e1n n\u00e0o s\u1ebd \u1edf \u0111\u00e2y? \ud83d\udc40",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:37:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 36082,
+            "text": "T\u1ea1o nh\u00f3m cho token c\u1ee7a b\u1ea1n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:05:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 21158,
+            "text": "\u0110\u0103ng k\u00fd ngay",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:40:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 21162,
+            "text": "V\u00f2ng 1: MUA V\u00c9 S\u1ed0",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:42:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 21166,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:43:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 47114,
+            "text": "D\u00e0nh CAKE \u0111\u1ec3 mua v\u00e9 s\u1ed1, \u0111\u00f3ng g\u00f3p v\u00e0o gi\u1ea3i th\u01b0\u1edfng. Th\u1eddi gian mua v\u00e9 k\u1ebft th\u00fac kho\u1ea3ng 30 ph\u00fat tr\u01b0\u1edbc khi quay th\u01b0\u1edfng. Ng\u01b0\u1eddi ch\u01a1i gi\u00e0nh gi\u1ea3i th\u01b0\u1edfng n\u1ebfu c\u00f3 2, 3 ho\u1eb7c 4 s\u1ed1 tr\u00ean v\u00e9 kh\u1edbp v\u1edbi c\u00e1c s\u1ed1 tr\u00fang th\u01b0\u1edfng v\u00e0 \u1edf \u0111\u00fang v\u1ecb tr\u00ed c\u1ee7a ch\u00fang! Ch\u00fac may m\u1eafn!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-14T10:06:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 21170,
+            "text": "T\u1ed5ng s\u1ed1 v\u00e9 c\u1ee7a b\u1ea1n \u1edf l\u01b0\u1ee3t quay n\u00e0y",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:48:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 21172,
+            "text": "Mua v\u00e9 s\u1ed1",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:48:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 21174,
+            "text": "Xem v\u00e9 s\u1ed1 c\u1ee7a b\u1ea1n",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:49:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 21176,
+            "text": "Th\u1eddi gian \u01b0\u1edbc t\u00ednh c\u00f2n l\u1ea1i \u0111\u1ec3 mua v\u00e9",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:52:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 21180,
+            "text": "\u0110\u00f3ng",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:52:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 21182,
+            "text": "D\u00e3y s\u1ed1 tr\u00fang th\u01b0\u1edfng m\u1edbi nh\u1ea5t",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:53:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 36112,
+            "text": "V\u00e9 tr\u00fang 4 s\u1ed1:",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:17:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 21186,
+            "text": "V\u00e9 tr\u00fang 3 s\u1ed1:",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:54:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 21188,
+            "text": "V\u00e9 tr\u00fang hai s\u1ed1:",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:54:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 21190,
+            "text": "Xu\u1ea5t danh s\u00e1ch c\u00e1c s\u1ed1 tr\u00fang th\u01b0\u1edfng",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:54:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 21192,
+            "text": "Nh\u1eadp s\u1ed1 l\u01b0\u1ee3ng v\u00e9 b\u1ea1n mu\u1ed1n mua",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:54:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 21194,
+            "text": "T\u1ed1i \u0111a",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:55:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 21196,
+            "text": "C\u00f3 %num% CAKE",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:56:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 21198,
+            "text": "S\u1ed1 CAKE c\u1ee7a b\u1ea1n ph\u1ea3i chia h\u1ebft cho 10",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:57:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 36114,
+            "text": "1 v\u00e9 = 10 CAKE",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:17:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 21202,
+            "text": "B\u1ea1n s\u1ebd tr\u1ea3: %num% CAKE",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:58:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 21204,
+            "text": "Hu\u1ef7",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:58:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 21206,
+            "text": "X\u00e1c nh\u1eadn",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:58:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 21208,
+            "text": "C\u1ea3nh b\u00e1o",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:58:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 21210,
+            "text": "V\u00e9 s\u1ed1 \u0111\u00e3 mua kh\u00f4ng ho\u00e0n l\u1ea1i \u0111\u01b0\u1ee3c.",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:59:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 21212,
+            "text": "CAKE b\u1ea1n d\u00f9ng mua v\u00e9 s\u1ed1 s\u1ebd kh\u00f4ng \u0111\u01b0\u1ee3c ho\u00e0n tr\u1ea3.",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:00:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 36116,
+            "text": "V\u00e9 s\u1ed1 ch\u1ec9 c\u00f3 gi\u00e1 tr\u1ecb cho m\u1ed9t l\u1ea7n quay th\u01b0\u1edfng v\u00e0 s\u1ebd \u0111\u01b0\u1ee3c \u0111\u1ed1t sau khi quay th\u01b0\u1edfng.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:18:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 21216,
+            "text": "Mua v\u00e9 s\u1ed1 kh\u00f4ng \u0111\u1ea3m b\u1ea3o b\u1ea1n s\u1ebd gi\u00e0nh gi\u1ea3i th\u01b0\u1edfng. Vui l\u00f2ng ch\u1ec9 tham gia khi b\u1ea1n hi\u1ec3u r\u00f5 c\u00e1c r\u1ee7i ro.",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:03:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 21218,
+            "text": "T\u00f4i hi\u1ec3u",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:03:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 21220,
+            "text": "CAKE d\u00f9ng \u0111\u1ec3 mua v\u00e9 s\u1ed1 s\u1ebd kh\u00f4ng \u0111\u01b0\u1ee3c ho\u00e0n tr\u1ea3 sau khi b\u1ea1n mua v\u00e9.",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:05:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 21222,
+            "text": "Nh\u1eadn gi\u1ea3i",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:05:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 21224,
+            "text": "S\u1ed1 CAKE nh\u1eadn \u0111\u01b0\u1ee3c",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:06:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 21226,
+            "text": "V\u00f2ng 2: NH\u1eacN GI\u1ea2I",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:06:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 36080,
+            "text": "B\u1ea1n c\u00f3 th\u1ec3 hu\u1ef7 \u0111\u1eb7t c\u1ecdc b\u1ea5t c\u1ee9 l\u00fac n\u00e0o.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:04:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 21228,
+            "text": "Ch\u1edd x\u00e1c nh\u1eadn",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:07:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 21178,
+            "text": "V\u00e9 s\u1ed1 (T\u1ed5ng s\u1ed1: %TICKETS%)",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T18:52:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 21230,
+            "text": "Th\u1eddi gian \u01b0\u1edbc t\u00ednh cho l\u01b0\u1ee3t ph\u00e1t h\u00e0nh x\u1ed5 s\u1ed1 ti\u1ebfp theo",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:07:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 21232,
+            "text": "Ph\u00ea duy\u1ec7t CAKE",
+            "user": {
+                "id": 13424259,
+                "username": "dungmt",
+                "fullName": "dungmt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/aab92a77fec1c3c0fdf3db4775603d1a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-30T19:08:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 27612,
+            "text": "IFO: Initial Farm Offerings (Ch\u00e0o b\u00e1n l\u1ea7n \u0111\u1ea7u qua n\u00f4ng tr\u1ea1i)",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:33:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 27616,
+            "text": "Mua token m\u1edbi v\u1edbi m\u00f4 h\u00ecnh b\u00e1n token ho\u00e0n to\u00e0n m\u1edbi.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:33:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 27620,
+            "text": "B\u1ea1n s\u1ebd tr\u1ea3 ti\u1ec1n cho token m\u1edbi b\u1eb1ng c\u00e1ch d\u00f9ng c\u00e1c token CAKE-BNB LP, ngh\u0129a l\u00e0 b\u1ea1n c\u1ea7n \u0111\u1eb7t c\u1ecdc s\u1ed1 l\u01b0\u1ee3ng CAKE v\u00e0 BNB t\u01b0\u01a1ng \u0111\u01b0\u01a1ng trong nh\u00f3m thanh kho\u1ea3n \u0111\u1ec3 tham gia v\u00e0o.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:34:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 27622,
+            "text": "Nh\u1eadn CAKE-BNB LP >",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:34:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 36118,
+            "text": "D\u1ef1 \u00e1n n\u00e0y nh\u1eadn BNB, PancakeSwap \u0111\u1ed1t CAKE.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:18:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 27628,
+            "text": "B\u1ea1n nh\u1eadn token.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:41:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 27632,
+            "text": "Mu\u1ed1n tri\u1ec3n khai IFO c\u1ee7a ri\u00eang m\u00ecnh?",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:42:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 27634,
+            "text": "Tri\u1ec3n khai d\u1ef1 \u00e1n c\u1ee7a b\u1ea1n v\u1edbi PancakeSwap, d\u1ef1 \u00e1n AMM v\u00e0 nh\u00e0 cung c\u1ea5p thanh kho\u1ea3n \u0111\u01b0\u1ee3c d\u00f9ng nhi\u1ec1u nh\u1ea5t c\u1ee7a Binance Smart Chain, nh\u1eb1m mang tr\u1ef1c ti\u1ebfp token c\u1ee7a b\u1ea1n \u0111\u1ebfn v\u1edbi c\u1ed9ng \u0111\u1ed3ng n\u0103ng \u0111\u1ed9ng nh\u1ea5t v\u00e0 \u0111ang ph\u00e1t tri\u1ec3n m\u1ea1nh tr\u00ean BSC.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:43:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 27636,
+            "text": "\u00c1p d\u1ee5ng \u0111\u1ec3 tri\u1ec3n khai",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:43:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 27672,
+            "text": "C\u1ed9ng \u0111\u1ed3ng",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T17:50:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 28678,
+            "text": "L\u00f5i",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:27:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 28680,
+            "text": "Kh\u1ea3 d\u1ee5ng",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:27:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 28682,
+            "text": "V\u00ed c\u1ee7a t\u00f4i",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:27:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 28684,
+            "text": "\u0110\u0103ng xu\u1ea5t",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:27:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 30196,
+            "text": "Thu ho\u1ea1ch t\u1ea5t c\u1ea3 (%count%)",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:05:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 30200,
+            "text": "Th\u1ed1ng k\u00ea Cake",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:06:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 30202,
+            "text": "T\u1ed5ng cung \u1ee9ng CAKE",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:06:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 30886,
+            "text": "T\u1ed5ng s\u1ed1 CAKE \u0111\u00e3 \u0111\u1ed1t",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:53:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 30890,
+            "text": "CAKE\/kh\u1ed1i m\u1edbi",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:53:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 30956,
+            "text": "Trang tr\u1ea1i & \u0111\u1eb7t c\u1ecdc",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:57:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 30960,
+            "text": "CAKE c\u1ea7n thu ho\u1ea1ch",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:57:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 30966,
+            "text": "CAKE trong V\u00ed",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:57:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 30968,
+            "text": "Thu th\u1eadp CAKE",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:58:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 36084,
+            "text": "Kho\u1ea3n th\u1eafng x\u1ed5 s\u1ed1 c\u1ee7a b\u1ea1n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:06:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 30976,
+            "text": "CAKE c\u1ea7n thu th\u1eadp",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:58:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 30980,
+            "text": "T\u1ed5ng s\u1ed1 \u0111\u1ed9c \u0111\u1eafc v\u00f2ng n\u00e0y",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:58:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 30982,
+            "text": "Thu th\u1eadp kho\u1ea3n th\u1eafng",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:58:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 30988,
+            "text": "Mua v\u00e9 s\u1ed1",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:58:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 30990,
+            "text": "Thu ho\u1ea1ch",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:58:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 30992,
+            "text": "Ph\u00ea duy\u1ec7t",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:58:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 30996,
+            "text": "Ch\u1ecdn",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:59:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 31000,
+            "text": "C\u00e1c con s\u1ed1 th\u1eafng v\u00f2ng n\u00e0y",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:59:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 31006,
+            "text": "Nh\u00f3m \u0111\u1eb7t c\u1ecdc",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:59:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 31146,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:09:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 31164,
+            "text": "AMM v\u00e1 trang tr\u1ea1i n\u0103ng su\u1ea5t s\u1ed1 1 tr\u00ean Binance Smart Chain.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:10:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 31194,
+            "text": "\u0110\u1eb7t c\u1ecdc CAKE \u0111\u1ec3 ki\u1ebfm token m\u1edbi.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:11:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 31198,
+            "text": "Th\u1eddi \u0111i\u1ec3m tri\u1ec3n khai",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:11:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 31200,
+            "text": "\u0110\u01b0\u1ee3c b\u00e1n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:11:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 31202,
+            "text": "CAKE c\u1ea7n \u0111\u1ed1t (USD)",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:11:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 31204,
+            "text": "Hu\u1ef7 \u0111\u1eb7t c\u1ecdc",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:11:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 31210,
+            "text": "\u2b50\ufe0f M\u1ed7i l\u1ea7n b\u1ea1n \u0111\u1eb7t c\u1ecdc ho\u1eb7c hu\u1ef7 \u0111\u1eb7t c\u1ecdc token LP, h\u1ee3p \u0111\u1ed3ng s\u1ebd t\u1ef1 \u0111\u1ed9ng thu ho\u1ea1ch ph\u1ea7n th\u01b0\u1edfng CAKE cho b\u1ea1n!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:12:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 31214,
+            "text": "C\u00e1ch tham gia",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:12:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 31216,
+            "text": "Tr\u01b0\u1edbc khi b\u00e1n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:12:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 31220,
+            "text": "Mua token CAKE v\u00e0 BNB",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:12:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 31226,
+            "text": "Nh\u1eadn token CAKE-BNB LP b\u1eb1ng c\u00e1ch th\u00eam v\u00e0o thanh kho\u1ea3n CAKE v\u00e0 BNB",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:12:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 31896,
+            "text": "Trong th\u1eddi gian b\u00e1n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:37:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 31900,
+            "text": "Trong l\u00fac giai \u0111o\u1ea1n b\u00e1n \u0111\u01b0\u1ee3c l\u00ean s\u00f3ng, h\u00e3y g\u00e1n token CAKE-LP c\u1ee7a b\u1ea1n \u0111\u1ec3 mua token IFO",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:38:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 33608,
+            "text": "Sau \u0111\u1ee3t b\u00e1n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:54:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 33612,
+            "text": "L\u1ea5y nh\u1eefng token b\u1ea1n \u0111\u00e3 mua, c\u00f9ng v\u1edbi b\u1ea5t k\u00ec kho\u1ea3n ti\u1ec1n ch\u01b0a chi ti\u00eau n\u00e0o.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:54:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 33614,
+            "text": "Xong!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:54:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 33616,
+            "text": "\u0110\u1ecdc th\u00eam",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:54:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 33618,
+            "text": "K\u1ebft n\u1ed1i",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:54:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 33654,
+            "text": "Giao d\u1ecbch \u0111\u1ed5i l\u1ea5y CAKE, ho\u1eb7c gi\u1eef cho kho\u1ea3n thu th\u1eadp c\u1ee7a b\u1ea1n!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:59:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 33658,
+            "text": "\u0110\u0103ng k\u00ed cho bi\u1ebft b\u1ea1n quan t\u00e2m vi\u1ec7c th\u1eafng \u0111\u01b0\u1ee3c m\u1ed9t NFT b\u00ean d\u01b0\u1edbi.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 33662,
+            "text": "\u0110\u0103ng k\u00ed \u0111\u1ec3 c\u00f3 c\u01a1 h\u1ed9i th\u1eafng",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 33668,
+            "text": "T\u00ecm hi\u1ec3u th\u00eam",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 33670,
+            "text": "Giao d\u1ecbch NFT",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 33672,
+            "text": "Giao d\u1ecbch",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 33674,
+            "text": "B\u1ea1n s\u1ebd nh\u1eadn",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 33812,
+            "text": "Khi b\u1ea1n giao d\u1ecbch NFT n\u00e0y \u0111\u1ec3 nh\u1eadn l\u1ea5y CAKE, b\u1ea1n s\u1ebd m\u1ea5t quy\u1ec1n truy c\u1eadp n\u00f3 v\u0129nh vi\u1ec5n!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:17:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 33814,
+            "text": "L\u1ea5y NFT",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:17:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 33818,
+            "text": "C\u00e1ch th\u1ee9c ho\u1ea1t \u0111\u1ed9ng",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:17:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 33828,
+            "text": "Ng\u01b0\u1eddi th\u1eafng s\u1ebd c\u00f3 th\u1ec3 l\u1ea5y m\u1ed9t NFT tr\u00ean trang n\u00e0y sau khi b\u1eaft \u0111\u1ea7u th\u1eddi h\u1ea1n nh\u1eadn l\u1ea5y.",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:18:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 33832,
+            "text": "N\u1ebfu b\u1ea1n kh\u00f4ng \u0111\u01b0\u1ee3c ch\u1ecdn, b\u1ea1n s\u1ebd kh\u00f4ng th\u1ec3 nh\u1eadn l\u1ea5y. Ch\u00fac may m\u1eafn h\u01a1n l\u1ea7n sau!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:18:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 33836,
+            "text": "Ng\u01b0\u1eddi th\u1eafng c\u00f3 th\u1ec3 giao d\u1ecbch NFT c\u1ee7a h\u1ecd \u0111\u1ed5i l\u1ea5y m\u1ed9t gi\u00e1 tr\u1ecb CAKE cho \u0111\u1ebfn ng\u00e0y h\u1ebft h\u1ea1n \u0111\u01b0\u1ee3c ghi b\u00ean d\u01b0\u1edbi. N\u1ebfu t\u1edbi l\u00fac \u0111\u00f3 b\u1ea1n kh\u00f4ng giao d\u1ecbch NFT c\u1ee7a m\u00ecnh, \u0111\u1eebng lo: b\u1ea1n s\u1ebd v\u1eabn gi\u1eef \u0111\u01b0\u1ee3c n\u00f3 trong v\u00ed c\u1ee7a m\u00ecnh!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:19:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 33838,
+            "text": "Ng\u01b0\u1eddi th\u1eafng \u0111\u01b0\u1ee3c ch\u1ecdn nh\u01b0 th\u1ebf n\u00e0o?",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:19:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 33880,
+            "text": "Ng\u01b0\u1eddi th\u1eafng \u0111\u01b0\u1ee3c ch\u1ecdn ng\u1eabu nhi\u00ean! Ch\u00fac may m\u1eafn!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:22:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 33884,
+            "text": "Gi\u00e1 tr\u1ecb n\u1ebfu \u0111\u01b0\u1ee3c giao d\u1ecbch",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 33886,
+            "text": "S\u1ed1 \u0111\u01b0\u1ee3c \u0111\u1eb7t ra",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 33888,
+            "text": "S\u1ed1 \u0111\u01b0\u1ee3c \u0111\u1ed1t",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 33890,
+            "text": "Nh\u1eadn l\u1ea5y NFT n\u00e0y",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 33892,
+            "text": "Giao d\u1ecbch \u0111\u1ed5i l\u1ea5y CAKE",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 33894,
+            "text": "\u0110ang t\u1ea3i\u2026",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 33896,
+            "text": "Chi ti\u1ebft",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 33898,
+            "text": "B\u1ea1n \u0111\u00e3 th\u1eafng!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 33900,
+            "text": "Nh\u1eadn l\u1ea5y m\u1ed9t NFT t\u1eeb c\u00e1c tu\u1ef3 ch\u1ecdn b\u00ean d\u01b0\u1edbi!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 33902,
+            "text": "C\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c giao d\u1ecbch cho \u0111\u1ebfn",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 33904,
+            "text": "V\u00ed b\u1ecb ng\u1eaft k\u1ebft n\u1ed1i",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 33906,
+            "text": "K\u1ebft n\u1ed1i \u0111\u1ec3 xem li\u1ec7u b\u1ea1n c\u00f3 th\u1eafng m\u1ed9t NFT hay kh\u00f4ng!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 33908,
+            "text": "Trang ch\u1ee7",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 33912,
+            "text": "Giao d\u1ecbch",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 33914,
+            "text": "Trang tr\u1ea1i",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Chỉ đặt cọc"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 33916,
+            "text": "Nh\u00f3m",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 33918,
+            "text": "NFT",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 33920,
+            "text": "Th\u00f4ng tin",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 33924,
+            "text": "IFO",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:24:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 33928,
+            "text": "Kh\u00e1c",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 33930,
+            "text": "Thanh kho\u1ea3n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 33932,
+            "text": "T\u1ed5ng quan",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 33934,
+            "text": "Token",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 33936,
+            "text": "C\u00e1c c\u1eb7p",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 33940,
+            "text": "T\u00e0i kho\u1ea3n",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 33942,
+            "text": "\u0110\u1eb7t c\u1ecdc token LP \u0111\u1ec3 ki\u1ebfm CAKE",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 33944,
+            "text": "Ho\u1ea1t \u0111\u1ed9ng",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 33946,
+            "text": "Kh\u00f4ng ho\u1ea1t \u0111\u1ed9ng",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 33948,
+            "text": "K\u00e9p",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 34180,
+            "text": "Ph\u1ee9c h\u1ee3p",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:49:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 36128,
+            "text": "Hu\u1ef7 \u0111\u1eb7t c\u1ecdc %asset%",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:23:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 34184,
+            "text": "X\u1ed5 s\u1ed1 CAKE",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:49:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 34186,
+            "text": "Mua v\u00e9 s\u1ed1 v\u1edbi CAKE",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:49:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 36092,
+            "text": "Th\u1eafng n\u1ebfu c\u00f3 2, 3 ho\u1eb7c 4 s\u1ed1 tr\u00ean v\u00e9 kh\u1edbp v\u1edbi c\u00e1c s\u1ed1 tr\u00fang th\u01b0\u1edfng!",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:13:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 34238,
+            "text": "\u0110\u1ee3t x\u1ed5 ti\u1ebfp theo",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:57:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 34240,
+            "text": "\u0110\u1ee3t x\u1ed5 tr\u01b0\u1edbc \u0111\u00f3",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:58:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 34242,
+            "text": "V\u00f2ng %num%",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:58:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 36030,
+            "text": "T\u1ed5ng ti\u1ec1n th\u01b0\u1edfng",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T06:39:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 34246,
+            "text": "C\u00e1c v\u00e9 c\u1ee7a b\u1ea1n cho v\u00f2ng n\u00e0y",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:58:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 34248,
+            "text": "R\u1ea5t ti\u1ebfc, kh\u00f4ng c\u00f3 gi\u1ea3i \u0111\u1ec3 thu th\u1eadp",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:59:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 34250,
+            "text": "Trong V\u00ed",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:59:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 33680,
+            "text": "\u0110ang t\u1ea3i...",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 33682,
+            "text": "IFO ti\u1ebfp theo",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 33686,
+            "text": "IFO tr\u01b0\u1edbc \u0111\u00f3",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Đặt mã thông báo LP để kiếm FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 33688,
+            "text": "APR",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:00:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Tổng thanh khoản"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 27606,
+            "text": "Nh\u00f3m Sryup",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T16:28:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Đặt cọc"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 34236,
+            "text": "%time% cho \u0111\u1ebfn l\u00fac x\u1ed5 s\u1ed1",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:57:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Phê duyệt hợp đồng"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 33690,
+            "text": "Ch\u1ecdn s\u1ed1 cho ph\u1ea7n x\u1ed5 s\u1ed1:",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:01:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Kiếm được"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 34614,
+            "text": "T\u00ecm ki\u1ebfm",
+            "user": {
+                "id": 13034531,
+                "username": "duydoan3874",
+                "fullName": "duydoan3874",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b1fe8244be3a31900ba6b1545128721?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T17:37:23+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Scommetti gettoni LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Annulla"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "In attesa di conferma"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Confermare"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Ottenere"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Rimuovi token LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Rimuovi"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 9312,
+            "text": "Farm",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 9364,
+            "text": "Staking",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9468,
+            "text": "Exchange",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9520,
+            "text": "Documenti",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9572,
+            "text": "Votazione",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9624,
+            "text": "Lotteria",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 29580,
+            "text": "Sblocca wallet",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T08:30:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 9726,
+            "text": "Il tuo saldo di %asset%",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 29584,
+            "text": "Fornitura totale di %asset%",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T08:31:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9830,
+            "text": "BLOCCATO",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 29588,
+            "text": "Raccolta in sospeso",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T08:31:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9934,
+            "text": "Nuove ricompense per blocco",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 9986,
+            "text": "CAKE totali bruciati dal lancio",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 13868,
+            "text": "Visita la Cucina",
+            "user": {
+                "id": 14451668,
+                "username": "Gabrigabri",
+                "fullName": "Gabriele",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451668\/medium\/bc4bc0c3497337cb43884554fd7d2904.jpg"
+            },
+            "createdAt": "2020-10-11T10:28:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10090,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10142,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10194,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10246,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 13914,
+            "text": "Deposita",
+            "user": {
+                "id": 14451668,
+                "username": "Gabrigabri",
+                "fullName": "Gabriele",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451668\/medium\/bc4bc0c3497337cb43884554fd7d2904.jpg"
+            },
+            "createdAt": "2020-10-11T10:30:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 31824,
+            "text": "Guadagno",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T12:20:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 31830,
+            "text": "Metti in stake i token LP per accumulare CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T12:21:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 29730,
+            "text": "Puoi effettuare lo swap inverso in ogni momento",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:10:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 10658,
+            "text": "%asset% guadagnati",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 13968,
+            "text": "Token in stake",
+            "user": {
+                "id": 14451668,
+                "username": "Gabrigabri",
+                "fullName": "Gabriele",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451668\/medium\/bc4bc0c3497337cb43884554fd7d2904.jpg"
+            },
+            "createdAt": "2020-10-11T10:32:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 29964,
+            "text": "Ogni volta che aggiungi o togli dallo stake dei token CAKE, il contratto raccoglier\u00e0 automaticamente le ricompense CAKE per te!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:32:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 10970,
+            "text": "Token XVS guadagnati",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 11074,
+            "text": "Le ricompense verranno calcolate per blocco e le ricompense totali verranno distribuite automaticamente alla fine del periodo di farming di ogni progetto.",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11126,
+            "text": "Pool",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11178,
+            "text": "Prossimamente",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11230,
+            "text": "APY",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 29798,
+            "text": "Liquidit\u00e0 totale",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:21:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 11330,
+            "text": "Guarda su BscScan",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11380,
+            "text": "Prezzo Cake",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 15328,
+            "text": "Token %asset% guadagnati",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T11:20:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 11480,
+            "text": "%num% blocchi alla fine del farming",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 13996,
+            "text": "Prossimamente...",
+            "user": {
+                "id": 14451760,
+                "username": "czofa72",
+                "fullName": "Ubiq Land",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451760\/medium\/c42fd03412b428ddabc882a34c5ab24d.png"
+            },
+            "createdAt": "2020-10-11T10:33:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 14012,
+            "text": "Il tuo stake",
+            "user": {
+                "id": 14451760,
+                "username": "czofa72",
+                "fullName": "Ubiq Land",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451760\/medium\/c42fd03412b428ddabc882a34c5ab24d.png"
+            },
+            "createdAt": "2020-10-11T10:33:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 15338,
+            "text": "Il farming inizier\u00e0 tra %num% blocchi",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T11:22:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 14030,
+            "text": "Finito",
+            "user": {
+                "id": 14451760,
+                "username": "czofa72",
+                "fullName": "Ubiq Land",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451760\/medium\/c42fd03412b428ddabc882a34c5ab24d.png"
+            },
+            "createdAt": "2020-10-11T10:34:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 15344,
+            "text": "Il farming finir\u00e0 tra %num% blocchi",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T11:23:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 14066,
+            "text": "Il sito del progetto",
+            "user": {
+                "id": 14451760,
+                "username": "czofa72",
+                "fullName": "Ubiq Land",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451760\/medium\/c42fd03412b428ddabc882a34c5ab24d.png"
+            },
+            "createdAt": "2020-10-11T10:35:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 30018,
+            "text": "Le ricompense sono calcolate per blocco.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:41:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 19938,
+            "text": "Totale",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:16:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 19940,
+            "text": "Fine",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:16:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 19942,
+            "text": "Visita il sito del progetto",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:17:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 19944,
+            "text": "Il tuo progetto? \ud83d\udc40",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:17:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 30020,
+            "text": "Crea un pool per il tuo token",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:41:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 19948,
+            "text": "Richiedi ora",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:18:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 19950,
+            "text": "Round 1: ACQUISTA",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:18:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 19954,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:18:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 46588,
+            "text": "Spendi CAKE per acquistare i biglietti, contribuendo al montepremi della lotteria. L'acquisto dei biglietti termina circa 30 minuti prima della lotteria. Vinci un premio se 1, 2, 3 o 4 dei tuoi numeri sul biglietto corrispondono ai numeri vincenti e alla loro posizione! Buona fortuna!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-12T17:39:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 19958,
+            "text": "I tuoi biglietti totali per questo round",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:24:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 30028,
+            "text": "Acquista un biglietto",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:43:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 19962,
+            "text": "Visualizza i tuoi biglietti",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:25:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 30030,
+            "text": "Tempo approssimativo rimanente per acquistare biglietti",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:43:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 30032,
+            "text": "Chiudi",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:45:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 19970,
+            "text": "Gli ultimi numeri vincenti",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:26:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 19974,
+            "text": "Biglietti nei quali corrispondono 4 numeri:",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:28:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 19976,
+            "text": "Biglietti nei quali corrispondono 3 numeri:",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:28:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 19978,
+            "text": "Biglietti nei quali corrispondono 2 numeri:",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:28:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 19980,
+            "text": "Esporta i numeri vincenti recenti",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:29:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 19982,
+            "text": "Inserisci la quantit\u00e0 di biglietti da acquistare",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:29:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 19984,
+            "text": "Massimo",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:29:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 19986,
+            "text": "%num% CAKE disponibili",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:29:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 19988,
+            "text": "Il tuo importo deve essere un multiplo di 10 CAKE",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:30:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 30038,
+            "text": "1 biglietto = 10 CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:45:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 19992,
+            "text": "Spenderai: %num% CAKE",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:32:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 30040,
+            "text": "Annulla",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:46:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 19996,
+            "text": "Conferma",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:32:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 30044,
+            "text": "Attenzione",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:46:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 20000,
+            "text": "Gli acquisti dei biglietti della lotteria sono definitivi.",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:33:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 20002,
+            "text": "I tuoi CAKE non ti verranno restituiti dopo averli spesi per acquistare i biglietti.",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:34:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 20004,
+            "text": "I biglietti sono validi solo per un'estrazione della lotteria e saranno bruciati dopo l'estrazione.",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:34:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 20006,
+            "text": "L'acquisto dei biglietti non garantisce che si vinca qualcosa. Si prega di partecipare solo dopo aver compreso i rischi.",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:35:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 30046,
+            "text": "Ho capito",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:47:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 20010,
+            "text": "Gli acquisti dei biglietti sono definitivi. I tuoi CAKE non potranno essere restituiti dopo l'acquisto dei biglietti.",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:36:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 20014,
+            "text": "Richiedi i premi",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:38:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 20016,
+            "text": "I premi CAKE da richiedere",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T13:38:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 30050,
+            "text": "Round 2: RICHIESTA PREMI",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:47:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 31854,
+            "text": "Puoi toglierli dallo stake in qualsiasi momento.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T12:26:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 20716,
+            "text": "In attesa di conferma",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T13:10:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 20710,
+            "text": "I miei biglietti (Totale: %TICKETS%)",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T13:09:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 20726,
+            "text": "Tempo approssimativo prima dell'inizio della prossima lotteria",
+            "user": {
+                "id": 13754187,
+                "username": "Carla78",
+                "fullName": "Carla",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/901eb8a716094c37faefd124f79c3724?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T13:14:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 30052,
+            "text": "Approva CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:48:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 30056,
+            "text": "IFO: Offerte Iniziali di Farm",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:49:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 30060,
+            "text": "Acquista nuovi token con un modello di vendita token completamente nuovo.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:50:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 30070,
+            "text": "Pagherai i nuovi token usando i token CAKE-BNB LP, per cui per partecipare dovrai mettere in stake lo stesso importo di CAKE e BNB in un pool di liquidit\u00e0.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:51:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 30074,
+            "text": "Ricevi CAKE-BNB LP >",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:52:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 30084,
+            "text": "Il progetto riceve i BNB, mentre PancakeSwap brucia i CAKE.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:54:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 30086,
+            "text": "Tu ricevi token.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:55:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 30092,
+            "text": "Vuoi lanciare una tua IFO?",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:55:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 31870,
+            "text": "Lancia il tuo progetto con PancakeSwap, il principale progetto AMM e fornitore di liquidit\u00e0 di Binance Smart Chain, in grado di portare direttamente i tuoi token alla comunit\u00e0 pi\u00f9 attiva e in rapida crescita su BSC.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T12:31:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 30120,
+            "text": "Richiedi il lancio",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T09:59:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 30146,
+            "text": "Comunit\u00e0",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:01:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 30254,
+            "text": "Core",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:08:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 30264,
+            "text": "Disponibile",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:09:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 30294,
+            "text": "Il mio wallet",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:11:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 30308,
+            "text": "Esci",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:12:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 30342,
+            "text": "Raccogli tutto (%count%)",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:13:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 30346,
+            "text": "Statistiche Cake",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:13:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 31876,
+            "text": "Fornitura totale CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T12:32:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 30380,
+            "text": "CAKE totali bruciati",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:16:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 30386,
+            "text": "Nuovo CAKE\/blocco",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:16:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 30388,
+            "text": "Farm e staking",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:16:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 30394,
+            "text": "CAKE da raccogliere",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:17:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 30398,
+            "text": "CAKE in wallet",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:17:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 30400,
+            "text": "Collezione CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:17:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 30408,
+            "text": "Le tue vincite alla lotteria",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:18:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 30430,
+            "text": "CAKE da collezionare",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:19:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 30434,
+            "text": "Montepremi totale in questo round",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:19:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 30450,
+            "text": "Colleziona vincite",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:20:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 30456,
+            "text": "Acquista biglietti",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:20:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 30466,
+            "text": "Raccogli",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:22:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 30480,
+            "text": "Approva",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:22:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 30488,
+            "text": "Seleziona",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:23:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 30490,
+            "text": "Numeri vincenti in questo round",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:23:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 30508,
+            "text": "Pool di staking",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:25:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 30510,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:25:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 30536,
+            "text": "L'AMM e yield farm numero 1 su Binance Smart Chain.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:26:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 30542,
+            "text": "Metti in stake CAKE per guadagnare nuovi token.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:27:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 30552,
+            "text": "Orario di lancio",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:28:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 30554,
+            "text": "In vendita",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:28:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 30562,
+            "text": "CAKE da bruciare (USD)",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:28:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 30590,
+            "text": "Togli da stake",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:30:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 30588,
+            "text": "\u2b50\ufe0f Ogni volta che aggiungi o togli dallo stake dei token LP, il contratto raccoglier\u00e0 automaticamente le ricompense CAKE per te!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:30:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 30600,
+            "text": "Come partecipare",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:30:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 30610,
+            "text": "Prima della vendita",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:31:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 30612,
+            "text": "Acquista CAKE e token BNB",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:31:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 30624,
+            "text": "Ricevi token CAKE-BNB LP aggiungendo CAKE e liquidit\u00e0 BNB",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:32:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 30628,
+            "text": "Durante la vendita",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:32:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 30672,
+            "text": "Quando la vendita \u00e8 in corso, utilizza i tuoi token CAKE-LP per acquistare token IFO",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:33:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 30680,
+            "text": "Dopo la vendita",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:33:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 30694,
+            "text": "Richiedi i token che hai acquistato, assieme ai fondi non spesi.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:34:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 30696,
+            "text": "Fatto!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:34:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 30698,
+            "text": "Scopri di pi\u00f9",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:34:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 30700,
+            "text": "Connetti",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:35:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 30736,
+            "text": "Scambiali con CAKE, oppure conservali per la tua collezione!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:37:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 30768,
+            "text": "Registrati se ti interessa vincere un NFT qui sotto.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:41:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 30770,
+            "text": "Registrati per avere una possibilit\u00e0 di vincere",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:41:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 30772,
+            "text": "Scopri di pi\u00f9",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:41:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 30774,
+            "text": "Scambia con NFT",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:41:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 30776,
+            "text": "Scambia",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:42:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 30778,
+            "text": "Riceverai",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:42:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 30792,
+            "text": "Quando scambi questo NFT per ricevere CAKE, perderai l'accesso ad esso definitivamente!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:43:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 30796,
+            "text": "Richiedi NFT",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:44:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 30804,
+            "text": "Come funziona",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:44:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 30810,
+            "text": "I vincitori potranno richiedere un NFT su questa pagina dopo l'inizio del periodo di richiesta.",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:45:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 30812,
+            "text": "Se non sei selezionato, non potrai fare richieste. Sarai pi\u00f9 fortunato la prossima volta!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:46:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 30822,
+            "text": "I vincitori possono scambiare i loro NFT per il valore corrispondente in CAKE fino alla data di scadenza indicata sotto. Se non scambi in tempo il tuo NFT, non preoccuparti: esso rimarr\u00e0 nel tuo wallet!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:48:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 30826,
+            "text": "Come sono selezionati i vincitori?",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:48:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 30834,
+            "text": "I vincitori sono selezionati a sorte! Buona fortuna!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:49:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 30836,
+            "text": "Valore in caso di scambio",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:49:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 30840,
+            "text": "Numero creato",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:50:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 30842,
+            "text": "Numero bruciato",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:50:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 30848,
+            "text": "Richiedi questo NFT",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:50:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 30854,
+            "text": "Scambia con CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:51:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 30856,
+            "text": "Caricamento\u2026",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:51:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 30860,
+            "text": "Dettagli",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:51:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 30862,
+            "text": "Hai vinto!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:52:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 30864,
+            "text": "Richiedi un NFT tra le opzioni sottostanti!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:52:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 30866,
+            "text": "Impossibile scambiare fino a",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:52:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 33518,
+            "text": "Wallet disconnesso",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T14:34:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 30876,
+            "text": "Connettiti per vedere se hai vinto un NFT!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:53:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 30882,
+            "text": "Home",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:53:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 30906,
+            "text": "Scambi",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:54:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 30908,
+            "text": "Farm",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:54:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Solo puntato"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 30914,
+            "text": "Pool",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:54:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 30916,
+            "text": "NFT",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:54:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 30918,
+            "text": "Info",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:54:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 30922,
+            "text": "IFO",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:55:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 30926,
+            "text": "Altro",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:55:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 30928,
+            "text": "Liquidit\u00e0",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:55:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 30932,
+            "text": "Panoramica",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:55:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 30936,
+            "text": "Token",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:55:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 30938,
+            "text": "Coppie",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:55:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 30942,
+            "text": "Account",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:56:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 30950,
+            "text": "Metti in stake i token LP per guadagnare CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:56:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 30952,
+            "text": "Attivo",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:57:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 30954,
+            "text": "Inattivo",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:57:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 30958,
+            "text": "Doppio",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:57:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 33528,
+            "text": "Composto",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T14:36:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 31002,
+            "text": "Togli da stake %asset%",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:59:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 31008,
+            "text": "La lotteria CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:59:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 31014,
+            "text": "Acquista biglietti con CAKE",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T10:59:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 31022,
+            "text": "Vincerai se 2, 3 o 4 numeri sul tuo biglietto corrispondono!",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:00:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 31028,
+            "text": "Prossima estrazione",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:02:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 31032,
+            "text": "Passate estrazioni",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:02:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 31034,
+            "text": "Round %num%",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:02:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 31036,
+            "text": "Montepremi totale",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:02:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 31038,
+            "text": "I tuoi biglietti per questo round",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:02:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 31044,
+            "text": "Spiacenti, non ci sono premi da collezionare",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:03:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 31048,
+            "text": "Nel wallet",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:03:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 31050,
+            "text": "Caricamento...",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:03:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 31052,
+            "text": "Prossima IFO",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:04:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 31054,
+            "text": "IFO passate",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:04:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Scommetti token LP per guadagnare FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 31056,
+            "text": "APR",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:04:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Liquidità totale"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 29578,
+            "text": "Pool di Syrup",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T08:29:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "scommesso"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 31026,
+            "text": "%time% all'estrazione della lotteria",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:01:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Approva contratto"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 31058,
+            "text": "Seleziona numero lotteria:",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:04:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Guadagnata"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 31062,
+            "text": "Cerca",
+            "user": {
+                "id": 13010153,
+                "username": "trezepie",
+                "fullName": "Paolo Trotta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13010153\/medium\/abe62dde9e6b37a67e8dbf91c4910269.png"
+            },
+            "createdAt": "2021-02-03T11:04:53+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

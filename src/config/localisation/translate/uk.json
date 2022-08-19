@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Токени LP колу"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Скасувати"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Очікує підтвердження"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Підтвердьте"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Отримати"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Видаліть токени LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Відняти"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 9328,
+            "text": "\u0424\u0435\u0440\u043c\u0430",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 13058,
+            "text": "\u0421\u0442\u0435\u0439\u043a\u0456\u043d\u0433",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:10:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9484,
+            "text": "\u041e\u0431\u043c\u0456\u043d",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 15756,
+            "text": "\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0456\u044f",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T12:21:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9588,
+            "text": "\u0413\u043e\u043b\u043e\u0441\u0443\u0432\u0430\u043d\u043d\u044f",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9640,
+            "text": "\u041b\u043e\u0442\u0435\u0440\u0435\u044f",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 13078,
+            "text": "\u0420\u043e\u0437\u0431\u043b\u043e\u043a\u0443\u0432\u0430\u0442\u0438 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:10:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 15758,
+            "text": "\u0412\u0430\u0448 \u0431\u0430\u043b\u0430\u043d\u0441 %asset%",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T12:22:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 41374,
+            "text": "\u0417\u0430\u0433\u0430\u043b\u044c\u043d\u0438\u0439 \u043e\u0431\u0441\u044f\u0433 %asset%",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T12:54:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9846,
+            "text": "\u0417\u0410\u0411\u041b\u041e\u041a\u041e\u0412\u0410\u041d\u041e",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 40162,
+            "text": "\u041e\u0447\u0456\u043a\u0443\u0454 \u043d\u0430 \u0437\u0431\u0456\u0440",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:03:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 40166,
+            "text": "\u041d\u043e\u0432\u0456 \u0432\u0438\u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0438 \u0437\u0430 \u0431\u043b\u043e\u043a",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:04:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 40168,
+            "text": "\u0423\u0441\u044c\u043e\u0433\u043e \u0441\u043f\u0430\u043b\u0435\u043d\u043e CAKE \u0437 \u043c\u043e\u043c\u0435\u043d\u0442\u0443 \u0437\u0430\u043f\u0443\u0441\u043a\u0443",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:04:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 13102,
+            "text": "\u041e\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u043a\u0443\u0445\u043d\u044e",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:11:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10106,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 40170,
+            "text": "\u0411\u043b\u043e\u0491",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:08:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10210,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 40172,
+            "text": "\u0422\u0432\u0456\u0442\u0442\u0435\u0440",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:08:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 10314,
+            "text": "\u0414\u0435\u043f\u043e\u0437\u0438\u0442",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 10366,
+            "text": "\u0417\u0430\u0440\u043e\u0431\u0456\u0442\u043e\u043a",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 40174,
+            "text": "\u0412\u043d\u0435\u0441\u0456\u0442\u044c \u0442\u043e\u043a\u0435\u043d\u0438 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456, \u0449\u043e\u0431 \u043d\u0430\u043a\u043e\u043f\u0438\u0447\u0438\u0442\u0438 CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:12:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 40180,
+            "text": "\u041e\u0431\u043c\u0456\u043d\u044f\u0442\u0438 \u043d\u0430\u0437\u0430\u0434 \u043c\u043e\u0436\u043d\u0430 \u0431\u0443\u0434\u044c-\u043a\u043e\u043b\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:14:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 40182,
+            "text": "\u0417\u0430\u0440\u043e\u0431\u043b\u0435\u043d\u043e %asset%",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:14:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 40188,
+            "text": "\u0422\u043e\u043a\u0435\u043d\u0438 \u0432\u043d\u0435\u0441\u0435\u043d\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:17:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 40186,
+            "text": "\u0429\u043e\u0440\u0430\u0437\u0443, \u044f\u043a \u0432\u0438 \u0432\u043d\u043e\u0441\u0438\u0442\u0435 \u0447\u0438 \u0432\u0438\u0432\u043e\u0434\u0438\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u0438 CAKE, \u043a\u043e\u043d\u0442\u0440\u0430\u043a\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u043e \u0437\u0431\u0438\u0440\u0430\u0454 \u0434\u043b\u044f \u0432\u0430\u0441 \u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0438 CAKE!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:16:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 40192,
+            "text": "\u0417\u0430\u0440\u043e\u0431\u043b\u0435\u043d\u043e \u0442\u043e\u043a\u0435\u043d\u0438 XVS",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:18:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 40220,
+            "text": "\u0412\u0438\u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0438 \u043e\u0431\u0447\u0438\u0441\u043b\u044e\u044e\u0442\u044c\u0441\u044f \u043f\u043e\u0431\u043b\u043e\u043a\u043e\u0432\u043e, \u0430 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u0430 \u0432\u0438\u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0430 \u0440\u043e\u0437\u043f\u043e\u0434\u0456\u043b\u044f\u0454\u0442\u044c\u0441\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u043e \u043d\u0430\u043f\u0440\u0438\u043a\u0456\u043d\u0446\u0456 \u043f\u0435\u0440\u0456\u043e\u0434\u0443 \u0444\u0430\u0440\u043c\u0456\u043d\u0433\u0443 \u043a\u043e\u0436\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0454\u043a\u0442\u0443.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:51:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11142,
+            "text": "\u041f\u0443\u043b",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11194,
+            "text": "\u041d\u0435\u0437\u0430\u0431\u0430\u0440\u043e\u043c",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 40198,
+            "text": "\u0420\u0412\u0414",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:23:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 13224,
+            "text": "\u0417\u0430\u0433\u0430\u043b\u044c\u043d\u0430 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u0456\u0441\u0442\u044c",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:14:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 11346,
+            "text": "\u041f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u043d\u0430 BscScan",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11396,
+            "text": "\u0426\u0456\u043d\u0430 Cake",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 40200,
+            "text": "\u0417\u0430\u0440\u043e\u0431\u043b\u0435\u043d\u043e \u0442\u043e\u043a\u0435\u043d\u0438 %asset%",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:26:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 40202,
+            "text": "\u0411\u043b\u043e\u043a\u0456\u0432 \u0434\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044f \u0444\u0430\u0440\u043c\u0456\u043d\u0433\u0443: %num%",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:26:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 40206,
+            "text": "\u041d\u0435\u0437\u0430\u0431\u0430\u0440\u043e\u043c\u2026",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:27:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 13022,
+            "text": "\u0412\u0430\u0448 \u0432\u043d\u0435\u0441\u043e\u043a",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:09:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 40208,
+            "text": "\u0424\u0430\u0440\u043c\u0456\u043d\u0433 \u043f\u043e\u0447\u043d\u0435\u0442\u044c\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u0441\u0442\u0456\u043b\u044c\u043a\u0438 \u0431\u043b\u043e\u043a\u0456\u0432: %num%",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:27:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 12972,
+            "text": "\u0417\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043e",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:07:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 40210,
+            "text": "\u0424\u0430\u0440\u043c\u0456\u043d\u0433 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u0441\u0442\u0456\u043b\u044c\u043a\u0438 \u0431\u043b\u043e\u043a\u0456\u0432: %num%",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:28:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 12932,
+            "text": "\u0421\u0430\u0439\u0442 \u043f\u0440\u043e\u0454\u043a\u0442\u0443",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:06:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 41486,
+            "text": "\u0412\u0438\u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0438 \u043e\u0431\u0447\u0438\u0441\u043b\u044e\u044e\u0442\u044c\u0441\u044f \u043f\u043e\u0431\u043b\u043e\u043a\u043e\u0432\u043e.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:19:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 40224,
+            "text": "\u0423\u0441\u044c\u043e\u0433\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:55:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 40226,
+            "text": "\u0417\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044f",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:55:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 40230,
+            "text": "\u041f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u0441\u0430\u0439\u0442 \u043f\u0440\u043e\u0454\u043a\u0442\u0443",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:58:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 40232,
+            "text": "\u0412\u0430\u0448 \u043f\u0440\u043e\u0454\u043a\u0442? \ud83d\udc40",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T23:03:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 41488,
+            "text": "\u0421\u0442\u0432\u043e\u0440\u0456\u0442\u044c \u043f\u0443\u043b \u0434\u043b\u044f \u0441\u0432\u043e\u0433\u043e \u0442\u043e\u043a\u0435\u043d\u0430",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:20:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 40236,
+            "text": "\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u0432\u0430\u0442\u0438 \u0437\u0430\u0440\u0430\u0437",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T23:07:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 40238,
+            "text": "\u0420\u0430\u0443\u043d\u0434 1: \u041f\u0420\u0418\u0414\u0411\u0410\u041d\u041d\u042f",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T23:11:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 40242,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T23:19:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 47230,
+            "text": "\u0412\u0438\u0442\u0440\u0430\u0447\u0430\u0439\u0442\u0435 CAKE \u043d\u0430 \u043a\u0432\u0438\u0442\u043a\u0438, \u0449\u043e\u0431 \u0437\u0431\u0456\u043b\u044c\u0448\u0443\u0432\u0430\u0442\u0438 \u0431\u0430\u043d\u043a \u043b\u043e\u0442\u0435\u0440\u0435\u0457. \u041f\u0440\u043e\u0434\u0430\u0436 \u043a\u0432\u0438\u0442\u043a\u0456\u0432 \u0437\u0430\u0432\u0435\u0440\u0448\u0443\u0454\u0442\u044c\u0441\u044f \u043f\u0440\u0438\u0431\u043b\u0438\u0437\u043d\u043e \u0437\u0430 30 \u0445\u0432\u0438\u043b\u0438\u043d \u0434\u043e \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043b\u043e\u0442\u0435\u0440\u0435\u0457. \u0412\u0438\u0433\u0440\u0430\u0432\u0430\u0439\u0442\u0435 \u043f\u0440\u0438\u0437\u0438, \u044f\u043a\u0449\u043e \u043e\u0434\u0438\u043d, \u0434\u0432\u0430, \u0442\u0440\u0438 \u0430\u0431\u043e \u0447\u043e\u0442\u0438\u0440\u0438 \u043d\u043e\u043c\u0435\u0440\u0438 \u043d\u0430 \u0432\u0430\u0448\u043e\u043c\u0443 \u043a\u0432\u0438\u0442\u043a\u0443 \u0437\u0431\u0456\u0433\u0430\u044e\u0442\u044c\u0441\u044f \u0437 \u0432\u0438\u0433\u0440\u0430\u0448\u043d\u0438\u043c\u0438 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438 \u0442\u0430 \u0457\u0445\u043d\u0456\u043c\u0438 \u043f\u043e\u0437\u0438\u0446\u0456\u044f\u043c\u0438! \u0423\u0434\u0430\u0447\u0456!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-15T06:19:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 41498,
+            "text": "\u0412\u0430\u0448\u0430 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043a\u0432\u0438\u0442\u043a\u0456\u0432 \u0443 \u0446\u044c\u043e\u043c\u0443 \u0440\u0430\u0443\u043d\u0434\u0456",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:26:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 40248,
+            "text": "\u041f\u0440\u0438\u0434\u0431\u0430\u0442\u0438 \u043a\u0432\u0438\u0442\u043e\u043a",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:00:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 40250,
+            "text": "\u041f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u043a\u0432\u0438\u0442\u043a\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:01:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 40252,
+            "text": "\u041f\u0440\u0438\u0431\u043b\u0438\u0437\u043d\u043e \u0447\u0430\u0441\u0443 \u0437\u0430\u043b\u0438\u0448\u0438\u043b\u043e\u0441\u044f \u043d\u0430 \u043f\u043e\u043a\u0443\u043f\u043a\u0443 \u043a\u0432\u0438\u0442\u043a\u0456\u0432",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:04:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 40256,
+            "text": "\u0417\u0430\u043a\u0440\u0438\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:04:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 40258,
+            "text": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0432\u0438\u0433\u0440\u0430\u0448\u043d\u0456 \u043d\u043e\u043c\u0435\u0440\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:05:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 41650,
+            "text": "\u041a\u0432\u0438\u0442\u043a\u0438, \u043d\u0430 \u044f\u043a\u0438\u0445 \u0437\u0431\u0456\u0433\u0430\u044e\u0442\u044c\u0441\u044f \u0447\u043e\u0442\u0438\u0440\u0438 \u043d\u043e\u043c\u0435\u0440\u0438:",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:53:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 41652,
+            "text": "\u041a\u0432\u0438\u0442\u043a\u0438, \u043d\u0430 \u044f\u043a\u0438\u0445 \u0437\u0431\u0456\u0433\u0430\u044e\u0442\u044c\u0441\u044f \u0442\u0440\u0438 \u043d\u043e\u043c\u0435\u0440\u0438:",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:53:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 41654,
+            "text": "\u041a\u0432\u0438\u0442\u043a\u0438, \u043d\u0430 \u044f\u043a\u0438\u0445 \u0437\u0431\u0456\u0433\u0430\u044e\u0442\u044c\u0441\u044f \u0434\u0432\u0430 \u043d\u043e\u043c\u0435\u0440\u0438:",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:53:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 40268,
+            "text": "\u0415\u043a\u0441\u043f\u043e\u0440\u0442\u0443\u0432\u0430\u0442\u0438 \u043e\u0441\u0442\u0430\u043d\u043d\u0456 \u0432\u0438\u0433\u0440\u0430\u0448\u043d\u0456 \u043d\u043e\u043c\u0435\u0440\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:18:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 40270,
+            "text": "\u0412\u0432\u0435\u0434\u0456\u0442\u044c \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043a\u0432\u0438\u0442\u043a\u0456\u0432, \u044f\u043a\u0456 \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u043f\u0440\u0438\u0434\u0431\u0430\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:23:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 40272,
+            "text": "\u041c\u0430\u043a\u0441.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:23:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 40274,
+            "text": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e %num% CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:23:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 40276,
+            "text": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043c\u0430\u0454 \u0431\u0443\u0442\u0438 \u043a\u0440\u0430\u0442\u043d\u0430 10 CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:25:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 40278,
+            "text": "1 \u043a\u0432\u0438\u0442\u043e\u043a = 10 CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:28:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 40280,
+            "text": "\u0412\u0438 \u0432\u0438\u0442\u0440\u0430\u0442\u0438\u0442\u0435: %num% CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:40:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 40282,
+            "text": "\u0421\u043a\u0430\u0441\u0443\u0432\u0430\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:40:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 40284,
+            "text": "\u041f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:44:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 40286,
+            "text": "\u041f\u043e\u043f\u0435\u0440\u0435\u0434\u0436\u0435\u043d\u043d\u044f",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:44:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 41538,
+            "text": "\u041f\u043e\u043a\u0443\u043f\u043a\u0438 \u043b\u043e\u0442\u0435\u0440\u0435\u0439\u043d\u0438\u0445 \u0431\u0456\u043b\u0435\u0442\u0456\u0432 \u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u0456.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:30:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 40292,
+            "text": "\u0412\u0430\u0448\u0456 \u0442\u043e\u043a\u0435\u043d\u0438 CAKE \u043d\u0435 \u043c\u043e\u0436\u043d\u0430 \u0431\u0443\u0434\u0435 \u043f\u043e\u0432\u0435\u0440\u043d\u0443\u0442\u0438, \u044f\u043a\u0449\u043e \u0432\u0438\u0442\u0440\u0430\u0442\u0438\u0442\u0438 \u0457\u0445 \u043d\u0430 \u043a\u0432\u0438\u0442\u043a\u0438.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:07:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 40294,
+            "text": "\u041a\u0432\u0438\u0442\u043a\u0438 \u0434\u0456\u0439\u0441\u043d\u0456 \u043b\u0438\u0448\u0435 \u043d\u0430 \u043e\u0434\u0438\u043d \u0442\u0438\u0440\u0430\u0436 \u043b\u043e\u0442\u0435\u0440\u0435\u0457. \u041f\u0456\u0441\u043b\u044f \u0442\u0438\u0440\u0430\u0436\u0443 \u0432\u043e\u043d\u0438 \u0437\u0433\u043e\u0440\u044f\u044e\u0442\u044c.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:08:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 40296,
+            "text": "\u041f\u0440\u0438\u0434\u0431\u0430\u043d\u043d\u044f \u043a\u0432\u0438\u0442\u043a\u0456\u0432 \u043d\u0435 \u0433\u0430\u0440\u0430\u043d\u0442\u0443\u0454 \u0432\u0438\u0433\u0440\u0430\u0448. \u0411\u0440\u0430\u0442\u0438 \u0443\u0447\u0430\u0441\u0442\u044c \u0441\u043b\u0456\u0434 \u043b\u0438\u0448\u0435 \u0432 \u0442\u043e\u043c\u0443 \u0432\u0438\u043f\u0430\u0434\u043a\u0443, \u044f\u043a\u0449\u043e \u0432\u0438 \u0443\u0441\u0432\u0456\u0434\u043e\u043c\u043b\u044e\u0454\u0442\u0435 \u0440\u0438\u0437\u0438\u043a\u0438.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:09:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 40298,
+            "text": "\u042f \u0440\u043e\u0437\u0443\u043c\u0456\u044e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:09:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 40300,
+            "text": "\u041f\u0440\u0438\u0434\u0431\u0430\u043d\u043d\u044f \u043a\u0432\u0438\u0442\u043a\u0456\u0432 \u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u0435. \u0412\u0430\u0448\u0456 \u0442\u043e\u043a\u0435\u043d\u0438 CAKE \u043d\u0435 \u043c\u043e\u0436\u043d\u0430 \u0431\u0443\u0434\u0435 \u043f\u043e\u0432\u0435\u0440\u043d\u0443\u0442\u0438 \u043f\u0456\u0441\u043b\u044f \u043f\u0440\u0438\u0434\u0431\u0430\u043d\u043d\u044f \u043a\u0432\u0438\u0442\u043a\u0456\u0432.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:10:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 41454,
+            "text": "\u041e\u0442\u0440\u0438\u043c\u0430\u0439\u0442\u0435 \u043f\u0440\u0438\u0437\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:12:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 41456,
+            "text": "\u041f\u0440\u0438\u0437\u0438 CAKE, \u044f\u043a\u0456 \u043c\u043e\u0436\u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:12:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 40308,
+            "text": "\u0420\u0430\u0443\u043d\u0434 2: \u041e\u0422\u0420\u0418\u041c\u0410\u041d\u041d\u042f",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:11:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 40218,
+            "text": "\u0412\u0438\u0432\u0435\u0441\u0442\u0438 \u0432\u043d\u0435\u0441\u043e\u043a \u043c\u043e\u0436\u043d\u0430 \u0431\u0443\u0434\u044c-\u043a\u043e\u043b\u0438.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T22:30:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 40310,
+            "text": "\u041e\u0447\u0456\u043a\u0443\u0454 \u043d\u0430 \u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:11:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 40254,
+            "text": "\u041c\u043e\u0457 \u043a\u0432\u0438\u0442\u043a\u0438 (\u0443\u0441\u044c\u043e\u0433\u043e: %TICKETS%)",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T00:04:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 40312,
+            "text": "\u041f\u0440\u0438\u0431\u043b\u0438\u0437\u043d\u043e \u0447\u0430\u0441\u0443 \u0434\u043e \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043d\u0430\u0441\u0442\u0443\u043f\u043d\u043e\u0457 \u043b\u043e\u0442\u0435\u0440\u0435\u0457",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:11:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 41338,
+            "text": "\u0421\u0445\u0432\u0430\u043b\u0438\u0442\u0438 CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T12:32:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 40316,
+            "text": "IFO: \u043f\u0435\u0440\u0448\u0438\u0439 \u043f\u0443\u0431\u043b\u0456\u0447\u043d\u0438\u0439 \u0432\u0438\u043f\u0443\u0441\u043a \u0442\u043e\u043a\u0435\u043d\u0456\u0432",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:12:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 40318,
+            "text": "\u041f\u0440\u0438\u0434\u0431\u0430\u0439\u0442\u0435 \u043d\u043e\u0432\u0456 \u0442\u043e\u043a\u0435\u043d\u0438 \u0437\u0430 \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e \u043d\u043e\u0432\u043e\u044e \u043c\u043e\u0434\u0435\u043b\u043b\u044e.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:17:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 40320,
+            "text": "\u0412\u0438 \u043e\u043f\u043b\u0430\u0447\u0443\u0432\u0430\u0442\u0438\u043c\u0435\u0442\u0435 \u043d\u043e\u0432\u0456 \u0442\u043e\u043a\u0435\u043d\u0438 \u0442\u043e\u043a\u0435\u043d\u0430\u043c\u0438 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456 CAKE-BNB. \u0426\u0435 \u043e\u0437\u043d\u0430\u0447\u0430\u0454, \u0449\u043e \u0432\u0430\u043c \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u0432\u043d\u0435\u0441\u0442\u0438 \u0440\u0456\u0432\u043d\u0443 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c CAKE \u0456 BNB \u0432 \u043f\u0443\u043b \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456, \u0449\u043e\u0431 \u0443\u0437\u044f\u0442\u0438 \u0443\u0447\u0430\u0441\u0442\u044c.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:22:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 41552,
+            "text": "\u041e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 CAKE-BNB \u041f\u041b >",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:34:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 40324,
+            "text": "\u041f\u0440\u043e\u0454\u043a\u0442 \u043e\u0442\u0440\u0438\u043c\u0443\u0454 BNB, PancakeSwap \u0441\u043f\u0430\u043b\u044e\u0454 CAKE.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:22:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 40326,
+            "text": "\u0412\u0438 \u043e\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u0438.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:23:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 40328,
+            "text": "\u0425\u043e\u0447\u0435\u0442\u0435 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u0438 \u0432\u043b\u0430\u0441\u043d\u0435 IFO?",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:23:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 41558,
+            "text": "\u0417\u0430\u043f\u0443\u0441\u0442\u0456\u0442\u044c \u0432\u043b\u0430\u0441\u043d\u0438\u0439 \u043f\u0440\u043e\u0454\u043a\u0442 \u0456\u0437 PancakeSwap \u2013 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0454\u043a\u0442\u0443 \u0437 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u043c\u0430\u0440\u043a\u0435\u0442-\u043c\u0435\u0439\u043a\u0456\u043d\u0433\u0443 \u0442\u0430 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456 Binance Smart Chain \u2013 \u0456 \u0432\u0438\u0432\u0435\u0434\u0456\u0442\u044c \u0441\u0432\u0456\u0439 \u0442\u043e\u043a\u0435\u043d \u0431\u0435\u0437\u043f\u043e\u0441\u0435\u0440\u0435\u0434\u043d\u044c\u043e \u0432 \u043d\u0430\u0439\u0430\u043a\u0442\u0438\u0432\u043d\u0456\u0448\u0443 \u0442\u0430 \u043d\u0430\u0439\u0434\u0438\u043d\u0430\u043c\u0456\u0447\u043d\u0456\u0448\u0443 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0443 \u0432 BSC.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:35:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 40332,
+            "text": "\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u0439\u0442\u0435, \u0449\u043e\u0431 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:27:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 40336,
+            "text": "\u0421\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0430",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:28:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 40338,
+            "text": "\u041e\u0441\u043d\u043e\u0432\u043d\u0435",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:29:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 40340,
+            "text": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:29:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 40342,
+            "text": "\u041c\u0456\u0439 \u0433\u0430\u043c\u0430\u043d\u0435\u0446\u044c",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:29:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 40344,
+            "text": "\u0412\u0438\u0439\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:29:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 40346,
+            "text": "\u0417\u0456\u0431\u0440\u0430\u0442\u0438 \u0432\u0441\u0435 (%count%)",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:29:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 40348,
+            "text": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 Cake",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:29:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 41366,
+            "text": "\u0417\u0430\u0433\u0430\u043b\u044c\u043d\u0438\u0439 \u043e\u0431\u0441\u044f\u0433 CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T12:54:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 40358,
+            "text": "\u0423\u0441\u044c\u043e\u0433\u043e \u0441\u043f\u0430\u043b\u0435\u043d\u043e CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:31:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 40360,
+            "text": "\u041d\u043e\u0432\u0438\u0445 CAKE\/\u0431\u043b\u043e\u043a",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 40362,
+            "text": "\u0424\u0435\u0440\u043c\u0438 \u0442\u0430 \u0441\u0442\u0435\u0439\u043a\u0456\u043d\u0433",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:32:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 41658,
+            "text": "CAKE, \u0449\u043e \u043c\u043e\u0436\u043d\u0430 \u0437\u0456\u0431\u0440\u0430\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:55:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 40366,
+            "text": "CAKE \u0443 \u0433\u0430\u043c\u0430\u043d\u0446\u0456",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:32:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 41480,
+            "text": "\u0417\u0430\u0431\u0438\u0440\u0430\u043d\u043d\u044f CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:18:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 40370,
+            "text": "\u0412\u0430\u0448\u0456 \u0432\u0438\u0433\u0440\u0430\u0448\u0456 \u0432 \u043b\u043e\u0442\u0435\u0440\u0435\u044e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:33:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 41482,
+            "text": "CAKE, \u0449\u043e \u043c\u043e\u0436\u043d\u0430 \u0437\u0430\u0431\u0440\u0430\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:19:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 40374,
+            "text": "\u041f\u043e\u0432\u043d\u0438\u0439 \u0434\u0436\u0435\u043a\u043f\u043e\u0442 \u0443 \u0446\u044c\u043e\u043c\u0443 \u0440\u0430\u0443\u043d\u0434\u0456",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:34:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 41484,
+            "text": "\u0417\u0430\u0431\u0440\u0430\u0442\u0438 \u0432\u0438\u0433\u0440\u0430\u0448",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:19:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 40378,
+            "text": "\u041f\u0440\u0438\u0434\u0431\u0430\u0442\u0438 \u043a\u0432\u0438\u0442\u043a\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:34:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 41448,
+            "text": "\u0417\u0456\u0431\u0440\u0430\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:09:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 41340,
+            "text": "\u0421\u0445\u0432\u0430\u043b\u0438\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T12:32:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 40388,
+            "text": "\u0412\u0438\u0431\u0440\u0430\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:35:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 40390,
+            "text": "\u0412\u0438\u0433\u0440\u0430\u0448\u043d\u0456 \u043d\u043e\u043c\u0435\u0440\u0438 \u0432 \u0446\u044c\u043e\u043c\u0443 \u0440\u0430\u0443\u043d\u0434\u0456",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:35:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 40392,
+            "text": "\u041f\u0443\u043b \u0441\u0442\u0435\u0439\u043a\u0438\u043d\u0433\u0430",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:35:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 40394,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:35:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 40396,
+            "text": "\u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u043e\u0432\u0430\u043d\u0438\u0439 \u043c\u0430\u0440\u043a\u0435\u0442-\u043c\u0435\u0439\u043a\u0435\u0440 \u0456 \u0434\u043e\u0445\u0456\u0434\u043d\u0430 \u0444\u0435\u0440\u043c\u0430 \u21161 \u0443 Binance Smart Chain.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:40:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 40398,
+            "text": "\u0412\u043d\u0435\u0441\u0456\u0442\u044c CAKE, \u0449\u043e\u0431 \u0437\u0430\u0440\u043e\u0431\u0438\u0442\u0438 \u043d\u043e\u0432\u0456 \u0442\u043e\u043a\u0435\u043d\u0438.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:40:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 40400,
+            "text": "\u0427\u0430\u0441 \u0437\u0430\u043f\u0443\u0441\u043a\u0443",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:40:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 40402,
+            "text": "\u041f\u0440\u043e\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:40:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 40404,
+            "text": "CAKE \u043d\u0430 \u0441\u043f\u0430\u043b\u0435\u043d\u043d\u044f (USD)",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:41:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 40406,
+            "text": "\u0412\u0438\u0432\u0435\u0441\u0442\u0438 \u0432\u043d\u0435\u0441\u043e\u043a",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:41:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 40408,
+            "text": "\u2b50\ufe0f \u0429\u043e\u0440\u0430\u0437\u0443, \u044f\u043a \u0432\u0438 \u0432\u043d\u043e\u0441\u0438\u0442\u0435 \u0447\u0438 \u0432\u0438\u0432\u043e\u0434\u0438\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u0438 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456, \u043a\u043e\u043d\u0442\u0440\u0430\u043a\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u043e \u0437\u0431\u0438\u0440\u0430\u0454 \u0434\u043b\u044f \u0432\u0430\u0441 \u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0438 CAKE!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:43:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 40410,
+            "text": "\u042f\u043a \u0443\u0437\u044f\u0442\u0438 \u0443\u0447\u0430\u0441\u0442\u044c",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:43:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 40412,
+            "text": "\u0414\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0443",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:43:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 40414,
+            "text": "\u041f\u0440\u0438\u0434\u0431\u0430\u0439\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u0438 CAKE \u0456 BNB",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:43:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 40416,
+            "text": "\u041e\u0442\u0440\u0438\u043c\u0430\u0439\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u0438 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456 CAKE-BNB, \u0434\u043e\u0434\u0430\u0432\u0448\u0438 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u0456\u0441\u0442\u044c CAKE \u0456 BNB",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:44:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 40420,
+            "text": "\u041f\u0456\u0434 \u0447\u0430\u0441 \u043f\u0440\u043e\u0434\u0430\u0436\u0443",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:45:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 40422,
+            "text": "\u041f\u043e\u043a\u0438 \u043f\u0440\u043e\u0434\u0430\u0436 \u0442\u0440\u0438\u0432\u0430\u0454, \u0437\u0430\u0444\u0456\u043a\u0441\u0443\u0439\u0442\u0435 \u0441\u0432\u043e\u0457 \u0442\u043e\u043a\u0435\u043d\u0438 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456 CAKE, \u0449\u043e\u0431 \u043f\u0440\u0438\u0434\u0431\u0430\u0442\u0438 \u0442\u043e\u043a\u0435\u043d\u0438 IFO",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:46:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 40424,
+            "text": "\u041f\u0456\u0441\u043b\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0443",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:46:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 41458,
+            "text": "\u041e\u0442\u0440\u0438\u043c\u0430\u0439\u0442\u0435 \u043f\u0440\u0438\u0434\u0431\u0430\u043d\u0456 \u0442\u043e\u043a\u0435\u043d\u0438 \u0442\u0430 \u0432\u0441\u0456 \u043d\u0435\u0432\u0438\u0442\u0440\u0430\u0447\u0435\u043d\u0456 \u043a\u043e\u0448\u0442\u0438.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:12:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 40428,
+            "text": "\u0413\u043e\u0442\u043e\u0432\u043e!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:47:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 40430,
+            "text": "\u0414\u043e\u043a\u043b\u0430\u0434\u043d\u0456\u0448\u0435",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:47:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 40432,
+            "text": "\u041f\u0456\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:47:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 40434,
+            "text": "\u041e\u0431\u043c\u0456\u043d\u044f\u0439\u0442\u0435 \u0457\u0445 \u043d\u0430 CAKE \u0430\u0431\u043e \u0437\u0431\u0435\u0440\u0435\u0436\u0456\u0442\u044c \u0434\u043b\u044f \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0457!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:48:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 40436,
+            "text": "\u0417\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0439\u0442\u0435\u0441\u044f \u0432 \u0440\u043e\u0437\u0456\u0433\u0440\u0430\u0448\u0456 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0438\u0445 \u0442\u043e\u043a\u0435\u043d\u0456\u0432 \u043d\u0438\u0436\u0447\u0435.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:51:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 40438,
+            "text": "\u0417\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0439\u0442\u0435\u0441\u044f, \u0449\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0432\u0438\u0433\u0440\u0430\u0448\u0443",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:51:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 40440,
+            "text": "\u0414\u043e\u043a\u043b\u0430\u0434\u043d\u0456\u0448\u0435",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:51:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 41674,
+            "text": "\u041e\u0431\u043c\u0456\u043d\u044f\u0442\u0438 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0456 \u0442\u043e\u043a\u0435\u043d\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T14:02:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 40444,
+            "text": "\u041e\u0431\u043c\u0456\u043d\u044f\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:52:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 40446,
+            "text": "\u0412\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0454\u0442\u0435",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:52:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 40448,
+            "text": "\u041e\u0431\u043c\u0456\u043d\u044e\u044e\u0447\u0438 \u0446\u0435\u0439 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0438\u0439 \u0442\u043e\u043a\u0435\u043d \u043d\u0430 CAKE, \u0432\u0438 \u0432\u0442\u0440\u0430\u0447\u0430\u0454\u0442\u0435 \u0439\u043e\u0433\u043e \u043d\u0430\u0437\u0430\u0432\u0436\u0434\u0438!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:53:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 40450,
+            "text": "\u041e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0438\u0439 \u0442\u043e\u043a\u0435\u043d",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:53:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 40452,
+            "text": "\u042f\u043a \u0446\u0435 \u043f\u0440\u0430\u0446\u044e\u0454",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:53:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 41462,
+            "text": "\u041f\u0435\u0440\u0435\u043c\u043e\u0436\u0446\u0456 \u0437\u043c\u043e\u0436\u0443\u0442\u044c \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0438\u0439 \u0442\u043e\u043a\u0435\u043d \u043d\u0430 \u0446\u0456\u0439 \u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456, \u043a\u043e\u043b\u0438 \u043f\u043e\u0447\u043d\u0435\u0442\u044c\u0441\u044f \u043f\u0435\u0440\u0456\u043e\u0434 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f.",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:12:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 40456,
+            "text": "\u042f\u043a\u0449\u043e \u0432\u0438 \u043d\u0435 \u043f\u0440\u043e\u0439\u0448\u043b\u0438 \u0432\u0456\u0434\u0431\u0456\u0440, \u0442\u043e \u043d\u0456\u0447\u043e\u0433\u043e \u043d\u0435 \u0437\u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438. \u041f\u043e\u0449\u0430\u0441\u0442\u0438\u0442\u044c \u043d\u0430\u0441\u0442\u0443\u043f\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0443!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:55:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 41566,
+            "text": "\u041f\u0435\u0440\u0435\u043c\u043e\u0436\u0446\u0456 \u043c\u043e\u0436\u0443\u0442\u044c \u043e\u0431\u043c\u0456\u043d\u044e\u0432\u0430\u0442\u0438 \u0441\u0432\u043e\u0457 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0456 \u0442\u043e\u043a\u0435\u043d\u0438 \u043d\u0430 CAKE \u0434\u043e \u043d\u0430\u0432\u0435\u0434\u0435\u043d\u043e\u0457 \u043d\u0438\u0436\u0447\u0435 \u0434\u0430\u0442\u0438 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044f \u0434\u0456\u0457. \u041d\u0435 \u0445\u0432\u0438\u043b\u044e\u0439\u0442\u0435\u0441\u044f: \u044f\u043a\u0449\u043e \u0432\u0430\u043c \u043d\u0435 \u0432\u0434\u0430\u043b\u043e\u0441\u044c \u043e\u0431\u043c\u0456\u043d\u044f\u0442\u0438 \u0446\u0456 \u0442\u043e\u043a\u0435\u043d\u0438 \u0434\u043e \u0442\u043e\u0433\u043e \u0447\u0430\u0441\u0443, \u0432\u043e\u043d\u0438 \u0437\u0430\u043b\u0438\u0448\u0430\u0442\u0438\u043c\u0443\u0442\u044c\u0441\u044f \u0443 \u0432\u0430\u0448\u043e\u043c\u0443 \u0433\u0430\u043c\u0430\u043d\u0446\u0456!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:36:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 40460,
+            "text": "\u042f\u043a \u0432\u0456\u0434\u0431\u0438\u0440\u0430\u044e\u0442\u044c\u0441\u044f \u043f\u0435\u0440\u0435\u043c\u043e\u0436\u0446\u0456?",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:57:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 40462,
+            "text": "\u041f\u0435\u0440\u0435\u043c\u043e\u0436\u0446\u0456 \u0432\u0456\u0434\u0431\u0438\u0440\u0430\u044e\u0442\u044c\u0441\u044f \u0432\u0438\u043f\u0430\u0434\u043a\u043e\u0432\u043e! \u041d\u0435\u0445\u0430\u0439 \u0449\u0430\u0441\u0442\u0438\u0442\u044c!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:57:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 40464,
+            "text": "\u0412\u0430\u0440\u0442\u0456\u0441\u0442\u044c \u0443 \u0432\u0438\u043f\u0430\u0434\u043a\u0443 \u043e\u0431\u043c\u0456\u043d\u0443",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:58:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 40468,
+            "text": "\u0421\u0442\u0432\u043e\u0440\u0435\u043d\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T01:58:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 40470,
+            "text": "\u0421\u043f\u0430\u043b\u0435\u043d\u0430 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:00:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 40472,
+            "text": "\u041e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0446\u0435\u0439 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0438\u0439 \u0442\u043e\u043a\u0435\u043d",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:00:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 40474,
+            "text": "\u041e\u0431\u043c\u0456\u043d\u044f\u0442\u0438 \u043d\u0430 CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:00:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 40476,
+            "text": "\u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f\u2026",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:01:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 40478,
+            "text": "\u0412\u0456\u0434\u043e\u043c\u043e\u0441\u0442\u0456",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:01:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 40480,
+            "text": "\u0412\u0438 \u0432\u0438\u0433\u0440\u0430\u043b\u0438!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:01:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 40482,
+            "text": "\u041e\u0442\u0440\u0438\u043c\u0430\u0439\u0442\u0435 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0438\u0439 \u0442\u043e\u043a\u0435\u043d \u043e\u0434\u043d\u0438\u043c \u0456\u0437 \u043d\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u043d\u0438\u0436\u0447\u0435 \u0432\u0430\u0440\u0456\u0430\u043d\u0442\u0456\u0432!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:01:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 40484,
+            "text": "\u041c\u043e\u0436\u043d\u0430 \u0442\u043e\u0440\u0433\u0443\u0432\u0430\u0442\u0438 \u0434\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:02:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 40486,
+            "text": "\u0413\u0430\u043c\u0430\u043d\u0435\u0446\u044c \u0432\u0456\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:02:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 40488,
+            "text": "\u041f\u0456\u0434\u043a\u043b\u044e\u0447\u0456\u0442\u044c\u0441\u044f, \u0449\u043e\u0431 \u0434\u0456\u0437\u043d\u0430\u0442\u0438\u0441\u044f, \u0447\u0438 \u0432\u0438\u0433\u0440\u0430\u043b\u0438 \u0432\u0438 \u043d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0438\u0439 \u0442\u043e\u043a\u0435\u043d!",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:02:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 40490,
+            "text": "\u0413\u043e\u043b\u043e\u0432\u043d\u0430",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:02:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 40492,
+            "text": "\u0422\u043e\u0440\u0433\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 40494,
+            "text": "\u0424\u0435\u0440\u043c\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Тільки ставка"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 40496,
+            "text": "\u041f\u0443\u043b\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 40498,
+            "text": "\u041d\u0435\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0430\u043c\u0456\u043d\u043d\u0438\u0439 \u0442\u043e\u043a\u0435\u043d",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 40500,
+            "text": "\u0406\u043d\u0444\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 40502,
+            "text": "IFO",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 40504,
+            "text": "\u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 40506,
+            "text": "\u041b\u0456\u043a\u0432\u0456\u0434\u043d\u0456\u0441\u0442\u044c",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 40508,
+            "text": "\u041e\u0433\u043b\u044f\u0434",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 40510,
+            "text": "\u0422\u043e\u043a\u0435\u043d",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 40512,
+            "text": "\u041f\u0430\u0440\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 40514,
+            "text": "\u0410\u043a\u0430\u0443\u043d\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 40516,
+            "text": "\u0412\u043d\u0435\u0441\u0456\u0442\u044c \u0442\u043e\u043a\u0435\u043d\u0438 \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u0430 \u043b\u0456\u043a\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456, \u0449\u043e\u0431 \u0437\u0430\u0440\u043e\u0431\u0438\u0442\u0438 CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:03:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 40518,
+            "text": "\u0410\u043a\u0442\u0438\u0432\u043d\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:04:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 40520,
+            "text": "\u041d\u0435\u0430\u043a\u0442\u0438\u0432\u043d\u043e",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:04:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 40522,
+            "text": "\u041f\u043e\u0434\u0432\u0456\u0439\u043d\u0438\u0439",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:04:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 41450,
+            "text": "\u0414\u043e\u043c\u0456\u0448\u0430\u0442\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T13:10:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 40526,
+            "text": "\u0412\u0438\u0432\u0435\u0441\u0442\u0438 \u0432\u043d\u0435\u0441\u043e\u043a %asset%",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:05:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 40528,
+            "text": "\u041b\u043e\u0442\u0435\u0440\u0435\u044f CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:05:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 40530,
+            "text": "\u041a\u0443\u043f\u043b\u044f\u0439\u0442\u0435 \u043a\u0432\u0438\u0442\u043a\u0438 \u0437\u0430 CAKE",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:05:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 40532,
+            "text": "\u0412\u0438\u0433\u0440\u0430\u0432\u0430\u0439\u0442\u0435, \u044f\u043a\u0449\u043e \u0434\u0432\u0430, \u0442\u0440\u0438 \u0430\u0431\u043e \u0447\u043e\u0442\u0438\u0440\u0438 \u043d\u043e\u043c\u0435\u0440\u0438 \u043d\u0430 \u0432\u0430\u0448\u043e\u043c\u0443 \u043a\u0432\u0438\u0442\u043a\u0443 \u0437\u0431\u0456\u0433\u0430\u044e\u0442\u044c\u0441\u044f \u0437 \u0432\u0438\u0433\u0440\u0430\u0448\u043d\u0438\u043c\u0438 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:06:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 40536,
+            "text": "\u041d\u0430\u0441\u0442\u0443\u043f\u043d\u0438\u0439 \u0442\u0438\u0440\u0430\u0436",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:06:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 40538,
+            "text": "\u041c\u0438\u043d\u0443\u043b\u0456 \u0442\u0438\u0440\u0430\u0436\u0456",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:07:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 40604,
+            "text": "\u0420\u0430\u0443\u043d\u0434 %num%",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T08:44:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 41090,
+            "text": "\u0417\u0430\u0433\u0430\u043b\u044c\u043d\u0438\u0439 \u0431\u0430\u043d\u043a",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:11:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 41092,
+            "text": "\u0412\u0430\u0448\u0456 \u043a\u0432\u0438\u0442\u043a\u0438 \u0437\u0430 \u0446\u0435\u0439 \u0440\u0430\u0443\u043d\u0434",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:12:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 41094,
+            "text": "\u041d\u0430 \u0436\u0430\u043b\u044c, \u043f\u0440\u0438\u0437\u0456\u0432 \u043d\u0435\u043c\u0430\u0454",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:12:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 41098,
+            "text": "\u0423 \u0433\u0430\u043c\u0430\u043d\u0446\u0456",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:12:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 41100,
+            "text": "\u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f\u2026",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:12:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 41106,
+            "text": "\u041d\u0430\u0441\u0442\u0443\u043f\u043d\u0438\u0439 IFO",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:13:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 41108,
+            "text": "\u041c\u0438\u043d\u0443\u043b\u0456 IFO",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:13:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Ставте токени LP, щоб заробити FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 41110,
+            "text": "\u0420\u0412\u0421",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:13:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Загальна ліквідність"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 40136,
+            "text": "\u041f\u0443\u043b SYRUP",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-04T21:49:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Ставка"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 40534,
+            "text": "%time% \u0434\u043e \u0442\u0438\u0440\u0430\u0436\u0443 \u043b\u043e\u0442\u0435\u0440\u0435\u0457",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T02:06:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Затвердити контракт"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 41118,
+            "text": "\u0412\u0438\u0431\u0435\u0440\u0456\u0442\u044c \u043b\u043e\u0442\u0435\u0440\u0435\u0439\u043d\u0438\u0439 \u043d\u043e\u043c\u0435\u0440:",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:14:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Зароблений"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 41122,
+            "text": "\u041f\u043e\u0448\u0443\u043a",
+            "user": {
+                "id": 13569899,
+                "username": "andrey.a.kozhushko",
+                "fullName": "Andrey Kozhushko",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13569899\/medium\/8a670e7208d9cac4f16eb8b8f5eae5aa.jpg"
+            },
+            "createdAt": "2021-02-05T11:14:05+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Tokens de estaca LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Cancelar"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Confirmação pendente"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "confirme"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Obter"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Unstake LP tokens"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Desamarrar"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 27392,
+            "text": "Fazenda",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T15:02:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 7968,
+            "text": "Staking",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:35:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 27216,
+            "text": "C\u00e2mbio",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T14:24:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 7974,
+            "text": "Documentos",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:35:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 7976,
+            "text": "Vota\u00e7\u00e3o",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:35:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 7978,
+            "text": "Loteria",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:35:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 27218,
+            "text": "Desbloquear carteira",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T14:25:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 27220,
+            "text": "Seu saldo de %asset%",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T14:25:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 27222,
+            "text": "Fornecimento total de %asset%",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T14:26:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 7990,
+            "text": "BLOQUEADO",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 7994,
+            "text": "Colheita pendente",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 7998,
+            "text": "Novas recompensas por bloco",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 8000,
+            "text": "Total de CAKE queimado desde o lan\u00e7amento",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 8002,
+            "text": "Ver a Cozinha",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 8006,
+            "text": "Telegram",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 8008,
+            "text": "Blog",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 8010,
+            "text": "Github",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 8014,
+            "text": "Twitter",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 8016,
+            "text": "Depositar",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 8018,
+            "text": "Ganhos",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:37:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 28572,
+            "text": "Fa\u00e7a stake de tokens de LP para acumular CAKE",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:52:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 27694,
+            "text": "Voc\u00ea pode fazer a swap de volta a qualquer momento",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:03:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 27696,
+            "text": "%asset% ganho",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:03:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 27698,
+            "text": "Tokens em stake",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:04:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 28580,
+            "text": "Sempre que voc\u00ea coloca os tokens de CAKE em stake e os retina de stake, o contrato colher\u00e1 automaticamente as recompensas do CAKE para voc\u00ea!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:53:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 27706,
+            "text": "Tokens de XVS ganhos",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:06:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 27248,
+            "text": "As recompensas ser\u00e3o calculadas por bloco e o total de recompensas ser\u00e1 distribu\u00eddo automaticamente ao final do per\u00edodo de cultivo de cada projeto.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T14:31:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 27712,
+            "text": "Reserva",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:06:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 8068,
+            "text": "Em breve",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:41:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 8070,
+            "text": "APY",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:41:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 27714,
+            "text": "Liquidez total",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:07:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 8074,
+            "text": "Ver no BscScan",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:41:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 8076,
+            "text": "Pre\u00e7o do Cake",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-08T16:41:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 27716,
+            "text": "Tokens de %asset% ganhos",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:07:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 27254,
+            "text": "%num% blocos at\u00e9 o t\u00e9rmino do cultivo",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T14:31:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 11572,
+            "text": "Em breve...",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-10T13:38:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 27720,
+            "text": "Seu stake",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:07:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 27722,
+            "text": "O cultivo come\u00e7a em %num% blocos",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:07:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 27724,
+            "text": "Encerrado",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:08:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 27726,
+            "text": "O cultivo acaba em %num% blocos",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:08:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 11580,
+            "text": "Site do projeto",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-10T13:39:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 27734,
+            "text": "As recompensas s\u00e3o calculadas por bloco.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:10:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 20030,
+            "text": "Total",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:12:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 20032,
+            "text": "Fim",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:13:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 27736,
+            "text": "Ver site do projeto",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:10:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 20036,
+            "text": "Seu projeto? \ud83d\udc40",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:13:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 27738,
+            "text": "Crie um reserva para seu token",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:10:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 27740,
+            "text": "Inscreva-se agora",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:13:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 27742,
+            "text": "Rodada 1: COMPRA",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:13:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 20044,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:15:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 46670,
+            "text": "Use CAKE para comprar bilhetes, contribuindo para o fundo da loteria. A compra de bilhetes \u00e9 encerrada aproximadamente 30 minutos antes da loteria. Ganhe pr\u00eamios se 1, 2, 3 ou 4 dos n\u00fameros do seu bilhete corresponderem aos n\u00fameros vencedores e suas posi\u00e7\u00f5es! Boa sorte!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-13T02:03:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 27548,
+            "text": "Seus bilhetes totais para esta rodada",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T15:45:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 27550,
+            "text": "Comprar bilhete",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T15:45:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 20054,
+            "text": "Veja seus bilhetes",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:18:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 27552,
+            "text": "Tempo restante aproximado para a compra de bilhetes",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T15:45:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 27746,
+            "text": "Fechar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:14:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 27748,
+            "text": "\u00daltimos n\u00fameros vencedores",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:15:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 20064,
+            "text": "Bilhetes que acertaram 4 n\u00fameros:",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:20:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 20066,
+            "text": "Bilhetes que acertaram 3 n\u00fameros:",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:20:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 20068,
+            "text": "Bilhetes que acertaram 2 n\u00fameros:",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:20:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 27750,
+            "text": "Exportar n\u00fameros vencedores recentes",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:15:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 27676,
+            "text": "Insira a quantidade de bilhetes a serem comprados",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T17:57:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 27752,
+            "text": "M\u00e1x.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:15:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 20076,
+            "text": "%num% CAKE dispon\u00edvel",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:22:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 28586,
+            "text": "Seu montante deve ser um m\u00faltiplo de 10 CAKE",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:55:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 20080,
+            "text": "1 Bilhete = 10 CAKE",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-22T15:22:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 28588,
+            "text": "Voc\u00ea ganhar\u00e1: %num% CAKE",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:55:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 27760,
+            "text": "Cancelar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:16:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 27764,
+            "text": "Confirmar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:16:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 27766,
+            "text": "Aviso",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:16:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 27680,
+            "text": "As compras de bilhetes de loteria s\u00e3o definitivas.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T17:57:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 28590,
+            "text": "Seu CAKE n\u00e3o ser\u00e1 devolvido depois de ser usado para comprar bilhetes.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:56:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 27686,
+            "text": "Os bilhetes s\u00f3 podem ser usados para um sorteio da loteria e ser\u00e3o queimados ap\u00f3s o sorteio.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T17:59:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 27688,
+            "text": "A compra de bilhetes n\u00e3o garante que voc\u00ea ganhar\u00e1 algo. Por favor, s\u00f3 participe quando entender os riscos.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:00:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 27768,
+            "text": "Entendi",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:16:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 28592,
+            "text": "As compras de bilhetes s\u00e3o definitivas. Seu CAKE n\u00e3o pode ser devolvido ap\u00f3s a compra dos bilhetes.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:56:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 27772,
+            "text": "Reivindicar pr\u00eamios",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:17:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 28594,
+            "text": "Pr\u00eamios de CAKE a serem reivindicados",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:56:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 27778,
+            "text": "Rodada 2: REIVINDICA\u00c7\u00c3O",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:17:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 27732,
+            "text": "Voc\u00ea pode retirar de stake a qualquer momento.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:10:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 20692,
+            "text": "Confirma\u00e7\u00e3o pendente",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-23T12:29:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 20690,
+            "text": "Meus bilhetes (Total: %TICKETS%)",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-10-23T12:28:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 27782,
+            "text": "Tempo aproximado para a pr\u00f3xima loteria come\u00e7ar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:18:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 28596,
+            "text": "Aprovar CAKE",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:56:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 27934,
+            "text": "IFO: Oferta inicial da Fazenda",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:04:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 21598,
+            "text": "Compre novos tokens com um novo modelo de vendas de token.",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:11:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 28598,
+            "text": "Voc\u00ea pagar\u00e1 por novos tokens usando tokens de CAKE-BNB LP, o que significa que voc\u00ea ter\u00e1 que fazer o stake de montantes iguais de CAKE e BNB em uma reserva de liquidez para participar.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:56:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 21698,
+            "text": "Obtenha CAKE-BNB LP >",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:27:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 28600,
+            "text": "O projeto obt\u00e9m o BNB, PancakeSwap queima o CAKE.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:57:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 27942,
+            "text": "Voc\u00ea obt\u00e9m os tokens.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:09:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 21610,
+            "text": "Quer lan\u00e7ar seu pr\u00f3prio IFO?",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:14:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 27944,
+            "text": "Lance seu projeto com PancakeSwap, o provedor de liquidez e projeto AMM mais usado da Binance Smart Chain, para levar seu token diretamente para a comunidade mais ativa e de crescimento mais r\u00e1pido na BSC.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:12:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 27946,
+            "text": "Registre-se para lan\u00e7ar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:12:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 21618,
+            "text": "Comunidade",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:17:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 27950,
+            "text": "N\u00facleo",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:15:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 21628,
+            "text": "Acess\u00edvel",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:18:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 27952,
+            "text": "Minha carteira",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:15:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 21636,
+            "text": "Sair",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:18:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 21638,
+            "text": "Colher tudo (%count%)",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:19:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 28602,
+            "text": "Estat\u00edsticas de Cake",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:58:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 28604,
+            "text": "Fornecimento total de CAKE",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:58:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 21646,
+            "text": "Total de CAKE queimado",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:19:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 21648,
+            "text": "Novo CAKE\/bloco",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:20:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 27334,
+            "text": "Fazendas & Staking",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T14:51:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 28606,
+            "text": "CAKE a ser colhido",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:59:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 28608,
+            "text": "CAKE na carteira",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:59:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 21658,
+            "text": "Coletando CAKE",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:21:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 21660,
+            "text": "Seus ganhos na loteria",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:21:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 28610,
+            "text": "CAKE a ser coletado",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:59:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 21664,
+            "text": "Jackpot total nesta rodada",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:21:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 27972,
+            "text": "Coletar ganhos",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:17:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 27692,
+            "text": "Comprar bilhetes",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:01:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 27420,
+            "text": "Colher",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T15:09:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 27974,
+            "text": "Aprovar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:17:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 27978,
+            "text": "Selecionar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:17:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 27980,
+            "text": "N\u00fameros vencedores desta rodada",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:17:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 27984,
+            "text": "Reserva de staking",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:17:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 21690,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-16T10:23:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 27388,
+            "text": "O 1\u00ba Criador de Mercado Autom\u00e1tico (AMM) e fazenda de rendimento da Binance Smart Chain.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T15:02:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 28612,
+            "text": "Fa\u00e7a stake de CAKE para ganhar novos tokens.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T02:59:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 27992,
+            "text": "Hora de lan\u00e7amento",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:20:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 21946,
+            "text": "\u00c0 venda",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-17T11:39:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 28614,
+            "text": "CAKE a ser queimado (USD)",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:00:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 28004,
+            "text": "Retirar de stake",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:20:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 28616,
+            "text": "\u2b50\ufe0f Sempre que voc\u00ea coloca os tokens de LP em stake e os retina de stake, o contrato colher\u00e1 automaticamente as recompensas do CAKE para voc\u00ea!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:00:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 22124,
+            "text": "Como participar",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-18T13:08:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 22126,
+            "text": "Antes da venda",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-18T13:09:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 28618,
+            "text": "Compre tokens de CAKE e BNB",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:00:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 28620,
+            "text": "Obtenha tokens de CAKE-BNB LP adicionando liquidez de CAKE e BNB",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:00:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 22132,
+            "text": "Durante a venda",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-18T13:10:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 28622,
+            "text": "Enquanto a venda estiver ativa, comprometa seus tokens de CAKE-LP para a compra dos tokens de IFO",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:00:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 22136,
+            "text": "Depois da venda",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-18T13:13:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 22138,
+            "text": "Reivindique os tokens que voc\u00ea comprou, juntamente com os fundos n\u00e3o gastos.",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-11-18T13:13:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 28124,
+            "text": "Conclu\u00eddo!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:18:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 28126,
+            "text": "Ler mais",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:18:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 28128,
+            "text": "Conectar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:18:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 28624,
+            "text": "Negocie em troca de CAKE ou guarde em sua cole\u00e7\u00e3o!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:00:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 28360,
+            "text": "Inscreva-se abaixo para tentar ganhar um NFT.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T21:39:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 27902,
+            "text": "Inscreva-se para ter ganhar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:48:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 22962,
+            "text": "Saiba mais",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:05:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 28358,
+            "text": "Negociar NFT",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T21:38:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 22994,
+            "text": "Negocie",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:24:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 22964,
+            "text": "Voc\u00ea receber\u00e1",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:07:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 28626,
+            "text": "Ao negociar este NFT em troca de CAKE, voc\u00ea perder\u00e1 o acesso a ele para sempre!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:00:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 27912,
+            "text": "Reivindicar NFT",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:50:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 22972,
+            "text": "Como funciona",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:11:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 27914,
+            "text": "Os ganhadores poder\u00e3o reivindicar um NFT nesta p\u00e1gina assim que o per\u00edodo de resgate come\u00e7ar.",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:53:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 27916,
+            "text": "Se voc\u00ea n\u00e3o for selecionado, n\u00e3o poder\u00e1 resgatar. Mais sorte da pr\u00f3xima vez!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T18:54:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 28628,
+            "text": "Os vencedores podem negociar seus NFTs em troca de CAKE at\u00e9 a data de validade apresentada abaixo. Se voc\u00ea n\u00e3o negociar seu NFT at\u00e9 l\u00e1, n\u00e3o se preocupe: ele permanecer\u00e1 guardado em sua carteira!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:00:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 22984,
+            "text": "Como os ganhadores s\u00e3o selecionados?",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:21:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 27920,
+            "text": "Os ganhadores s\u00e3o selecionados de forma aleat\u00f3ria! Boa Sorte!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:00:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 27922,
+            "text": "Valor se negociando",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T19:00:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 23016,
+            "text": "N\u00famero cunhado",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:30:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 23014,
+            "text": "N\u00famero queimado",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:30:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 28356,
+            "text": "Reivindicar este NFT",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T21:38:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 23022,
+            "text": "Negocie por CAKE",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:32:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 23006,
+            "text": "Carregando\u2026",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:27:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 23004,
+            "text": "Detalhes",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:27:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 23002,
+            "text": "Voc\u00ea ganhou!",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:27:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 23068,
+            "text": "Reivindique um NFT das op\u00e7\u00f5es abaixo!",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:44:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 23020,
+            "text": "Pode ser negociado at\u00e9",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:31:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 23000,
+            "text": "Carteira desconectada",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:26:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 22998,
+            "text": "Conecte para ver se voc\u00ea ganhou um NFT!",
+            "user": {
+                "id": 14440850,
+                "username": "arrobaxbit",
+                "fullName": "arrobaxbit",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14440850\/medium\/55b28941c57977ac6c45498770abb6ed.jpg"
+            },
+            "createdAt": "2020-12-11T12:26:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 48256,
+            "text": "Iniciar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-15T16:42:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 28552,
+            "text": "Negocia\u00e7\u00e3o",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T00:48:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 27390,
+            "text": "Fazendas",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T15:02:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Staked Only"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 28136,
+            "text": "Reservas",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:22:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 28362,
+            "text": "NFT",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T21:39:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 28142,
+            "text": "Informa\u00e7\u00f5es",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:23:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 28144,
+            "text": "IFO",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:23:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 28146,
+            "text": "Mais",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:23:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 28148,
+            "text": "Liquidez",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:23:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 28150,
+            "text": "Vis\u00e3o geral",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:23:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 28152,
+            "text": "Token",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:23:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 28154,
+            "text": "Pares",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:23:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 28156,
+            "text": "Contas",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:23:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 28630,
+            "text": "Fa\u00e7a stake de tokens de LP para ganhar CAKE",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:01:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 28160,
+            "text": "Ativo",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:24:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 28162,
+            "text": "Inativo",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:24:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 28164,
+            "text": "Duplo",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:24:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 28166,
+            "text": "Composto",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:25:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 28168,
+            "text": "Retirar %asset% de stake",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:25:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 28632,
+            "text": "A loteria de CAKE",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:01:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 28634,
+            "text": "Use CAKE para comprar bilhetes",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:01:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 28174,
+            "text": "Ganhe se 2, 3 ou 4 dos n\u00fameros do seu bilhete corresponderem!",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:26:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 28178,
+            "text": "Pr\u00f3ximo sorteio",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:27:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 28180,
+            "text": "\u00daltimo sorteio",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:27:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 28182,
+            "text": "Rodada %num%",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:27:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 28184,
+            "text": "Fundo total",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:27:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 28186,
+            "text": "Seus bilhetes para esta rodada",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:27:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 28188,
+            "text": "Sinto muito, n\u00e3o h\u00e1 pr\u00eamios a serem coletados",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:28:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 28190,
+            "text": "Na carteira",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:28:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 28192,
+            "text": "Carregando...",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:28:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 28194,
+            "text": "Pr\u00f3ximo IFO",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:28:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 28196,
+            "text": "\u00daltimos IFOs",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:28:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Stake LP tokens para ganhar FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 28198,
+            "text": "APR",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:28:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Liquidez Total"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 28650,
+            "text": "Reserva de Syrup",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-03T03:03:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Apostada"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 28176,
+            "text": "%time% at\u00e9 o sorteio da loteria",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:27:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Aprovar Contrato"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 28200,
+            "text": "Selecionar n\u00famero da loteria:",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:28:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Merecida"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 28202,
+            "text": "Buscar",
+            "user": {
+                "id": 12717268,
+                "username": "GZTranslations",
+                "fullName": "Jos\u00e9 Helbert Pina",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12717268\/medium\/10edd2bd9077d157967ca0ccb0fd7ddb.png"
+            },
+            "createdAt": "2021-02-02T20:28:54+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

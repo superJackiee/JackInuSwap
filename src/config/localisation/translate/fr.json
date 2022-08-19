@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Jetons LP de mise"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Annuler"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "En attente de confirmation"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Confirmer"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Obtenir"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Dégager des jetons LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Dégager"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 46684,
+            "text": "Farming",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-13T10:17:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 9346,
+            "text": "Staking",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 38964,
+            "text": "Conversion",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 18708,
+            "text": "Documentation",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T18:49:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 18712,
+            "text": "Votes",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T18:50:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9606,
+            "text": "Loterie",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 38966,
+            "text": "D\u00e9verrouiller le portefeuille",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 18716,
+            "text": "Votre solde de %asset%",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T18:51:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 38968,
+            "text": "R\u00e9serve totale de %asset%",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 38970,
+            "text": "VERROUILL\u00c9",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 38972,
+            "text": "R\u00e9cup\u00e9ration en attente",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 38974,
+            "text": "Nouvelles r\u00e9compenses par bloc",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 18724,
+            "text": "Quantit\u00e9 totale de CAKE d\u00e9truits depuis le lancement",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T18:55:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 18726,
+            "text": "Aller en cuisine",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T18:56:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10072,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10124,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10176,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10228,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 18728,
+            "text": "Faire un d\u00e9p\u00f4t",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T18:56:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 38976,
+            "text": "Gain",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 47294,
+            "text": "Mettez vos jetons LP en staking pour gagner des CAKE",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-15T09:12:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 38986,
+            "text": "Vous pouvez effectuer un swap dans l'autre sens \u00e0 tout moment",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 18736,
+            "text": "%asset% gagn\u00e9s",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T19:12:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 47300,
+            "text": "Jetons en staking",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-15T09:12:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 46794,
+            "text": "Chaque fois que vous empilez et retirez (staking) des jetons CAKE, le contrat vous versera les CAKE accumul\u00e9s automatiquement\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-13T10:49:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 38996,
+            "text": "Jetons XVS gagn\u00e9s",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 18748,
+            "text": "Les r\u00e9compenses seront calcul\u00e9es par bloc et le total sera distribu\u00e9 automatiquement \u00e0 la fin de la p\u00e9riode de farming de chaque projet.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T19:15:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11108,
+            "text": "Pool",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11160,
+            "text": "Bient\u00f4t disponible",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 18752,
+            "text": "APY",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T19:15:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11262,
+            "text": "Liquidit\u00e9 totale",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 11312,
+            "text": "Voir sur BscScan",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 39000,
+            "text": "Prix du Cake",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 39002,
+            "text": "Jetons %asset% gagn\u00e9s",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 18756,
+            "text": "%num% blocs avant la fin du farming",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T19:17:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 39006,
+            "text": "Bient\u00f4t disponible...",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 18762,
+            "text": "Votre part",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T19:19:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 18764,
+            "text": "Le farming commence dans %num% blocs",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T19:20:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 39008,
+            "text": "Termin\u00e9(e)",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 18766,
+            "text": "Le farming se termine dans %num% blocs",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-15T19:20:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 12210,
+            "text": "Site du projet",
+            "user": {
+                "id": 14439084,
+                "username": "OTTOOO7",
+                "fullName": "OTTOOO7",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/6687429f22969fc4a1cf6426a7f6901b?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T18:34:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 20214,
+            "text": "Les r\u00e9compenses sont calcul\u00e9es \u00e0 chaque bloc.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:10:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 20216,
+            "text": "Total",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:10:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 20218,
+            "text": "Fin",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:10:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 39016,
+            "text": "Voir le site du projet",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 39018,
+            "text": "Votre projet\u00a0? \ud83d\udc40",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 39020,
+            "text": "Cr\u00e9er un pool pour votre jeton",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 46700,
+            "text": "Soumettre votre proposition",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-13T10:25:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 39024,
+            "text": "\u00c9tape\u00a01\u00a0: ACHETER",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 20232,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:12:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 46716,
+            "text": "D\u00e9pensez des CAKE pour acheter des tickets, en augmentant ainsi la taille de la cagnotte. Les ventes de tickets se terminent environ 30\u00a0minutes avant le tirage au sort. Vous gagnez des prix si 2, 3, ou 4\u00a0chiffres de vos tickets co\u00efncident avec les num\u00e9ros gagnants et leurs positions\u00a0! Bonne chance\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-13T10:31:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 20272,
+            "text": "Votre quantit\u00e9 totale de tickets pour le prochain tirage",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:45:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 20274,
+            "text": "Acheter un ticket",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:45:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 20276,
+            "text": "Voir vos tickets",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:45:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 20278,
+            "text": "Temps restant pour acheter des tickets",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:46:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 20254,
+            "text": "Fermer",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:50:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 20258,
+            "text": "Derniers num\u00e9ros gagnants",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:51:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 39030,
+            "text": "Tickets avec 4\u00a0num\u00e9ros gagnants\u00a0:",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 39032,
+            "text": "Tickets avec 3\u00a0num\u00e9ros gagnants\u00a0:",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 39034,
+            "text": "Tickets avec 2\u00a0num\u00e9ros gagnants\u00a0:",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 20252,
+            "text": "Exporter les num\u00e9ros gagnants r\u00e9cents",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:50:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 20250,
+            "text": "Saisir le nombre de tickets \u00e0 acheter",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:49:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 20246,
+            "text": "Max",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:49:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 39036,
+            "text": "%num% CAKE disponible(s)",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 39038,
+            "text": "La quantit\u00e9 doit \u00eatre un multiple de 10\u00a0CAKE",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 39040,
+            "text": "1\u00a0ticket = 10\u00a0CAKE",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 20268,
+            "text": "Vous allez d\u00e9penser %num% CAKE",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:52:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 20240,
+            "text": "Annuler",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:49:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 20242,
+            "text": "Confirmer",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:49:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 20244,
+            "text": "Avertissement",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:49:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 21052,
+            "text": "Les achats de tickets sont d\u00e9finitifs.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-25T17:20:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 20282,
+            "text": "Le montant de CAKE d\u00e9pens\u00e9 ne sera pas rembours\u00e9 une fois les tickets achet\u00e9s.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:46:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 20284,
+            "text": "Les tickets ne sont valides que pour un tirage au sort et seront d\u00e9truits apr\u00e8s celui-ci.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:47:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 20286,
+            "text": "Acheter un ticket ne garantit pas un gain. Veuillez ne participer que si vous comprenez les risques.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:47:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 20288,
+            "text": "Je comprends",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:47:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 39042,
+            "text": "Les achats de tickets sont d\u00e9finitifs. Vos CAKE ne peuvent pas \u00eatre rembours\u00e9s suite \u00e0 l'achat.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 39044,
+            "text": "Retirer les gains",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 20294,
+            "text": "Gain de CAKE \u00e0 retirer",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T19:48:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 39046,
+            "text": "\u00c9tape\u00a02\u00a0: RETRAIT DES GAINS",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 20212,
+            "text": "Vous pouvez retirer vos fonds \u00e0 tout moment.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T16:10:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 20814,
+            "text": "En attente de confirmation",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-24T11:27:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 39028,
+            "text": "Mes tickets (total\u00a0: %TICKETS%)",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 20816,
+            "text": "Temps restant avant la prochaine loterie",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-24T11:28:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 39048,
+            "text": "Approuver les CAKE",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 39050,
+            "text": "IFO\u00a0: offres de farming initiales (Intitial Farm Offerings)",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 39052,
+            "text": "Achetez de nouveaux jetons via un m\u00e9canisme de vente innovant.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 39054,
+            "text": "Vous achetez les nouveaux jetons \u00e0 l'aide de jetons LP CAKE-BNB, ce qui signifie que vous devez ajouter des CAKE et des BNB dans un pool de liquidit\u00e9s pour pouvoir participer.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 21966,
+            "text": "Obtenir des LP CAKE-BNB >",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:47:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 21968,
+            "text": "Le projet obtient les BNB, PancakeSwap d\u00e9truit les CAKE.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:47:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 39056,
+            "text": "Vous obtenez les jetons.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 39058,
+            "text": "Vous voulez lancer votre propre IFO\u00a0?",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 39060,
+            "text": "Lancez votre projet avec PancakeSwap, le projet AMM et fournisseur de liquidit\u00e9s le plus utilis\u00e9 de Binance Smart Chain, afin de proposer directement votre jeton \u00e0 la communaut\u00e9 de BSC la plus active et en plein expansion.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 39062,
+            "text": "Proposer",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 21980,
+            "text": "Communaut\u00e9",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:49:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 21982,
+            "text": "Core",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:50:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 21984,
+            "text": "Disponible",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:50:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 39066,
+            "text": "Mon portefeuille",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 21988,
+            "text": "D\u00e9connexion",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:50:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 21990,
+            "text": "Tout r\u00e9cup\u00e9rer (%count%)",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:51:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 21992,
+            "text": "Statistiques de Cake",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:51:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 21994,
+            "text": "Quantit\u00e9 totale de CAKE",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:51:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 21996,
+            "text": "Quantit\u00e9 de CAKE d\u00e9truite",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:52:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 21998,
+            "text": "Quantit\u00e9 de CAKE\/bloc",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:52:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 39068,
+            "text": "Farming et staking",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 22002,
+            "text": "CAKE \u00e0 r\u00e9cup\u00e9rer",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:53:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 39070,
+            "text": "CAKE dans votre portefeuille",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 22006,
+            "text": "R\u00e9cup\u00e9ration des CAKE",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:54:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 22008,
+            "text": "Vos gains de la loterie",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:54:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 22010,
+            "text": "CAKE \u00e0 r\u00e9cup\u00e9rer",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:54:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 39072,
+            "text": "Montant de la cagnotte",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 38606,
+            "text": "R\u00e9cup\u00e9rer les gains",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:45:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 22016,
+            "text": "Acheter des tickets",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:54:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 22018,
+            "text": "R\u00e9cup\u00e9rer",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:54:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 22020,
+            "text": "Approuver",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:54:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 22024,
+            "text": "S\u00e9lectionner",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:54:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 22026,
+            "text": "Num\u00e9ros gagnants du tirage actuel",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:55:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 22030,
+            "text": "Pool de staking",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:55:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 22032,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:55:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 44274,
+            "text": "La plateforme AMM et de farming num\u00e9ro 1 sur Binance Smart Chain.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-08T08:33:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 47322,
+            "text": "Mettez des CAKE en staking pour gagner de nouveaux jetons.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-15T09:14:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 39080,
+            "text": "Heure de lancement",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 39082,
+            "text": "\u00c0 vendre",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 22042,
+            "text": "CAKE \u00e0 d\u00e9truire (USD)",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-17T17:56:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 39084,
+            "text": "Retirer",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 46796,
+            "text": "\u2b50\ufe0f Chaque fois que vous empilez et retirez (staking) des jetons LP, le contrat vous versera les CAKE accumul\u00e9s automatiquement\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-13T10:49:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 22332,
+            "text": "Comment participer",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T20:19:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 22334,
+            "text": "Avant la vente",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T20:19:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 39088,
+            "text": "Achetez des jetons CAKE et BNB",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 22338,
+            "text": "Obtenez des LP CAKE-BNB en ajoutant de la liquidit\u00e9 en CAKE et en BNB",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T20:19:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 22340,
+            "text": "Pendant la vente",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T20:19:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 39090,
+            "text": "Lorsque la vente est active, faites une demande d'achat pour les jetons de l'IFO avec vos CAKE-LP.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 22344,
+            "text": "Apr\u00e8s la vente",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T20:20:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 39092,
+            "text": "Demandez le retrait des jetons que vous avez acquis, ainsi que les fonds inutilis\u00e9s.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 39094,
+            "text": "C'est fait\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 22350,
+            "text": "En savoir plus",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T20:21:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 23282,
+            "text": "Connecter",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:45:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 39096,
+            "text": "\u00c9changer contre des CAKE ou conserver dans votre collection personnelle\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 39098,
+            "text": "Indiquez votre int\u00e9r\u00eat de gagner un NFT ci-dessous.",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 39100,
+            "text": "Inscrivez-vous pour obtenir une chance de gagner",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 23290,
+            "text": "En savoir plus",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:46:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 39102,
+            "text": "\u00c9changer en NFT",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 39104,
+            "text": "\u00c9changer",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 23296,
+            "text": "Vous recevrez",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:46:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 39106,
+            "text": "Lorsque vous \u00e9changez ce NFT contre des CAKE, vous n\u2019y aurez plus jamais acc\u00e8s\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 23300,
+            "text": "R\u00e9cup\u00e9rer votre NFT",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:48:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 39108,
+            "text": "Fonctionnement",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 23304,
+            "text": "Les gagnants pourront demander leur NFT sur cette page une fois que la p\u00e9riode de distribution sera ouverte.",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:49:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 39110,
+            "text": "Si vous n'\u00eates pas s\u00e9lectionn\u00e9(e), vous ne pourrez pas r\u00e9cup\u00e9rer de NFT. Vous aurez plus de chance la prochaine fois\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 39112,
+            "text": "Les gagnants peuvent \u00e9changer leurs NFT contre des CAKE jusqu'\u00e0 la date renseign\u00e9e ci-dessous. Si vous ne les \u00e9changez pas avant cette date, vous les conserverez dans votre portefeuille\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 39114,
+            "text": "Comment fonctionne la s\u00e9lection des gagnants\u00a0?",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 39116,
+            "text": "Les gagnants sont tir\u00e9s au sort al\u00e9atoirement\u00a0! Bonne chance\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 44314,
+            "text": "Valeur en cas d\u2019\u00e9change",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-08T15:17:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 23318,
+            "text": "Quantit\u00e9 cr\u00e9\u00e9e",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:52:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 23320,
+            "text": "Quantit\u00e9 d\u00e9truite",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:52:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 39120,
+            "text": "R\u00e9cup\u00e9rer ce NFT",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 39122,
+            "text": "\u00c9changer contre des CAKE",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 23326,
+            "text": "Chargement...",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:52:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 23328,
+            "text": "D\u00e9tails",
+            "user": {
+                "id": 14455720,
+                "username": "Asche_cake",
+                "fullName": "Asche_cake",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b2ef8fca1bc9f3486d88af54d97c89f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-12T10:52:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 39124,
+            "text": "Vous avez gagn\u00e9\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 39126,
+            "text": "R\u00e9cup\u00e9rer un NFT parmi les options ci-dessous\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 39128,
+            "text": "Impossible d\u2019\u00e9changer jusqu'au",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 39130,
+            "text": "Portefeuille d\u00e9connect\u00e9",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 39132,
+            "text": "Connectez-vous pour savoir si vous avez gagn\u00e9 un NFT\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 24168,
+            "text": "Accueil",
+            "user": {
+                "id": 14601294,
+                "username": "GaetanL",
+                "fullName": "GaetanL",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1995d2b4ef8576bac7a599b2cbe53370?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-01-30T12:35:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 39134,
+            "text": "Transaction",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 39136,
+            "text": "Farming",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Jalonné seulement"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 39138,
+            "text": "Pools",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 39140,
+            "text": "NFT",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 39142,
+            "text": "Infos",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 39144,
+            "text": "IFO",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 39146,
+            "text": "Plus",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 39148,
+            "text": "Liquidit\u00e9",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 39150,
+            "text": "Aper\u00e7u",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 39152,
+            "text": "Jeton",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 39154,
+            "text": "Paires",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 39156,
+            "text": "Comptes",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 47326,
+            "text": "Mettez vos jetons LP en staking pour gagner des CAKE",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-15T09:14:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 39160,
+            "text": "Actifs",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 39162,
+            "text": "Inactifs",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 39164,
+            "text": "Double",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 47242,
+            "text": "Cumuler",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-15T08:49:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 39168,
+            "text": "Retirer les %asset%",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 39170,
+            "text": "La loterie CAKE",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 39172,
+            "text": "Achetez des tickets avec des CAKE",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 39174,
+            "text": "Gagnez si 2, 3 ou 4 de vos num\u00e9ros correspondent\u00a0!",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 39178,
+            "text": "Prochain tirage",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 39180,
+            "text": "Tirages pass\u00e9s",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 39182,
+            "text": "Tirage %num%",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 46718,
+            "text": "Cagnotte totale",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-13T10:32:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 39186,
+            "text": "Vos tickets pour ce tirage",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 39188,
+            "text": "Dommage, aucun prix \u00e0 gagner",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 39190,
+            "text": "En portefeuille",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 39192,
+            "text": "Chargement...",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 39194,
+            "text": "IFO suivant",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 39196,
+            "text": "IFO pass\u00e9s",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Misez des jetons LP pour gagner FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 39198,
+            "text": "APR",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Liquidité totale"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 38962,
+            "text": "Pool de Syrup",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Jalonné"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 39176,
+            "text": "%time% avant le tirage au sort",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Approuver le contrat"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 39200,
+            "text": "S\u00e9lectionnez le num\u00e9ro de loterie\u00a0:",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Gagné"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 39202,
+            "text": "Rechercher",
+            "user": {
+                "id": 14166201,
+                "username": "judekindt",
+                "fullName": "judekindt",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/3b4df0b4edd84804199f6286931aa2b7?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:32:59+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

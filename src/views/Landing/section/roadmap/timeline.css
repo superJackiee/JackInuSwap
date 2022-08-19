@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+.circle-bar{
+  margin-top: 20px;
+  
+  height: 500px;
+  
+  background: #0b0c22;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle-div{
+  width: 100%;
+  height: 407px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle-text{
+  height: 40px;
+  font-family: 'Poppins', sans-serif;;
+  font-size: 15px;
+  color: white;
+}
+
+.circle{
+  width: 19px;
+  height: 19px;
+  border: solid 1px #D2793D;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle-color{
+  background: #D2793D;
+}
+.circle-line{
+  width: 1px;
+  height: 407px;
+  margin-top: 30px;
+  background: #D2793D;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.inset-circle-bar{
+  height: 300px;
+  margin-top: -40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left{
+  margin-left: 25px;
+  text-align: left;
+}
+
+.right{
+  margin-right: 25px;
+  text-align: right;
+}
+
+.circle-left{
+  margin-top: 40px;
+}
+
+.circle-right{
+  margin-top: 40px;
+}
+
+.black{
+  background: #0b0c22;
+}
+
+.check-icon{
+  width: 12px;
+  color: white !important;
+}
+
+.none{
+  display: none;
+}
+
+.right-hide-text{
+  display: none;
+}
+
+@media (max-width: 600px){
+  .circle-left{
+    display: none;
+  }
+  .right-hide-text{
+    display: block;
+  }
+}
+@media (max-width: 400px){
+  .circle-text{
+    font-size: 13px;
+  }
+  .circle-bar{
+    margin-right: 0px;
+  }
+}

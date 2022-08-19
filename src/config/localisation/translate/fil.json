@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Mga token ng stake LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Kanselahin"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Nakabinbing Pagkumpirma"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Kumpirmahin"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Kunin mo"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Hindi tumatagal na mga token ng LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Unstake"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 31724,
+            "text": "Farm",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:02:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 9394,
+            "text": "Pag-iistake",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9498,
+            "text": "Palitan",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9550,
+            "text": "Mga Dokumento",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9602,
+            "text": "Pagboto",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9654,
+            "text": "Loterya",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 9706,
+            "text": "I-unlock ang wallet",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 9756,
+            "text": "Ang balanse ng iyong %asset%",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 9808,
+            "text": "Kabuuang supply ng %asset%",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 30904,
+            "text": "NAKA-LOCK",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:54:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 9912,
+            "text": "Nakabinbin na ani",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 30930,
+            "text": "Mga panibagong gantimpala kada block",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:55:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 30948,
+            "text": "Kabuuang Cake na na-burn simula nung na-launch",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:56:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 30962,
+            "text": "Tingnan ang Kusina",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:57:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10120,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10172,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10224,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10276,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 10328,
+            "text": "Deposito",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 10380,
+            "text": "Kumita",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 31042,
+            "text": "Mag stake ng mga LP token para makapag-stack ng CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:03:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 31072,
+            "text": "Pwede mong i-swap back kahit anong oras",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:05:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 31104,
+            "text": "%asset% na Kinita",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:06:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 10740,
+            "text": "Mga token na naka-stake",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 31196,
+            "text": "Sa bawat oras na ikaw ay mag-stake o un-stake ng iyong mga Cake token, ang kontrata ay awtomatikong mag-haharvest ng Cake na gantimpala para sa iyo!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:11:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 31298,
+            "text": "Mga Kinitang XVS Token",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:15:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 11104,
+            "text": "Ang mga gantimpala ay naka-kalkula bawat block at ang kabuuang mga gantimpala ay awtomatikong ibabahagi sa pagkatapos ng farming period ng isang proyekto.",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11156,
+            "text": "Pool",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11208,
+            "text": "Paparating",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11258,
+            "text": "APY",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11308,
+            "text": "Kabuuang Liquidity",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 31324,
+            "text": "Tingnan sa BscScan",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:16:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11408,
+            "text": "Ang presyo ng cake",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 11458,
+            "text": "%asset% Kinitang Tokens",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 11510,
+            "text": "%num% Mga block hanggang matapos ang farming",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 13498,
+            "text": "Paparating...",
+            "user": {
+                "id": 14439108,
+                "username": "vincent_crypto",
+                "fullName": "Vincent Macalino",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439108\/medium\/fed32b134dd3520ab3a9188b37b19c69.jpeg"
+            },
+            "createdAt": "2020-10-11T10:20:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 31374,
+            "text": "Ang Iyong Stake",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:20:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 31384,
+            "text": "Ang farming ay magsisimula sa %num% na mga Block",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:21:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 13608,
+            "text": "Tapos na",
+            "user": {
+                "id": 14439108,
+                "username": "vincent_crypto",
+                "fullName": "Vincent Macalino",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439108\/medium\/fed32b134dd3520ab3a9188b37b19c69.jpeg"
+            },
+            "createdAt": "2020-10-11T10:21:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 31408,
+            "text": "Ang farming ay magtatapos sa %num% na mga block",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:23:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 31418,
+            "text": "Site ng Proyekto",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:24:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 26712,
+            "text": "Ang mga gantimpala ay kinakalkula kada block.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:21:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 26714,
+            "text": "Kabuuan",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:21:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 26716,
+            "text": "End",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:21:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 26718,
+            "text": "Tingnan ang site ng proyekto",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:21:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 26722,
+            "text": "Ang iyong Proyekto? \ud83d\udc40",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:21:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 26724,
+            "text": "Lumikha ng isang pool para sa iyong token",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:22:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 26726,
+            "text": "Mag-apply ngayon",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:22:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 26728,
+            "text": "Round 1: PAG-BILI",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:22:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 26732,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:22:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 26738,
+            "text": "Gumastos ng CAKE upang makabili ng mga ticket, na nag-aambag sa pot ng lottery. Magtatapos ang mga pagbili ng ticket sa tinatayang 30 minuto bago ang loterya. Manalo ng mga premyo kung ang 2, 3, o 4 ng iyong mga numero ng ticket ay tumutugma sa mga nanalong numero at kanilang mga posisyon! Good luck!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:26:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 26740,
+            "text": "Ang iyong kabuuang mga ticket para sa round na ito",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:26:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 26742,
+            "text": "Bumili ng ticket",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:26:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 26744,
+            "text": "Tingnan ang iyong mga ticket",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:26:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 26746,
+            "text": "Tinatayang nalalabing oras upang bumili ng mga ticket",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:27:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 26752,
+            "text": "Isara",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:27:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 26754,
+            "text": "Pinakabagong Mga Nagwaging Numero",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:28:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 26756,
+            "text": "Ang mga ticket na nag-match sa 4 na numero:",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:29:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 26758,
+            "text": "Ang mga ticket na nag-match sa 3 na numero:",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:29:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 26760,
+            "text": "Ang mga ticket na nag-match sa 2 numero:",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:29:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 26764,
+            "text": "I-export ang kamakailang mga nagwaging numero",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:29:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 26766,
+            "text": "Ilagay ang dami ng mga ticket na bibilhin",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:30:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 26768,
+            "text": "Max",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:30:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 26770,
+            "text": "%num% CAKE na Available",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:30:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 26778,
+            "text": "Ang iyong kabuuang halaga ay dapat nasa dami ng 10 CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:33:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 26782,
+            "text": "1 Ticket = 10 CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:33:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 26788,
+            "text": "Gagastos ka ng: %num% CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:33:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 26790,
+            "text": "Kanselahin",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:34:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 26792,
+            "text": "Kumpirmahin",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:34:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 26794,
+            "text": "Babala",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:34:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 26844,
+            "text": "Ang mga pagbili ng ticket sa loterya ay final.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:39:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 26800,
+            "text": "Ang iyong CAKE ay hindi na ibabalik sa iyo pagkatapos mong gastusin ito upang bumili ng mga ticket.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:36:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 26818,
+            "text": "Ang mga ticket ay may bisa lamang para sa isang draw ng loterya, at i-burn pagkatapos ng draw.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:37:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 26826,
+            "text": "Ang pagbili ng mga ticket ay hindi ginagarantiyahang mananalo ka ng anuman. Mangyaring lumahok lamang sa sandaling maunawaan mo ang mga panganib.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:38:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 26828,
+            "text": "Naiintindihan ko",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:38:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 31852,
+            "text": "Final ang mga pagbili ng ticket. Hindi maibabalik sa iyo ang iyong CAKE pagkatapos bumili ng mga ticket.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:26:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 26846,
+            "text": "I-claim ang mga premyo",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:40:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 26850,
+            "text": "Ang mga premyo sa CAKE na mai-claim",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:40:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 26854,
+            "text": "Round 2: PAG-CLAIM",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:40:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 26710,
+            "text": "Maaari mong ma-unstake sa anumang oras.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:20:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 26864,
+            "text": "Naka-pending para sa Kumpirmasyon",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:41:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 26750,
+            "text": "Aking mga Ticket (Kabuaan: %TICKETS%)",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:27:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 26868,
+            "text": "Tinatayang oras bago ang susunod na pagsisimula ng loterya",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:41:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 26874,
+            "text": "Aprubahan ang CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:42:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 26880,
+            "text": "IFO: Mga Panimulang Alok ng Farm",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:43:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 26882,
+            "text": "Bumili ng mga bagong token sa isang bagong modelo ng pag-sale ng token.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:45:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 26892,
+            "text": "Magbabayad ka para sa mga bagong token na gamit ang mga CAKE-BNB LP token, na nangangahulugang kailangan mong tumaya ng pantay na halaga ng CAKE at BNB sa isang liquidity pool upang makalahok.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:46:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 26894,
+            "text": "Kumuha ng CAKE-BNB LP >",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:46:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 28826,
+            "text": "Nakuha ng proyektong ito ang BNB, na-burn naman ng PancakeSwap ang CAKE.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:42:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 28828,
+            "text": "Makukuha mo ang mga token.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:43:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 28830,
+            "text": "Nais mo bang i-launch ang iyong sariling IFO?",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:44:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 31720,
+            "text": "I-launch ang iyong proyekto gamit ang PancakeSwap, ang Binance Smart Chain na pinaka-ginagamit na proyekto ng AMM at provider ng liquidity, upang direktang dalhin ang iyong token sa pinaka-aktibo at mabilis na lumalagong komunidad sa BSC.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:00:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 28834,
+            "text": "Mag-apply upang i-launch",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:51:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 28838,
+            "text": "Komunidad",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:52:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 28840,
+            "text": "Core",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:52:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 28842,
+            "text": "Available",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:52:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 28844,
+            "text": "Aking Wallet",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:52:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 28846,
+            "text": "Mag-sign out",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:52:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 28848,
+            "text": "I-harvest ang lahat na (%count%)",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:53:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 28850,
+            "text": "Stats ng Cake",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:53:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 28852,
+            "text": "Kabuuang supply ng CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:54:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 28856,
+            "text": "Kabuuang CAKE na Na-burn",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:55:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 28858,
+            "text": "Bagong CAKE\/block",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:55:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 28860,
+            "text": "Mga farm at Staking",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:55:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 28864,
+            "text": "CAKE na Ma-harvest",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:56:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 28866,
+            "text": "CAKE sa Wallet",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:56:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 28868,
+            "text": "Kinukulektang CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:58:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 28902,
+            "text": "Ang Iyong mga Pagkakapanalo sa Loterya",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:00:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 28876,
+            "text": "CAKE para Ma-Kolekta",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:58:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 28878,
+            "text": "Kabuuang jackpot sa round na ito",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:59:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 28888,
+            "text": "Kulektahin ang mga Pagkakapanalo",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T05:59:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 28904,
+            "text": "Bumili ng mga Ticket",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:00:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 28906,
+            "text": "Mag-harvest",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:00:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 28908,
+            "text": "Aprubahan",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:00:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 28912,
+            "text": "Pumili",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:01:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 28914,
+            "text": "Mga Nanalong Numero sa Round na Ito",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:02:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 28916,
+            "text": "Pag-stake sa Pool",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:02:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 28918,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:02:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 28920,
+            "text": "Ang #1 AMM at umani sa farm sa Binance Smart Chain.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:03:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 28922,
+            "text": "Mag-stake ng CAKE upang kumita ng mga bagong token.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:03:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 28924,
+            "text": "Oras ng Pag-launch",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:03:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 32142,
+            "text": "Para I-sale",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T13:06:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 28928,
+            "text": "CAKE para i-burn (USD)",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:04:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 28930,
+            "text": "I-unstake",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:04:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 28932,
+            "text": "\u2b50\ufe0f Sa bawat oras na ikaw ay mag-stake o un-stake ng iyong mga LP token, ang kontrata ay awtomatikong mag-harvest ng Cake na iyong gantimpala para sa iyo!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:05:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 28934,
+            "text": "Papaano sumali",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:05:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 28936,
+            "text": "Bago Mag-sale",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:05:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 28938,
+            "text": "Bumili ng CAKE at mga BNB na token",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:05:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 28940,
+            "text": "Kumuha ng mga CAKE-BNB LP token sa pagdaragdag ng CAKE at BNB liquidity",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:06:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 28942,
+            "text": "Habang may Sale",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:08:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 28944,
+            "text": "Habang live ang sale, mag-commit ng iyong mga CAKE-LP token sa pagbili ng mga IFO token",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:08:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 28946,
+            "text": "Pagkatapos ng Sale",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:09:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 28948,
+            "text": "I-claim ang mga token na iyong binili, kasama ang anumang hindi nagamit na mga pondo.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:10:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 28950,
+            "text": "Tapos na!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:10:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 32184,
+            "text": "Basahin ang iba pa",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T13:10:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 28954,
+            "text": "Connect",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:10:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 26896,
+            "text": "Mag-trade in para sa CAKE, o panatilihin para sa iyong koleksyon!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:46:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 26900,
+            "text": "Irehistro ang iyong interes sa pagwawagi ng isang NFT sa ibaba.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:46:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 26902,
+            "text": "Magrehistro para sa isang pagkakataong manalo",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:47:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 32212,
+            "text": "Alamin ang iba pa",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T13:11:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 26906,
+            "text": "Mag-trade sa NFT",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:47:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 26908,
+            "text": "Mag-trade sa",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:47:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 26910,
+            "text": "Makakatanggap ka ng",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:48:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 26926,
+            "text": "Kapag nag-trade ka sa NFT na ito upang makatanggap ng CAKE, mawawalan ka ng access dito magpakailanman!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:49:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 26928,
+            "text": "I-claim ang NFT",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:49:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 26932,
+            "text": "Paano ito gumagana",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:49:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 26940,
+            "text": "Ang mga nagwagi ay maaaring i-claim ang isang NFT sa pahinang ito sa sandaling magsimula ang panahon ng pag-claim.",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:50:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 26944,
+            "text": "Kung hindi ka napili, hindi ka makakapag-claim. Baka palarin ka sa susunod!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:52:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 26956,
+            "text": "Ang mga nagwagi ay maaaring i-trade in ang kanilang mga NFT para sa isang CAKE value hanggang sa petsa ng pag-expire na nakasulat sa ibaba. Kung hindi mo i-trade in ang iyong NFT sa panahong iyon, huwag mag-alala: mananatili pa rin ito sa iyong wallet!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:55:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 26958,
+            "text": "Paano pinipili ang mga nagwagi?",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:56:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 26960,
+            "text": "Ang mga nagwagi ay pinili nang sapalaran! Good luck!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:56:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 26962,
+            "text": "Ang value kapag na-trade in",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:57:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 26964,
+            "text": "Numerong na-mint",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:57:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 26966,
+            "text": "Numerong na-burn",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:57:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 26968,
+            "text": "I-claim ang NFT na ito",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:57:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 26970,
+            "text": "Mag-trade in para sa CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:57:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 26972,
+            "text": "Nag-loload\u2026",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:57:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 26974,
+            "text": "Mga detalye",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:57:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 26976,
+            "text": "Nanalo ka!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T13:58:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 28956,
+            "text": "I-claim ang NFT mula sa mga opsyon sa ibaba!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:10:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 28958,
+            "text": "Maaaring ma-trade hanggang",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:10:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 28960,
+            "text": "Na-disconnect ang Wallet",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:11:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 28962,
+            "text": "Mag-connect upang makita kung nanalo ka ng NFT!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:11:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 28964,
+            "text": "Home",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:11:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 28966,
+            "text": "Trade",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:11:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 28968,
+            "text": "Mga farm",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:11:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Staked Lamang"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 28970,
+            "text": "Mga pool",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:12:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 28972,
+            "text": "NFT",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:12:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 28974,
+            "text": "Info",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:12:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 28976,
+            "text": "IFO",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:12:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 28978,
+            "text": "Higit pa",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:12:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 28980,
+            "text": "Liquidity",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T06:12:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 29520,
+            "text": "Overview",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T07:40:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 29522,
+            "text": "Token",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T07:41:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 29526,
+            "text": "Magkapareha",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T07:44:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 29528,
+            "text": "Mga account",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T07:44:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 29530,
+            "text": "Mag stake ng mga LP token para kumita ng CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T07:52:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 29548,
+            "text": "Aktibo",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:05:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 29556,
+            "text": "Hindi aktibo",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:11:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 29558,
+            "text": "Dual",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:12:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 29560,
+            "text": "Compound",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:19:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 29562,
+            "text": "I-unstake %asset%",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:19:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 32014,
+            "text": "Ang loterya sa CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:51:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 29566,
+            "text": "Bumili ng mga ticket sa CAKE",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:26:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 29568,
+            "text": "Manalo kung tumutugma ang 2, 3 o 4 ng iyong mga numero ng ticket!",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:26:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 29572,
+            "text": "Susunod na draw",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:27:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 32046,
+            "text": "Nakalipas na draws",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:54:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 29576,
+            "text": "Round %num%",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:27:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 29582,
+            "text": "Kabuuang Pot",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:31:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 29586,
+            "text": "Ang iyong mga ticket para sa round na ito",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:31:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 29598,
+            "text": "Paumanhin, walang mga premyo na makokolekta",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:38:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 29602,
+            "text": "Sa Wallet",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:39:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 29606,
+            "text": "Naglo-load...",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:39:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 29610,
+            "text": "Susunod na IFO",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:40:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 32070,
+            "text": "Nakalipas na IFOs",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:56:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Mga token ng stake LP upang kumita ng FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 29624,
+            "text": "APR",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:45:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Kabuuang Likido"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 26288,
+            "text": "Syrup Pool",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T11:30:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Naka stakes"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 29570,
+            "text": "%time% Hanggang sa draw ng loterya",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:27:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Aprubahan ang Kontrata"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 29628,
+            "text": "Pumili ng numero ng loterya:",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:46:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Kumita"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 29630,
+            "text": "Mag-search",
+            "user": {
+                "id": 12705916,
+                "username": "raymond-Alconost",
+                "fullName": "raymond-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/0c0259b85b33e3ce8e018cf947337255?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T08:46:54+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

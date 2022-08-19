@@ -1,0 +1,207 @@
+
+
+.token_container{
+  width: 100%;
+}
+
+.token_main{
+  max-width: 1440px;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 200px !important;
+}
+
+.token{
+  position: absolute;
+  color: #e5894c !important;
+  opacity: 0.06;
+  font-size: 120px !important;
+  top: -60px;
+  left: 0px;
+  text-align: center;
+  width: 100%;
+
+}
+
+.tokenomics{
+  color: white !important;
+  font-size: 2.3em !important;
+}
+
+
+.content{
+  font-size: 1em !important;
+  font-weight: 600 !important;
+}
+
+
+
+.generaition{
+  width: 500px;
+  height: 500px;
+  position: relative;
+  left: 260px;
+  top: 100px;
+}
+
+
+
+
+
+.circle_rect{
+  position : relative;
+  left: 170px;
+  top: -50px;
+
+}
+
+.circle_draw1{
+  position: absolute;
+  left: 20px;
+  top: 0px;
+  width: 550px;
+  height: 550px;
+  background: transparent;
+  border: 1px solid #e5894c;
+  border-radius: 50%;
+}
+
+.circle_draw2{
+  position: absolute;
+  left: 50px;
+  top: 0px;
+  width: 550px;
+  height: 550px;
+  background: transparent;
+  border: 1px solid #e5894c;
+  border-radius: 50%;
+}
+
+.circle_draw3{
+  position: absolute;
+  left: 80px;
+  top: 0px;
+  width: 550px;
+  height: 550px;
+  background: transparent;
+  border: 1px solid #e5894c;
+  border-radius: 50%;
+}
+
+.circle_draw3{
+  position: absolute;
+  left: 80px;
+  top: 0px;
+  width: 550px;
+  height: 550px;
+  background: transparent;
+  border: 1px solid #e5894c;
+  border-radius: 50%;
+}
+
+
+.circle_draw4{
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  width: 550px;
+  height: 550px;
+  background: transparent;
+  border: 1px solid #e5894c;
+  border-radius: 50%;
+}
+
+
+.line{
+  margin-top: 50px;
+  background: #e5894c;
+  border: 8px solid #e5894c;
+  width: 400px;
+}
+
+
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "\2022";
+  color: #41faa4;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
+
+
+.list_box{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width : 140%;
+}
+
+
+
+@media screen and (max-width : 1100px ) {
+  .circle_rect{
+    display: none;
+  }
+  .generaition{
+    left: unset;
+    margin: auto;
+  }
+  .list_box{
+    width: 100%;
+  }
+ 
+}
+
+
+
+@media screen and (max-width: 900px) {
+  .tokenomics{
+    font-size: 1.8em !important;
+  }
+  .token{
+    font-size: 80px !important;
+    top: -40px;
+  }
+}
+
+@media screen and (max-width : 650px) {
+  .tokenomics{
+    font-size: 1.2em !important;
+  }
+  .token{
+    font-size: 50px  !important;
+    top: -25px;
+  }
+  .list_box{
+    flex-direction: column;
+    width: 100%;
+  }
+  .list_left{
+    margin-left: 60px !important;
+  }
+}
+
+@media  screen and (max-width: 500px) {
+  .line{
+    width: 50%;
+  }
+  
+}
+
+
+@media  screen and (max-width: 400px) {
+  .counter{
+    margin-left: -80px;
+  }
+}
+
+@media  screen and (max-width: 375px) {
+  .counter{
+    margin-left: -140px;
+  }
+}

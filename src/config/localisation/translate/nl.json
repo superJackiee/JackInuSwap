@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "LP-tokens inzetten"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "annuleren"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "In afwachting van bevestiging"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Bevestigen"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Krijgen"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "LP-tokens uitzetten"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "uitzetten"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 9316,
+            "text": "Farm",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 13858,
+            "text": "Staking",
+            "user": {
+                "id": 14451714,
+                "username": "Esen2",
+                "fullName": "Esen2",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/23ace57e53639cea00a3305ef4ba1b66?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:28:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 35294,
+            "text": "Beurs",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:50:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 35296,
+            "text": "Documenten",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:50:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9576,
+            "text": "Stemmen",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9628,
+            "text": "Loterij",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 35298,
+            "text": "Wallet ontgrendelen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:50:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 35304,
+            "text": "Je %asset%-saldo",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:51:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 35044,
+            "text": "Totaal %asset%-aanbod",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:37:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 35302,
+            "text": "VERGRENDELD",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:50:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 34828,
+            "text": "In afwachting van oogst",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:01:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9938,
+            "text": "Nieuwe beloningen per blok",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 35356,
+            "text": "Aantal verbrande CAKE sinds start",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T20:03:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 35308,
+            "text": "Bekijk de keuken",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:52:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10094,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10146,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10198,
+            "text": "GitHub",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10250,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 14032,
+            "text": "Storten",
+            "user": {
+                "id": 14451714,
+                "username": "Esen2",
+                "fullName": "Esen2",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/23ace57e53639cea00a3305ef4ba1b66?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:34:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 10354,
+            "text": "Verdien",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 35268,
+            "text": "Stake FLIP-tokens om CAKE te stapelen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:45:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 10612,
+            "text": "Je kunt op elk moment terug wisselen",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 35036,
+            "text": "%asset% verdiend",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:36:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 35270,
+            "text": "Tokens staked",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:45:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 35358,
+            "text": "Elke keer dat je CAKE-tokens staked en weer unstaked, oogst het contract automatisch je CAKE-beloning!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T20:04:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 35276,
+            "text": "XVS-tokens verdiend",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:47:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 14570,
+            "text": "Beloningen worden per blok berekend. De totale beloning wordt automatisch verdeeld aan het einde van de farmingperiode van elk project.",
+            "user": {
+                "id": 14451714,
+                "username": "Esen2",
+                "fullName": "Esen2",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/23ace57e53639cea00a3305ef4ba1b66?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T10:49:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11130,
+            "text": "Pool",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11182,
+            "text": "Komt binnenkort",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11234,
+            "text": "APY",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11284,
+            "text": "Totale liquiditeit",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 35282,
+            "text": "Op BscScan bekijken",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:48:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 35284,
+            "text": "Cake-prijs",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:48:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 35286,
+            "text": "%asset%-tokens verdiend",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:48:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 35310,
+            "text": "%num% blokken totdat farming stopt",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:54:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 16788,
+            "text": "Komt binnenkort...",
+            "user": {
+                "id": 14451714,
+                "username": "Esen2",
+                "fullName": "Esen2",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/23ace57e53639cea00a3305ef4ba1b66?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T16:04:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 35288,
+            "text": "Jouw aandeel",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:49:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 35290,
+            "text": "Farming start in %num% blokken",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:49:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 17016,
+            "text": "Ge\u00ebindigd",
+            "user": {
+                "id": 14451714,
+                "username": "Esen2",
+                "fullName": "Esen2",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/23ace57e53639cea00a3305ef4ba1b66?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T16:45:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 35266,
+            "text": "Farming stopt in %num% blokken",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:44:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 35292,
+            "text": "Projectsite",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:49:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 34734,
+            "text": "Beloningen worden per blok berekend.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:46:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 34736,
+            "text": "Totaal",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:46:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 34740,
+            "text": "Einde",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:46:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 35264,
+            "text": "Projectsite bekijken",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:44:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 34742,
+            "text": "Jouw project? \ud83d\udc40",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:47:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 34744,
+            "text": "Cre\u00eber een pool voor je token",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:47:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 34746,
+            "text": "Nu toepassen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:47:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 34752,
+            "text": "Ronde 1: KOPEN",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:47:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 34758,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:47:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 34796,
+            "text": "Geef CAKE uit om tickets te kopen en zo bij te dragen aan de loterijpot. De ticketverkoop eindigt ca. 30 minuten voor de loterij. Win prijzen als 2, 3, of 4 van je ticketnummers overeenkomen met de winnende nummers en hun posities! Veel geluk!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:56:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 34802,
+            "text": "Je totale aantal tickets voor deze ronde",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:57:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 34760,
+            "text": "Koop ticket",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:47:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 34782,
+            "text": "Bekijk je tickets",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:53:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 34784,
+            "text": "Gemiddelde resterende tijd om tickets te kopen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:53:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 34678,
+            "text": "Sluiten",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:42:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 34684,
+            "text": "Laatste winnende nummers",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:42:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 34692,
+            "text": "Tickets met 4 overeenkomende nummers:",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:42:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 34694,
+            "text": "Tickets met 3 overeenkomende nummers:",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:43:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 34698,
+            "text": "Tickets met 2 overeenkomende nummers:",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:43:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 34704,
+            "text": "Recent winnende nummers exporteren",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:43:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 34732,
+            "text": "Voer het aantal te kopen tickets in",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:46:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 34708,
+            "text": "Max.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:44:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 34712,
+            "text": "%num% CAKE beschikbaar",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:44:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 34728,
+            "text": "Je bedrag moet een veelvoud van 10 CAKE zijn",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:45:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 34788,
+            "text": "1 ticket = 10 CAKE",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:53:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 34800,
+            "text": "Je geeft uit: %num% CAKE",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:56:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 34804,
+            "text": "Annuleren",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:57:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 34806,
+            "text": "Bevestigen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:57:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 34808,
+            "text": "Waarschuwing",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:57:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 34810,
+            "text": "Aankopen van loterijtickets zijn definitief.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:58:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 34798,
+            "text": "Je krijgt je CAKE niet terug nadat je het uitgegeven hebt om tickets te kopen.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:56:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 34812,
+            "text": "Tickets zijn slechts geldig voor \u00e9\u00e9n loterijtrekking en worden na de trekking verbrand.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:58:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 34814,
+            "text": "Het kopen van tickets garandeert niet dat je iets wint. Doe alleen mee als je de risico's begrijpt.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:58:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 34816,
+            "text": "Ik begrijp het",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:58:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 34818,
+            "text": "Ticketaankopen zijn definitief. Je CAKE kan niet worden teruggegeven worden nadat je tickets hebt gekocht.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:59:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 34820,
+            "text": "Claim prijzen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:59:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 34822,
+            "text": "Te claimen CAKE-prijzen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:59:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 34824,
+            "text": "Ronde 2: CLAIMEN",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:59:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 34598,
+            "text": "Je kunt op elk moment unstaken.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:36:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 34826,
+            "text": "In afwachting van bevestiging",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:00:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 34786,
+            "text": "Mijn tickets (totaal: %TICKETS%)",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:53:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 35260,
+            "text": "Gemiddelde tijd voor de start van de volgende loterij",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:43:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 34830,
+            "text": "CAKE goedkeuren",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:01:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 34832,
+            "text": "IFO: Initial Farm Offerings",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:01:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 35258,
+            "text": "Koop nieuwe tokens met een gloednieuw verkoopmodel voor tokens.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:43:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 35344,
+            "text": "Je betaalt voor de nieuwe tokens met CAKE-BNB FLIP-tokens, wat betekent dat je gelijke hoeveelheden CAKE en BNB moet staken in een liquiditeitspool om deel te nemen.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T20:02:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 35346,
+            "text": "Ontvang CAKE-BNB FLIP >",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T20:02:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 35084,
+            "text": "Het project ontvangt de BNB, PancakeSwap verbrandt de CAKE.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:11:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 35080,
+            "text": "Je ontvangt de tokens.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:11:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 35252,
+            "text": "Wil je je eigen IFO starten?",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:41:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 35326,
+            "text": "Start je project met PancakeSwap, Binance Smart Chain's meest gebruikte AMM-project en liquiditeitsverschaffer, om je token direct naar de meest actieve en snel groeiende gemeenschap op BSC te brengen.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:56:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 35254,
+            "text": "Pas toe om te starten",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:41:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 35248,
+            "text": "Gemeenschap",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:41:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 35170,
+            "text": "Kern",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:32:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 34902,
+            "text": "Beschikbaar",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:21:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 34904,
+            "text": "Mijn wallet",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:22:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 34906,
+            "text": "Uitloggen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:22:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 34908,
+            "text": "Alles oogsten (%count%)",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:22:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 34834,
+            "text": "Cake-statistieken",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:03:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 34836,
+            "text": "Totaal CAKE-aanbod",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:03:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 34838,
+            "text": "Totaal verbrande CAKE",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:04:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 34840,
+            "text": "Nieuwe CAKE\/blok",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:04:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 34630,
+            "text": "Farms en staking",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:37:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 34842,
+            "text": "Te oogsten CAKE",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:04:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 34844,
+            "text": "CAKE in wallet",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:04:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 34862,
+            "text": "CAKE innen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:08:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 34848,
+            "text": "Je loterijwinsten",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:05:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 34864,
+            "text": "Te innen CAKE",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:08:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 34910,
+            "text": "Totale jackpot deze ronde",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:22:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 34866,
+            "text": "Winst innen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:08:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 34912,
+            "text": "Tickets kopen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:23:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 34914,
+            "text": "Oogsten",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:23:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 34916,
+            "text": "Goedkeuren",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:23:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 34988,
+            "text": "Selecteer",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 34922,
+            "text": "Winnende nummers deze ronde",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:23:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 34600,
+            "text": "Stakingpool",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:36:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 34924,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:23:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 34926,
+            "text": "De nummer 1 AMM en yield farm van Binance Smart Chain.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:24:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 34604,
+            "text": "Stake CAKE om nieuwe tokens te verdienen.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:36:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 35256,
+            "text": "Starttijd",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:42:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 34928,
+            "text": "Te koop",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:24:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 34930,
+            "text": "Te verbranden CAKE (USD)",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:24:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 34606,
+            "text": "Unstake",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:36:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 35348,
+            "text": "\u2b50\ufe0fTelkens wanneer je FLIP-tokens staked en weer unstaked, zal het contract automatisch CAKE-beloningen voor je oogsten!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T20:02:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 35322,
+            "text": "Hoe deel te nemen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:56:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 34948,
+            "text": "Voor de verkoop",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:26:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 35172,
+            "text": "CAKE en BNB-tokens kopen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:32:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 35350,
+            "text": "Ontvang CAKE-BNB FLIP-tokens door CAKE en BNB-liquiditeit toe te voegen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T20:02:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 34934,
+            "text": "Tijdens de verkoop",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:25:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 35318,
+            "text": "Terwijl de verkoop live is, zet je je CAKE-FLIP tokens in om de IFO-tokens te kopen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:56:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 34936,
+            "text": "Na de verkoop",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:25:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 35320,
+            "text": "Claim de gekochte tokens, samen met eventueel ongebruikt geld.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:56:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 34938,
+            "text": "Klaar!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:25:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 34940,
+            "text": "Meer informatie",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:25:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 34942,
+            "text": "Verbinden",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:25:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 34868,
+            "text": "Ruil in voor CAKE of bewaar voor je verzameling!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:08:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 35188,
+            "text": "Registreer hieronder je belangstelling voor het winnen van een NFT.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:34:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 35246,
+            "text": "Registreer om te kunnen winnen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:40:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 35174,
+            "text": "Meer informatie",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:33:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 35162,
+            "text": "Transactie in NFT",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:32:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 35164,
+            "text": "Transactie in",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:32:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 34944,
+            "text": "Je ontvangt",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:25:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 35166,
+            "text": "Als je deze NFT inruilt om CAKE te ontvangen, verlies je er voor altijd de toegang toe!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:32:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 34946,
+            "text": "Claim NFT",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:25:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 35324,
+            "text": "Hoe het werkt",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:56:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 35316,
+            "text": "Winnaars kunnen op deze pagina een NFT claimen zodra de claimperiode start.",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:55:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 34994,
+            "text": "Als je niet geselecteerd wordt, kun je niet claimen. Volgende keer meer succes!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:32:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 35168,
+            "text": "Winnaars kunnen hun NFT's inruilen voor een CAKE waarde tot de hieronder geschreven vervaldatum. Als je tegen die tijd je NFT niet inruilt, maak je geen zorgen: hij blijft in je wallet!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:32:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 34992,
+            "text": "Hoe worden winnaars geselecteerd?",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:32:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 34860,
+            "text": "Winnaars worden willekeurig gekozen! Veel succes!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:07:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 50704,
+            "text": "Waarde bij inruil",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-03-12T13:51:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 35330,
+            "text": "Aantal geslagen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:57:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 35176,
+            "text": "Aantal verbrand",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:33:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 35178,
+            "text": "Claim deze NFT",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:33:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 35158,
+            "text": "Ruil in voor CAKE",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 35180,
+            "text": "Laden\u2026",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:33:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 35182,
+            "text": "Details",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:33:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 35184,
+            "text": "Je hebt gewonnen!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:33:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 35186,
+            "text": "Claim een NFT van de opties hieronder!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:33:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 35160,
+            "text": "Kan verhandeld worden tot",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:32:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 35244,
+            "text": "Wallet verbroken",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:40:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 35328,
+            "text": "Maak verbinding om te zien of je een NFT gewonnen hebt!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:56:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 35242,
+            "text": "Start",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:40:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 35154,
+            "text": "Inruilen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:31:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 35190,
+            "text": "Farms",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:34:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Alleen ingezet"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 35192,
+            "text": "Pools",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:34:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 35194,
+            "text": "NFT",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:34:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 35196,
+            "text": "Info",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:34:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 35198,
+            "text": "IFO",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:34:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 35200,
+            "text": "Meer",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:34:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 35202,
+            "text": "Liquiditeit",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:34:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 34950,
+            "text": "Overzicht",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:29:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 34952,
+            "text": "Token",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:29:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 34954,
+            "text": "Paren",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:29:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 34956,
+            "text": "Accounts",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:29:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 35352,
+            "text": "Stake FLIP-tokens om CAKE te verdienen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T20:02:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 34958,
+            "text": "Actief",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:29:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 34960,
+            "text": "Inactief",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:29:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 35240,
+            "text": "Dubbel",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:39:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 35234,
+            "text": "Samenstellen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T19:38:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 34620,
+            "text": "Unstake %asset%",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:37:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 34962,
+            "text": "De CAKE-loterij",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:30:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 34964,
+            "text": "Tickets kopen met CAKE",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:30:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 34856,
+            "text": "Win als 2, 3 of 4 van je ticketnummers overeenkomen!",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:06:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 34968,
+            "text": "Volgende trekking",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:30:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 34970,
+            "text": "Vorige trekkingen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:30:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 34972,
+            "text": "Ronde %num%",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:30:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 34974,
+            "text": "Totale pot",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:30:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 34976,
+            "text": "Je tickets deze ronde",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:31:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 34872,
+            "text": "Sorry, er zijn geen prijzen te innen",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:09:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 34978,
+            "text": "In de wallet",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:31:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 34980,
+            "text": "Laden...",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:31:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 34982,
+            "text": "Volgende IFO",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:31:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 34984,
+            "text": "Vorige IFO's",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:31:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Zet LP-tokens in om FAST te verdienen"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 34986,
+            "text": "APR",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:31:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Totale liquiditeit"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 34546,
+            "text": "Syrup-pool",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T17:30:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "uitgezet"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 34966,
+            "text": "%time% tot de loterijtrekking",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:30:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Contract goedkeuren"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 34990,
+            "text": "Selecteer loterijnummer:",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:32:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "verdiend"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 34996,
+            "text": "Zoek",
+            "user": {
+                "id": 12458974,
+                "username": "ghpijffers",
+                "fullName": "Henry Pijffers",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/12458974\/medium\/4974dfc31b66dd178edc46fbd0fbfd68.png"
+            },
+            "createdAt": "2021-02-03T18:32:46+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

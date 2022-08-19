@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "LP jetonlarını hisse"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "İptal etmek"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Onay bekleniyor"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Onaylamak"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Almak"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "LP jetonlarını kaldır"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "kaldır"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 15272,
+            "text": "Tar\u0131m",
+            "user": {
+                "id": 14451736,
+                "username": "alkadeta",
+                "fullName": "alka deta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451736\/medium\/91e60fb0c3f8c9ab8549ba4a9e55f034.jpg"
+            },
+            "createdAt": "2020-10-11T11:15:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 15732,
+            "text": "Fon Yat\u0131rma",
+            "user": {
+                "id": 14451754,
+                "username": "mertkumru",
+                "fullName": "mert kumru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451754\/medium\/3d53a88b7d290be03c1d385d11e467e8.jpeg"
+            },
+            "createdAt": "2020-10-11T12:19:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 12486,
+            "text": "Al-Sat",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-11T09:00:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9534,
+            "text": "D\u00f6k\u00fcmanlar",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9586,
+            "text": "Oylama",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9638,
+            "text": "\u00c7ekili\u015f",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 9690,
+            "text": "C\u00fczdan\u0131n Kilidini A\u00e7",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 9740,
+            "text": "Bakiyen: %asset%",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 36506,
+            "text": "Toplam arz: %asset%",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:38:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9844,
+            "text": "K\u0130L\u0130TL\u0130",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 9896,
+            "text": "Bekleyen hasat",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9948,
+            "text": "Blok ba\u015f\u0131na yeni \u00f6d\u00fcl",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 12482,
+            "text": "Ba\u015flang\u0131\u00e7tan itibaren yak\u0131lan CAKE adedi",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-11T08:54:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 10052,
+            "text": "Mutfa\u011f\u0131 G\u00f6r",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10104,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10156,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10208,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10260,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 10312,
+            "text": "Yat\u0131rma",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 10364,
+            "text": "Kazan",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 15706,
+            "text": "CAKE biriktirmek i\u00e7in FLIP jetonu yat\u0131r\u0131n",
+            "user": {
+                "id": 14451710,
+                "username": "salido",
+                "fullName": "Salih Doganay",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451710\/medium\/fbbf8048a19bf161e0bf9815c64d978e.jpeg"
+            },
+            "createdAt": "2020-10-11T12:15:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 10622,
+            "text": "\u0130stedi\u011fin zaman geri de\u011fi\u015ftirebilirsin",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 10672,
+            "text": "%asset% Kazan\u0131ld\u0131",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 15730,
+            "text": "Fonlanan Jetonlar",
+            "user": {
+                "id": 14451710,
+                "username": "salido",
+                "fullName": "Salih Doganay",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451710\/medium\/fbbf8048a19bf161e0bf9815c64d978e.jpeg"
+            },
+            "createdAt": "2020-10-11T12:19:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 36592,
+            "text": "CAKE Jetonlar\u0131n\u0131z\u0131 her yat\u0131r\u0131p, tekrar \u00e7ekti\u011finizde, s\u00f6zle\u015fme sizin i\u00e7in CAKE \u00f6d\u00fcllerini otomatik olarak toplayacakt\u0131r!",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:45:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 15704,
+            "text": "Adet XVS Jetonu Kazan\u0131ld\u0131",
+            "user": {
+                "id": 14451710,
+                "username": "salido",
+                "fullName": "Salih Doganay",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451710\/medium\/fbbf8048a19bf161e0bf9815c64d978e.jpeg"
+            },
+            "createdAt": "2020-10-11T12:14:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 15190,
+            "text": "Her projenin tar\u0131m d\u00f6neminin sonunda, \u00f6d\u00fcller blok ba\u015f\u0131na hesaplanacak ve toplam \u00f6d\u00fcller otomatik olarak da\u011f\u0131t\u0131lacakt\u0131r.",
+            "user": {
+                "id": 14451736,
+                "username": "alkadeta",
+                "fullName": "alka deta",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451736\/medium\/91e60fb0c3f8c9ab8549ba4a9e55f034.jpg"
+            },
+            "createdAt": "2020-10-11T11:11:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11140,
+            "text": "Havuz",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11192,
+            "text": "Yak\u0131nda",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11244,
+            "text": "Y\u0131ll\u0131k Getiri Oran\u0131",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11294,
+            "text": "Toplam Likidite",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 11344,
+            "text": "BscScan'de G\u00f6r\u00fcnt\u00fcle",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11394,
+            "text": "Cake Fiyat\u0131",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 15718,
+            "text": "%asset% Jeton Kazan\u0131ld\u0131",
+            "user": {
+                "id": 14451710,
+                "username": "salido",
+                "fullName": "Salih Doganay",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451710\/medium\/fbbf8048a19bf161e0bf9815c64d978e.jpeg"
+            },
+            "createdAt": "2020-10-11T12:16:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 15526,
+            "text": "Farm bitene kadar kalan blok say\u0131s\u0131: %num%",
+            "user": {
+                "id": 14451710,
+                "username": "salido",
+                "fullName": "Salih Doganay",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451710\/medium\/fbbf8048a19bf161e0bf9815c64d978e.jpeg"
+            },
+            "createdAt": "2020-10-11T11:44:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 12476,
+            "text": "Yak\u0131nda...",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-10T22:38:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 36522,
+            "text": "Fonun",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:39:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 15486,
+            "text": "Tar\u0131m %num% Blok sonra ba\u015flar",
+            "user": {
+                "id": 14451754,
+                "username": "mertkumru",
+                "fullName": "mert kumru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451754\/medium\/3d53a88b7d290be03c1d385d11e467e8.jpeg"
+            },
+            "createdAt": "2020-10-11T11:40:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 12478,
+            "text": "Tamamland\u0131",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-10T22:38:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 15480,
+            "text": "Tar\u0131m %num% Bloktan sonra biter",
+            "user": {
+                "id": 14451754,
+                "username": "mertkumru",
+                "fullName": "mert kumru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451754\/medium\/3d53a88b7d290be03c1d385d11e467e8.jpeg"
+            },
+            "createdAt": "2020-10-11T11:39:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 12480,
+            "text": "Proje Web Sitesi",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-10T22:38:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 19708,
+            "text": "\u00d6d\u00fcller blok ba\u015f\u0131na olacak \u015fekilde hesaplan\u0131r.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:57:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 19704,
+            "text": "Toplam",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:52:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 20020,
+            "text": "Tamamland\u0131",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T15:07:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 19726,
+            "text": "Proje web sitesi",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:59:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 19802,
+            "text": "Sizin Projeniz? \ud83d\udc40",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:26:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 19804,
+            "text": "Jetonunuz i\u00e7in bir havuz olu\u015fturun",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:27:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 19730,
+            "text": "\u015eimdi ba\u015fvur",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:01:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 19808,
+            "text": "1. Tur: HAZIRLIK",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:34:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 19740,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:03:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 19822,
+            "text": "\u00c7ekili\u015f havuzunda toplanacak \u00f6d\u00fcl miktar\u0131na katk\u0131da bulunmak i\u00e7in CAKE harcayarak bilet sat\u0131n al\u0131n. Bilet al\u0131mlar\u0131 \u00e7ekili\u015ften yakla\u015f\u0131k 30 dakika \u00f6nce kapan\u0131r. Her bir biletinize ait numaralardan 2, 3 veya 4'\u00fc, \u00e7ekili\u015fi kazanm\u0131\u015f olan numaralar ve pozisyonlar\u0131 ile e\u015fle\u015firse \u00f6d\u00fcller kazan\u0131n! \u0130yi \u015fanslar!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:45:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 19742,
+            "text": "Bu tur i\u00e7in toplam biletiniz",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:04:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 19690,
+            "text": "Bilet al",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:48:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 19696,
+            "text": "Biletlerini g\u00f6r",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:48:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 19800,
+            "text": "Bilet almak i\u00e7in kalan yakla\u015f\u0131k s\u00fcre",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:26:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 19686,
+            "text": "Kapat",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:47:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 19744,
+            "text": "Kazanan Son Numaralar",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:04:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 19746,
+            "text": "4 numarayla e\u015fle\u015fen biletler:",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:05:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 19748,
+            "text": "3 numarayla e\u015fle\u015fen biletler:",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:05:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 19750,
+            "text": "2 numarayla e\u015fle\u015fen biletler:",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:05:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 19752,
+            "text": "Son kazanan numaralar\u0131 d\u0131\u015fa aktar",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:08:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 19810,
+            "text": "Sat\u0131n almak istedi\u011finiz bilet miktar\u0131n\u0131 girin",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:34:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 19684,
+            "text": "Maksimum",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:47:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 19754,
+            "text": "Uygun CAKE %num%",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:09:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 19812,
+            "text": "Girdi\u011finiz CAKE miktar\u0131 10 veya katlar\u0131 olmal\u0131d\u0131r",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:36:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 19798,
+            "text": "1 Bilet = 10 CAKE",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:26:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 20202,
+            "text": "Harcanacak: %num% CAKE",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T16:08:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 19762,
+            "text": "Vazge\u00e7",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:12:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 36416,
+            "text": "Do\u011frula",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:20:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 19680,
+            "text": "Dikkat",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:47:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 19768,
+            "text": "T\u00fcm bilet sat\u0131\u015flar\u0131 son sat\u0131\u015ft\u0131r.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:14:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 19770,
+            "text": "Bilet sat\u0131n al\u0131rken harcad\u0131\u011f\u0131n\u0131z CAKE i\u00e7in geri \u00f6deme yap\u0131lmayacakt\u0131r.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:15:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 20234,
+            "text": "Biletler sadece sat\u0131n al\u0131nd\u0131\u011f\u0131 \u00e7ekili\u015f i\u00e7in ge\u00e7erlidir ve \u00e7ekili\u015f bittikten sonra yak\u0131lacaklard\u0131r.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T16:12:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 20236,
+            "text": "Bilet alm\u0131\u015f olman\u0131z size kazanaca\u011f\u0131n\u0131z\u0131 garanti etmez. L\u00fctfen, bu riski anlad\u0131ysan\u0131z \u00e7ekili\u015fe kat\u0131l\u0131n.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T16:12:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 19678,
+            "text": "Anlad\u0131m",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:46:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 19794,
+            "text": "Bilet sat\u0131\u015flar\u0131 son sat\u0131\u015ft\u0131r. Bilet sat\u0131n al\u0131rken kulland\u0131\u011f\u0131n\u0131z CAKE miktar\u0131 size geri \u00f6denmeyecektir.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:25:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 19782,
+            "text": "\u00d6d\u00fclleri topla",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:20:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 19784,
+            "text": "Toplanacak CAKE \u00f6d\u00fclleri",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:21:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 19792,
+            "text": "2. Tur: TOPLANIYOR",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T11:24:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 19706,
+            "text": "\u0130stedi\u011fin zaman geri \u00e7ekebilirsin.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-22T10:56:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 20732,
+            "text": "Onay Bekleniyor",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-23T13:24:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 20730,
+            "text": "Biletlerim (Toplam: %TICKETS%)",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-23T13:23:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 20734,
+            "text": "Bir sonraki \u00e7ekili\u015f ba\u015flamadan \u00f6nce kalan yakla\u015f\u0131k s\u00fcre",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-23T13:24:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 20736,
+            "text": "CAKE Onay\u0131 Ver",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-10-23T13:25:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 21508,
+            "text": "IFO: Intitial Farm Offerings",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:26:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 21514,
+            "text": "Yepyeni bir jeton sat\u0131\u015f modeli ile yeni jetonlar sat\u0131n al\u0131n.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:27:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 21516,
+            "text": "Yeni jetonlar edinmek i\u00e7in CAKE-BNB LP jetonlar\u0131n\u0131 kullanarak \u00f6deme yapacaks\u0131n\u0131z, bu da kat\u0131lmak i\u00e7in bir likidite havuzunda e\u015fit miktarda CAKE ve BNB jetonlar\u0131ndan yat\u0131rman\u0131z gerekti\u011fi anlam\u0131na gelir.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:27:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 21518,
+            "text": "CAKE-BNB LP al\u0131n>",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:28:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 21520,
+            "text": "Proje BNB jetonlar\u0131 al\u0131rken, PancakeSwap CAKE jetonlar\u0131n\u0131 yakar.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:29:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 21530,
+            "text": "Jetonlar\u0131 al\u0131rs\u0131n\u0131z.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:33:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 21532,
+            "text": "Kendi IFO'nuzu ba\u015flatmak ister misiniz?",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:36:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 21540,
+            "text": "Projenizi do\u011frudan BSC'deki en aktif ve h\u0131zla b\u00fcy\u00fcyen toplulu\u011funa getirmek i\u00e7in, Binance Smart Chain\u2019in en \u00e7ok kullan\u0131lan AMM projesi ve likidite sa\u011flay\u0131c\u0131s\u0131 olan PancakeSwap ile projenizi ba\u015flat\u0131n.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:46:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 21504,
+            "text": "Ba\u015fvurun",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:23:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 21498,
+            "text": "Topluluk",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:09:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 21496,
+            "text": "Core",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:09:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 21492,
+            "text": "Uygun",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:09:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 21490,
+            "text": "C\u00fczdan\u0131m",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:09:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 21488,
+            "text": "\u00c7\u0131k\u0131\u015f Yap",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:09:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 21486,
+            "text": "T\u00fcm\u00fcn\u00fc topla (%count%)",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:08:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 21484,
+            "text": "Cake \u0130statistikleri",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:08:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 21482,
+            "text": "Toplam CAKE Arz\u0131",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:08:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 21480,
+            "text": "Yak\u0131lan Toplam CAKE",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:08:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 21478,
+            "text": "Blok ba\u015f\u0131na yeni CAKE miktar\u0131",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:08:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 36562,
+            "text": "Tarlalar ve Fon Yat\u0131rma",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:43:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 21476,
+            "text": "Toplanabilecek CAKE",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:07:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 21474,
+            "text": "C\u00fczdandaki CAKE",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 21472,
+            "text": "CAKE Toplan\u0131yor",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:07:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 21470,
+            "text": "\u00c7ekili\u015ften Kazand\u0131klar\u0131n\u0131z",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:07:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 21468,
+            "text": "Toplanabilecek CAKE",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:07:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 21466,
+            "text": "Bu Turdaki Toplam \u0130kramiye",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T08:59:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 21464,
+            "text": "\u00d6d\u00fclleri Topla",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T08:56:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 21462,
+            "text": "Bilet Al",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T08:56:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 21458,
+            "text": "Topla",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T08:56:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 21456,
+            "text": "Onayla",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T08:55:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 36558,
+            "text": "Se\u00e7",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:43:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 21448,
+            "text": "Bu Turda Kazanm\u0131\u015f Olan Bilet Numaralar\u0131",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T08:55:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 36564,
+            "text": "Fon Yat\u0131rma Havuzu",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:43:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 21544,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:48:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 21560,
+            "text": "Binance Smart Chain'in 1 numaral\u0131 AMM ve Yield Farm platformu.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:53:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 21566,
+            "text": "Yeni jetonlar kazanmak i\u00e7in CAKE yat\u0131r\u0131n.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-16T09:58:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 21922,
+            "text": "Ba\u015flama Zaman\u0131",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-17T08:52:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 21920,
+            "text": "Sat\u0131\u015fta",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-17T08:52:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 21918,
+            "text": "Yak\u0131lacak CAKE (USD)",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-17T08:51:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 21916,
+            "text": "Fonu \u00c7ek",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-17T08:51:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 36570,
+            "text": "\u2b50\ufe0f CAKE Jetonlar\u0131n\u0131z\u0131 her yat\u0131r\u0131p, tekrar \u00e7ekti\u011finizde, s\u00f6zle\u015fme sizin i\u00e7in otomatik olarak CAKE \u00f6d\u00fcllerinizi toplayacakt\u0131r!",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:44:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 36574,
+            "text": "Nas\u0131l Kat\u0131l\u0131m Sa\u011flan\u0131r",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T08:44:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 22092,
+            "text": "Sat\u0131\u015f \u00d6ncesi",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:10:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 22096,
+            "text": "CAKE ve BNB jetonlar\u0131 sat\u0131n al\u0131n",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:11:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 22098,
+            "text": "CAKE ve BNB i\u00e7in likidite ekleyerek CAKE-BNB LP jetonlar\u0131n\u0131 al\u0131n",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:11:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 22090,
+            "text": "Sat\u0131\u015f Esnas\u0131nda",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:10:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 22100,
+            "text": "Sat\u0131\u015f devam ederken, CAKE-LP jetonlar\u0131n\u0131z\u0131 IFO jetonlar\u0131n\u0131 sat\u0131n almak i\u00e7in kullan\u0131n",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:12:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 22088,
+            "text": "Sat\u0131\u015f Sonras\u0131",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:10:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 22102,
+            "text": "Sat\u0131n ald\u0131\u011f\u0131n\u0131z jetonlar\u0131n\u0131z\u0131, harcanmam\u0131\u015f fonlar\u0131n\u0131zla birlikte geri al\u0131n.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:12:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 22086,
+            "text": "Tamamland\u0131!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:09:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 22084,
+            "text": "Devam\u0131n\u0131 Oku",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-11-18T08:09:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 23256,
+            "text": "Ba\u011flan",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:22:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 23266,
+            "text": "CAKE ile takas edin ya da koleksiyonunuzda saklay\u0131n!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:27:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 23268,
+            "text": "E\u011fer NFT kazanmakla ilgileniyorsan\u0131z a\u015fa\u011f\u0131dan kaydolun.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:28:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 23264,
+            "text": "Kazanma \u015fans\u0131 elde etmek i\u00e7in kay\u0131t olun",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:25:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 23262,
+            "text": "Daha fazla bilgi edin",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:24:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 23270,
+            "text": "NFT ile takas edin",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:29:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 23272,
+            "text": "Takasla",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:31:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 23274,
+            "text": "Alacaks\u0131n\u0131z",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 23276,
+            "text": "CAKE almak i\u00e7in bu NFT'yi takas etti\u011finizde, bu NFT'ye eri\u015fiminizi sonsuza kadar kaybedeceksiniz!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:32:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 23258,
+            "text": "NFT'yi al",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:24:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 23260,
+            "text": "Nas\u0131l \u00e7al\u0131\u015f\u0131yor",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:24:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 23278,
+            "text": "Kazananlar, NFT edinme d\u00f6nemi ba\u015flad\u0131\u011f\u0131nda bu sayfadan bir NFT se\u00e7ip alabilecekler.",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:34:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 23280,
+            "text": "E\u011fer kazananlar aras\u0131nda se\u00e7ilmezseniz, NFT talebinde bulunamazs\u0131n\u0131z. Bir sonraki sefere bol \u015fans!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:37:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 23236,
+            "text": "Kazananlar, a\u015fa\u011f\u0131da belirtilmi\u015f son tarihe kadar NFT'lerini belirli bir CAKE de\u011feri ile takas edebilirler. NFT'nizi takas etmezseniz endi\u015felenmeyin, NFT'nizi yine de c\u00fczdan\u0131n\u0131zda tutabileceksiniz!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:17:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 23230,
+            "text": "Kazananlar nas\u0131l se\u00e7iliyor?",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:04:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 23232,
+            "text": "Kazananlar rastgele se\u00e7ilir! \u0130yi \u015fanslar!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:04:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 23238,
+            "text": "Takas de\u011feri",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:18:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 23240,
+            "text": "Bas\u0131lan miktar",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:18:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 23242,
+            "text": "Yak\u0131lan miktar",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:18:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 23244,
+            "text": "Bu NFT'yi edinin",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:20:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 23246,
+            "text": "CAKE ile takas et",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:20:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 23248,
+            "text": "Y\u00fckleniyor\u2026",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:20:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 23226,
+            "text": "Detaylar",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:02:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 23224,
+            "text": "Kazand\u0131n\u0131z!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:02:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 23252,
+            "text": "A\u015fa\u011f\u0131daki se\u00e7enekler aras\u0131ndan bir NFT'yi edinin!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:21:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 23228,
+            "text": "Takas edilebilece\u011fi son tarih",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:03:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 23254,
+            "text": "C\u00fczdan Ba\u011flant\u0131s\u0131 Kesildi",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:22:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 23220,
+            "text": "NFT kazan\u0131p kazanmad\u0131\u011f\u0131n\u0131 g\u00f6rmek i\u00e7in ba\u011flan!",
+            "user": {
+                "id": 14439080,
+                "username": "mcube34",
+                "fullName": "MC PancakeSwap",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439080\/medium\/e52588dbb9299ac8dded51d81bab71be.jpg"
+            },
+            "createdAt": "2020-12-11T20:01:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 32620,
+            "text": "Ana Sayfa",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:29:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 32628,
+            "text": "Yat\u0131r\u0131m",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:29:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 32632,
+            "text": "Tarlalar",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Sadece Stake Edilen"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 32634,
+            "text": "Havuzlar",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 32636,
+            "text": "NFT",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 32638,
+            "text": "Bilgi",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 32640,
+            "text": "IFO",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 32650,
+            "text": "Daha Fazlas\u0131",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 32652,
+            "text": "Likidite",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 32658,
+            "text": "Genel G\u00f6r\u00fcn\u00fcm",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 32662,
+            "text": "Jeton",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 32664,
+            "text": "E\u015fler",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 32670,
+            "text": "Hesaplar",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:30:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 36136,
+            "text": "CAKE kazanmak i\u00e7in LP jetonlar\u0131na yat\u0131r\u0131m yap",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:47:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 36140,
+            "text": "Aktif",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:47:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 36142,
+            "text": "Pasif",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:47:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 36146,
+            "text": "\u0130kili",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:47:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 36148,
+            "text": "Bile\u015fik",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:47:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 36152,
+            "text": "%asset% yat\u0131r\u0131m\u0131ndan vazge\u00e7",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:48:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 36154,
+            "text": "CAKE \u00c7ekili\u015fi",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:48:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 36156,
+            "text": "CAKE ile biletler sat\u0131n al",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:48:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 36158,
+            "text": "Biletinizde 2, 3 veya 4 rakam e\u015fle\u015firse kazan\u0131n!",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:49:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 36164,
+            "text": "Sonraki \u00e7ekili\u015f",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:50:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 36166,
+            "text": "Ge\u00e7mi\u015f \u00e7ekili\u015fler",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:50:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 36168,
+            "text": "Tur %num%",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:50:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 36170,
+            "text": "Toplam Havuz",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:50:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 36172,
+            "text": "Bu tur i\u00e7in biletlerin",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:51:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 36174,
+            "text": "\u00dczg\u00fcn\u00fcz, tahsil edilecek \u00f6d\u00fcl yok",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:51:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 36176,
+            "text": "C\u00fczdanda",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:51:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 36178,
+            "text": "Y\u00fckleniyor...",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:51:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 36180,
+            "text": "Sonraki IFO",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:51:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 36182,
+            "text": "Ge\u00e7mi\u015f IFO'lar",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:51:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "FAST kazanmak için LP jetonlarını kullanın"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 36184,
+            "text": "APR",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:51:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Toplam Likidite"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 32612,
+            "text": "Syrup Havuzu",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-03T13:29:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "bahse konu"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 36162,
+            "text": "%time% Sonra piyango \u00e7ekili\u015fi",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:49:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Sözleşmeyi Onayla"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 36186,
+            "text": "Piyango numaras\u0131 se\u00e7in:",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:51:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "kazanılan"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 36188,
+            "text": "Ara",
+            "user": {
+                "id": 13446847,
+                "username": "gokhandogru",
+                "fullName": "G\u00f6khan Do\u011fru",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13446847\/medium\/d0397a5e28fc1f0250f56c6a9e7e933f.JPG"
+            },
+            "createdAt": "2021-02-04T07:52:01+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

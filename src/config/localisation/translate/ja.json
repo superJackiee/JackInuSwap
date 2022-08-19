@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "LPトークンを賭ける"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "キャンセル"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "保留中の確認"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "確認"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "取得する"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "LPトークンの賭けを解除する"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "アンステーク"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 9042,
+            "text": "\u30d5\u30a1\u30fc\u30e0",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 9046,
+            "text": "\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9050,
+            "text": "\u901a\u8ca8\u306e\u4ea4\u63db",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9052,
+            "text": "\u8cc7\u6599",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9054,
+            "text": "\u6295\u7968",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 16712,
+            "text": "\u5b9d\u304f\u3058",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T14:48:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 37392,
+            "text": "\u30a6\u30a9\u30ec\u30c3\u30c8\u3092\u30ed\u30c3\u30af\u89e3\u9664",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:07:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 9060,
+            "text": "\u3042\u306a\u305f\u306e%asset%\u306e\u6b8b\u9ad8",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 9062,
+            "text": "%asset%\u306e\u7dcf\u4f9b\u7d66",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 37394,
+            "text": "\u30ed\u30c3\u30af",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:07:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 9066,
+            "text": "\u53ce\u7a6b\u5f85\u3061",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9068,
+            "text": "\u30d6\u30ed\u30c3\u30af\u3054\u3068\u306e\u65b0\u3057\u3044\u5831\u916c",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 37398,
+            "text": "\u30ed\u30fc\u30f3\u30c1\u4ee5\u6765\u30d0\u30fc\u30f3\u3055\u308c\u305f\u5408\u8a08CAKE\u6570",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:08:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 16718,
+            "text": "\u30ad\u30c3\u30c1\u30f3\u3092\u898b\u308b",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T14:49:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 37402,
+            "text": "Telegram",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:08:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 9078,
+            "text": "\u30d6\u30ed\u30b0",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:47:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 9080,
+            "text": "Github",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:48:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 37404,
+            "text": "Twitter",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:09:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 9084,
+            "text": "\u5165\u91d1",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:48:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 9086,
+            "text": "\u7372\u5f97",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:48:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 37410,
+            "text": "LP\u30c8\u30fc\u30af\u30f3\u3092\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3057\u3066CAKE\u3092\u7a4d\u307f\u4e0a\u3052\u308b",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:11:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 37430,
+            "text": "\u3044\u3064\u3067\u3082\u30b9\u30ef\u30c3\u30d7\u3057\u76f4\u305b\u307e\u3059",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:13:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 37434,
+            "text": "\u7372\u5f97\u3057\u305f%asset%",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:14:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 37438,
+            "text": "\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3057\u305f\u30c8\u30fc\u30af\u30f3",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:14:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 37442,
+            "text": "CAKE\u30c8\u30fc\u30af\u30f3\u3092\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3057\u3066\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u89e3\u9664\u3059\u308b\u305f\u3073\u306b\u3001CAKE\u5831\u916c\u306f\u30b9\u30de\u30fc\u30c8\u30b3\u30f3\u30c8\u30e9\u30af\u30c8\u306b\u3088\u3063\u3066\u81ea\u52d5\u7684\u306b\u53ce\u7a6b\u3055\u308c\u307e\u3059\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:16:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 37472,
+            "text": "\u7372\u5f97\u3057\u305fXVS\u30c8\u30fc\u30af\u30f3",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:18:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 37524,
+            "text": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306e\u30d5\u30a1\u30fc\u30df\u30f3\u30b0\u671f\u9593\u306b\u7d42\u4e86\u6642\u306b\u3001\u30d6\u30ed\u30c3\u30af\u3054\u3068\u306b\u5831\u916c\u304c\u8a08\u7b97\u3055\u308c\u3001\u5408\u8a08\u5831\u916c\u304c\u81ea\u52d5\u7684\u306b\u5206\u914d\u3055\u308c\u307e\u3059\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:20:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 9126,
+            "text": "\u30d7\u30fc\u30eb",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:49:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 9128,
+            "text": "\u8fd1\u65e5\u516c\u958b",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:49:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 16728,
+            "text": "\u5e74\u5229",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T14:55:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 37534,
+            "text": "\u7dcf\u6d41\u52d5\u6027",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:21:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 37546,
+            "text": "BscScan\u3067\u8868\u793a",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:21:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 37552,
+            "text": "Cake\u306e\u4fa1\u683c",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:21:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 37566,
+            "text": "\u7372\u5f97\u3057\u305f%asset%\u30c8\u30fc\u30af\u30f3",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:22:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 9142,
+            "text": "\u30d5\u30a1\u30fc\u30df\u30f3\u30b0\u7d42\u4e86\u307e\u3067%num%\u30d6\u30ed\u30c3\u30af",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-10T12:49:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 14604,
+            "text": "\u8fd1\u65e5\u516c\u958b...",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-11T10:50:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 37610,
+            "text": "\u3042\u306a\u305f\u306e\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:23:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 37844,
+            "text": "\u30d5\u30a1\u30fc\u30df\u30f3\u30b0\u306f%num%\u30d6\u30ed\u30c3\u30af\u3067\u59cb\u307e\u308a\u307e\u3059",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:27:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 37734,
+            "text": "\u7d42\u4e86",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:25:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 37870,
+            "text": "\u30d5\u30a1\u30fc\u30df\u30f3\u30b0\u306f%num%\u30d6\u30ed\u30c3\u30af\u3067\u7d42\u4e86\u3057\u307e\u3059",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:27:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 14696,
+            "text": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30b5\u30a4\u30c8",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-11T10:53:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 20594,
+            "text": "\u5831\u916c\u306f\u30d6\u30ed\u30c3\u30af\u3054\u3068\u306b\u8a08\u7b97\u3055\u308c\u307e\u3059\u3002",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:05:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 20596,
+            "text": "\u5408\u8a08",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:05:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 20598,
+            "text": "\u7d42\u4e86",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:06:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 20772,
+            "text": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30b5\u30a4\u30c8\u3092\u898b\u308b",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-23T16:01:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 20602,
+            "text": "\u3042\u306a\u305f\u306e\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\uff1f \ud83d\udc40",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:06:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 20604,
+            "text": "\u30c8\u30fc\u30af\u30f3\u7528\u306e\u30d7\u30fc\u30eb\u3092\u4f5c\u6210",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:08:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 20606,
+            "text": "\u4eca\u3059\u3050\u5fdc\u52df",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:08:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 38132,
+            "text": "\u30e9\u30a6\u30f3\u30c91: \u8cb7\u3046",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:33:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 20612,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:09:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 38222,
+            "text": "CAKE\u3067\u5b9d\u304f\u3058\u5238\u3092\u8cfc\u5165\u3057\u3088\u3046\u3002\u3053\u306eCAKE\u306f\u8cde\u91d1\u7dcf\u984d\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3059\u3002\u5b9d\u304f\u3058\u5238\u306e\u8ca9\u58f2\u306f\u62bd\u9078\u306e\u7d0430\u5206\u524d\u306b\u7d42\u4e86\u3057\u307e\u3059\u3002\u5b9d\u304f\u3058\u5238\u306b\u8a18\u8f09\u306e\u756a\u53f7\u304c\u3001\u5f53\u9078\u756a\u53f7\u306e2\u3064\u30013\u3064\u3001\u307e\u305f\u306f4\u3064\u306e\u6570\u5b57\u306b\u4e00\u81f4\u3059\u308b\u3068\u3001\u8cde\u91d1\u3092\u7372\u5f97\u3067\u304d\u307e\u3059\u3002\u5e78\u904b\u3092\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:40:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 38248,
+            "text": "\u3053\u306e\u30e9\u30a6\u30f3\u30c9\u306e\u5b9d\u304f\u3058\u5238\u5408\u8a08\u679a\u6570",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:41:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 38254,
+            "text": "\u5b9d\u304f\u3058\u5238\u3092\u8cfc\u5165",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:42:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 38256,
+            "text": "\u5b9d\u304f\u3058\u5238\u3092\u8868\u793a",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:42:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 38264,
+            "text": "\u5b9d\u304f\u3058\u5238\u8ca9\u58f2\u7d42\u4e86\u307e\u3067\u306e\u304a\u304a\u3088\u305d\u306e\u6642\u9593",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:43:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 20626,
+            "text": "\u7d42\u4e86",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:17:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 20628,
+            "text": "\u6700\u65b0\u306e\u5f53\u9078\u756a\u53f7",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:18:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 38280,
+            "text": "4\u3064\u306e\u6570\u5b57\u304c\u4e00\u81f4\u3059\u308b\u5b9d\u304f\u3058\u5238",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:45:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 38294,
+            "text": "3\u3064\u306e\u6570\u5b57\u304c\u4e00\u81f4\u3059\u308b\u5b9d\u304f\u3058\u5238",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:46:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 38300,
+            "text": "2\u3064\u306e\u6570\u5b57\u304c\u4e00\u81f4\u3059\u308b\u5b9d\u304f\u3058\u5238",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:46:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 20638,
+            "text": "\u6700\u8fd1\u306e\u5f53\u9078\u756a\u53f7\u3092\u30a8\u30af\u30b9\u30dd\u30fc\u30c8",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:19:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 38304,
+            "text": "\u8cfc\u5165\u3059\u308b\u679a\u6570\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:47:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 20642,
+            "text": "\u6700\u5927",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:20:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 38306,
+            "text": "%num% CAKE\u5229\u7528\u53ef\u80fd",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:47:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 20774,
+            "text": "CAKE\u6570\u306f10\u306e\u500d\u6570\u3067\u3042\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-23T16:08:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 38312,
+            "text": "\u5b9d\u304f\u3058\u52381\u679a = 10 CAKE",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:48:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 38318,
+            "text": "\u652f\u6255\u984d: %num% CAKE",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:48:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 20652,
+            "text": "\u30ad\u30e3\u30f3\u30bb\u30eb",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:22:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 38324,
+            "text": "\u78ba\u5b9a",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:48:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 20656,
+            "text": "\u8b66\u544a",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-23T08:23:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 38328,
+            "text": "\u5b9d\u304f\u3058\u5238\u306e\u8cfc\u5165\u306f\u30ad\u30e3\u30f3\u30bb\u30eb\u3067\u304d\u307e\u305b\u3093\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:48:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 38336,
+            "text": "\u5b9d\u304f\u3058\u5238\u306e\u8cfc\u5165\u306b\u4f7f\u7528\u3057\u305fCAKE\u306f\u8fd4\u5374\u3055\u308c\u307e\u305b\u3093\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:49:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 38348,
+            "text": "\u5b9d\u304f\u3058\u5238\u306f1\u56de\u306e\u62bd\u9078\u306b\u5bfe\u3057\u3066\u306e\u307f\u6709\u52b9\u3067\u3001\u62bd\u9078\u5f8c\u306b\u30d0\u30fc\u30f3\u3055\u308c\u307e\u3059\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:51:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 38376,
+            "text": "\u5b9d\u304f\u3058\u5238\u306e\u8cfc\u5165\u306f\u5f53\u9078\u3092\u4fdd\u8a3c\u3059\u308b\u3082\u306e\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\u30ea\u30b9\u30af\u3092\u7406\u89e3\u3057\u305f\u4e0a\u3067\u53c2\u52a0\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:52:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 38384,
+            "text": "\u5206\u304b\u308a\u307e\u3057\u305f",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:53:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 38394,
+            "text": "\u5b9d\u304f\u3058\u5238\u306e\u8cfc\u5165\u306f\u30ad\u30e3\u30f3\u30bb\u30eb\u3067\u304d\u307e\u305b\u3093\u3002\u5b9d\u304f\u3058\u5238\u306e\u8cfc\u5165\u306b\u4f7f\u7528\u3057\u305fCAKE\u306f\u8fd4\u5374\u3055\u308c\u307e\u305b\u3093\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:54:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 20780,
+            "text": "\u8cde\u91d1\u306e\u8acb\u6c42",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-23T16:13:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 38408,
+            "text": "\u8acb\u6c42\u3059\u308b\u8cde\u91d1CAKE",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:55:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 38412,
+            "text": "\u30e9\u30a6\u30f3\u30c92: \u8acb\u6c42\u3059\u308b",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:55:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 38082,
+            "text": "\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u306f\u3044\u3064\u3067\u3082\u89e3\u9664\u3067\u304d\u307e\u3059\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:31:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 20768,
+            "text": "\u78ba\u8a8d\u5f85\u3061",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-23T15:25:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 38268,
+            "text": "\u5b9d\u304f\u3058\u5238\uff08\u5408\u8a08: %TICKETS%\uff09",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:44:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 38420,
+            "text": "\u6b21\u306e\u5b9d\u304f\u3058\u958b\u59cb\u307e\u3067\u306e\u304a\u304a\u3088\u305d\u306e\u6642\u9593",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:55:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 20764,
+            "text": "CAKE\u3092\u627f\u8a8d",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-10-23T15:24:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 38422,
+            "text": "IFO: \u30a4\u30cb\u30b7\u30e3\u30eb\u30d5\u30a1\u30fc\u30e0\u30aa\u30d5\u30a1\u30ea\u30f3\u30b0",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:56:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 22760,
+            "text": "\u65b0\u3057\u3044\u30c8\u30fc\u30af\u30f3\u8ca9\u58f2\u30e2\u30c7\u30eb\u3067\u65b0\u3057\u3044\u30c8\u30fc\u30af\u30f3\u3092\u8cfc\u5165\u3002",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-30T03:32:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 38430,
+            "text": "CAKE-BNB\u306eLP\u30c8\u30fc\u30af\u30f3\u3092\u4f7f\u7528\u3057\u3066\u3001\u65b0\u3057\u3044\u30c8\u30fc\u30af\u30f3\u306e\u4ee3\u91d1\u3092\u652f\u6255\u3046\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\u3064\u307e\u308a\u3001\u53c2\u52a0\u3059\u308b\u6d41\u52d5\u6027\u30d7\u30fc\u30eb\u306b\u540c\u91cf\u306eCAKE\u3068BNB\u3092\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:59:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 21372,
+            "text": "CAKE-BNB\u306eLP\u3092\u5165\u624b >",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:01:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 38442,
+            "text": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u304cBNB\u3092\u53d6\u5f97\u3059\u308b\u3068\u3001PancakeSwap\u304cCAKE\u3092\u30d0\u30fc\u30f3\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:01:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 38446,
+            "text": "\u3042\u306a\u305f\u306f\u30c8\u30fc\u30af\u30f3\u3092\u5165\u624b\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:02:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 38450,
+            "text": "\u81ea\u5206\u306eIFO\u3092\u30ed\u30fc\u30f3\u30c1\u3057\u307e\u305b\u3093\u304b\uff1f",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:02:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 38462,
+            "text": "Binance Smart Chain\u3067\u6700\u3082\u5229\u7528\u3055\u308c\u3066\u3044\u308bAMM\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3067\u6d41\u52d5\u6027\u4f9b\u7d66\u8005\u3067\u3042\u308bPancakeSwap\u3092\u5229\u7528\u3057\u3066\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3092\u30ed\u30fc\u30f3\u30c1\u3057\u3001BSC\u3067\u6700\u3082\u6d3b\u767a\u3067\u6025\u901f\u306b\u6210\u9577\u3057\u3066\u3044\u308b\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u306b\u3042\u306a\u305f\u306e\u30c8\u30fc\u30af\u30f3\u3092\u76f4\u63a5\u5c4a\u3051\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:04:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 21382,
+            "text": "\u30ed\u30fc\u30f3\u30c1\u306b\u5fdc\u52df\u3059\u308b",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:05:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 21386,
+            "text": "\u30b3\u30df\u30e5\u30cb\u30c6\u30a3",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:06:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 21388,
+            "text": "\u30b3\u30a2",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:06:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 21392,
+            "text": "\u5229\u7528\u53ef\u80fd",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:07:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 38474,
+            "text": "\u30a6\u30a9\u30ec\u30c3\u30c8",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:05:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 21396,
+            "text": "\u30b5\u30a4\u30f3\u30a2\u30a6\u30c8",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:07:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 38484,
+            "text": "\u3059\u3079\u3066\u53ce\u7a6b\uff08%count%\uff09",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:06:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 38490,
+            "text": "Cake\u30b9\u30bf\u30c3\u30c4",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:07:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 38494,
+            "text": "CAKE\u306e\u5408\u8a08\u4f9b\u7d66",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:07:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 38496,
+            "text": "CAKE\u306e\u5408\u8a08\u30d0\u30fc\u30f3",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:07:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 38498,
+            "text": "\u65b0\u898fCAKE\/\u30d6\u30ed\u30c3\u30af",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:08:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 21810,
+            "text": "\u30d5\u30a1\u30fc\u30e0\u3068\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-16T16:01:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 23466,
+            "text": "\u53ce\u7a6b\u5f85\u3061CAKE",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-16T03:30:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 21410,
+            "text": "\u30a6\u30a9\u30ec\u30c3\u30c8\u306eCAKE",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:11:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 21818,
+            "text": "CAKE\u3092\u53ce\u96c6\u4e2d",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-17T04:19:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 21414,
+            "text": "\u3042\u306a\u305f\u306e\u5b9d\u304f\u3058\u306e\u8cde\u91d1",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:12:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 23468,
+            "text": "\u53ce\u96c6\u5f85\u3061CAKE",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-16T03:31:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 38502,
+            "text": "\u3053\u306e\u30e9\u30a6\u30f3\u30c9\u306e\u5408\u8a08\u30b8\u30e3\u30c3\u30af\u30dd\u30c3\u30c8",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:09:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 21420,
+            "text": "\u8cde\u91d1\u3092\u96c6\u3081\u308b",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:12:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 38506,
+            "text": "\u5b9d\u304f\u3058\u5238\u3092\u8cb7\u3046",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:10:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 21814,
+            "text": "\u53ce\u7a6b",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-16T16:02:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 21430,
+            "text": "\u627f\u8a8d\u3059\u308b",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:13:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 21434,
+            "text": "\u9078\u629e\u3059\u308b",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-16T00:14:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 38516,
+            "text": "\u3053\u306e\u30e9\u30a6\u30f3\u30c9\u306e\u5f53\u9078\u756a\u53f7",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:10:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 21790,
+            "text": "\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u30d7\u30fc\u30eb",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-16T15:48:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 38520,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:11:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 38528,
+            "text": "Binance Smart Chain\u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u306eAMM\u30fb\u30a4\u30fc\u30eb\u30c9\u30d5\u30a1\u30fc\u30e0",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:11:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 38532,
+            "text": "CAKE\u3092\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3057\u3066\u65b0\u3057\u3044\u30c8\u30fc\u30af\u30f3\u3092\u7372\u5f97\u3057\u3088\u3046\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:11:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 38538,
+            "text": "\u30ed\u30fc\u30f3\u30c1\u6642\u9593",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:12:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 22050,
+            "text": "\u8ca9\u58f2\u91cf",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-18T05:50:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 38552,
+            "text": "CAKE\u30d0\u30fc\u30f3\uff08USD\uff09",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:13:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 38550,
+            "text": "\u30b9\u30c6\u30fc\u30af\u89e3\u9664",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:13:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 38554,
+            "text": "\u2b50\ufe0f LP\u30c8\u30fc\u30af\u30f3\u3092\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3057\u3066\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u89e3\u9664\u3059\u308b\u305f\u3073\u306b\u3001CAKE\u5831\u916c\u306f\u30b9\u30de\u30fc\u30c8\u30b3\u30f3\u30c8\u30e9\u30af\u30c8\u306b\u3088\u3063\u3066\u81ea\u52d5\u7684\u306b\u53ce\u7a6b\u3055\u308c\u307e\u3059\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:14:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 22058,
+            "text": "\u53c2\u52a0\u65b9\u6cd5",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-18T05:51:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 22060,
+            "text": "\u8ca9\u58f2\u524d",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-18T05:52:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 38556,
+            "text": "CAKE\u3068BNB\u30c8\u30fc\u30af\u30f3\u3092\u8cfc\u5165\u3057\u3088\u3046",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:14:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 38558,
+            "text": "CAKE\u3068BNB\u306e\u6d41\u52d5\u6027\u3092\u8ffd\u52a0\u3057\u3001CAKE-BNB LP\u30c8\u30fc\u30af\u30f3\u3092\u5165\u624b\u3057\u3088\u3046",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:15:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 22066,
+            "text": "\u8ca9\u58f2\u671f\u9593\u4e2d",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-18T05:53:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 38560,
+            "text": "\u8ca9\u58f2\u671f\u9593\u4e2d\u3001CAKE-LP\u30c8\u30fc\u30af\u30f3\u3092\u30b3\u30df\u30c3\u30c8\u3057\u3066IFO\u30c8\u30fc\u30af\u30f3\u3092\u8cfc\u5165\u3057\u3088\u3046",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:16:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 22072,
+            "text": "\u8ca9\u58f2\u5f8c",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-11-18T05:56:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 38564,
+            "text": "\u8cfc\u5165\u3057\u305f\u30c8\u30fc\u30af\u30f3\u3068\u672a\u4f7f\u7528\u306e\u8cfc\u5165\u8cc7\u91d1\u3092\u8acb\u6c42\u3057\u3088\u3046",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:17:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 38570,
+            "text": "\u5b8c\u4e86\u3067\u3059\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:17:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 38572,
+            "text": "\u3055\u3089\u306b\u8aad\u3080",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:17:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 22826,
+            "text": "\u63a5\u7d9a",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T18:59:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 38574,
+            "text": "CAKE\u3068\u30c8\u30ec\u30fc\u30c9\u3001\u307e\u305f\u306f\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u306b\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:18:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 22834,
+            "text": "NFT\u3092\u52dd\u3061\u53d6\u308a\u305f\u3044\u65b9\u306f\u4ee5\u4e0b\u304b\u3089\u7533\u3057\u8fbc\u307f\u3002",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:05:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 23472,
+            "text": "\u5f53\u9078\u30c1\u30e3\u30f3\u30b9\u3078\u7533\u3057\u8fbc\u307f",
+            "user": {
+                "id": 14451920,
+                "username": "cryptobluecat",
+                "fullName": "cryptobluecat",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d73b9fffb6db3b8889a6e12dc650f0f4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-12-23T02:40:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 22836,
+            "text": "\u8a73\u7d30\u3092\u898b\u308b",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:05:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 38608,
+            "text": "NFT\u3092\u30c8\u30ec\u30fc\u30c9",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:47:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 38610,
+            "text": "\u30c8\u30ec\u30fc\u30c9",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:47:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 38612,
+            "text": "\u53d7\u3051\u53d6\u308a",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:48:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 38614,
+            "text": "\u3053\u306eNFT\u3092\u30c8\u30ec\u30fc\u30c9\u3057\u3066CAKE\u3092\u53d7\u3051\u53d6\u308b\u3068\u3001\u4ee5\u964d\u305d\u306eNFT\u3092\u4f7f\u7528\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:50:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 38616,
+            "text": "NFT\u3092\u8acb\u6c42",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:50:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 22848,
+            "text": "\u4ed5\u7d44\u307f",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:10:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 38618,
+            "text": "\u5f53\u9078\u8005\u306f\u3001\u8acb\u6c42\u671f\u9593\u304c\u59cb\u307e\u3063\u305f\u3089\u3053\u306e\u30da\u30fc\u30b8\u3067NFT\u3092\u8acb\u6c42\u3067\u304d\u307e\u3059\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:51:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 38620,
+            "text": "\u5f53\u9078\u3057\u306a\u304b\u3063\u305f\u5834\u5408\u306f\u8acb\u6c42\u3067\u304d\u307e\u305b\u3093\u3002\u6b21\u306f\u5f53\u9078\u3057\u307e\u3059\u3088\u3046\u306b\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:51:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 38622,
+            "text": "\u5f53\u9078\u8005\u306f\u3001\u4ee5\u4e0b\u306b\u8a18\u8f09\u306e\u671f\u65e5\u307e\u3067NFT\u3092CAKE\u306b\u30c8\u30ec\u30fc\u30c9\u3067\u304d\u307e\u3059\u3002NFT\u306e\u30c8\u30ec\u30fc\u30c9\u671f\u9593\u304c\u7d42\u4e86\u3057\u3066\u3082\u5927\u4e08\u592b\u3002\u30c8\u30ec\u30fc\u30c9\u3057\u306a\u304b\u3063\u305fNFT\u306f\u3001\u305d\u306e\u307e\u307e\u30a6\u30a9\u30ec\u30c3\u30c8\u306b\u6b8b\u308a\u307e\u3059\u3002",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:53:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 22856,
+            "text": "\u5f53\u9078\u8005\u306f\u3069\u306e\u3088\u3046\u306b\u9078\u3070\u308c\u308b\u306e\uff1f",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:17:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 38624,
+            "text": "\u5f53\u9078\u8005\u306f\u30e9\u30f3\u30c0\u30e0\u306b\u9078\u3070\u308c\u307e\u3059\uff01\u30b0\u30c3\u30c9\u30e9\u30c3\u30af\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:54:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 38626,
+            "text": "\u30c8\u30ec\u30fc\u30c9\u3057\u305f\u5834\u5408\u306e\u4fa1\u683c",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:54:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 22864,
+            "text": "\u30df\u30f3\u30c8\u3055\u308c\u305f\u6570",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:20:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 22866,
+            "text": "\u30d0\u30fc\u30f3\u3055\u308c\u305f\u6570",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:20:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 38628,
+            "text": "\u3053\u306eNFT\u3092\u8acb\u6c42\u3059\u308b",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:55:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 38630,
+            "text": "CAKE\u306b\u30c8\u30ec\u30fc\u30c9\u3059\u308b",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:55:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 22872,
+            "text": "\u30ed\u30fc\u30c9\u4e2d\u2026",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:20:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 22874,
+            "text": "\u8a73\u7d30",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:20:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 22876,
+            "text": "\u5f53\u9078\u3057\u307e\u3057\u305f\uff01",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:20:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 38632,
+            "text": "\u4ee5\u4e0b\u304b\u3089NFT\u3092\u9078\u3093\u3067\u8acb\u6c42\u3057\u3088\u3046\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:56:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 38634,
+            "text": "\u30c8\u30ec\u30fc\u30c9\u671f\u9593",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:56:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 22884,
+            "text": "\u30a6\u30a9\u30ec\u30c3\u30c8\u304c\u63a5\u7d9a\u3055\u308c\u3066\u3044\u307e\u305b\u3093",
+            "user": {
+                "id": 14439204,
+                "username": "bocaabajo",
+                "fullName": "Crypoint",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439204\/medium\/8999376d27157442ae5d39f27e6ad92a.jpeg"
+            },
+            "createdAt": "2020-12-10T19:23:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 38636,
+            "text": "\u63a5\u7d9a\u3057\u3066NFT\u304c\u5f53\u305f\u3063\u305f\u304b\u78ba\u8a8d\u3057\u3088\u3046\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:56:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 31242,
+            "text": "\u30db\u30fc\u30e0",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:13:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 38638,
+            "text": "\u30c8\u30ec\u30fc\u30c9",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:56:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 31252,
+            "text": "\u30d5\u30a1\u30fc\u30e0",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "ステーキングのみ"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 31254,
+            "text": "\u30d7\u30fc\u30eb",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 31256,
+            "text": "NFT",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 31264,
+            "text": "\u60c5\u5831",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 31272,
+            "text": "IFO",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 31278,
+            "text": "\u305d\u306e\u4ed6",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 31282,
+            "text": "\u6d41\u52d5\u6027",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 31286,
+            "text": "\u6982\u8981",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:15:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 31288,
+            "text": "\u30c8\u30fc\u30af\u30f3",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:15:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 31316,
+            "text": "\u53d6\u5f15\u30da\u30a2",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:16:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 31320,
+            "text": "\u30a2\u30ab\u30a6\u30f3\u30c8",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:16:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 31340,
+            "text": "LP\u30c8\u30fc\u30af\u30f3\u3092\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3057\u3066CAKE\u3092\u7372\u5f97",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:17:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 31346,
+            "text": "\u30a2\u30af\u30c6\u30a3\u30d6",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:17:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 31352,
+            "text": "\u975e\u30a2\u30af\u30c6\u30a3\u30d6",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:17:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 31360,
+            "text": "\u30c7\u30e5\u30a2\u30eb",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:18:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 36508,
+            "text": "\u8907\u5229\u904b\u7528",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:38:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 31540,
+            "text": "%asset%\u306e\u30b9\u30c6\u30fc\u30af\u89e3\u9664",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:31:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 31542,
+            "text": "CAKE\u5b9d\u304f\u3058",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:32:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 31546,
+            "text": "CAKE\u3067\u5b9d\u304f\u3058\u5238\u3092\u8cb7\u304a\u3046",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:32:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 31604,
+            "text": "\u5b9d\u304f\u3058\u5238\u306e\u756a\u53f7\u306b\u5f53\u9078\u6570\u5b57\u304c2\u3064\u30013\u3064\u3001\u307e\u305f\u306f4\u3064\u542b\u307e\u308c\u3066\u3044\u308c\u3070\u5f53\u9078\uff01",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:38:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 31612,
+            "text": "\u6b21\u306e\u62bd\u9078",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:38:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 31616,
+            "text": "\u904e\u53bb\u306e\u62bd\u9078",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:38:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 31624,
+            "text": "\u7b2c%num%\u30e9\u30a6\u30f3\u30c9",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:40:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 31628,
+            "text": "\u8cde\u91d1\u7dcf\u984d",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:41:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 31634,
+            "text": "\u3053\u306e\u30e9\u30a6\u30f3\u30c9\u306e\u5b9d\u304f\u3058\u5238",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:42:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 31638,
+            "text": "\u53ce\u96c6\u3067\u304d\u308b\u8cde\u91d1\u306f\u3042\u308a\u307e\u305b\u3093",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:43:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 38640,
+            "text": "\u30a6\u30a9\u30ec\u30c3\u30c8",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:58:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 31648,
+            "text": "\u30ed\u30fc\u30c9\u4e2d...",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:44:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 31650,
+            "text": "\u6b21\u306eIFO",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:44:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 31652,
+            "text": "\u904e\u53bb\u306eIFO",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:44:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "LP トークンを賭けて FAST を獲得する"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 31654,
+            "text": "\u5e74\u7387",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:44:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "総流動性"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 31238,
+            "text": "Syrup\u30d7\u30fc\u30eb",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:13:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "賭けた"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 31608,
+            "text": "\u5b9d\u304f\u3058\u306e\u62bd\u9078\u307e\u3067\u5f8c%time%",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:38:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "契約を承認する"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 31656,
+            "text": "\u5b9d\u304f\u3058\u756a\u53f7\u3092\u9078\u629e\u3059\u308b:",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:45:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "稼いだ"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 31658,
+            "text": "\u691c\u7d22",
+            "user": {
+                "id": 14144439,
+                "username": "nozomi.kugita",
+                "fullName": "nozomi.kugita",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/d905b683b7887ec9315ed5ff9f128ad9?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:45:33+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

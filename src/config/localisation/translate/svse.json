@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Stake LP tokens"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Avbryt"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Väntande på bekräftelse"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Bekräfta"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Skaffa sig"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Ta bort LP-tokens"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Ta bort insatsen"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 9324,
+            "text": "G\u00e5rd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 9376,
+            "text": "Insats",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9480,
+            "text": "V\u00e4xling",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9532,
+            "text": "Dokument",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9584,
+            "text": "Omr\u00f6stning",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9636,
+            "text": "Lotteri",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 9688,
+            "text": "L\u00e5s upp pl\u00e5nbok",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 9738,
+            "text": "Din %asset% balans",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 9790,
+            "text": "Total %asset% m\u00e4ngd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9842,
+            "text": "L\u00c5ST",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 9894,
+            "text": "Tillg\u00e4ngligt f\u00f6r sk\u00f6rd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9946,
+            "text": "Nya bel\u00f6ningar per block",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 9998,
+            "text": "Totalt antal Cake sedan starten",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 10050,
+            "text": "Bes\u00f6k k\u00f6ket",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10102,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10154,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10206,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10258,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 10310,
+            "text": "Ins\u00e4ttning",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 10362,
+            "text": "Tj\u00e4na",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 10414,
+            "text": "S\u00e4tt in FLIP tokens f\u00f6r att tj\u00e4na CAKE",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 10620,
+            "text": "Du kan v\u00e4xla tillbaka n\u00e4r som helst",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 10670,
+            "text": "%asset% Intj\u00e4nat",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 10722,
+            "text": "Tokens insatta",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 13800,
+            "text": "Varje g\u00e5ng du s\u00e4tter in eller tar ut CAKE tokens kommer kontraktet automatiskt sk\u00f6rda CAKE bel\u00f6ningar \u00e5t dig!",
+            "user": {
+                "id": 14439360,
+                "username": "gosubuster",
+                "fullName": "gosubuster",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439360\/medium\/bf4a23981dc2bb51fe36c570e6b8ad62.jpg"
+            },
+            "createdAt": "2020-10-11T10:26:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 10982,
+            "text": "XVS Tokens tj\u00e4nade",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 11086,
+            "text": "Bel\u00f6ningar ber\u00e4knas per block och total bel\u00f6ning kommer automatiskt att skickas ut vid slutet av projektets sk\u00f6rdeperiod.",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11138,
+            "text": "Pool",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11190,
+            "text": "Kommer snart",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11242,
+            "text": "APY",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11292,
+            "text": "Total likviditet",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 11342,
+            "text": "Titta p\u00e5 BscScan",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11392,
+            "text": "Cake pris",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 11442,
+            "text": "%asset% Tokens tj\u00e4nade",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 11492,
+            "text": "%num% av block tills sk\u00f6rdningen avslutas",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 13082,
+            "text": "Kommer snart...",
+            "user": {
+                "id": 14439360,
+                "username": "gosubuster",
+                "fullName": "gosubuster",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439360\/medium\/bf4a23981dc2bb51fe36c570e6b8ad62.jpg"
+            },
+            "createdAt": "2020-10-11T10:10:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 13092,
+            "text": "Din Insats",
+            "user": {
+                "id": 14439360,
+                "username": "gosubuster",
+                "fullName": "gosubuster",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439360\/medium\/bf4a23981dc2bb51fe36c570e6b8ad62.jpg"
+            },
+            "createdAt": "2020-10-11T10:10:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 13204,
+            "text": "Odling startar om %num% Block",
+            "user": {
+                "id": 14439360,
+                "username": "gosubuster",
+                "fullName": "gosubuster",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439360\/medium\/bf4a23981dc2bb51fe36c570e6b8ad62.jpg"
+            },
+            "createdAt": "2020-10-11T10:14:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 13150,
+            "text": "Avslutad",
+            "user": {
+                "id": 14439360,
+                "username": "gosubuster",
+                "fullName": "gosubuster",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439360\/medium\/bf4a23981dc2bb51fe36c570e6b8ad62.jpg"
+            },
+            "createdAt": "2020-10-11T10:12:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 13212,
+            "text": "Odling slutar om %num% Block",
+            "user": {
+                "id": 14439360,
+                "username": "gosubuster",
+                "fullName": "gosubuster",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439360\/medium\/bf4a23981dc2bb51fe36c570e6b8ad62.jpg"
+            },
+            "createdAt": "2020-10-11T10:14:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 13162,
+            "text": "Projektwebbplats",
+            "user": {
+                "id": 14439360,
+                "username": "gosubuster",
+                "fullName": "gosubuster",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439360\/medium\/bf4a23981dc2bb51fe36c570e6b8ad62.jpg"
+            },
+            "createdAt": "2020-10-11T10:13:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 48412,
+            "text": "Bel\u00f6ningarna ber\u00e4knas per block.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:54:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 48414,
+            "text": "Totalt",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:54:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 48416,
+            "text": "Slut",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:54:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 48418,
+            "text": "Visa projektwebbplats",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:55:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 48420,
+            "text": "Ditt projekt? \ud83d\udc40",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:55:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 48422,
+            "text": "Skapa en pool f\u00f6r din token",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:55:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 48424,
+            "text": "Ans\u00f6k nu",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:55:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 48426,
+            "text": "Runda 1: K\u00d6PA",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:56:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 41940,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T19:15:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 42112,
+            "text": "Spendera CAKE f\u00f6r att k\u00f6pa biljetter och bidra till lotteripotten. Biljettk\u00f6p fram till ca 30 minuter innan lotteriet. Vinn priser om 2, 3 eller 4 av dina biljettnummer \u00f6verensst\u00e4mmer med de vinnande numren och deras positioner. Lycka till!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:16:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 42114,
+            "text": "Ditt totala antal biljetter f\u00f6r denna runda",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:17:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 42116,
+            "text": "K\u00f6p biljett",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:17:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 42118,
+            "text": "Visa dina biljetter",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:17:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 42120,
+            "text": "Ca tid kvar f\u00f6r att k\u00f6pa biljetter",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:17:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 42124,
+            "text": "St\u00e4ng",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:18:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 42126,
+            "text": "Senaste vinnande numren",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:18:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 42128,
+            "text": "Biljetter som \u00f6verensst\u00e4mmer med 4 nummer:",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:20:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 42130,
+            "text": "Biljetter som \u00f6verensst\u00e4mmer med 3 nummer:",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:20:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 42132,
+            "text": "Biljetter som \u00f6verensst\u00e4mmer med 2 nummer:",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:20:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 42710,
+            "text": "Exportera de senaste vinnande numren",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:36:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 42136,
+            "text": "Ange antal biljetter att k\u00f6pa",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:21:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 42138,
+            "text": "Max",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:21:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 42712,
+            "text": "%num% tillg\u00e4ngliga CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:36:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 42142,
+            "text": "Ditt belopp m\u00e5ste vara en multipel om 10 CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:23:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 42144,
+            "text": "1 biljett = 10 CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:23:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 42146,
+            "text": "Du kommer att spendera: %num% CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:23:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 42148,
+            "text": "Avbryt",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:23:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 42150,
+            "text": "Bekr\u00e4fta",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:23:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 42152,
+            "text": "Varning",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:23:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 42154,
+            "text": "K\u00f6p av lotteribiljetter \u00e4r slutgiltigt.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:30:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 42156,
+            "text": "Din CAKE kommer inte att l\u00e4mnas tillbaka till dig efter att du spenderat den p\u00e5 att k\u00f6pa biljetter.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:31:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 42158,
+            "text": "Biljetterna \u00e4r bara giltiga f\u00f6r en lotteridragning och kommer att br\u00e4nnas efter dragningen.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:31:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 42160,
+            "text": "K\u00f6p av biljetter \u00e4r ingen garanti f\u00f6r vinst. Delta bara om du f\u00f6rst\u00e5r riskerna.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 42162,
+            "text": "Jag f\u00f6rst\u00e5r",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:32:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 42164,
+            "text": "K\u00f6p av biljetter \u00e4r slutgiltigt. Din CAKE kommer inte att l\u00e4mnas tillbaka till dig efter att du k\u00f6pt biljetter.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:32:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 42166,
+            "text": "L\u00f6s in priser",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:33:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 42168,
+            "text": "CAKE-priser att l\u00f6sa in",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:33:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 48428,
+            "text": "Runda 2: INL\u00d6SNING",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:57:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 48410,
+            "text": "Du kan ta ut n\u00e4r som helst.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-15T23:53:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 42172,
+            "text": "V\u00e4ntande bekr\u00e4ftelse",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:33:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 42122,
+            "text": "Mina biljetter (Totalt: %TICKETS%)",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:18:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 42174,
+            "text": "Ca tid innan n\u00e4sta lotteri startar",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:33:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 42176,
+            "text": "Godk\u00e4nn CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:34:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 42714,
+            "text": "IFO: Inledande farmerbjudanden",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:38:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 42180,
+            "text": "K\u00f6p nya tokens med en helt ny f\u00f6rs\u00e4ljningsmodell f\u00f6r tokens.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:35:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 42182,
+            "text": "Du betalar f\u00f6r nya tokens med CAKE-BNB LP-tokens, vilket inneb\u00e4r att du m\u00e5ste satsa samma belopp av CAKE och BNB i en likviditetspool f\u00f6r att delta.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:38:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 42184,
+            "text": "Skaffa CAKE-BNB LP >",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:38:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 42186,
+            "text": "Projektet f\u00e5r BNB, PancakeSwap br\u00e4nner CAKE.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:38:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 42188,
+            "text": "Du f\u00e5r tokens.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:38:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 42192,
+            "text": "Vill du starta din egen IFO?",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:48:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 42194,
+            "text": "Starta ditt projekt med PancakeSwap, Binance Smart Chains mest anv\u00e4nda AMM-projekt och likviditetsleverant\u00f6r f\u00f6r att ta din token direkt till den mest aktiva och snabbast v\u00e4xande communityn p\u00e5 BSC.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:49:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 42196,
+            "text": "Ans\u00f6k om att starta",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:49:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 42200,
+            "text": "Community",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:51:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 42202,
+            "text": "K\u00e4rna",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:51:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 42204,
+            "text": "Tillg\u00e4nglig",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:51:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 42206,
+            "text": "Min pl\u00e5nbok",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-05T23:52:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 42606,
+            "text": "Logga ut",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:16:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 42608,
+            "text": "Sk\u00f6rda alla (%count%)",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:16:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 42610,
+            "text": "Cake-statistik",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:16:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 42612,
+            "text": "Total CAKE-m\u00e4ngd",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:17:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 42614,
+            "text": "Totalt br\u00e4nda CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:17:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 42616,
+            "text": "Ny CAKE\/block",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:17:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 42618,
+            "text": "Farmar och satsning",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:17:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 42620,
+            "text": "CAKE f\u00f6r att sk\u00f6rda",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:18:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 42622,
+            "text": "CAKE i pl\u00e5nbok",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:18:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 42624,
+            "text": "Samlar in CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:18:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 42626,
+            "text": "Dina lotterivinster",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:18:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 42628,
+            "text": "CAKE att samla in",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:18:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 42630,
+            "text": "Total jackpott denna runda",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:18:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 42632,
+            "text": "Samla in vinster",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:18:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 42634,
+            "text": "K\u00f6p biljetter",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:19:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 42636,
+            "text": "Sk\u00f6rda",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:19:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 42638,
+            "text": "Godk\u00e4nn",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:19:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 42642,
+            "text": "V\u00e4lj",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:19:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 42644,
+            "text": "Vinnande nummer den h\u00e4r rundan",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:19:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 42646,
+            "text": "Insatspool",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:19:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 42648,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:19:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 42650,
+            "text": "Sk\u00f6rdfarmen och AMM nummer 1 p\u00e5 Binance Smart Chain.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:23:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 42652,
+            "text": "Satsa CAKE f\u00f6r att tj\u00e4na nya tokens.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:23:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 42654,
+            "text": "Starttid",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:24:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 42656,
+            "text": "Till salu",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:24:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 42658,
+            "text": "CAKE att br\u00e4nna (USD)",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:24:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 42660,
+            "text": "Dra tillbaka",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:24:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 42726,
+            "text": "\u2b50\ufe0f Varje g\u00e5ng du s\u00e4tter in eller tar ut LP-tokens kommer kontraktet automatiskt sk\u00f6rda CAKE-bel\u00f6ningar \u00e5t dig!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:50:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 42664,
+            "text": "Hur man deltar",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:25:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 42666,
+            "text": "Innan f\u00f6rs\u00e4ljning",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:25:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 42668,
+            "text": "K\u00f6p CAKE- och BNB-tokens",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:25:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 42670,
+            "text": "Skaffa CAKE-BNB LP-tokens genom att l\u00e4gga till CAKE- och BNB-likviditet",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:25:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 42672,
+            "text": "Under f\u00f6rs\u00e4ljning",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:25:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 42674,
+            "text": "Medan f\u00f6rs\u00e4ljningen p\u00e5g\u00e5r kan du avs\u00e4tta dina CAKE-LP-tokens f\u00f6r att k\u00f6pa IFO-tokens",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:29:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 42676,
+            "text": "Efter f\u00f6rs\u00e4ljning",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:29:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 42678,
+            "text": "L\u00f6s in de tokens du k\u00f6pte tillsammans med medel som inte spenderats.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:29:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 42680,
+            "text": "Klart!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:30:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 42682,
+            "text": "L\u00e4s mer",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:30:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 42684,
+            "text": "Anslut",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:30:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 42728,
+            "text": "V\u00e4xla in mot CAKE eller beh\u00e5ll i din samling.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:51:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 42688,
+            "text": "Anm\u00e4l ditt intresse f\u00f6r att vinna en NFT nedan.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:31:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 42690,
+            "text": "Anm\u00e4l dig f\u00f6r en chans att vinna",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 42692,
+            "text": "Ta reda p\u00e5 mer",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:32:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 42694,
+            "text": "V\u00e4xla in NFT",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:32:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 42696,
+            "text": "V\u00e4xla in",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:32:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 42698,
+            "text": "Du kommer att f\u00e5",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:32:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 42700,
+            "text": "N\u00e4r du v\u00e4xlar in denna NFT f\u00f6r att f\u00e5 CAKE f\u00f6rlorar du tillg\u00e5ngen till den f\u00f6r alltid.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:33:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 42702,
+            "text": "L\u00f6s in NFT",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:33:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 42704,
+            "text": "Hur det fungerar",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:33:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 42208,
+            "text": "Vinnarna kommer att kunna l\u00f6sa in en NFT p\u00e5 denna sidan n\u00e4r inl\u00f6sningsperioden startar.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:01:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 42210,
+            "text": "Om du inte blir utvald kommer du inte att kunna l\u00f6sa in. B\u00e4ttre lycka n\u00e4sta g\u00e5ng!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:02:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 42716,
+            "text": "Vinnarna kan v\u00e4xla in sina NFT mot ett CAKE-v\u00e4rde fram tills f\u00f6rfallodatumet som anges nedan. Oroa dig inte om du vid det laget inte har v\u00e4xlat in din NFT, du kan fortfarande f\u00f6rvara den i din pl\u00e5nbok.",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:40:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 42214,
+            "text": "Hur v\u00e4ljs vinnarna ut?",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:05:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 42216,
+            "text": "Vinnarna v\u00e4ljs ut slumpm\u00e4ssigt, lycka till!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:05:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 42718,
+            "text": "V\u00e4rde vid inv\u00e4xling",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:41:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 42220,
+            "text": "Antal myntade",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:06:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 42222,
+            "text": "Antal br\u00e4nda",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:06:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 42224,
+            "text": "L\u00f6s in denna NFT",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:06:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 42720,
+            "text": "V\u00e4xla in mot CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:41:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 42228,
+            "text": "Laddar\u2026",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:06:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 42230,
+            "text": "Detaljer",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:07:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 42232,
+            "text": "Du vann!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:07:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 42234,
+            "text": "L\u00f6s in en NFT fr\u00e5n alternativen nedan!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:07:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 42722,
+            "text": "Kan v\u00e4xlas in till",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:42:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 42238,
+            "text": "Pl\u00e5nboken \u00e4r fr\u00e5nkopplad",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:08:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 42240,
+            "text": "Anslut f\u00f6r att se om du har vunnit en NFT!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:08:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 42242,
+            "text": "Hem",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:09:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 42244,
+            "text": "V\u00e4xla",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:09:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 42246,
+            "text": "Farmar",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:09:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Endast satsat"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 42248,
+            "text": "Pooler",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 42250,
+            "text": "NFT",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 42252,
+            "text": "Info",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 42254,
+            "text": "IFO",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 42256,
+            "text": "Mer",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 42258,
+            "text": "Likviditet",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 42260,
+            "text": "\u00d6versikt",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 42262,
+            "text": "Token",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 42264,
+            "text": "Par",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 42266,
+            "text": "Konton",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 42268,
+            "text": "S\u00e4tt in LP tokens f\u00f6r att tj\u00e4na CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:10:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 42270,
+            "text": "Aktiv",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:11:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 42272,
+            "text": "Inaktiv",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:11:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 42274,
+            "text": "Dubbel",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:11:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 42276,
+            "text": "F\u00f6rena",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:13:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 42278,
+            "text": "H\u00e4v satsning %asset%",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:14:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 42280,
+            "text": "CAKE-lotteriet",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:15:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 42282,
+            "text": "K\u00f6p biljetter med CAKE",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:15:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 42284,
+            "text": "Vinn om 2, 3 eller 4 av dina biljettnummer \u00f6verensst\u00e4mmer!",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:15:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 42288,
+            "text": "N\u00e4sta dragning",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:16:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 42290,
+            "text": "Tidigare dragningar",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:16:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 42292,
+            "text": "Runda %num%",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:17:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 42294,
+            "text": "Total pott",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:17:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 42296,
+            "text": "Dina biljetter f\u00f6r denna runda",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:17:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 42298,
+            "text": "Inga priser att h\u00e4mta",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:17:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 42300,
+            "text": "I pl\u00e5nbok",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:17:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 42302,
+            "text": "Laddar...",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:18:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 42304,
+            "text": "N\u00e4sta IFO",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:18:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 42306,
+            "text": "Tidigare IFO:er",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:18:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Stake LP-tokens för att tjäna FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 42506,
+            "text": "APR",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:02:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Total likviditet"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 42706,
+            "text": "Syrup-pool",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:33:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Insatt"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 42286,
+            "text": "%time% till lotteridragning",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T00:16:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Godkänn kontrakt"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 42508,
+            "text": "V\u00e4lj lotterinummer:",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:02:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Tjänade"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 42510,
+            "text": "S\u00f6k",
+            "user": {
+                "id": 13228087,
+                "username": "henkeasc",
+                "fullName": "Henrik Johannes\u00e9n",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13228087\/medium\/5e1a1ea5faca3f1f47935b6f2b513a15.png"
+            },
+            "createdAt": "2021-02-06T01:02:37+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "LP 토큰 스테이킹"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "취소"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "확인 대기 중"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "확인"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "가져 오기"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "LP 토큰 언스테이킹"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "언스테이킹"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 49708,
+            "text": "\ud31c",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-03-12T05:56:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 33566,
+            "text": "\uc608\uce58",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:44:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9470,
+            "text": "\uad50\ud658",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9522,
+            "text": "\ubb38\uc11c",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9574,
+            "text": "\ud22c\ud45c",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 33342,
+            "text": "\ub85c\ud130\ub9ac",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:10:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 33346,
+            "text": "\uc9c0\uac11 \uc7a0\uae08 \ud574\uc81c",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:10:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 32846,
+            "text": "\ub0b4 %asset% \uc794\uc561",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T13:42:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 9780,
+            "text": "\ucd1d %asset% \uacf5\uae09",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9832,
+            "text": "\uc7a0\uae40",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 33452,
+            "text": "\uc218\ud655 \ub300\uae30 \uc911",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:21:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 33396,
+            "text": "\ube14\ub85d\ub2f9 \uc2e0\uaddc \ub9ac\uc6cc\ub4dc",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:12:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 33398,
+            "text": "\uc2dc\uc791 \uc774\ud6c4 \uc18c\uac01\ub41c \ucd1d CAKE",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:12:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 33448,
+            "text": "\ud0a4\uce5c \ubcf4\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:20:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 33394,
+            "text": "Telegram",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:11:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10144,
+            "text": "\ube14\ub85c\uadf8",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 33564,
+            "text": "Github",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:44:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 33542,
+            "text": "Twitter",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:38:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 10300,
+            "text": "\uc608\uce58",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 33544,
+            "text": "\ud68d\ub4dd",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:39:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 33478,
+            "text": "CAKE\uc744 \uc608\uce58\ud558\ub824\uba74 LP \ud1a0\ud070 \uc608\uce58",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:24:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 33548,
+            "text": "\uc5b8\uc81c\ub4e0\uc9c0 \ub2e4\uc2dc \uc2a4\uc651\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:39:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 33552,
+            "text": "\ud68d\ub4dd\ud55c %asset%",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:40:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 10712,
+            "text": "\uc608\uce58\ub41c \ud1a0\ud070",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 33492,
+            "text": "CAKE \ud1a0\ud070\uc744 \uc608\uce58\ud558\uace0 \uc608\uce58 \ucde8\uc18c\ud560 \ub54c\ub9c8\ub2e4, \uacc4\uc57d\uc774 \uc790\ub3d9\uc73c\ub85c CAKE \ub9ac\uc6cc\ub4dc\ub97c \uc218\ud655\ud569\ub2c8\ub2e4!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:27:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 33558,
+            "text": "\ud68d\ub4dd\ud55c XVS \ud1a0\ud070",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:42:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 33560,
+            "text": "\ub9ac\uc6cc\ub4dc\ub294 \ube14\ub85d\ubcc4\ub85c \uacc4\uc0b0\ub418\uba70, \ud504\ub85c\uc81d\ud2b8\ubcc4 \ud30c\ubc0d \uae30\uac04\uc774 \ub05d\ub098\uba74 \ucd1d \ub9ac\uc6cc\ub4dc\uac00 \uc790\ub3d9\uc73c\ub85c \ubc30\ubd84\ub429\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:43:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11128,
+            "text": "\ud480",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 33538,
+            "text": "\uace7 \uc81c\uacf5 \uc608\uc815",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:38:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 33540,
+            "text": "APY",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:38:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11282,
+            "text": "\ucd1d \uc720\ub3d9\uc131",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 11332,
+            "text": "BscScan\uc5d0\uc11c \ubcf4\uae30",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 33456,
+            "text": "Cake \uac00\uaca9",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:21:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 33462,
+            "text": "\ud68d\ub4dd\ud55c %asset% \ud1a0\ud070",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:22:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 33460,
+            "text": "\ud30c\ubc0d\uc774 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 %num% \ube14\ub85d",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:22:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 33464,
+            "text": "\uace7 \uc81c\uacf5 \uc608\uc815...",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:22:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 33466,
+            "text": "\ub0b4 \uc608\uce58\uae08",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:23:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 33520,
+            "text": "\ud30c\ubc0d\uc774 %num% \ube14\ub85d \ud6c4 \uc2dc\uc791\ub429\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:34:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 14936,
+            "text": "\uc644\ub8cc\ub428",
+            "user": {
+                "id": 14451868,
+                "username": "n016yoyo",
+                "fullName": "\uc591\ub3d9\ud601",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451868\/medium\/6639a593a6d203f31673ce4f1c97966c.jpg"
+            },
+            "createdAt": "2020-10-11T11:02:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 33526,
+            "text": "\ud30c\ubc0d\uc774 %num% \ube14\ub85d \ud6c4 \uc885\ub8cc\ub429\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:35:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 14954,
+            "text": "\ud504\ub85c\uc81d\uc2a4 \uc0ac\uc774\ud2b8",
+            "user": {
+                "id": 14451868,
+                "username": "n016yoyo",
+                "fullName": "\uc591\ub3d9\ud601",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451868\/medium\/6639a593a6d203f31673ce4f1c97966c.jpg"
+            },
+            "createdAt": "2020-10-11T11:03:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 31924,
+            "text": "\ub9ac\uc6cc\ub4dc\ub294 \ube14\ub85d\ubcc4\ub85c \uacc4\uc0b0\ub429\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:42:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 31926,
+            "text": "\ud569\uacc4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:42:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 32080,
+            "text": "\uc885\ub8cc",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:57:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 32082,
+            "text": "\ud504\ub85c\uc81d\ud2b8 \uc0ac\uc774\ud2b8 \ubcf4\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:58:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 33530,
+            "text": "\ub0b4 \ud504\ub85c\uc81d\ud2b8? \ud83d\udc40",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:36:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 33532,
+            "text": "\ub0b4 \ud1a0\ud070\uc758 \ud480 \ub9cc\ub4e4\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:36:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 32104,
+            "text": "\uc9c0\uae08 \uc801\uc6a9",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T13:00:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 32106,
+            "text": "\ub77c\uc6b4\ub4dc 1: \uad6c\uc785",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T13:00:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 32110,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T13:00:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 46674,
+            "text": "CAKE\uc744 \uc0ac\uc6a9\ud558\uc5ec \ud2f0\ucf13\uc744 \uad6c\uc785\ud558\uace0, \ub85c\ud130\ub9ac \ud3ec\ud2b8\uc5d0 \uae30\ubd80\ud558\uc138\uc694. \ud2f0\ucf13 \uad6c\ub9e4\ub294 \ub85c\ud130\ub9ac \ucd94\ucca8 \uc57d 30\ubd84 \uc804\uc5d0 \uc885\ub8cc\ub429\ub2c8\ub2e4. 1, 2, 3 \ub610\ub294 4\uac1c\uc758 \ud2f0\ucf13 \ubc88\ud638\uac00 \ub2f9\ucca8 \ubc88\ud638 \ubc0f \ud574\ub2f9 \ud3ec\uc9c0\uc158\uacfc \ub9de\uc73c\uba74 \uc0c1\uae08\uc744 \ub538 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ud589\uc6b4\uc744 \ube4c\uc5b4\uc694!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-13T03:50:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 33622,
+            "text": "\uc774 \ub77c\uc6b4\ub4dc\uc758 \ucd1d \ud2f0\ucf13",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:56:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 33624,
+            "text": "\ud2f0\ucf13 \uad6c\uc785",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:56:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 33626,
+            "text": "\ub0b4 \ud2f0\ucf13 \ubcf4\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:56:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 33628,
+            "text": "\ud2f0\ucf13 \uad6c\uc785\uc744 \uc704\ud574 \ub0a8\uc740 \ub300\ub7b5\uc801\uc778 \uc2dc\uac04",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:57:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 33632,
+            "text": "\ub2eb\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:57:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 33634,
+            "text": "\ucd5c\uc2e0 \ub2f9\ucca8 \ubc88\ud638",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:57:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 33636,
+            "text": "4\uac1c \ubc88\ud638 \uc77c\uce58 \ud2f0\ucf13:",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:58:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 33638,
+            "text": "3\uac1c \ubc88\ud638 \uc77c\uce58 \ud2f0\ucf13:",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:58:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 33640,
+            "text": "2\uac1c \ubc88\ud638 \uc77c\uce58 \ud2f0\ucf13:",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:58:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 33642,
+            "text": "\ucd5c\uadfc \ub2f9\ucca8 \ubc88\ud638 \ub0b4\ubcf4\ub0b4\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:58:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 33644,
+            "text": "\uad6c\uc785\ud560 \ud2f0\ucf13 \uc218 \uc785\ub825",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:58:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 33646,
+            "text": "\ucd5c\ub300",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:58:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 33648,
+            "text": "%num% CAKE \uc0ac\uc6a9 \uac00\ub2a5",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:59:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 33650,
+            "text": "CAKE \uc218\ub294 10\uc758 \ubc30\uc218\uc5ec\uc57c \ud569\ub2c8\ub2e4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:59:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 33694,
+            "text": "1 Ticket = 10 CAKE",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:01:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 33696,
+            "text": "\uc0ac\uc6a9: %num% CAKE",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:01:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 33698,
+            "text": "\ucde8\uc18c",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:01:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 33700,
+            "text": "\ud655\uc778",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:01:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 33702,
+            "text": "\uacbd\uace0",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:01:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 33704,
+            "text": "\ub85c\ud130\ub9ac \ud2f0\ucf13 \uad6c\ub9e4\ub294 \ucde8\uc18c\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:02:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 33708,
+            "text": "\ud2f0\ucf13 \uad6c\uc785\uc5d0 \uc0ac\uc6a9\ud55c CAKE\uc740 \ubc18\ud658\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:02:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 33734,
+            "text": "\ud2f0\ucf13\uc740 1\ud68c \ub85c\ud130\ub9ac \ucd94\ucca8\uc5d0\ub9cc \uc720\ud6a8\ud558\uba70, \ucd94\ucca8 \ud6c4 \uc18c\uac01\ub429\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:09:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 33736,
+            "text": "\ud2f0\ucf13 \uad6c\uc785\uc774 \ub2f9\ucca8\uc744 \ubcf4\uc7a5\ud558\uc9c0\ub294 \uc54a\uc2b5\ub2c8\ub2e4. \ub9ac\uc2a4\ud06c\ub97c \uc774\ud574\ud55c \ud6c4\uc5d0 \ucc38\uc5ec\ud558\uc138\uc694.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:09:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 33738,
+            "text": "\uc774\ud574\ud568",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:09:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 33744,
+            "text": "\ub85c\ud130\ub9ac \ud2f0\ucf13 \uad6c\ub9e4\ub294 \ucde8\uc18c\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ud2f0\ucf13 \uad6c\uc785 \ud6c4 CAKE\uc740 \ubc18\ud658\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:12:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 33746,
+            "text": "\uc0c1\uae08 \ud074\ub808\uc784",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:12:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 33748,
+            "text": "\ud074\ub808\uc784\ud560 CAKE \uc0c1\uae08",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:12:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 33750,
+            "text": "\ub77c\uc6b4\ub4dc 2: \ud074\ub808\uc784",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:12:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 31886,
+            "text": "\uc5b8\uc81c\ub4e0\uc9c0 \uc608\uce58 \ucde8\uc18c\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:34:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 33752,
+            "text": "\ud655\uc778 \ub300\uae30 \uc911",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:12:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 33630,
+            "text": "\ub0b4 \ud2f0\ucf13(\ud569\uacc4: %TICKETS%)",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:57:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 33754,
+            "text": "\ub2e4\uc74c \ub85c\ud130\ub9ac \uc2dc\uc791\uae4c\uc9c0 \ub300\ub7b5\uc801\uc778 \uc2dc\uac04",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:12:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 33756,
+            "text": "CAKE \uc2b9\uc778",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:13:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 49710,
+            "text": "IFO: \ucd08\uae30 \ud31c \uc624\ud37c\ub9c1",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-03-12T05:56:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 34276,
+            "text": "\uc0c8\ub85c\uc6b4 \ud1a0\ud070 \ud310\ub9e4 \ubaa8\ub378\ub85c \uc0c8\ub85c\uc6b4 \ud1a0\ud070\uc744 \uad6c\uc785\ud558\uc138\uc694.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:02:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 33692,
+            "text": "CAKE-BNB LP \ud1a0\ud070\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc0c8\ub85c\uc6b4 \ud1a0\ud070\uc758 \ub300\uae08\uc744 \uc9c0\ubd88\ud558\uac8c \ub429\ub2c8\ub2e4. \uc989, \ucc38\uc5ec\ud560 \uc720\ub3d9\uc131 \ud480\uc5d0 \ub3d9\uc77c\ud55c \uc561\uc218\uc758 CAKE \ubc0f BNB\ub97c \uc608\uce58\ud574\uc57c \ud569\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:01:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 33772,
+            "text": "CAKE-BNB LP \uc5bb\uae30 >",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:14:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 33774,
+            "text": "\uc774 \ud504\ub85c\uc81d\ud2b8\ub294 BNB\ub97c \uc5bb\uace0, PancakeSwap\uc740 CAKE\uc744 \uc18c\uac01\ud569\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:15:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 33776,
+            "text": "\ud1a0\ud070\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:15:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 33406,
+            "text": "\uace0\uc720\ud55c IFO\ub97c \uc2dc\uc791\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:13:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 33442,
+            "text": "Binance Smart Chain\uc758 \uac00\uc7a5 \ub9ce\uc774 \uc774\uc6a9\ub418\ub294 AMM \ud504\ub85c\uc81d\ud2b8\uc774\uace0 \uc720\ub3d9\uc131 \uacf5\uae09\uc790\uc778 PancakeSwap\uc73c\ub85c \ud504\ub85c\uc81d\ud2b8\ub97c \uc2dc\uc791\ud574, BSC\uc5d0\uc11c \uac00\uc7a5 \ud65c\ubc1c\ud558\uace0 \ube60\ub974\uac8c \uc131\uc7a5\ud558\uace0 \uc788\ub294 \ucee4\ubba4\ub2c8\ud2f0\ub85c \ud1a0\ud070\uc744 \uc9c1\uc811 \uac00\uc838\uc62c \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:19:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 33418,
+            "text": "\uc2dc\uc791\ud558\ub824\uba74 \uc801\uc6a9",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:15:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 33782,
+            "text": "\ucee4\ubba4\ub2c8\ud2f0",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:15:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 33784,
+            "text": "\ucf54\uc5b4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:15:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 33786,
+            "text": "\uc0ac\uc6a9 \uac00\ub2a5",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:16:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 33788,
+            "text": "\ub0b4 \uc9c0\uac11",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:16:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 33790,
+            "text": "\ub85c\uadf8\uc544\uc6c3",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:16:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 33792,
+            "text": "\ubaa8\ub450 \uc218\ud655(%count%)",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:16:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 33798,
+            "text": "Cake \ud1b5\uacc4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:16:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 33804,
+            "text": "\ucd1d CAKE \uacf5\uae09",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:16:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 33808,
+            "text": "\ucd1d CAKE \uc18c\uac01",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:17:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 33810,
+            "text": "\uc0c8\ub85c\uc6b4 CAKE\/\ube14\ub85d",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:17:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 49712,
+            "text": "\ud31c & \uc608\uce58",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-03-12T05:56:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 33840,
+            "text": "\uc218\ud655\ud560 CAKE",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:19:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 33844,
+            "text": "\uc9c0\uac11\uc758 CAKE",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:19:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 33852,
+            "text": "CAKE \uc218\uc9d1 \uc911",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:20:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 33854,
+            "text": "\ub0b4 \ub85c\ud130\ub9ac \ub2f9\ucca8",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:20:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 33858,
+            "text": "\uc218\uc9d1\ud560 CAKE",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:20:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 33860,
+            "text": "\uc774 \ub77c\uc6b4\ub4dc\uc758 \ucd1d \uc7ad\ud31f",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:21:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 33862,
+            "text": "\ub2f9\ucca8\uae08 \uc218\uc9d1",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:21:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 33864,
+            "text": "\ud2f0\ucf13 \uad6c\uc785",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:21:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 33866,
+            "text": "\uc218\ud655",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:21:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 33868,
+            "text": "\uc2b9\uc778",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:21:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 33872,
+            "text": "\uc120\ud0dd",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:21:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 33874,
+            "text": "\uc774 \ub77c\uc6b4\ub4dc\uc758 \ub2f9\ucca8 \ubc88\ud638",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:22:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 33882,
+            "text": "\uc608\uce58 \ud480",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:23:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 33878,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:22:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 49714,
+            "text": "Binance Smart Chain\uc758 #1 AMM \ubc0f \uc77c\ub4dc \ud31c.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-03-12T05:57:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 33512,
+            "text": "CAKE\uc744 \uc608\uce58\ud558\uc5ec \uc0c8\ub85c\uc6b4 \ud1a0\ud070\uc744 \ud68d\ub4dd\ud558\uc138\uc694.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:32:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 33404,
+            "text": "\uc2dc\uc791 \uc2dc\uac04",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:13:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 35674,
+            "text": "\ud310\ub9e4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:29:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 35676,
+            "text": "\uc18c\uac01\ud560 CAKE(USD)",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:29:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 33496,
+            "text": "\uc608\uce58 \ucde8\uc18c",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:28:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 33500,
+            "text": "\u2b50\ufe0f LP \ud1a0\ud070\uc744 \uc608\uce58\ud558\uace0 \uc608\uce58 \ucde8\uc18c\ud560 \ub54c\ub9c8\ub2e4, \uacc4\uc57d\uc774 \uc790\ub3d9\uc73c\ub85c CAKE \ub9ac\uc6cc\ub4dc\ub97c \uc218\ud655\ud569\ub2c8\ub2e4!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:29:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 35678,
+            "text": "\ucc38\uc5ec \ubc29\ubc95",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:29:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 35680,
+            "text": "\ud310\ub9e4 \uc804",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:29:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 35682,
+            "text": "CAKE \ubc0f BNB \ud1a0\ud070 \uad6c\uc785",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:36:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 35684,
+            "text": "CAKE \ubc0f BNB \uc720\ub3d9\uc131\uc744 \ucd94\uac00\ud558\uc5ec CAKE-BNB LP \ud1a0\ud070 \uc5bb\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:39:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 35686,
+            "text": "\ud310\ub9e4 \uae30\uac04 \uc911",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:43:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 35688,
+            "text": "\ud310\ub9e4 \uc911\uc778 \ub3d9\uc548 CAKE-LP \ud1a0\ud070\uc744 \ucee4\ubc0b\ud558\uc5ec IFO \ud1a0\ud070\uc744 \uad6c\uc785\ud558\uc138\uc694",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:45:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 35690,
+            "text": "\ud310\ub9e4 \ud6c4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:45:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 35734,
+            "text": "\ubbf8\uc0ac\uc6a9 \uc790\uae08\uacfc \ud568\uaed8, \uad6c\uc785\ud55c \ud1a0\ud070\uc744 \ud074\ub808\uc784\ud558\uc138\uc694.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:09:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 34290,
+            "text": "\uc644\ub8cc!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:04:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 34292,
+            "text": "\uc790\uc138\ud788 \ubcf4\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:04:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 34294,
+            "text": "\uc5f0\uacb0",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:04:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 35736,
+            "text": "CAKE\uacfc \uad50\ud658\ud558\uac70\ub098 \uceec\ub809\uc158\uc73c\ub85c \ubcf4\uad00\ud558\uc138\uc694!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:12:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 35738,
+            "text": "\uc544\ub798 NFT \ub2f9\ucca8\uc5d0 \uad00\uc2ec\uc774 \uc788\uc73c\uc2dc\uba74 \ub4f1\ub85d\ud558\uc138\uc694.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:13:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 35740,
+            "text": "\ub2f9\ucca8 \uae30\ud68c\ub97c \uc704\ud574 \ub4f1\ub85d",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:13:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 34296,
+            "text": "\uc790\uc138\ud788 \uc54c\uc544\ubcf4\uae30",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:04:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 34300,
+            "text": "NFT\ub85c \uac70\ub798",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:04:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 34302,
+            "text": "\uac70\ub798:",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:05:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 35742,
+            "text": "\uc218\ub839",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:14:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 49764,
+            "text": "CAKE\uc744 \ubc1b\uae30 \uc704\ud574 \uc774 NFT\ub97c \uac70\ub798\ud558\uba74 \uc774 NFT\uc5d0 \uc601\uad6c\uc801\uc73c\ub85c \uc561\uc138\uc2a4\ud560 \uc218 \uc5c6\uac8c \ub429\ub2c8\ub2e4!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-03-12T06:29:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 34304,
+            "text": "NFT \ud074\ub808\uc784",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:05:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 34308,
+            "text": "\uc791\ub3d9 \ubc29\uc2dd",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:05:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 35746,
+            "text": "\ud074\ub808\uc784 \uae30\uac04\uc774 \uc2dc\uc791\ub418\uba74 \ub2f9\ucca8\uc790\ub294 \uc774 \ud398\uc774\uc9c0\uc5d0\uc11c NFT\ub97c \ud074\ub808\uc784\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:15:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 35748,
+            "text": "\uc120\uc815\ub418\uc9c0 \uc54a\uc740 \uacbd\uc6b0 \ud074\ub808\uc784\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ub2e4\uc74c \uae30\ud68c\uc5d0!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:16:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 35780,
+            "text": "\ub2f9\ucca8\uc790\ub294 \uc544\ub798\uc5d0 \uba85\uc2dc\ub41c \ub9cc\ub8cc \ub0a0\uc9dc\uae4c\uc9c0 \uc790\uc2e0\uc758 NFT\ub97c CAKE \uac00\uaca9\uc73c\ub85c \uad50\ud658\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uadf8\ub54c\uae4c\uc9c0 NFT\ub97c \uad50\ud658\ud558\uc9c0 \uc54a\uc544\ub3c4 \uad1c\ucc2e\uc2b5\ub2c8\ub2e4: \uc774 NFT\ub294 \uadc0\ud558\uc758 \uc9c0\uac11\uc5d0 \ubcf4\uad00\ub429\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:34:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 35694,
+            "text": "\ub2f9\ucca8\uc790 \uc120\uc815 \ubc29\uc2dd\uc740?",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:46:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 35696,
+            "text": "\ub2f9\ucca8\uc790\ub294 \ubb34\uc791\uc704\ub85c \uc120\uc815\ub429\ub2c8\ub2e4! \ud589\uc6b4\uc744 \ube4c\uc5b4\uc694!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:47:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 35752,
+            "text": "\uad50\ud658\ud558\ub294 \uacbd\uc6b0\uc758 \uac00\uaca9",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:18:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 35776,
+            "text": "\uc8fc\uc870 \uc218",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:31:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 35756,
+            "text": "\uc18c\uac01 \uc218",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:20:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 35698,
+            "text": "\uc774 NFT \ud074\ub808\uc784",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:47:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 35758,
+            "text": "CAKE\uc73c\ub85c \uad50\ud658",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:20:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 33926,
+            "text": "\ub85c\ub4dc \uc911\u2026",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 33938,
+            "text": "\uc138\ubd80 \uc815\ubcf4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 33950,
+            "text": "\ub2f9\ucca8!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:25:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 33952,
+            "text": "\uc544\ub798 \uc635\uc158\uc5d0\uc11c NFT\ub97c \ud074\ub808\uc784\ud558\uc138\uc694!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:26:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 33956,
+            "text": "\uac70\ub798 \uac00\ub2a5 \uae30\uac04:",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:26:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 33958,
+            "text": "\uc9c0\uac11 \uc5f0\uacb0 \ub04a\uae40",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:26:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 33964,
+            "text": "NFT\ub97c \uc5bb\uc5c8\ub294\uc9c0 \ubcf4\ub824\uba74 \uc5f0\uacb0\ud558\uc138\uc694!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:27:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 33966,
+            "text": "\ud648",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:27:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 33968,
+            "text": "\uac70\ub798",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:27:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 33972,
+            "text": "\ud31c",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:28:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "스테이킹 전용"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 33992,
+            "text": "\ud480",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:30:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 33994,
+            "text": "NFT",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:30:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 33996,
+            "text": "\uc815\ubcf4",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:30:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 33998,
+            "text": "IFO",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:30:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 34000,
+            "text": "\uc790\uc138\ud788",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:30:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 34002,
+            "text": "\uc720\ub3d9\uc131",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:31:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 34004,
+            "text": "\uac1c\uc694",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:31:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 34006,
+            "text": "\ud1a0\ud070",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:31:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 34008,
+            "text": "\uc30d",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:31:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 34010,
+            "text": "\uacc4\uc815",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:31:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 33502,
+            "text": "CAKE\uc744 \uc5bb\uc73c\ub824\uba74 LP \ud1a0\ud070 \uc608\uce58",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:30:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 34012,
+            "text": "\ud65c\uc131",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:31:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 34016,
+            "text": "\ube44\ud65c\uc131",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:31:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 34018,
+            "text": "\ub4c0\uc5bc",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:31:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 35772,
+            "text": "\ubcf5\ub9ac",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:26:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 33504,
+            "text": "%asset% \uc608\uce58 \ucde8\uc18c",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:30:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 34042,
+            "text": "CAKE \ub85c\ud130\ub9ac",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T15:33:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 35760,
+            "text": "CAKE\uc73c\ub85c \ud2f0\ucf13 \uad6c\uc785",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:20:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 35762,
+            "text": "2, 3 \ub610\ub294 4\uac1c\uc758 \ud2f0\ucf13 \ubc88\ud638\uac00 \uc77c\uce58\ud558\uba74 \ub2f9\ucca8!",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:21:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 35700,
+            "text": "\ub2e4\uc74c \ucd94\ucca8",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:48:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 35702,
+            "text": "\uc774\uc804 \ucd94\ucca8",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:48:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 35704,
+            "text": "\ub77c\uc6b4\ub4dc %num%",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:48:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 35706,
+            "text": "\ucd1d \ud3ec\ud2b8",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:48:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 35708,
+            "text": "\uc774 \ub77c\uc6b4\ub4dc\uc758 \ud2f0\ucf13",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:48:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 35710,
+            "text": "\uc8c4\uc1a1\ud569\ub2c8\ub2e4. \uc218\uc9d1\ud560 \uc0c1\uae08\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:49:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 35766,
+            "text": "\uc9c0\uac11",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:22:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 35712,
+            "text": "\ub85c\ub4dc \uc911...",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:49:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 35714,
+            "text": "\ub2e4\uc74c IFO",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:49:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 35716,
+            "text": "\uc774\uc804 IFO",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:50:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "LP 토큰을 스테이킹하여 FAST 획득"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 35718,
+            "text": "APR",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:50:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "총 유동성"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 31826,
+            "text": "Syrup \ud480",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:20:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "스테이킹"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 35764,
+            "text": "\ub85c\ud130\ub9ac \ucd94\ucca8\uae4c\uc9c0 %time%",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T04:22:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "계약 승인"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 35720,
+            "text": "\ub85c\ud130\ub9ac \ubc88\ud638 \uc120\ud0dd:",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:50:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "획득"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 35722,
+            "text": "\uac80\uc0c9",
+            "user": {
+                "id": 12857418,
+                "username": "BigSeung",
+                "fullName": "BigSeung",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/8b0b3672e2afa8af7a050260c4908df4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:50:17+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

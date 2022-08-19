@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Miza jetoane LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Anulare"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Asteptand confirmarea"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "A confirma"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "obține"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Desfaceți jetoanele LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Deblocați"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 9292,
+            "text": "Ferm\u0103",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 44428,
+            "text": "Staking",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:17:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 40854,
+            "text": "Schimb",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:15:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9500,
+            "text": "Documente",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9552,
+            "text": "Votare",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9604,
+            "text": "Loterie",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 40858,
+            "text": "Deblocheaz\u0103 portofelul",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:15:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 40862,
+            "text": "Soldul t\u0103u %asset%",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:16:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 44430,
+            "text": "Total aport de %asset%",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:18:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9810,
+            "text": "BLOCATE",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 44432,
+            "text": "Colectare \u00een a\u0219teptare",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:18:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 40868,
+            "text": "Recompense noi pentru bloc",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:17:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 44436,
+            "text": "Total monede CAKE consumate de la lansare",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:19:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 40872,
+            "text": "Vezi buc\u0103t\u0103ria",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:17:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10070,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10122,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 44438,
+            "text": "Github",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:19:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10226,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 40874,
+            "text": "Depunere",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:17:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 44440,
+            "text": "C\u00e2\u0219tig\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:20:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 44466,
+            "text": "Investe\u0219te jetoane LP pentru a investi CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:33:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 40894,
+            "text": "Po\u021bi comuta oric\u00e2nd",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:21:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 40892,
+            "text": "%asset% c\u00e2\u0219tigate",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:21:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 40890,
+            "text": "Jetoane investite",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:20:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 44302,
+            "text": "De fiecare dat\u0103 c\u00e2nd investe\u0219ti sau retragi jetoane CAKE, contractul va recupera automagic recompense CAKE pentru tine!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-08T14:55:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 40900,
+            "text": "Jetoane XVS c\u00e2\u0219tigate",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:22:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 40904,
+            "text": "Recompensele vor fi calculate pe bloc, iar recompensele totale vor fi distribuite automat la sf\u00e2r\u0219itul perioadei de cultivare a fiec\u0103rui proiect.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:23:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 40888,
+            "text": "Portofoliu",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:20:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11158,
+            "text": "\u00cen cur\u00e2nd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11210,
+            "text": "APY",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 40906,
+            "text": "Total lichidit\u0103\u021bi",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:23:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 40908,
+            "text": "Vizualizeaz\u0103 pe BscScan",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:23:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11360,
+            "text": "Pre\u021b CAKE",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 40910,
+            "text": "Num\u0103rul de jetoane %asset% c\u00e2\u0219tigate",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:24:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 40912,
+            "text": "%num% blocuri p\u00e2n\u0103 la sf\u00e2r\u0219itul cultiv\u0103rii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:24:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 40916,
+            "text": "\u00cen cur\u00e2nd...",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:25:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 22320,
+            "text": "Investi\u021bia ta",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T17:25:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 40918,
+            "text": "Cultivarea \u00eencepe \u00een %num% blocuri",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:25:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 15576,
+            "text": "Terminat",
+            "user": {
+                "id": 14451760,
+                "username": "czofa72",
+                "fullName": "Ubiq Land",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451760\/medium\/c42fd03412b428ddabc882a34c5ab24d.png"
+            },
+            "createdAt": "2020-10-11T11:52:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 40920,
+            "text": "Cultivarea se \u00eencheie \u00een %num% blocuri",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:25:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 15584,
+            "text": "Site-ul proiectului",
+            "user": {
+                "id": 14451760,
+                "username": "czofa72",
+                "fullName": "Ubiq Land",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451760\/medium\/c42fd03412b428ddabc882a34c5ab24d.png"
+            },
+            "createdAt": "2020-10-11T11:53:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 19918,
+            "text": "Recompensele sunt calculate pe bloc.",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T12:32:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 19916,
+            "text": "Total",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T12:32:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 19914,
+            "text": "\u00cencheiere",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T12:32:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 40926,
+            "text": "Vizualizeaz\u0103 site-ul proiectului",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:26:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 40930,
+            "text": "Proiectul t\u0103u? \ud83d\udc40",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:27:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 22310,
+            "text": "Creaz\u0103 un \"pool\" pentru moneda ta",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T17:11:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 19908,
+            "text": "Aplic\u0103 acum",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T12:29:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 19906,
+            "text": "Runda 1: CUMP\u0102RARE",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T12:29:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 40932,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:29:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 44444,
+            "text": "Cheltuie monede CAKE pentru a cump\u0103ra bilete, contribuind la premiul loteriei. Achizi\u021biile de bilete se \u00eencheie aproximativ cu 30 de minute \u00eenainte de \u00eenceperea extragerii loteriei. C\u00e2\u0219tig\u0103 premii dac\u0103 2, 3 sau 4 dintre numerele de pe biletul t\u0103u se potrivesc cu numerele c\u00e2\u0219tig\u0103toare \u0219i pozi\u021biile lor! Mult noroc!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:25:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 40936,
+            "text": "Num\u0103rul t\u0103u total de bilete pentru aceast\u0103 rund\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:30:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 40938,
+            "text": "Cump\u0103r\u0103 un bilet",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:30:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 40940,
+            "text": "Vizualizeaz\u0103-\u021bi biletele",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:30:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 40942,
+            "text": "Timpul aproximativ r\u0103mas pentru a cump\u0103ra bilete",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:31:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 19888,
+            "text": "\u00cenchide",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T12:24:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 40946,
+            "text": "Ultimele numere c\u00e2\u0219tig\u0103toare",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:31:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 40948,
+            "text": "Bilete cu 4 numere c\u00e2\u0219tig\u0103toare:",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 40952,
+            "text": "Bilete cu 3 numere c\u00e2\u0219tig\u0103toare:",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:32:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 40954,
+            "text": "Bilete cu 2 numere c\u00e2\u0219tig\u0103toare:",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:32:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 40958,
+            "text": "Export\u0103 numerele c\u00e2\u0219tig\u0103toare recente",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:32:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 44446,
+            "text": "Introdu num\u0103rul de bilete pe care dore\u0219ti s\u0103 le cumperi",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:26:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 19874,
+            "text": "Maxim",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T12:22:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 40964,
+            "text": "%num% CAKE disponibile",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:33:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 44448,
+            "text": "Num\u0103rul t\u0103u trebuie s\u0103 fie un multiplu de 10 CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:26:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 40970,
+            "text": "1 bilet = 10 CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:33:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 40972,
+            "text": "Vei cheltui: %num% CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:33:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 40974,
+            "text": "Anuleaz\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:33:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 40976,
+            "text": "Confirm\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:34:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 22270,
+            "text": "Avertisment",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T14:49:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 40980,
+            "text": "Achizi\u021biile de bilete pentru loterie sunt definitive.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:34:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 41088,
+            "text": "Monenele tale CAKE nu vor fi returnate dup\u0103 ce le-ai cheltuit pentru a cump\u0103r\u0103 bilete.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:11:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 44450,
+            "text": "Biletele sunt valabile pentru o singur\u0103 extragere \u0219i vor fi consumate dup\u0103 extragere.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:27:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 41104,
+            "text": "Cump\u0103rarea de bilete nu garanteaz\u0103 c\u0103 vei c\u00e2\u0219tiga. Particip\u0103 numai dup\u0103 ce \u00een\u021belegi riscurile.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:12:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 19850,
+            "text": "\u00cen\u021beleg",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-22T12:15:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 41112,
+            "text": "Achizi\u021biile de bilete sunt definitive. Monedele CAKE nu \u00ee\u021bi pot fi returnate dup\u0103 cump\u0103rarea biletelor.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:13:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 44452,
+            "text": "Recupereaz\u0103 premii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:28:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 44454,
+            "text": "Premii CAKE de recuperat",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:28:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 44456,
+            "text": "Runda 2: RECUPERARE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:28:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 44306,
+            "text": "Po\u021bi retrage jetoanele oric\u00e2nd.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-08T14:56:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 21316,
+            "text": "Confirmare \u00een a\u0219teptare",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-14T14:59:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 40944,
+            "text": "Biletele mele (total: %TICKETS%)",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:31:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 22216,
+            "text": "Urm\u0103toarea loterie va \u00eencepe \u00een aproximativ",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-18T14:44:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 21312,
+            "text": "Aprob\u0103 CAKE",
+            "user": {
+                "id": 14439014,
+                "username": "s1mer777",
+                "fullName": "s1mer777",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/146f577a5e9b5d21d75bdd9b7901b5c1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-11-14T14:55:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 41082,
+            "text": "IFO: Oferte Ferme Ini\u021biale",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:09:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 41128,
+            "text": "Cump\u0103r\u0103 jetoane noi cu un model de v\u00e2nzare a jetoanelor complet nou.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:14:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 44458,
+            "text": "Vei pl\u0103ti pentru jetoanele noi folosind jetoane CAKE-BNB LP, ceea ce \u00eenseamn\u0103 c\u0103 trebuie s\u0103 investe\u0219ti sume egale de CAKE \u0219i BNB \u00een protofoliul de lichidit\u0103\u021bi pentru a participa.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:29:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 41068,
+            "text": "Ob\u021bine CAKE-BNB LP >",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:54:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 44478,
+            "text": "Proiectul ob\u021bine BNB, PancakeSwap consum\u0103 CAKE.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:36:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 41032,
+            "text": "Ob\u021bii jetoane.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:48:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 41034,
+            "text": "Vrei s\u0103 lansezi propriul IFO?",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:48:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 41040,
+            "text": "Lanseaz\u0103-\u021bi proiectul \u00een PancakeSwap, cel mai utilizat proiect AMM al Binance Smart Chain \u0219i furnizor de lichidit\u0103\u021bi, pentru a-\u021bi duce jetonul direct la comunitatea cea mai activ\u0103 \u0219i cu cea mai rapid\u0103 cre\u0219tere de pe BSC.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:49:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 36680,
+            "text": "Aplic\u0103 pentru a lansa",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:51:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 36684,
+            "text": "Comunitate",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:52:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 41042,
+            "text": "Nucleu",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:49:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 36800,
+            "text": "Disponibil",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:07:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 36692,
+            "text": "Portofelul meu",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:52:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 44480,
+            "text": "Deconecteaz\u0103-te",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:37:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 44482,
+            "text": "Colecteaz\u0103 toate cele (%count%)",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:37:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 36698,
+            "text": "Statistici despre Cake",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:53:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 44468,
+            "text": "Total aport de CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:34:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 44470,
+            "text": "Total CAKE consumate",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:34:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 44280,
+            "text": "CAKE nou\/bloc",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-08T14:51:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 44472,
+            "text": "Ferme \u0219i staking (investi\u021bii)",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:35:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 44474,
+            "text": "CAKE de colectat",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:35:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 36708,
+            "text": "CAKE \u00een portofel",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:54:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 36710,
+            "text": "Adunarea CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:54:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 36712,
+            "text": "C\u00e2\u0219tigurile tale la loterie",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:54:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 36714,
+            "text": "CAKE de adunat",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:55:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 36716,
+            "text": "Jackpot total runda aceasta",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:55:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 41054,
+            "text": "Adun\u0103 c\u00e2\u0219tigurile",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:52:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 41058,
+            "text": "Cump\u0103r\u0103 bilete",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:52:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 44476,
+            "text": "Colecteaz\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:36:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 36724,
+            "text": "Aprob\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:55:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 36728,
+            "text": "Selecteaz\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:56:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 36730,
+            "text": "Numere c\u00e2\u0219tig\u0103toare runda aceasta",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:56:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 44484,
+            "text": "Portofoliu de staking (investi\u021bii)",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:40:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 36734,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:56:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 36736,
+            "text": "AMN nr. 1 \u0219i randamentul fermei pentru Binance Smart Chain.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:58:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 36738,
+            "text": "Inve\u0219te\u0219te CAKE pentru a c\u00e2\u0219tiga jetoane noi.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:59:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 36740,
+            "text": "Momentul lans\u0103rii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:59:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 36744,
+            "text": "De v\u00e2nzare",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:59:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 44486,
+            "text": "CAKE de consumat (USD)",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:41:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 44308,
+            "text": "Retrage",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-08T14:56:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 44508,
+            "text": "\u2b50\ufe0f De fiecare dat\u0103 c\u00e2nd investe\u0219ti \u0219i retragi jetoanele LP, contractul va colecta automat recompense CAKE pentru tine!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:48:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 36752,
+            "text": "Cum s\u0103 participi",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:01:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 36754,
+            "text": "\u00cenainte de v\u00e2nzare",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:01:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 41064,
+            "text": "Cump\u0103r\u0103 jetoane CAKE \u0219i BNB",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:53:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 36760,
+            "text": "Ob\u021bine jetoane CAKE-BNB LP ad\u0103ug\u00e2nd lichidit\u0103\u021bi CAKE \u0219i BNB",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:02:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 36766,
+            "text": "\u00cen timpul v\u00e2nz\u0103rii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:02:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 36938,
+            "text": "\u00cen perioada \u00een care v\u00e2nzarea este activ\u0103, depune jetoanele CAKE-LP pentru a cump\u0103ra jetoate IFO",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:23:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 36940,
+            "text": "Dup\u0103 v\u00e2nzare",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:24:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 44510,
+            "text": "Recupereaz\u0103 jetoanele pe care le-ai cump\u0103rat \u00eempreun\u0103 cu eventualele fonduri necheltuite.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:48:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 36944,
+            "text": "Gata!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:24:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 36946,
+            "text": "Cite\u0219te mai mult",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:24:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 36948,
+            "text": "Conecteaz\u0103-te",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:24:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 36950,
+            "text": "Tranzac\u021bioneaz\u0103 CAKE sau p\u0103streaz\u0103-le pentru colec\u021bia ta!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:25:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 36954,
+            "text": "\u00cenregistreaz\u0103-\u021bi interesul de a c\u00e2\u0219tiga un NFT mai jos.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:25:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 36960,
+            "text": "\u00cenregistreaz\u0103-te pentru o \u0219ans\u0103 de a c\u00e2\u0219tiga",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:25:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 36962,
+            "text": "Afl\u0103 mai multe detalii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:25:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 36986,
+            "text": "R\u0103scump\u0103r\u0103 NFT",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:27:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 36988,
+            "text": "R\u0103scump\u0103r\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:27:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 36990,
+            "text": "Vei primi",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:27:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 36998,
+            "text": "C\u00e2nd r\u0103scumperi acest NFT pentru a primi CAKE, vei pierde accesul la acesta definitiv!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:28:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 44460,
+            "text": "Recupereaz\u0103 NFT",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:29:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 37006,
+            "text": "Cum func\u021bioneaz\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:28:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 44462,
+            "text": "C\u00e2\u0219tig\u0103torii vor putea recupera un NFT pe aceast\u0103 pagin\u0103 dup\u0103 \u00eenceperea perioadei de recuperare.",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:30:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 44464,
+            "text": "Dac\u0103 nu e\u0219ti selectat, nu vei putea recupera. Mai mult noroc data viitoare!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:30:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 37044,
+            "text": "C\u00e2\u0219tig\u0103torii \u00ee\u0219i pot r\u0103scump\u0103ra NFT-urile cu o valoare \u00een CAKE p\u00e2n\u0103 la data de expirare notat\u0103 mai jos. Dac\u0103 nu \u00ee\u021bi r\u0103scumperi NFT \u00een acel moment, nu-\u021bi face griji: \u00eel vei p\u0103stra totu\u0219i \u00een portofel!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:30:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 37048,
+            "text": "Cum sunt selecta\u021bi c\u00e2\u0219tig\u0103torii?",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:30:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 37052,
+            "text": "C\u00e2\u0219tig\u0103torii sunt selecta\u021bi \u00een mod aleatoriu! Mult noroc!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:31:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 37058,
+            "text": "Valoarea \u00een cazul r\u0103scump\u0103r\u0103rii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:31:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 41028,
+            "text": "Num\u0103r emis",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:47:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 44534,
+            "text": "Num\u0103r consumat",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:54:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 44536,
+            "text": "Recupereaz\u0103 acest NFT",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:54:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 37092,
+            "text": "R\u0103scump\u0103r\u0103 pentru CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:33:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 37096,
+            "text": "Se \u00eencarc\u0103\u2026",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:33:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 37098,
+            "text": "Detalii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:33:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 37104,
+            "text": "Ai c\u00e2\u0219tigat!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 44524,
+            "text": "Recupereaz\u0103 un NFT din op\u021biunile de mai jos!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:51:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 37108,
+            "text": "Poate fi tranzac\u021bionat p\u00e2n\u0103 la",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 37112,
+            "text": "Portofel deconectat",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 37114,
+            "text": "Conecteaz\u0103-te pentru a vedea dac\u0103 ai c\u00e2\u0219tigat un NFT!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 37116,
+            "text": "Pagina principal\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 37118,
+            "text": "Tranzac\u021bie",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 37120,
+            "text": "Ferme",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Doar mizat"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 37122,
+            "text": "Portofolii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 37124,
+            "text": "NFT",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 37126,
+            "text": "Informa\u021bii",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 37128,
+            "text": "IFO",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 37130,
+            "text": "Mai multe",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 44526,
+            "text": "Lichidit\u0103\u021bi",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-09T16:51:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 37134,
+            "text": "Prezentare general\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 37136,
+            "text": "Jeton",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 37138,
+            "text": "Perechi",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 37140,
+            "text": "Conturi",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 37144,
+            "text": "Investe\u0219te jetoane LP pentru a c\u00e2\u0219tiga CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 37146,
+            "text": "Activ",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:35:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 37194,
+            "text": "Inactiv",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:45:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 37198,
+            "text": "Dual",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:45:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 44298,
+            "text": "Combin\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-08T14:54:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 44312,
+            "text": "Retrage %asset%",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-08T14:56:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 37204,
+            "text": "Loteria CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:46:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 41022,
+            "text": "Cump\u0103r\u0103 bilete cu CAKE",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:45:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 37210,
+            "text": "C\u00e2\u0219tigi dac\u0103 2, 3 sau 4 dintre numele de pe biletul t\u0103u corespund!",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:47:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 37214,
+            "text": "Urm\u0103toarea extragere",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:47:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 37216,
+            "text": "Extrageri anterioare",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:47:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 37218,
+            "text": "Runda %num%",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:47:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 37220,
+            "text": "Premiu total",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:47:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 37224,
+            "text": "Biletele tale pentru aceast\u0103 rund\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:48:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 40988,
+            "text": "Ne pare r\u0103u, nu exist\u0103 premii de \u00eencasat",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:40:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 37230,
+            "text": "\u00cen portofel",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:48:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 37232,
+            "text": "Se \u00eencarc\u0103...",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:48:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 37234,
+            "text": "Urm\u0103torul IFO",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:48:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 37238,
+            "text": "IFO-uri anterioare",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:48:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Jucați jetoane LP pentru a câștiga FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 37240,
+            "text": "APR",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:49:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Lichiditate totală"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 40856,
+            "text": "Portofoliu Syrup",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T10:15:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Mizat"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 37212,
+            "text": "%time% p\u00e2n\u0103 la extragerea loteriei",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:47:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Aprobă contractul"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 37242,
+            "text": "Selecteaz\u0103 num\u0103rul de loterie:",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:49:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "câștigat"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 37244,
+            "text": "Caut\u0103",
+            "user": {
+                "id": 12811931,
+                "username": "mihaelasinca",
+                "fullName": "Mihaela Sinca",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/b1b0045f9ff5e41115ee317cb898337c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:49:14+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

@@ -1,0 +1,43 @@
+
+
+
+
+.header_container{
+  display: flex;
+  align-items: center;
+  width: 95%;
+  margin: 0 auto;
+  max-width: 1440px;
+  z-index: 100000 !important;
+  padding: 10px;
+  
+}
+
+
+.header_left a{
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 38px;
+  
+  transition: all .35s ease;
+}
+.header_left a:hover{
+  color: #d2793d;
+}
+
+.header_right a{
+  border: 2px solid #d2793d;
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 10px 15px;
+  transition: all .35s ease;
+  border-radius: 20px;
+}
+
+.header_right a:hover{
+  background: #d2793d;
+}

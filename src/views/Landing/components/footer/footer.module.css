@@ -1,0 +1,80 @@
+
+
+
+
+.footer_container{
+  width: 100%;
+  margin-top: 100px;
+}
+
+.footer_main{
+  width:90%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.contact{
+  position: absolute;
+  color: #e5894c !important;
+  opacity: 0.06;
+  font-size: 120px !important;
+  top: -60px;
+  left: 0px;
+  text-align: center;
+  width: 100%;
+}
+
+.contact_jack{
+  color: white !important;
+  font-size: 2.3em !important;
+}
+
+.description{
+  font-size: 1em !important;
+  color: white;
+  margin-top: 60px !important;
+  line-height: 30px;
+  text-align: center;
+  font-family: 'Poppins' !important;
+  font-weight: 400;
+}
+
+.person_contact{
+  width:60%;
+  margin: 30px auto;
+  display: flex;
+  justify-content: left;
+}
+
+
+@media screen and (max-width: 900px) {
+  .contact_jack{
+    font-size: 1.8em !important;
+  }
+  .contact{
+    font-size: 80px !important;
+    top: -40px;
+  }
+}
+
+@media screen and (max-width  : 700px ) {
+  .person_contact{
+    flex-direction: column !important;
+  }
+  .person_contract_child{
+    margin-left: 0px !important;
+    margin-top: 30px !important;
+  }
+}
+
+
+@media screen and (max-width : 650px) {
+  .contact_jack{
+    font-size: 1.2em !important;
+  }
+  .contact{
+    font-size: 50px  !important;
+    top: -25px;
+  }
+  
+}

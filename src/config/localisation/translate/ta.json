@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "பங்கு LP டோக்கன்கள்"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "ரத்துசெய்"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "உறுதிப்படுத்தல் நிலுவையில் உள்ளது"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "உறுதிப்படுத்தவும்"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "பெறு"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "நீக்கு LP டோக்கன்கள்"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "நீக்கு"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 9338,
+            "text": "\u0baa\u0ba3\u0bcd\u0ba3\u0bc8",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 9390,
+            "text": "\u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9494,
+            "text": "\u0b9a\u0ba8\u0bcd\u0ba4\u0bc8",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9546,
+            "text": "\u0b86\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9598,
+            "text": "\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9650,
+            "text": "\u0b95\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 9702,
+            "text": "\u0baa\u0ba3\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 9752,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd %asset% \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 9804,
+            "text": "\u0bae\u0bca\u0ba4\u0bcd\u0ba4 %asset% \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc0\u0b9f\u0bc1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9856,
+            "text": "\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 9908,
+            "text": "\u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9960,
+            "text": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bc6\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b92\u0bb0\u0bc1 \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 17612,
+            "text": "\u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b95\u0bc7\u0b95\u0bcd",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:06:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 17618,
+            "text": "\u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bb1\u0bc8\u0baf \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:09:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 17620,
+            "text": "\u0b9f\u0bc6\u0bb2\u0bbf\u0b95\u0bcd\u0bb0\u0bbe\u0bae\u0bcd",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:10:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 17828,
+            "text": "\u0baa\u0bbf\u0bb2\u0bbe\u0b95\u0bc1",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T11:00:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10220,
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0bb9\u0baa\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 17624,
+            "text": "\u0b9f\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:11:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 17626,
+            "text": "\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:13:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 10376,
+            "text": "\u0b88\u0b9f\u0bcd\u0b9f\u0bc1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 10428,
+            "text": "\u0b83\u0baa\u0bbf\u0bb3\u0bbf\u0baa\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bc8 \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b95\u0bc7\u0b95\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 10634,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 10684,
+            "text": "%asset% \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb5\u0bc8",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 10736,
+            "text": "\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bc8",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 17634,
+            "text": "\u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc7\u0b95\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b85\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0baa\u0bbf\u0bb1\u0b95\u0bc1\u0bae\u0bcd, \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd(\u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bcd\u0b9f\u0bcd) \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bc7\u0b95\u0bcd \u0bb5\u0bc6\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0ba4\u0bbe\u0ba9\u0bbe\u0b95\u0bb5\u0bc7 \u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd!",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:19:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 10996,
+            "text": "XVS \u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 17642,
+            "text": "\u0b92\u0bb0\u0bc1 \u0baa\u0bcd\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd(\u0baa\u0bcd\u0bb0\u0bbe\u0b9c\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd) \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc6\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bbe\u0ba9\u0bbe\u0b95 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd.",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:25:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 11152,
+            "text": "\u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11204,
+            "text": "\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 9144,
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4 \u0bae\u0b95\u0b9a\u0bc2\u0bb2\u0bcd",
+            "user": {
+                "id": 14439424,
+                "username": "boltbee",
+                "fullName": "boltbee",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/96dd15c9556f9d96695ce9d84a70476d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T12:49:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 9138,
+            "text": "\u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0baa\u0ba3\u0baa\u0bcd\u0baa\u0bc1\u0bb4\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+            "user": {
+                "id": 14439424,
+                "username": "boltbee",
+                "fullName": "boltbee",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/96dd15c9556f9d96695ce9d84a70476d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T12:49:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 9148,
+            "text": "BscScan \u0b87\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b95",
+            "user": {
+                "id": 14439424,
+                "username": "boltbee",
+                "fullName": "boltbee",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/96dd15c9556f9d96695ce9d84a70476d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T12:49:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 9124,
+            "text": "\u0b95\u0bc7\u0b95\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8",
+            "user": {
+                "id": 14439424,
+                "username": "boltbee",
+                "fullName": "boltbee",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/96dd15c9556f9d96695ce9d84a70476d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T12:49:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 9150,
+            "text": "%asset% \u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14439424,
+                "username": "boltbee",
+                "fullName": "boltbee",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/96dd15c9556f9d96695ce9d84a70476d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T12:49:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 11506,
+            "text": "%num% \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 17646,
+            "text": "\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd...",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:30:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 17648,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:31:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 17650,
+            "text": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd %num% \u0baa\u0bcd\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:31:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 17652,
+            "text": "\u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:31:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 17654,
+            "text": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd %num% \u0baa\u0bcd\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:32:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 17656,
+            "text": "\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0ba4\u0bb3\u0bae\u0bcd",
+            "user": {
+                "id": 14451640,
+                "username": "Rahul7488",
+                "fullName": "Rahul7488",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/5d0a66b55d30cfa0cddda941f96aea86?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-13T10:32:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 25968,
+            "text": "\u0bb5\u0bc6\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bb3\u0bcd, \u0ba4\u0bb2\u0bbe \u0b92\u0bb0\u0bc1 \u0baa\u0bbf\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba9\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:09:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 25970,
+            "text": "\u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:09:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 25972,
+            "text": "\u0b87\u0bb1\u0bc1\u0ba4\u0bbf",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:09:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 25974,
+            "text": "\u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd \u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:09:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 25976,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbe? \ud83d\udc40",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:10:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 25978,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:10:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 25982,
+            "text": "\u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc7 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bbf",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:10:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 25986,
+            "text": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1 1: \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:10:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 26000,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:12:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 47022,
+            "text": "\u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0baa\u0bbe\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1, \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95 CAKE \u0b9a\u0bc6\u0bb2\u0bb5\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd. \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbe\u0ba9\u0ba4\u0bc1, \u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd \u0ba4\u0bcb\u0bb0\u0bbe\u0baf\u0bae\u0bbe\u0b95 30 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 2, 3 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 4, \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1 \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd! \u0ba8\u0bb2\u0bcd\u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-13T14:04:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 26012,
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:14:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 26014,
+            "text": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:14:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 26016,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:14:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 26022,
+            "text": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc0\u0ba4\u0bae\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bcb\u0bb0\u0bbe\u0baf\u0bae\u0bbe\u0ba9 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:15:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 26026,
+            "text": "\u0bae\u0bc2\u0b9f\u0bc1\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:15:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 26028,
+            "text": "\u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:15:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 26032,
+            "text": "4 \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bcd:",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:15:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 26040,
+            "text": "3 \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bcd:",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:16:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 26044,
+            "text": "2 \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bcd:",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:16:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 26046,
+            "text": "\u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:16:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 26070,
+            "text": "\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bc1\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:21:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 26072,
+            "text": "\u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:21:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 26076,
+            "text": "%num% CAKE \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:21:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 26080,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8, 10 CAKE\u0ba9\u0bcd \u0bae\u0b9f\u0b99\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:21:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 26084,
+            "text": "1 \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd = 10 CAKE",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:22:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 26092,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1: %num% CAKE",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:22:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 26096,
+            "text": "\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:22:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 26100,
+            "text": "\u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bc6\u0baf\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:22:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 26102,
+            "text": "\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:22:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 26108,
+            "text": "\u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bb5\u0bc8.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:22:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 26118,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd CAKE, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0ba4\u0bc1.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:23:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 36982,
+            "text": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b92\u0bb0\u0bc1 \u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0b95\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd, \u0b95\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bb5\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:27:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 26156,
+            "text": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc1, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bc8\u0baf\u0bc7\u0ba9\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb2\u0bcd\u0bb5\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8. \u0ba4\u0baf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b87\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:28:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 26164,
+            "text": "\u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:28:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 26170,
+            "text": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bb5\u0bc8. \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd CAKE \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0ba4\u0bc1.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:29:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 26172,
+            "text": "\u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bbf\u0bb3\u0bc8\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:29:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 26174,
+            "text": "\u0b95\u0bbf\u0bb3\u0bc8\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf CAKE \u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:29:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 26178,
+            "text": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1 2: \u0b95\u0bbf\u0bb3\u0bc8\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:29:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 25966,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba8\u0bcd\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:09:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 26192,
+            "text": "\u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 26024,
+            "text": "\u0b8e\u0ba9\u0ba4\u0bc1 \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bcd (\u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd: %TICKETS%)",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:15:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 26196,
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bcb\u0bb0\u0bbe\u0baf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:32:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 26200,
+            "text": "CAKE \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:32:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 26206,
+            "text": "IFO: \u0b87\u0ba9\u0bbf\u0bb7\u0bbf\u0baf\u0bb2\u0bcd \u0b83\u0baa\u0bbe\u0bb0\u0bcd\u0bae\u0bcd \u0b86\u0b83\u0baa\u0bb0\u0bbf\u0b99\u0bcd\u0bb8\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:32:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 35576,
+            "text": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bae\u0bbe\u0b9f\u0bb2\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:41:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 35578,
+            "text": "CAKE-BNB LP \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b85\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0bb2\u0bbf\u0b95\u0bcd\u0baf\u0bc1\u0b9f\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0b95\u0bc1\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd CAKE \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd BNB\u0ba9\u0bcd \u0b9a\u0bae\u0bae\u0bbe\u0ba9 \u0ba4\u0bca\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:44:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 35580,
+            "text": "CAKE-BNB LP \u0baa\u0bc6\u0bb1\u0bc1\u0b95 >",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:44:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 36966,
+            "text": "\u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd BNB\u0b90\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, PancakeSwap\u0b86\u0ba9\u0ba4\u0bc1 CAKE\u0b90 \u0b9a\u0bc6\u0bb2\u0bb5\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:26:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 35584,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:45:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 35586,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 IFO\u0bb5\u0bc8 \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bbe?",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:46:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 38650,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8, Binance Smart Chain\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd AMM \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb2\u0bbf\u0b95\u0bcd\u0bb5\u0bbf\u0b9f\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bbe\u0ba9 PancakeSwap \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf, \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bc8 \u0ba8\u0bc7\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95 BSC\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bbf\u0bb2\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0bb5\u0bb3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1 \u0b9a\u0bae\u0bc2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T12:06:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 35590,
+            "text": "\u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bbf",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:49:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 35594,
+            "text": "\u0b9a\u0bae\u0bc2\u0b95\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:50:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 35596,
+            "text": "\u0bae\u0bc8\u0baf\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:51:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 35598,
+            "text": "\u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:51:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 35600,
+            "text": "\u0b8e\u0ba9\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb2\u0bc6\u0b9f\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:51:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 35602,
+            "text": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:51:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 35604,
+            "text": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd (%count%)",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:52:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 35606,
+            "text": "Cake \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:52:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 35608,
+            "text": "\u0bae\u0bca\u0ba4\u0bcd\u0ba4 CAKE \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:52:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 36984,
+            "text": "\u0bae\u0bca\u0ba4\u0bcd\u0ba4 CAKE \u0b9a\u0bc6\u0bb2\u0bb5\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:27:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 35612,
+            "text": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf CAKE\/\u0baa\u0bcd\u0bb3\u0bbe\u0b95\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:54:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 35614,
+            "text": "\u0baa\u0ba3\u0bcd\u0ba3\u0bc8\u0b95\u0bb3\u0bcd & \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:55:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 35616,
+            "text": "\u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 CAKE",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:55:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 35618,
+            "text": "\u0bb5\u0bbe\u0bb2\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bc1\u0bb3\u0bcd\u0bb3 CAKE",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:55:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 35620,
+            "text": "CAKE \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:55:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 35622,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:55:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 35624,
+            "text": "\u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 CAKE",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:55:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 35626,
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b9c\u0bbe\u0b95\u0bcd\u0baa\u0bbe\u0b9f\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:56:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 35628,
+            "text": "\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0b95\u0bb0\u0bbf",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:56:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 35630,
+            "text": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:56:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 35632,
+            "text": "\u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:56:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 35634,
+            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:56:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 35638,
+            "text": "\u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:56:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 35640,
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:57:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 35642,
+            "text": "\u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:57:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 35644,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:57:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 35646,
+            "text": "Binance Smart Chain\u0bb2\u0bc1\u0bb3\u0bcd\u0bb3 #1 AMM \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8\u0baa\u0bcd \u0baa\u0ba3\u0bcd\u0ba3\u0bc8.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:57:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 35648,
+            "text": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1, CAKE\u0b90 \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bae\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:58:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 35650,
+            "text": "\u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:58:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 35652,
+            "text": "\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:58:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 36970,
+            "text": "\u0b9a\u0bc6\u0bb2\u0bb5\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 CAKE (USD)",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:26:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 35658,
+            "text": "\u0b85\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T02:59:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 35660,
+            "text": "\u2b50\ufe0f \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd LP \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b85\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1 \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd, \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 CAKE \u0bb5\u0bc6\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0ba4\u0bbe\u0ba9\u0bbe\u0b95\u0bb5\u0bc7 \u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:00:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 35662,
+            "text": "\u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:00:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 35664,
+            "text": "\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:00:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 35666,
+            "text": "CAKE \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd BNB \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:00:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 35668,
+            "text": "CAKE \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd BNB \u0bb2\u0bbf\u0b95\u0bcd\u0bb5\u0bbf\u0b9f\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 CAKE-BNB LP \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:01:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 35670,
+            "text": "\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T03:01:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 36132,
+            "text": "\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0ba8\u0bc7\u0bb0\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1, IFO \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd CAKE-LP \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bae\u0bbf\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:46:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 36134,
+            "text": "\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:46:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 36138,
+            "text": "\u0b9a\u0bc6\u0bb2\u0bb5\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bbf\u0bb3\u0bc8\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bae\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:47:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 26210,
+            "text": "\u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:32:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 26214,
+            "text": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bc1\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:32:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 26218,
+            "text": "\u0b87\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:32:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 38642,
+            "text": "CAKE\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T11:59:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 26242,
+            "text": "\u0b95\u0bc0\u0bb4\u0bc7 NFT \u0bb5\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b9f\u0bc1\u0b95.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:34:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 26248,
+            "text": "\u0bb5\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b9f\u0bc1\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:34:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 26250,
+            "text": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0bb1\u0bbf\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:34:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 26252,
+            "text": "NFT\u0bb2\u0bcd \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:34:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 26258,
+            "text": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:34:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 26262,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:35:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 26268,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd CAKE \u0baa\u0bc6\u0bb1 \u0b87\u0ba8\u0bcd\u0ba4 NFT\u0b90 \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1, \u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba3\u0bc1\u0b95\u0bb2\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:35:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 26270,
+            "text": "NFT\u0b90 \u0b95\u0bbf\u0bb3\u0bc8\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:35:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 36144,
+            "text": "\u0b87\u0ba4\u0bc1 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:47:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 36150,
+            "text": "\u0b95\u0bbf\u0bb3\u0bc8\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1\u0bae\u0bcd, \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0baa\u0bcd \u0baa\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd NFT\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bbf\u0bb3\u0bbf\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd.",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:48:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 36160,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9\u0bbf\u0bb2\u0bcd, \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b95\u0bbf\u0bb3\u0bbf\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1. \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb7\u0bcd\u0b9f\u0bae\u0b9f\u0bc8\u0baf \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:49:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 36220,
+            "text": "\u0b95\u0bc0\u0bb4\u0bc7 \u0b8e\u0bb4\u0bc1\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bbe\u0bb2\u0bbe\u0bb5\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bb5\u0bb0\u0bc8, \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd CAKE\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd NFT\u0b95\u0bb3\u0bc8 \u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd. \u0b85\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd NFT\u0b90 \u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0b95\u0bb5\u0bb2\u0bc8 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd: \u0b85\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0bb2\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:56:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 36228,
+            "text": "\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd?",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:57:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 36236,
+            "text": "\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd! \u0b85\u0ba4\u0bbf\u0bb7\u0bcd\u0b9f\u0bae\u0b9f\u0bc8\u0baf \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:57:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 36238,
+            "text": "\u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:57:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 36242,
+            "text": "\u0b8e\u0ba3\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:58:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 36972,
+            "text": "\u0b8e\u0ba3\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:26:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 36248,
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 NFT\u0b90 \u0b95\u0bbf\u0bb3\u0bc8\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:59:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 36252,
+            "text": "CAKE\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:59:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 36254,
+            "text": "\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1\u2026",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:59:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 36256,
+            "text": "\u0bb5\u0bbf\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:59:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 36264,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T07:59:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 36274,
+            "text": "\u0b95\u0bc0\u0bb4\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 NFT\u0b90\u0b95\u0bcd \u0b95\u0bbf\u0bb3\u0bc8\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:00:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 36278,
+            "text": "\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:00:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 36282,
+            "text": "\u0bb5\u0bbe\u0bb2\u0bc6\u0b9f\u0bcd \u0ba4\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:00:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 36286,
+            "text": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd NFT\u0b90 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bbe \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0ba3, \u0b87\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:00:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 36288,
+            "text": "\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 36290,
+            "text": "\u0b9f\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 36292,
+            "text": "\u0baa\u0ba3\u0bcd\u0ba3\u0bc8\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "மட்டுமே"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 36294,
+            "text": "\u0b95\u0bc1\u0bb3\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 36296,
+            "text": "NFT",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 36298,
+            "text": "\u0ba4\u0b95\u0bb5\u0bb2\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 36300,
+            "text": "IFO",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 36302,
+            "text": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 36304,
+            "text": "\u0bb2\u0bbf\u0b95\u0bcd\u0bb5\u0bbf\u0b9f\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 36306,
+            "text": "\u0b95\u0ba3\u0bcd\u0ba3\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 36308,
+            "text": "\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:01:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 36310,
+            "text": "\u0b9c\u0bcb\u0b9f\u0bbf\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:02:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 36312,
+            "text": "\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:02:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 36314,
+            "text": "CAKE \u0baa\u0bc6\u0bb1, LP \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:02:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 36316,
+            "text": "\u0b9a\u0bc6\u0baf\u0bb2\u0bbf\u0bb2\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:02:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 36318,
+            "text": "\u0b9a\u0bc6\u0baf\u0bb2\u0bbf\u0ba9\u0bcd\u0bae\u0bc8",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:02:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 36320,
+            "text": "\u0b87\u0bb0\u0b9f\u0bcd\u0b9f\u0bc8",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:02:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 36322,
+            "text": "\u0b95\u0bbe\u0bae\u0bcd\u0baa\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:02:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 36324,
+            "text": "%asset% \u0b85\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bc7\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:02:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 36326,
+            "text": "CAKE \u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:03:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 36328,
+            "text": "CAKE \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0b95",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:03:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 36778,
+            "text": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b8e\u0ba3\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd 2, 3 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 4 \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bb5\u0bc6\u0bb2\u0bcd\u0b95!",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:06:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 36784,
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b95\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:06:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 36786,
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b95\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:07:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 36788,
+            "text": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1 %num%",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:07:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 36798,
+            "text": "\u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0baa\u0bbe\u0ba9\u0bc8",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:07:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 36802,
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:07:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 36804,
+            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0b95\u0bb3\u0bcd \u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:08:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 36992,
+            "text": "\u0bb5\u0bbe\u0bb2\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:27:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 36994,
+            "text": "\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1...",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:28:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 36996,
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 IFO",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:28:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 37000,
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf IFO\u0b95\u0bb3\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:28:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "FAST சம்பாதிக்க LP டோக்கன்களை பங்கு"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 37002,
+            "text": "APR",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:28:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "மொத்த பணப்புழக்கம்"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 25958,
+            "text": "\u0b9a\u0bbf\u0bb0\u0baa\u0bcd \u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T10:05:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "சிக்கியது"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 36782,
+            "text": "%time% \u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0b95\u0bc1\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bb5\u0bb0\u0bc8",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:06:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "ஒப்பந்தத்தை அங்கீகரிக்கவும்"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 37008,
+            "text": "\u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0b8e\u0ba3\u0bcd:",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:28:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "சம்பாதித்தார்"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 37010,
+            "text": "\u0ba4\u0bc7\u0b9f\u0bc1",
+            "user": {
+                "id": 14274202,
+                "username": "English2Tamil",
+                "fullName": "English2Tamil",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/2a2ab95bb061190290798544ba5884e4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:28:49+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Tét LP tokenek"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Megszünteti"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Megerősítésre vár"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "megerősít"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Kap"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "visszavonását LP tokent"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "visszavonását"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 33428,
+            "text": "Gazdas\u00e1g",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:17:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 33430,
+            "text": "T\u00e9tet feltesz",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:18:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9466,
+            "text": "T\u0151zsde",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9518,
+            "text": "Dokumentumok",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9570,
+            "text": "Szavaz\u00e1s",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9622,
+            "text": "Lott\u00f3",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 37396,
+            "text": "T\u00e1rca felold\u00e1sa",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:08:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 37400,
+            "text": "A te %asset% egyenleged",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:08:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 9776,
+            "text": "Teljes %asset% mennyis\u00e9ge",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9828,
+            "text": "Z\u00c1ROLVA",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 9880,
+            "text": "F\u00fcgg\u0151 betakar\u00edt\u00e1s",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9932,
+            "text": "\u00daj blokkonk\u00e9nti jutalom",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 9984,
+            "text": "Az \u00f6sszes el\u00e9getett CAKE az indul\u00e1s \u00f3ta",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 10036,
+            "text": "L\u00e1sd a Konyh\u00e1t",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10088,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10140,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10192,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10244,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 37406,
+            "text": "Let\u00e9t",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:09:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 37408,
+            "text": "Kereset",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:10:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 37418,
+            "text": "Tegy\u00e9l fel LP zsetonokat, hogy CAKE-t halmozhass fel",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:11:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 10606,
+            "text": "Vissza tudod v\u00e1ltani b\u00e1rmikor",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 37436,
+            "text": "%asset% kerest\u00e9l",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:14:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 37440,
+            "text": "T\u00e9tre helyezett zsetonok",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:15:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 37448,
+            "text": "Minden alkalommal, amikor CAKE zsetonokat teszel fel \u00e9s veszel vissza, az okos kontraktus automatikusan CAKE jutalmakat gy\u0171jt be neked!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:17:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 37486,
+            "text": "Megkeresett XVS zsetonok",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:18:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 37558,
+            "text": "A jutalmak blokkonk\u00e9nt ker\u00fclnek kisz\u00e1m\u00edt\u00e1sra, \u00e9s teljes jutalmat automatikusan osztja fel minden egyes projekt gazd\u00e1lkod\u00e1si id\u0151szak\u00e1nak v\u00e9g\u00e9n.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:22:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 37562,
+            "text": "\u00c9rdekk\u00f6z\u00f6ss\u00e9g",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:22:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 11176,
+            "text": "Hamarosan",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11228,
+            "text": "\u00c9ves hozam",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11278,
+            "text": "Teljes likvidit\u00e1s",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 11328,
+            "text": "Megtekint\u00e9s BscScan-en",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11378,
+            "text": "Cake \u00e1ra",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 37596,
+            "text": "%asset% zsetont kerest\u00e9l",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:23:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 37614,
+            "text": "%num% blokkok a gazd\u00e1lkod\u00e1s v\u00e9g\u00e9ig",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:23:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 19356,
+            "text": "Hamarosan...",
+            "user": {
+                "id": 14451958,
+                "username": "archstanton11",
+                "fullName": "archstanton11",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/978be7a98da9811f3e43bec74ab88881?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-17T07:11:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 37670,
+            "text": "A t\u00e9ted",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:24:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 37698,
+            "text": "A gazd\u00e1lkod\u00e1s indul %num% blokkon",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:25:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 37708,
+            "text": "Befejezve",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:25:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 37766,
+            "text": "A gazd\u00e1lkod\u00e1s befejez\u0151dik %num% blokkon",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:26:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 37798,
+            "text": "Projekt weboldal",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:26:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 37910,
+            "text": "A jutalmat blokkokra sz\u00e1m\u00edtja ki.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:28:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 28110,
+            "text": "\u00d6sszesen",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T19:46:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 28112,
+            "text": "V\u00e9ge",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T19:46:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 28114,
+            "text": "A projekt webhely\u00e9nek megtekint\u00e9se",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T19:47:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 28116,
+            "text": "A te projekted? \ud83d\udc40",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T19:48:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 37938,
+            "text": "\u00c9rdeksz\u00f6vets\u00e9g l\u00e9trehoz\u00e1sa a zsetonodhoz",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:28:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 28120,
+            "text": "Jelentkezz most",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T19:50:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 37952,
+            "text": "1. k\u00f6r: V\u00c1S\u00c1RL\u00c1S",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:29:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 30752,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:39:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 38114,
+            "text": "K\u00f6ltsd a CAKE-et arra, hogy szelv\u00e9nyeket vegy\u00e9l, hozz\u00e1j\u00e1rulva a lott\u00f3 nyerem\u00e9nyalaphoz. A szelv\u00e9nyv\u00e1s\u00e1rl\u00e1s a sorsol\u00e1s el\u0151tt kb. 30 perccel bez\u00e1r. Juss nyerem\u00e9nyhez, ha szelv\u00e9nyeden 2, 3 vagy 4 sz\u00e1m megegyezik a nyer\u0151sz\u00e1mokkal \u00e9s azok poz\u00edci\u00f3ival! Sok szerencs\u00e9t!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:32:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 38072,
+            "text": "Szelv\u00e9nyeid \u00f6sszesen erre a k\u00f6rre",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:31:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 30824,
+            "text": "Vegy\u00e9l szelv\u00e9nyeket",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:48:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 30830,
+            "text": "Szelv\u00e9nyeid megtekint\u00e9se",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:49:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 30838,
+            "text": "Kb. ennyi id\u0151d maradt szelv\u00e9nyek v\u00e1s\u00e1rl\u00e1s\u00e1ra",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:50:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 30850,
+            "text": "Bez\u00e1rod",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:51:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 30858,
+            "text": "Legfrissebb nyer\u0151sz\u00e1mok",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:51:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 30872,
+            "text": "4 tal\u00e1latos szelv\u00e9nyek:",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:53:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 30878,
+            "text": "3 tal\u00e1latos szelv\u00e9nyek:",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:53:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 30884,
+            "text": "2 tal\u00e1latos szelv\u00e9nyek:",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:53:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 38102,
+            "text": "Legut\u00f3bbi nyer\u0151sz\u00e1mok export\u00e1l\u00e1sa",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:32:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 30920,
+            "text": "Add meg a v\u00e1s\u00e1rolni k\u00edv\u00e1nt szelv\u00e9nyek sz\u00e1m\u00e1t",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:55:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 30924,
+            "text": "Max",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:55:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 38202,
+            "text": "%num% CAKE el\u00e9rhet\u0151",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:38:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 38208,
+            "text": "Az \u00f6sszegnek 10 CAKE t\u00f6bbsz\u00f6r\u00f6s\u00e9nek kell lennie",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:39:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 30944,
+            "text": "1 szelv\u00e9ny = 10 CAKE",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:56:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 30946,
+            "text": "Ennyit k\u00f6ltesz: %num% CAKE",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:56:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 30984,
+            "text": "T\u00f6rl\u00e9s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:58:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 31010,
+            "text": "Meger\u0151s\u00edt\u00e9s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:59:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 31020,
+            "text": "Figyelmeztet\u00e9s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:00:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 31024,
+            "text": "A lott\u00f3szelv\u00e9ny v\u00e1s\u00e1rl\u00e1sa v\u00e9gleges.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:00:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 38216,
+            "text": "A CAKE-et nem t\u00e9r\u00edtj\u00fck vissza neked, miut\u00e1n azt szelv\u00e9nyek v\u00e1s\u00e1rl\u00e1s\u00e1ra ford\u00edtottad.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:40:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 31046,
+            "text": "A szelv\u00e9nyek csak egy h\u00faz\u00e1sra \u00e9rv\u00e9nyesek, \u00e9s a sorsol\u00e1s ut\u00e1n ezek el\u00e9gnek.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:03:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 31066,
+            "text": "A szelv\u00e9nyek v\u00e1s\u00e1rl\u00e1sa nem garant\u00e1lja a nyerem\u00e9nyt. Csak akkor vegy\u00e9l r\u00e9szt, ha tiszt\u00e1ban vagy a kock\u00e1zatokkal.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:05:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 31068,
+            "text": "Meg\u00e9rtettem",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:05:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 38226,
+            "text": "A szelv\u00e9nyek v\u00e1s\u00e1rl\u00e1sa v\u00e9gleges. A CAKE-et nem kapod vissza, miut\u00e1n szelv\u00e9nyeket vett\u00e9l.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:40:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 31118,
+            "text": "Gy\u0171jtsd be a nyerem\u00e9nyeidet",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:07:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 31144,
+            "text": "Begy\u0171jthet\u0151 CAKE nyerem\u00e9nyek",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:08:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 31190,
+            "text": "2. fordul\u00f3: BEGY\u0170JT\u00c9S",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:11:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 28106,
+            "text": "B\u00e1rmikor leveheti a t\u00e9tet.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-02T19:45:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 31206,
+            "text": "Meger\u0151s\u00edt\u00e9sre v\u00e1r",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:11:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 30846,
+            "text": "Szelv\u00e9nyeim (\u00d6sszesen: %TICKETS%)",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T10:50:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 31228,
+            "text": "Kb. ennyi id\u0151 m\u00falva kezd\u0151dik a k\u00f6vetkez\u0151 sorsol\u00e1s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:12:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 31236,
+            "text": "CAKE j\u00f3v\u00e1hagy\u00e1sa",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:13:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 31268,
+            "text": "IFO: Indul\u00f3 gazd\u00e1lkod\u00e1si felaj\u00e1nl\u00e1sok",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 33454,
+            "text": "V\u00e1s\u00e1rolj \u00faj zsetonokat a vadonat\u00faj zseton\u00e9rt\u00e9kes\u00edt\u0151 modell seg\u00edts\u00e9g\u00e9vel.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:21:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 34388,
+            "text": "Az \u00faj zsetonok\u00e9rt a CAKE-BNB LP zsetonok felhaszn\u00e1l\u00e1s\u00e1val kell fizetni, ami azt jelenti, hogy a r\u00e9szv\u00e9telhez egyenl\u0151 mennyis\u00e9g\u0171 CAKE \u00e9s BNB \u00f6sszeget kell feltenni egy likvidit\u00e1si \u00e9rdeksz\u00f6vets\u00e9gben.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:34:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 34390,
+            "text": "CAKE-BNB LP megszerz\u00e9se >",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:34:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 34392,
+            "text": "A projekt megkapja a BNB-t, a PancakeSwap el\u00e9geti a CAKE-et.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:35:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 34398,
+            "text": "Megkapod a zsetonokat.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:36:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 34402,
+            "text": "Saj\u00e1t IFOT-t akarsz ind\u00edtani?",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:36:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 34414,
+            "text": "Ind\u00edts saj\u00e1t projektet a PancakeSwap, a Binance Smart Chain leggyakrabban haszn\u00e1lt AMM projekt- \u00e9s likvidit\u00e1s-szolg\u00e1ltat\u00f3val, hogy a saj\u00e1t zsetonod k\u00f6zvetlen\u00fcl a BSC legakt\u00edvabb \u00e9s leggyorsabban n\u00f6vekv\u0151 k\u00f6z\u00f6ss\u00e9g\u00e9hez jusson el.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:38:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 38258,
+            "text": "Jelentkez\u00e9s ind\u00edt\u00e1sra",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:42:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 34426,
+            "text": "K\u00f6z\u00f6ss\u00e9g",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:40:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 36556,
+            "text": "Mag",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:42:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 34430,
+            "text": "El\u00e9rhet\u0151",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:41:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 34432,
+            "text": "Az \u00e9n t\u00e1rc\u00e1m",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:42:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 34434,
+            "text": "Kijelentkez\u00e9s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:42:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 38262,
+            "text": "Mindet learatod (%count%)",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:43:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 36566,
+            "text": "Cake statisztika",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:44:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 36586,
+            "text": "Teljes CAKE k\u00edn\u00e1lat",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:45:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 36590,
+            "text": "El\u00e9gett CAKE \u00f6sszesen",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:45:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 36594,
+            "text": "\u00daj CAKE\/blokk",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:45:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 36598,
+            "text": "Gazdas\u00e1gok \u00e9s t\u00e9t",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:46:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 36612,
+            "text": "Arat\u00e1sra k\u00e9sz CAKE",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:47:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 36620,
+            "text": "CAKE a t\u00e1rc\u00e1ban",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:47:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 36630,
+            "text": "CAKE begy\u0171jt\u00e9se",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:47:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 36636,
+            "text": "Lott\u00f3nyerem\u00e9nyeim",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:48:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 36646,
+            "text": "CAKE begy\u0171jt\u00e9sre",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:49:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 36658,
+            "text": "Teljes nyerem\u00e9nyalap ebben a k\u00f6rben",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:50:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 36672,
+            "text": "Nyerem\u00e9nyek begy\u0171jt\u00e9se",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:50:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 38266,
+            "text": "Szelv\u00e9nyeket veszel",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:43:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 38272,
+            "text": "Betakar\u00edt\u00e1s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:44:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 36678,
+            "text": "J\u00f3v\u00e1hagy",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:51:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 36688,
+            "text": "Kiv\u00e1laszt",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:52:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 36690,
+            "text": "Nyer\u0151sz\u00e1mok ebben a k\u00f6rben",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T08:52:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 36792,
+            "text": "R\u00e9szesed\u00e9si \u00e9rdeksz\u00f6vets\u00e9g",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:07:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 36796,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:07:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 37102,
+            "text": "Az #1 AMM \u00e9s hozamgazdas\u00e1g a Binance Smart Chain l\u00e1ncon.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:34:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 38278,
+            "text": "Tedd fel a CAKE-et \u00faj zsetonok megszerz\u00e9s\u00e9hez.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:45:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 37150,
+            "text": "Ind\u00edt\u00e1s id\u0151pontja",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:36:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 37152,
+            "text": "Elad\u00f3",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:36:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 37156,
+            "text": "CAKE el\u00e9get\u00e9sre (USD)",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:37:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 37158,
+            "text": "T\u00e9tet visszavonja",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:37:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 37166,
+            "text": "\u2b50\ufe0f Minden alkalommal, amikor LP zsetonokat teszel fel \u00e9s veszel le t\u00e9tk\u00e9nt, az okos kontraktus automatikusan CAKE jutalmakat arat neked!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:39:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 37168,
+            "text": "Hogyan lehet r\u00e9szt venni",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:40:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 37176,
+            "text": "Elad\u00e1s el\u0151tt",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:41:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 37178,
+            "text": "CAKE \u00e9s BNB zsetonok v\u00e9tele",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:42:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 37180,
+            "text": "Szerezzen CAKE-BNB LP zsetonokat CAKE \u00e9s BNB likvidit\u00e1s hozz\u00e1ad\u00e1s\u00e1val",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:43:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 37182,
+            "text": "Elad\u00e1s k\u00f6zben",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:43:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 37192,
+            "text": "Am\u00edg az \u00e9rt\u00e9kes\u00edt\u00e9s folyamatban van, k\u00f6ssed le CAKE-LP zsetonjaid az IFO zsetonok megv\u00e1s\u00e1rl\u00e1s\u00e1ra",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:45:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 37200,
+            "text": "Elad\u00e1s ut\u00e1n",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:46:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 37226,
+            "text": "Ig\u00e9nyeld megv\u00e1s\u00e1rolt zsetonjaidat az esetlegesen fel nem haszn\u00e1lt \u00f6sszegekkel egy\u00fctt.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:48:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 31274,
+            "text": "K\u00e9sz!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:14:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 31294,
+            "text": "Olvass tov\u00e1bb",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:15:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 31304,
+            "text": "Csatlakoz\u00e1s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:15:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 31338,
+            "text": "Bev\u00e1ltod CAKE palacsint\u00e1ra, vagy megtartod a gy\u0171jtem\u00e9nyedben!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:17:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 31382,
+            "text": "Regisztr\u00e1ld al\u00e1bb \u00e9rdekl\u0151d\u00e9sedet, hogy nyerj egy NFT-t.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:21:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 31390,
+            "text": "Regisztr\u00e1lj, hogy legyen es\u00e9lyed a nyer\u00e9sre",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:22:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 31392,
+            "text": "Tudj meg t\u00f6bbet",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:22:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 38286,
+            "text": "V\u00e1ltsd be az NFT-t",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:45:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 31430,
+            "text": "Bev\u00e1lt\u00e1s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:24:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 31434,
+            "text": "Ennyit kapsz",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:24:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 31462,
+            "text": "Amikor ezt az NFT-t bev\u00e1ltod egy CAKE palacsint\u00e1ra, egyszer \u00e9s mindenkorra elvesz\u00edted a hozz\u00e1f\u00e9r\u00e9st ahhoz!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:27:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 31472,
+            "text": "NFT ig\u00e9nyl\u00e9s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:27:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 31476,
+            "text": "\u00cdgy m\u0171k\u00f6dik",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:27:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 31494,
+            "text": "A nyertesek ezen az oldalon ig\u00e9nyelhetik az NFT-t, amint indul az ig\u00e9nyl\u00e9si id\u0151szak.",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:28:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 31510,
+            "text": "Ha nem v\u00e1lasztottak ki, nem is ig\u00e9nyelhetsz. Legy\u00e9l szerencs\u00e9sebb legk\u00f6zelebb!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:29:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 31544,
+            "text": "A nyertesek az al\u00e1bb k\u00f6z\u00f6lt lej\u00e1rati id\u0151pontig v\u00e1lthatnak be NFT-t CAKE-re. Ha addig nem v\u00e1ltottad be az NFT-det, ne agg\u00f3dj: az m\u00e9g mind\u00edg a t\u00e1rc\u00e1dban van!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:32:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 31550,
+            "text": "Hogyan v\u00e1lasztj\u00e1k ki a nyerteseket?",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:32:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 31556,
+            "text": "A nyerteseket v\u00e9letlenszer\u0171en v\u00e1lasztj\u00e1k ki! Sok szerencs\u00e9t!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:33:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 31562,
+            "text": "\u00c9rt\u00e9k, ha bev\u00e1ltod",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:33:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 31598,
+            "text": "L\u00e9trehozott darabsz\u00e1m",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:37:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 31602,
+            "text": "El\u00e9getett darabsz\u00e1m",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:37:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 31606,
+            "text": "Ig\u00e9nyeld ezt az NFT-t",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:38:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 31610,
+            "text": "Bev\u00e1ltod CAKE-re",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:38:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 31614,
+            "text": "Bet\u00f6lt\u00e9s\u2026",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:38:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 31618,
+            "text": "R\u00e9szletek",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:39:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 31620,
+            "text": "Nyert\u00e9l!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:39:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 31622,
+            "text": "Ig\u00e9nyelj NFT-t az al\u00e1bbi lehet\u0151s\u00e9gek k\u00f6z\u00fcl!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:40:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 31626,
+            "text": "Bev\u00e1lthat\u00f3 eddig",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:41:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 31632,
+            "text": "T\u00e1rca lekapcsolva",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:42:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 31636,
+            "text": "Csatlakozz, hogy l\u00e1sd: nyert\u00e9l-e NFT-t!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:42:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 31640,
+            "text": "Kezd\u0151 oldal",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:43:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 31642,
+            "text": "Keresked\u00e9s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:43:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 31644,
+            "text": "Gazdas\u00e1gok",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:44:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Csak cövekes"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 38296,
+            "text": "\u00c9rdeksz\u00f6vets\u00e9gek",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:46:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 31710,
+            "text": "NFT",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:58:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 31712,
+            "text": "Inf\u00f3",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:58:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 31714,
+            "text": "IFO",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:59:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 31716,
+            "text": "T\u00f6bb",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:59:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 31718,
+            "text": "Likvidit\u00e1s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T11:59:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 31914,
+            "text": "\u00c1ttekint\u00e9s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:41:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 31916,
+            "text": "Zseton",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:41:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 31920,
+            "text": "P\u00e1rok",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:41:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 31922,
+            "text": "Sz\u00e1mla",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:41:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 38302,
+            "text": "Tegy\u00e9l fel LP zsetonokat, hogy CAKE-et szerezz",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T10:47:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 31940,
+            "text": "Akt\u00edv",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:43:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 31944,
+            "text": "Inakt\u00edv",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:43:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 31954,
+            "text": "Kett\u0151s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:43:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 31960,
+            "text": "\u00d6sszetett",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:44:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 31984,
+            "text": "%asset% t\u00e9t megsz\u00fcntet\u00e9se",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:46:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 31986,
+            "text": "A CAKE lott\u00f3",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T12:46:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 37236,
+            "text": "Szelv\u00e9nyek v\u00e1s\u00e1rl\u00e1sa CAKE-kel",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:48:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 37260,
+            "text": "Nyersz, ha szelv\u00e9nyeden 2, 3 vagy 4 sz\u00e1m egyezik!",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:50:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 37278,
+            "text": "K\u00f6vetkez\u0151 sorsol\u00e1s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:50:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 37282,
+            "text": "Kor\u00e1bbi sorsol\u00e1sok",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:51:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 37284,
+            "text": "K\u00f6r %num%",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:51:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 37292,
+            "text": "Teljes nyerem\u00e9nyalap",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:51:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 37298,
+            "text": "Szelv\u00e9nyeid erre a k\u00f6rre",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:51:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 37314,
+            "text": "Sajnos nincs nyerem\u00e9nyed",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:52:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 37316,
+            "text": "A t\u00e1rc\u00e1ban",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:52:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 37318,
+            "text": "Bet\u00f6lt\u00e9s...",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:53:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 37320,
+            "text": "K\u00f6vetkez\u0151 IFO",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:53:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 37322,
+            "text": "Kor\u00e1bbi IFO-k",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:53:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Tét LP tokenek a FAST megszerzéséhez"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 34436,
+            "text": "APR",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:42:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Összes likviditás"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 33432,
+            "text": "Syrup \u00e9rdeksz\u00f6vets\u00e9g",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T14:18:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Tépett"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 37270,
+            "text": "%time% lott\u00f3sorsol\u00e1sig",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T09:50:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Jóváhagyja a szerződést"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 34442,
+            "text": "Lott\u00f3sz\u00e1m v\u00e1laszt\u00e1sa:",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:43:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Megszerzett"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 34444,
+            "text": "Keres\u00e9s",
+            "user": {
+                "id": 12826643,
+                "username": "beejaypee01",
+                "fullName": "beejaypee01",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/1f41de82675cfe7a24ef2ed24cd5fb8a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-03T16:43:38+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

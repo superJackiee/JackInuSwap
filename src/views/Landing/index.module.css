@@ -1,0 +1,9 @@
+
+.container{
+  max-width: 1440px;
+  margin: auto;
+  margin-top: 300px;
+  width: 90%;
+  z-index: 10;
+}
+

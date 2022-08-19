@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Taruhan token LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Membatalkan"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Konfirmasi Tertunda"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Konfirmasi"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Dapatkan"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Lepaskan token LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Batalkan taruhan"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 15602,
+            "text": "Farm",
+            "user": {
+                "id": 13628892,
+                "username": "boncabepedes",
+                "fullName": "Fajri Imanudin",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13628892\/medium\/48c151c376de459bdeb6926a2c77b0e5.jpg"
+            },
+            "createdAt": "2020-10-11T11:56:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 41212,
+            "text": "Menumpuk",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:34:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9492,
+            "text": "Pertukaran",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9544,
+            "text": "Dokumen\n",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 13528,
+            "text": "Pemungutan Suara",
+            "user": {
+                "id": 14451694,
+                "username": "fiverdia",
+                "fullName": "Yopi Ferdiawan",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451694\/medium\/ca0882e019341d39a89e74221da9305a.jpg"
+            },
+            "createdAt": "2020-10-11T10:20:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 9648,
+            "text": "Undian",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 9700,
+            "text": "Buka Dompet",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 41214,
+            "text": "Saldo %asset% Anda",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:35:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 41216,
+            "text": "Total Suplai %asset%",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:35:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 9854,
+            "text": "TERKUNCI",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 41218,
+            "text": "Panen tertunda",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:36:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 13526,
+            "text": "Hadiah baru per blok",
+            "user": {
+                "id": 14451632,
+                "username": "Bal_18",
+                "fullName": "Iqbal",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451632\/medium\/bd12f5dc1c9414d2c679af8de81a9c8f.jpg"
+            },
+            "createdAt": "2020-10-11T10:20:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 41222,
+            "text": "Total CAKE yang hangus sejak peluncuran",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:37:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 14468,
+            "text": "Lihat Dapur",
+            "user": {
+                "id": 14451634,
+                "username": "herulaia08",
+                "fullName": "HOT SPOT",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451634\/medium\/ee489c6a31fbfe8b4a66adb841addd19.jpeg"
+            },
+            "createdAt": "2020-10-11T10:47:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10114,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10166,
+            "text": "Blog",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 41226,
+            "text": "GitHub",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:38:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10270,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 41240,
+            "text": "Setoran",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:48:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 13630,
+            "text": "Hasilkan",
+            "user": {
+                "id": 14451632,
+                "username": "Bal_18",
+                "fullName": "Iqbal",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451632\/medium\/bd12f5dc1c9414d2c679af8de81a9c8f.jpg"
+            },
+            "createdAt": "2020-10-11T10:22:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 41242,
+            "text": "Tumpuk token FLIP untuk menumpuk CAKE",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T11:48:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 10632,
+            "text": "Anda dapat menukar kembali kapan saja",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 41346,
+            "text": "%asset% Dihasilkan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:45:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 41348,
+            "text": "Token Ditumpuk",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:45:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 41352,
+            "text": "Setiap kali Anda menumpuk dan membongkar tumpukan token CAKE, kontrak akan secara otomatis memanen hadiah CAKE untuk Anda!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:49:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 41356,
+            "text": "Token XVS Dihasilkan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:51:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 41360,
+            "text": "Hadiah akan dihitung per blok dan total hadiah akan dibagikan secara otomatis di akhir periode farming pada setiap proyek.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:52:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 14036,
+            "text": "Pool",
+            "user": {
+                "id": 14451662,
+                "username": "obysecrett11",
+                "fullName": "oby marshal",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451662\/medium\/b2fd5764e91ab0d62f28ed7d02f3926e.jpeg"
+            },
+            "createdAt": "2020-10-11T10:34:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 14366,
+            "text": "Segera hadir",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-11T10:43:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 14364,
+            "text": "APY",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-11T10:43:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 13848,
+            "text": "Total Likuiditas",
+            "user": {
+                "id": 14451632,
+                "username": "Bal_18",
+                "fullName": "Iqbal",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451632\/medium\/bd12f5dc1c9414d2c679af8de81a9c8f.jpg"
+            },
+            "createdAt": "2020-10-11T10:28:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 13860,
+            "text": "Lihat di BscScan",
+            "user": {
+                "id": 14451632,
+                "username": "Bal_18",
+                "fullName": "Iqbal",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451632\/medium\/bd12f5dc1c9414d2c679af8de81a9c8f.jpg"
+            },
+            "createdAt": "2020-10-11T10:28:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 11404,
+            "text": "Harga CAKE",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 14294,
+            "text": "%Asset% Token Dihasilkan",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-11T10:41:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 41362,
+            "text": "%num% blok sampai farming berakhir",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:53:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 12610,
+            "text": "Segera hadir...",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-11T09:53:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 41370,
+            "text": "Tumpukan Anda",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:54:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 41376,
+            "text": "Farming dimulai pada %num% Blok",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:56:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 12636,
+            "text": "Selesai",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-11T09:55:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 41378,
+            "text": "Farming berakhir pada %num% Blok",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:56:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 12660,
+            "text": "Situs Proyek",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-11T09:56:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 19532,
+            "text": "Hadiah dihitung per blok.",
+            "user": {
+                "id": 14451694,
+                "username": "fiverdia",
+                "fullName": "Yopi Ferdiawan",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451694\/medium\/ca0882e019341d39a89e74221da9305a.jpg"
+            },
+            "createdAt": "2020-10-21T21:41:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 19534,
+            "text": "Total",
+            "user": {
+                "id": 14451694,
+                "username": "fiverdia",
+                "fullName": "Yopi Ferdiawan",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451694\/medium\/ca0882e019341d39a89e74221da9305a.jpg"
+            },
+            "createdAt": "2020-10-21T21:41:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 19536,
+            "text": "Berakhir",
+            "user": {
+                "id": 14451694,
+                "username": "fiverdia",
+                "fullName": "Yopi Ferdiawan",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451694\/medium\/ca0882e019341d39a89e74221da9305a.jpg"
+            },
+            "createdAt": "2020-10-21T21:41:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 41388,
+            "text": "Lihat situs proyek",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:57:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 19540,
+            "text": "Proyek Anda? \ud83d\udc40",
+            "user": {
+                "id": 14451694,
+                "username": "fiverdia",
+                "fullName": "Yopi Ferdiawan",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451694\/medium\/ca0882e019341d39a89e74221da9305a.jpg"
+            },
+            "createdAt": "2020-10-21T21:42:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 41390,
+            "text": "Buat pool untuk token Anda",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:58:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 43992,
+            "text": "Ajukan sekarang",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T11:15:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 41394,
+            "text": "Putaran ke-1: MEMBELI",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:58:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 19554,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:03:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 41398,
+            "text": "Belanjakan CAKE untuk membeli tiket, berkontribusi untuk pot undian. Pembelian tiket berakhir sekitar. 30 menit sebelum pengundian lotre. Rebut hadiah jika 2, 3, atau 4 nomor tiket Anda cocok dengan angka kemenangan dan posisinya! Semoga beruntung!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:01:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 41400,
+            "text": "Total tiket Anda untuk putaran ini",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:01:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 19564,
+            "text": "Beli tiket",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:08:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 19566,
+            "text": "Lihat tiket Anda",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:08:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 41402,
+            "text": "Perkiraan waktu tersisa untuk membeli tiket",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:01:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 19572,
+            "text": "Tutup",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:09:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 41404,
+            "text": "Angka Kemenangan Terbaru",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:03:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 41406,
+            "text": "Tiket cocok dengan 4 nomor:",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:03:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 41408,
+            "text": "Tiket cocok dengan 3 nomor:",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:03:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 41410,
+            "text": "Tiket cocok dengan 2 nomor:",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:03:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 41412,
+            "text": "Ekspor angka kemenangan terkini",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:03:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 19602,
+            "text": "Masukkan jumlah tiket yang ingin dibeli",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:19:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 19604,
+            "text": "Maks",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:20:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 19606,
+            "text": "%num% CAKE Tersedia",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:20:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 19646,
+            "text": "Jumlah harus kelipatan 10 CAKE",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:32:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 19796,
+            "text": "1 Tiket = 10 CAKE",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T11:25:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 41414,
+            "text": "Anda akan membelanjakan: %num% CAKE",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:04:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 41416,
+            "text": "Batalkan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:04:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 19616,
+            "text": "Konfirmasi",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:22:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 19618,
+            "text": "Peringatan",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:22:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 41422,
+            "text": "Pembelian tiket lotre bersifat final.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:04:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 19622,
+            "text": "CAKE Anda tidak akan dikembalikan setelah Anda membelanjakannya untuk membeli tiket.",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:23:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 41424,
+            "text": "Tiket hanya berlaku untuk satu pengundian lotre, dan akan hangus setelah pengundian.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:05:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 41426,
+            "text": "Membeli tiket tidak menjamin Anda akan memenangi apa pun. Harap berpartisipasi hanya setelah Anda memahami risikonya.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:05:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 19628,
+            "text": "Saya mengerti",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:25:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 41430,
+            "text": "Pembelian tiket bersifat final. CAKE Anda tidak akan dikembalikan setelah Anda membeli tiket.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:06:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 19632,
+            "text": "Klaim hadiah",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-22T10:26:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 41432,
+            "text": "Hadiah CAKE yang akan diklaim",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:06:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 41438,
+            "text": "Putaran ke-2: MENGEKLAIM",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:06:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 41386,
+            "text": "Anda dapat membongkar tumpukan kapan pun.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:57:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 20714,
+            "text": "Menunggu Konfirmasi",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-23T13:09:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 20728,
+            "text": "Tiket Saya (Total: %TICKETS%)",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-23T13:22:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 41440,
+            "text": "Perkiraan waktu sebelum lotre berikutnya dimulai",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:07:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 20720,
+            "text": "Setujui CAKE",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-10-23T13:11:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 41442,
+            "text": "IFO: Initial Farm Offerings",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:07:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 21822,
+            "text": "\nBeli token baru dengan model penjualan token baru.",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:34:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 41444,
+            "text": "Anda akan membayar token baru dengan menggunakan token CAKE-BNB LP, yang berarti Anda harus menumpuk jumlah CAKE dan BNB yang sama dalam pool likuiditas untuk ikut serta.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:08:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 21826,
+            "text": "\nDapatkan CAKE-BNB LP >",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:35:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 41446,
+            "text": "Proyek mendapatkan BNB, PancakeSwap menghanguskan CAKE.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:09:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 21830,
+            "text": "Anda mendapatkan tokennya.",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:35:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 21832,
+            "text": "Ingin meluncurkan IFO Anda sendiri?",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:36:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 41490,
+            "text": "Luncurkan proyek Anda dengan PancakeSwap, penyedia likuiditas \ndan proyek AMM yang paling banyak digunakan Binance Smart Chain, untuk membawa token Anda langsung ke komunitas yang paling aktif dan berkembang pesat di BSC.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:25:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 43994,
+            "text": "Ajukan untuk diluncurkan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T11:17:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 21840,
+            "text": "Komunitas",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:37:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 21842,
+            "text": "Inti",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:37:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 21844,
+            "text": "Tersedia",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:37:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 21846,
+            "text": "Dompet Saya",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:37:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 21848,
+            "text": "Keluar",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:37:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 21850,
+            "text": "Panen semua (%count%)",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:37:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 21852,
+            "text": "Statistik Cake",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:38:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 41514,
+            "text": "Total Suplai CAKE",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:27:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 41518,
+            "text": "Jumlah CAKE Hangus",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:27:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 41522,
+            "text": "Blok\/CAKE Baru",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:28:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 41524,
+            "text": "Farm & Tumpukan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:28:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 41526,
+            "text": "CAKE yang akan Dipanen",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:29:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 41528,
+            "text": "CAKE dalam Dompet",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:29:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 41530,
+            "text": "Mengambil CAKE",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:29:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 41532,
+            "text": "Hadiah Lotre Anda",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:29:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 41534,
+            "text": "CAKE yang akan Diambil",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:30:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 41536,
+            "text": "Total jackpot putaran ini",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:30:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 41540,
+            "text": "Ambil Hadiah",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:30:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 41542,
+            "text": "Beli Tiket",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:30:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 41544,
+            "text": "Panen",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:30:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 21882,
+            "text": "Setujui",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:41:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 21886,
+            "text": "Pilih",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:41:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 41548,
+            "text": "Angka Kemenangan Putaran Ini",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:32:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 41554,
+            "text": "Pool Penumpukan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:35:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 21894,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:42:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 47118,
+            "text": "Farm penghasil dan AMM #1 di Binance Smart Chain.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-14T11:19:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 41560,
+            "text": "Tumpuk CAKE untuk menghasilkan token baru.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:35:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 41562,
+            "text": "Waktu Peluncuran",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:35:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 21902,
+            "text": "Dijual",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-17T06:42:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 41568,
+            "text": "CAKE yang akan hangus (USD)",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:36:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 41570,
+            "text": "Bongkar tumpukan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:36:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 41572,
+            "text": "\u2b50\ufe0f Setiap kali Anda menumpuk dan membongkar tumpukan token LP, kontrak akan secara otomatis memanen hadiah CAKE untuk Anda!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:36:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 22496,
+            "text": "Cara berpartisipasi",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-21T07:37:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 22498,
+            "text": "Sebelum Penjualan",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-21T07:38:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 22500,
+            "text": "Beli token CAKE dan BNB",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-21T07:38:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 22502,
+            "text": "Dapatkan token CAKE-BNB LP dengan menambahkan likuiditas CAKE dan BNB",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-21T07:38:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 22504,
+            "text": "Selama Penjualan",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-21T07:38:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 41576,
+            "text": "Saat penjualan berlangsung, serahkan token CAKE-LP Anda untuk membeli token IFO",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:37:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 22508,
+            "text": "Setelah Penjualan",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-21T07:39:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 41580,
+            "text": "Klaim token yang Anda beli, bersama dengan dana yang belum dibelanjakan.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:37:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 22512,
+            "text": "Selesai!",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-21T07:39:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 22514,
+            "text": "Baca lebih lanjut",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-11-21T07:40:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 23172,
+            "text": "Hubungkan",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:05:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 41614,
+            "text": "Tukarkan tambah dengan CAKE, atau simpan untuk koleksi Anda!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:43:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 41582,
+            "text": "Daftarkan minat Anda untuk meraih NFT di bawah ini.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:38:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 23098,
+            "text": "Daftarkan diri Anda untuk mendapatkan kesempatan menang",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T12:59:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 23102,
+            "text": "Pelajari lebih lanjut",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T12:59:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 41588,
+            "text": "Tukar tambah NFT",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:40:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 41590,
+            "text": "Tukar tambah",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:40:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 23118,
+            "text": "Anda akan menerima",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:00:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 41604,
+            "text": "Saat Anda menukar tambah NFT ini untuk menerima CAKE, Anda akan kehilangan akses ke NFT ini selamanya!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:41:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 23124,
+            "text": "Klaim NFT",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:01:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 41606,
+            "text": "Cara kerja",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:41:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 41608,
+            "text": "Pemenang dapat mengeklaim NFT di halaman ini setelah periode klaim dimulai.",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:42:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 41610,
+            "text": "Jika Anda tidak terpilih, Anda tidak akan dapat mengeklaim. Semoga lain kali lebih beruntung!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:42:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 41620,
+            "text": "Pemenang dapat menukar tambah NFT mereka dengan nilai CAKE sampai tanggal kedaluwarsa yang tertulis di bawah ini. Jika Anda tidak menukar tambah NFT Anda saat itu, jangan khawatir: Anda masih akan memilikinya di dompet Anda!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:43:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 23138,
+            "text": "Bagaimana pemenang dipilih?",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:02:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 41622,
+            "text": "Pemenang dipilih secara acak! Semoga beruntung!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:44:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 41598,
+            "text": "Nilai jika tukar tambah",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:40:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 23182,
+            "text": "Jumlah yang dicetak",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:06:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 41624,
+            "text": "Jumlah yang hangus",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:44:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 23152,
+            "text": "Klaim NFT ini",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:03:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 41612,
+            "text": "Tukar tambah dengan CAKE",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:43:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 23156,
+            "text": "Memuat\u2026",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:03:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 23158,
+            "text": "Detail",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:03:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 23160,
+            "text": "Anda menang!",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:03:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 23164,
+            "text": "Klaim NFT dari opsi di bawah ini!",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:04:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 23162,
+            "text": "Bisa diperdagangkan sampai",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:04:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 23166,
+            "text": "Dompet Terputus",
+            "user": {
+                "id": 14450686,
+                "username": "chadgoff",
+                "fullName": "Chad Goff",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14450686\/medium\/4a9089b45e4eeff515de7c94c89d31a0.jpeg"
+            },
+            "createdAt": "2020-12-11T13:04:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 41626,
+            "text": "Hubungkan untuk melihat apakah Anda telah meraih NFT!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T13:45:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 39894,
+            "text": "Beranda",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:55:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 39896,
+            "text": "Berdagang",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:55:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 39898,
+            "text": "Farm",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:55:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Hanya Dipertaruhkan"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 39900,
+            "text": "Pool",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:55:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 39902,
+            "text": "NFT",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:55:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 39904,
+            "text": "Info",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:56:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 39906,
+            "text": "IFO",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:56:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 39908,
+            "text": "Lainnya",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:56:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 39910,
+            "text": "Likuiditas",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:56:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 39912,
+            "text": "Ikhtisar",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:56:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 39914,
+            "text": "Token",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:56:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 39916,
+            "text": "Pasangan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:56:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 39918,
+            "text": "Akun",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:56:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 39934,
+            "text": "Tumpuk token LP untuk menghasilkan CAKE",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:00:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 39922,
+            "text": "Aktif",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:57:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 39924,
+            "text": "Nonaktif",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:57:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 39926,
+            "text": "Dual",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:58:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 40110,
+            "text": "Gabungkan",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:34:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 41350,
+            "text": "Bongkar tumpukan %asset%",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-05T12:48:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 40116,
+            "text": "Lotre CAKE",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:38:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 39940,
+            "text": "Beli tiket dengan CAKE",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:01:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 39942,
+            "text": "Menang jika 2, 3, atau 4 nomor tiket Anda cocok!",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:01:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 39948,
+            "text": "Pengundian nanti",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:03:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 39968,
+            "text": "Pengundian lalu",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:06:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 39952,
+            "text": "Putaran ke-%num%",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:04:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 39954,
+            "text": "Total Pot",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:04:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 39956,
+            "text": "Tiket Anda untuk putaran ini",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:04:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 39958,
+            "text": "Maaf, tidak ada hadiah untuk diambil",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:04:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 39960,
+            "text": "Di Dompet",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:05:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 39962,
+            "text": "Memuat...",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:05:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 40118,
+            "text": "IFO Berikutnya",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:38:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 39966,
+            "text": "IFO Lalu",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:05:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Taruhan token LP untuk mendapatkan FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 39970,
+            "text": "APR",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:06:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Total Likuiditas"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 39892,
+            "text": "Pool Syrup",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T19:55:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Dipertaruhkan"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 39946,
+            "text": "%time% Hingga pengundian lotre",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:03:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Setujui Kontrak"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 39972,
+            "text": "Pilih nomor lotre:",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:06:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "diperoleh"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 39974,
+            "text": "Cari",
+            "user": {
+                "id": 12721749,
+                "username": "Yusliani-Alconost",
+                "fullName": "Yusliani-Alconost",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/90cc8a7feef165ed760bb1f130c58c78?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-04T20:06:29+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

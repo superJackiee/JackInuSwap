@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Διακριτικά LP πονταρίσματος"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Ματαίωση"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Εκκρεμεί επιβεβαίωση"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Επιβεβαιώνω"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Παίρνω"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Διακοπή LP χωρίς συμμετοχή"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Χωρίς συμμετοχή"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 42956,
+            "text": "Farm",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:39:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 42962,
+            "text": "Staking",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:39:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 9462,
+            "text": "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 9514,
+            "text": "\u0388\u03b3\u03b3\u03c1\u03b1\u03c6\u03b1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 9566,
+            "text": "\u03a8\u03b7\u03c6\u03bf\u03c6\u03bf\u03c1\u03af\u03b1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 16736,
+            "text": "\u039b\u03bf\u03c4\u03b1\u03c1\u03af\u03b1",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-10-11T15:06:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 16610,
+            "text": "\u039e\u03b5\u03ba\u03bb\u03b5\u03b9\u03b4\u03ce\u03c3\u03c4\u03b5 \u03c4\u03bf \u03c0\u03bf\u03c1\u03c4\u03bf\u03c6\u03cc\u03bb\u03b9",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-10-11T14:25:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 42972,
+            "text": "\u03a4\u03bf \u03c5\u03c0\u03cc\u03bb\u03bf\u03b9\u03c0\u03cc \u03c3\u03b1\u03c2 %asset%",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:40:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 42978,
+            "text": "\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac %asset%",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:41:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 42980,
+            "text": "\u039a\u039b\u0395\u0399\u0394\u03a9\u039c\u0395\u039d\u0391",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:41:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 9876,
+            "text": "\u0395\u03ba\u03ba\u03c1\u03b5\u03bc\u03b5\u03af \u03c3\u03c5\u03b3\u03ba\u03bf\u03bc\u03b9\u03b4\u03ae",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 9928,
+            "text": "\u039d\u03ad\u03b5\u03c2 \u03b1\u03bd\u03c4\u03b1\u03bc\u03bf\u03b9\u03b2\u03ad\u03c2 \u03b1\u03bd\u03ac \u03bc\u03c0\u03bb\u03bf\u03ba",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 17594,
+            "text": "\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac CAKE \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\u03c2",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-10-12T20:47:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 10032,
+            "text": "\u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03b7\u03bd \u03ba\u03bf\u03c5\u03b6\u03af\u03bd\u03b1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 10084,
+            "text": "Telegram",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 10136,
+            "text": "\u0399\u03c3\u03c4\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 10188,
+            "text": "Github",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 10240,
+            "text": "Twitter",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 10292,
+            "text": "\u039a\u03b1\u03c4\u03ac\u03b8\u03b5\u03c3\u03b7",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 42982,
+            "text": "\u039a\u03b5\u03c1\u03b4\u03af\u03c3\u03c4\u03b5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:43:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 43120,
+            "text": "\u039a\u03ac\u03bd\u03c4\u03b5 stake \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 LP \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03c3\u03c5\u03b3\u03ba\u03b5\u03bd\u03c4\u03c1\u03ce\u03c3\u03b5\u03c4\u03b5 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:40:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 43126,
+            "text": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03b1\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03b1\u03bd\u03ac \u03c0\u03ac\u03c3\u03b1 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:41:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 43128,
+            "text": "\u039a\u03ad\u03c1\u03b4\u03bf\u03c2 %asset%",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:42:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 43130,
+            "text": "\u039d\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b3\u03af\u03bd\u03b5\u03b9 stake",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:42:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 43044,
+            "text": "\u039a\u03ac\u03b8\u03b5 \u03c6\u03bf\u03c1\u03ac \u03c0\u03bf\u03c5 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03ae \u03c3\u03c4\u03b1\u03bc\u03b1\u03c4\u03ac\u03c4\u03b5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 stake \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 CAKE, \u03c4\u03bf \u03c3\u03c5\u03bc\u03b2\u03cc\u03bb\u03b1\u03b9\u03bf \u03ba\u03ac\u03bd\u03b5\u03b9 \u03bc\u03b1\u03b3\u03b9\u03ba\u03ac \u03c3\u03c5\u03b3\u03ba\u03bf\u03bc\u03b9\u03b4\u03ae \u03b1\u03bd\u03c4\u03b1\u03bc\u03bf\u03b9\u03b2\u03ce\u03bd CAKE \u03b3\u03b9\u03b1 \u03b5\u03c3\u03ac\u03c2!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:56:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 43136,
+            "text": "\u039a\u03b5\u03c1\u03b4\u03b9\u03c3\u03bc\u03ad\u03bd\u03b1 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 XVS",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:43:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 43046,
+            "text": "\u039f\u03b9 \u03b1\u03bd\u03c4\u03b1\u03bc\u03bf\u03b9\u03b2\u03ad\u03c2 \u03b8\u03b1 \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03bd\u03ac \u03bc\u03c0\u03bb\u03bf\u03ba \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ad\u03c2 \u03b1\u03bd\u03c4\u03b1\u03bc\u03bf\u03b9\u03b2\u03ad\u03c2 \u03b8\u03b1 \u03b4\u03b9\u03b1\u03bd\u03ad\u03bc\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b5\u03c1\u03b9\u03cc\u03b4\u03bf\u03c5 \u03ba\u03b1\u03bb\u03bb\u03b9\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1\u03c2 \u03ba\u03ac\u03b8\u03b5 \u03c0\u03c1\u03cc\u03c4\u03b6\u03b5\u03ba\u03c4.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:56:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 16684,
+            "text": "\u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-10-11T14:42:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 16686,
+            "text": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03b1",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-10-11T14:42:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 11224,
+            "text": "APY",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 11274,
+            "text": "\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ae \u03c1\u03b5\u03c5\u03c3\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1",
+            "user": {
+                "id": 14436190,
+                "username": "Chef_Chungus",
+                "fullName": "Chef_Chungus",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/245d6aeed05309314c484069a58d9729?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-10T13:31:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 16688,
+            "text": "\u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03c3\u03c4\u03bf BscScan",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-10-11T14:43:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 43140,
+            "text": "\u03a4\u03b9\u03bc\u03ae Cake",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:45:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 43142,
+            "text": "\u039a\u03b5\u03c1\u03b4\u03b9\u03c3\u03bc\u03ad\u03bd\u03b1 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 %asset%",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:46:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 43144,
+            "text": "%num% \u03bc\u03c0\u03bb\u03bf\u03ba \u03bc\u03ad\u03c7\u03c1\u03b9 \u03bd\u03b1 \u03c4\u03b5\u03bb\u03b5\u03b9\u03ce\u03c3\u03b5\u03b9 \u03b7 \u03ba\u03b1\u03bb\u03bb\u03b9\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:46:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 16700,
+            "text": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03b1...",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-10-11T14:45:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 43148,
+            "text": "\u03a4\u03bf \u03bc\u03b5\u03c1\u03af\u03b4\u03b9\u03cc \u03c3\u03b1\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:47:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 43150,
+            "text": "\u0397 \u03ba\u03b1\u03bb\u03bb\u03b9\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03be\u03b5\u03ba\u03b9\u03bd\u03ac\u03b5\u03b9 \u03c3\u03b5 %num% \u03bc\u03c0\u03bb\u03bf\u03ba",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:47:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 44266,
+            "text": "\u0391\u03bd\u03b5\u03bd\u03b5\u03c1\u03b3\u03ae",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T18:51:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 42830,
+            "text": "\u0397 \u03ba\u03b1\u03bb\u03bb\u03b9\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03c4\u03b5\u03bb\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b5 %num% \u03bc\u03c0\u03bb\u03bf\u03ba",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:30:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 43972,
+            "text": "\u0399\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03c0\u03c1\u03cc\u03c4\u03b6\u03b5\u03ba\u03c4",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:10:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 43048,
+            "text": "\u039f\u03b9 \u03b1\u03bd\u03c4\u03b1\u03bc\u03bf\u03b9\u03b2\u03ad\u03c2 \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03bd\u03ac \u03bc\u03c0\u03bb\u03bf\u03ba.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:56:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 21348,
+            "text": "\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-11-15T19:27:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 21350,
+            "text": "\u03a4\u03ad\u03bb\u03bf\u03c2",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-11-15T19:27:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 43974,
+            "text": "\u0395\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c5 \u03c0\u03c1\u03cc\u03c4\u03b6\u03b5\u03ba\u03c4",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:10:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 43156,
+            "text": "\u03a4\u03bf \u03b4\u03b9\u03ba\u03cc \u03c3\u03b1\u03c2 \u03c0\u03c1\u03cc\u03c4\u03b6\u03b5\u03ba\u03c4; \ud83d\udc40",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:49:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 42902,
+            "text": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03c3\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b4\u03b9\u03ba\u03cc \u03c3\u03b1\u03c2 \u03bd\u03cc\u03bc\u03b9\u03c3\u03bc\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:36:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 21358,
+            "text": "\u039a\u03ac\u03bd\u03b5 \u03b1\u03af\u03c4\u03b7\u03c3\u03b7 \u03c4\u03ce\u03c1\u03b1",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-11-15T19:29:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 21360,
+            "text": "\u0392\u03ae\u03bc\u03b1 1: \u0391\u0393\u039f\u03a1\u0391",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-11-15T19:30:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 21364,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14451796,
+                "username": "dparpalitis",
+                "fullName": "DIMITRIS PARPALITIS",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451796\/medium\/f22a3ac1e607fb801eb09e9348009bf2.jpg"
+            },
+            "createdAt": "2020-11-15T19:31:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 43162,
+            "text": "\u039e\u03bf\u03b4\u03ad\u03c8\u03c4\u03b5 CAKE \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03b5\u03c4\u03b5 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1, \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b5\u03b9\u03c3\u03c6\u03ad\u03c1\u03b5\u03c4\u03b5 \u03c3\u03c4\u03bf \u03bc\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03b1\u03c2. \u0397 \u03b1\u03b3\u03bf\u03c1\u03ac \u03c4\u03c9\u03bd \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd \u03bb\u03ae\u03b3\u03b5\u03b9 \u03c0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5 30 \u03bb\u03b5\u03c0\u03c4\u03ac \u03c0\u03c1\u03b9\u03bd \u03c4\u03b7 \u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03b1. \u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03ba\u03b5\u03c1\u03b4\u03af\u03c3\u03b5\u03c4\u03b5 \u03ad\u03c0\u03b1\u03b8\u03bb\u03b1 \u03b5\u03ac\u03bd 2, 3, \u03ae 4 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd\u03c2 \u03c4\u03c9\u03bd \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd \u03c3\u03b1\u03c2 \u03c4\u03b1\u03b9\u03c1\u03b9\u03ac\u03b6\u03bf\u03c5\u03bd \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd\u03c2 \u03c0\u03bf\u03c5 \u03ba\u03b5\u03c1\u03b4\u03af\u03b6\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03c2 \u03b8\u03ad\u03c3\u03b5\u03b9\u03c2. \u039a\u03b1\u03bb\u03ae \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:53:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 43164,
+            "text": "\u03a4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03c9\u03bd \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd \u03c3\u03b1\u03c2 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03b3\u03cd\u03c1\u03bf",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:54:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 43166,
+            "text": "\u0391\u03b3\u03bf\u03c1\u03ac \u03bb\u03b1\u03c7\u03b5\u03af\u03bf\u03c5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:54:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 43168,
+            "text": "\u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03b1 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1 \u03c3\u03b1\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:54:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 43370,
+            "text": "\u03a7\u03c1\u03cc\u03bd\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03bc\u03ad\u03bd\u03b5\u03b9 (\u03c0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5) \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03b5\u03c4\u03b5 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:38:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 43170,
+            "text": "\u039a\u03bb\u03b5\u03af\u03c3\u03b9\u03bc\u03bf",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:54:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 43374,
+            "text": "\u03a4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf\u03b9 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03af \u03c0\u03bf\u03c5 \u03ba\u03ad\u03c1\u03b4\u03b9\u03c3\u03b1\u03bd",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:40:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 43276,
+            "text": "\u039b\u03b1\u03c7\u03b5\u03af\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c4\u03c5\u03c7\u03b1\u03bd \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 4 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd\u03c2:",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:09:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 43278,
+            "text": "\u039b\u03b1\u03c7\u03b5\u03af\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c4\u03c5\u03c7\u03b1\u03bd 3 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd\u03c2:",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:09:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 43280,
+            "text": "\u039b\u03b1\u03c7\u03b5\u03af\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c4\u03c5\u03c7\u03b1\u03bd 2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd\u03c2:",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:09:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 43376,
+            "text": "\u0395\u03be\u03b1\u03b3\u03c9\u03b3\u03ae \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03c9\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03ce\u03bd \u03c0\u03bf\u03c5 \u03ba\u03ad\u03c1\u03b4\u03b9\u03c3\u03b1\u03bd",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:40:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 43282,
+            "text": "\u0395\u03b9\u03c3\u03b1\u03b3\u03ac\u03b3\u03b5\u03c4\u03b5 \u03c4\u03bf\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03b5\u03c4\u03b5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:10:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 43284,
+            "text": "\u039c\u03ad\u03b3\u03b9\u03c3.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:10:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 43940,
+            "text": "%num% CAKE \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:01:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 43378,
+            "text": "\u0397 \u03c0\u03bf\u03c3\u03cc\u03c4\u03b7\u03c4\u03ac \u03c3\u03b1\u03c2 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03ac\u03c3\u03b9\u03bf 10 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:41:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 43380,
+            "text": "1 Ticket = 10 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:41:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 43382,
+            "text": "\u0398\u03b1 \u03be\u03bf\u03b4\u03ad\u03c8\u03b5\u03c4\u03b5: %num% CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:41:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 43384,
+            "text": "\u0391\u03ba\u03cd\u03c1\u03c9\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:41:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 43386,
+            "text": "\u0395\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:41:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 43736,
+            "text": "\u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:21:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 43942,
+            "text": "\u039f\u03b9 \u03b1\u03b3\u03bf\u03c1\u03ad\u03c2 \u03c4\u03c9\u03bd \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd \u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03b1\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b7 \u03b1\u03bd\u03b1\u03c3\u03c4\u03c1\u03ad\u03c8\u03b9\u03bc\u03b5\u03c2.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:01:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 43944,
+            "text": "\u03a4\u03bf CAKE \u03c3\u03b1\u03c2 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03c3\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03b1\u03c6\u03b5\u03af \u03cc\u03c4\u03b1\u03bd \u03c4\u03bf \u03be\u03bf\u03b4\u03ad\u03c8\u03b5\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03b5\u03c4\u03b5 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:01:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 43946,
+            "text": "\u03a4\u03b1 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1 \u03b9\u03c3\u03c7\u03cd\u03bf\u03c5\u03bd \u03bc\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03bc\u03af\u03b1 \u03ba\u03bb\u03ae\u03c1\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03ad\u03c6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03ba\u03bb\u03ae\u03c1\u03c9\u03c3\u03b7.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:03:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 43948,
+            "text": "\u0397 \u03b1\u03b3\u03bf\u03c1\u03ac \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd \u03b4\u03b5\u03bd \u03b5\u03b3\u03b3\u03c5\u03ac\u03c4\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03b8\u03b1 \u03ba\u03b5\u03c1\u03b4\u03af\u03c3\u03b5\u03c4\u03b5 \u03ba\u03ac\u03c4\u03b9. \u03a3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03b5\u03c4\u03b5 \u03bc\u03cc\u03bd\u03bf \u03b1\u03c6\u03bf\u03cd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03ae\u03c3\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b9\u03bd\u03b4\u03cd\u03bd\u03bf\u03c5\u03c2.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:04:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 43474,
+            "text": "\u039a\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03b1\u03af\u03bd\u03c9",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:49:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 43750,
+            "text": "\u039f\u03b9 \u03b1\u03b3\u03bf\u03c1\u03ad\u03c2 \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b7 \u03b1\u03bd\u03b1\u03c3\u03c4\u03c1\u03ad\u03c8\u03b9\u03bc\u03b5\u03c2. \u03a4\u03bf CAKE \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c3\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03b1\u03c6\u03b5\u03af \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03b1\u03b3\u03bf\u03c1\u03ac \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:24:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 43478,
+            "text": "\u0394\u03b9\u03b5\u03ba\u03b4\u03af\u03ba\u03b7\u03c3\u03b7 \u03b5\u03c0\u03ac\u03b8\u03bb\u03c9\u03bd",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:49:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 43480,
+            "text": "\u0388\u03c0\u03b1\u03b8\u03bb\u03b1 CAKE \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03ba\u03b4\u03af\u03ba\u03b7\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:50:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 43950,
+            "text": "\u0393\u03cd\u03c1\u03bf\u03c2 2: \u0394\u0399\u0395\u039a\u0394\u0399\u039a\u0397\u03a3\u0397",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:04:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 42840,
+            "text": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03ba\u03c5\u03c1\u03ce\u03c3\u03b5\u03c4\u03b5 \u03c4\u03bf stake \u03b1\u03bd\u03ac \u03c0\u03ac\u03c3\u03b1 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T06:32:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 43952,
+            "text": "\u0395\u03ba\u03ba\u03c1\u03b5\u03bc\u03b5\u03af \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:04:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 43372,
+            "text": "\u03a4\u03b1 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1 \u03bc\u03bf\u03c5 (\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf: %TICKETS%)",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:39:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 43990,
+            "text": "\u03a7\u03c1\u03cc\u03bd\u03bf\u03c2 (\u03c0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5) \u03c0\u03c1\u03b9\u03bd \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9 \u03b7 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b7 \u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:14:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 43912,
+            "text": "\u0388\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:44:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 43984,
+            "text": "IFO: Initial Farm Offerings",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:12:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 43986,
+            "text": "\u0391\u03b3\u03bf\u03c1\u03ac\u03c3\u03c4\u03b5 \u03bd\u03ad\u03b1 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03ad\u03bd\u03b1 \u03bf\u03bb\u03bf\u03ba\u03b1\u03af\u03bd\u03bf\u03c5\u03c1\u03b3\u03b9\u03bf \u03bc\u03bf\u03bd\u03c4\u03ad\u03bb\u03bf \u03c0\u03ce\u03bb\u03b7\u03c3\u03b7\u03c2 \u03bd\u03bf\u03bc\u03b9\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:12:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 43988,
+            "text": "\u0398\u03b1 \u03c0\u03bb\u03b7\u03c1\u03ce\u03c3\u03b5\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ce\u03bd\u03c4\u03b1\u03c2 CAKE-BNB LP, \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03c3\u03b7\u03bc\u03b1\u03af\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 stake \u03af\u03c3\u03b1 \u03c0\u03bf\u03c3\u03ac CAKE \u03ba\u03b1\u03b9 BNB \u03c3\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae \u03c1\u03b5\u03c5\u03c3\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 \u03bc\u03ad\u03c1\u03bf\u03c2.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:13:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 43962,
+            "text": "\u0391\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03c4\u03b5 CAKE-BNB LP >",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:06:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 43964,
+            "text": "\u03a4\u03bf \u03c0\u03c1\u03cc\u03c4\u03b6\u03b5\u03ba\u03c4 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03b9 BNB, \u03c4\u03bf PancakeSwap \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03ad\u03c6\u03b5\u03b9 \u03c4\u03b1 CAKE.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:07:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 43966,
+            "text": "\u039b\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c4\u03b1 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:07:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 43968,
+            "text": "\u0398\u03ad\u03bb\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03bf \u03b4\u03b9\u03ba\u03cc \u03c3\u03b1\u03c2 IFO;",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:07:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 43970,
+            "text": "\u039e\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03c4\u03b5 \u03c4\u03bf \u03c0\u03c1\u03cc\u03c4\u03b6\u03b5\u03ba\u03c4 \u03c3\u03b1\u03c2 \u03bc\u03b5 \u03c4\u03bf PancakeSwap, \u03c4\u03bf \u03c0\u03b9\u03bf \u03b5\u03c5\u03c1\u03ad\u03c9\u03c2 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03bf \u03c0\u03c1\u03cc\u03c4\u03b6\u03b5\u03ba\u03c4 AMM \u03ba\u03b1\u03b9 \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c1\u03b5\u03c5\u03c3\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c3\u03c4\u03bf Binance Smart Chain, \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b5 \u03c4\u03b1 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03ac \u03c3\u03b1\u03c2 \u03b1\u03c0\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b9\u03bf \u03b5\u03bd\u03b5\u03c1\u03b3\u03ae \u03ba\u03b1\u03b9 \u03c4\u03b1\u03c7\u03ad\u03c9\u03c2 \u03b1\u03bd\u03b1\u03c0\u03c4\u03c5\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03b7 \u03ba\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 BSC.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:09:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 43976,
+            "text": "\u039a\u03ac\u03bd\u03c4\u03b5 \u03b1\u03af\u03c4\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03c4\u03b5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:10:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 43954,
+            "text": "\u039a\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:04:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 43932,
+            "text": "\u0392\u03b1\u03c3\u03b9\u03ba\u03cc",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:59:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 43934,
+            "text": "\u0394\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03bf",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:59:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 43896,
+            "text": "\u03a4\u03bf \u03c0\u03bf\u03c1\u03c4\u03bf\u03c6\u03cc\u03bb\u03b9 \u03bc\u03bf\u03c5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:41:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 43898,
+            "text": "\u0391\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:41:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 43900,
+            "text": "\u03a3\u03c5\u03b3\u03ba\u03bf\u03bc\u03b9\u03b4\u03ae \u03cc\u03bb\u03c9\u03bd (%count%)",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:41:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 43902,
+            "text": "\u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac Cake",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:41:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 43904,
+            "text": "\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:42:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 43906,
+            "text": "\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf CAKE \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03b5\u03af",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:42:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 43908,
+            "text": "\u039d\u03ad\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 CAKE\/\u03bc\u03c0\u03bb\u03bf\u03ba",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:43:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 43910,
+            "text": "\u03a6\u03ac\u03c1\u03bc\u03b5\u03c2 & Staking",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:44:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 43790,
+            "text": "CAKE \u03b3\u03b9\u03b1 \u03a3\u03c5\u03b3\u03ba\u03bf\u03bc\u03b9\u03b4\u03ae",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:28:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 43172,
+            "text": "CAKE \u03c3\u03c4\u03bf \u03c0\u03bf\u03c1\u03c4\u03bf\u03c6\u03cc\u03bb\u03b9",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:55:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 43174,
+            "text": "\u03a3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:55:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 43176,
+            "text": "\u03a4\u03b1 \u03ba\u03ad\u03c1\u03b4\u03b7 \u03c3\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:55:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 43792,
+            "text": "CAKE \u03b3\u03b9\u03b1 \u03a3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:28:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 43178,
+            "text": "\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03cc \u03c4\u03b6\u03ac\u03ba\u03c0\u03bf\u03c4 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b3\u03cd\u03c1\u03bf",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:56:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 43794,
+            "text": "\u03a3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03ba\u03b5\u03c1\u03b4\u03ce\u03bd",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:28:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 43180,
+            "text": "\u0391\u03b3\u03bf\u03c1\u03ac \u03bb\u03b1\u03c7\u03b5\u03af\u03c9\u03bd",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:56:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 43182,
+            "text": "\u03a3\u03c5\u03b3\u03ba\u03bf\u03bc\u03b9\u03b4\u03ae",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:57:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 43184,
+            "text": "\u0388\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:57:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 43188,
+            "text": "\u0395\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:57:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 43190,
+            "text": "\u0391\u03c1\u03b9\u03b8\u03bc\u03bf\u03af \u03c0\u03bf\u03c5 \u03ba\u03b5\u03c1\u03b4\u03af\u03b6\u03bf\u03c5\u03bd \u03c3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03b3\u03cd\u03c1\u03bf",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:57:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 43192,
+            "text": "\u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae Staking",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:57:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 43194,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:57:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 43796,
+            "text": "\u0397 \u03bd\u03bf\u03cd\u03bc\u03b5\u03c1\u03bf 1 \u03c6\u03ac\u03c1\u03bc\u03b1 AMM \u03ba\u03b1\u03b9 \u03ba\u03bb\u03b5\u03b9\u03b4\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2 \u03ba\u03b1\u03c4\u03b1\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd \u03c3\u03b5 Binance Smart Chain.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:30:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 43800,
+            "text": "\u039a\u03ac\u03bd\u03c4\u03b5 stake CAKE \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03b5\u03c1\u03b4\u03af\u03c3\u03b5\u03c4\u03b5 \u03bd\u03ad\u03b1 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:31:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 43808,
+            "text": "\u038f\u03c1\u03b1 \u03ad\u03bd\u03b1\u03c1\u03be\u03b7\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:31:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 43812,
+            "text": "\u03a0\u03c1\u03bf\u03c2 \u03c0\u03ce\u03bb\u03b7\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:31:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 43286,
+            "text": "CAKE \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03ba\u03b1\u03bf\u03cd\u03bd (USD)",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:10:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 43288,
+            "text": "\u039a\u03b1\u03c4\u03ac\u03c1\u03b3\u03b7\u03c3\u03b7 stake",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:10:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 43814,
+            "text": "\u2b50\ufe0f \u039a\u03ac\u03b8\u03b5 \u03c6\u03bf\u03c1\u03ac \u03c0\u03bf\u03c5 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03ae \u03c3\u03c4\u03b1\u03bc\u03b1\u03c4\u03ac\u03c4\u03b5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 stake \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 LP, \u03c4\u03bf \u03c3\u03c5\u03bc\u03b2\u03cc\u03bb\u03b1\u03b9\u03bf \u03ba\u03ac\u03bd\u03b5\u03b9 \u03bc\u03b1\u03b3\u03b9\u03ba\u03ac \u03c3\u03c5\u03b3\u03ba\u03bf\u03bc\u03b9\u03b4\u03ae \u03b1\u03bd\u03c4\u03b1\u03bc\u03bf\u03b9\u03b2\u03ce\u03bd CAKE \u03b3\u03b9\u03b1 \u03b5\u03c3\u03ac\u03c2!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:32:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 43290,
+            "text": "\u03a0\u03ce\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ac\u03c3\u03c7\u03b5\u03c4\u03b5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:11:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 43816,
+            "text": "\u03a0\u03c1\u03b9\u03bd \u03c4\u03b7\u03bd \u03c0\u03ce\u03bb\u03b7\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:32:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 43292,
+            "text": "\u0391\u03b3\u03bf\u03c1\u03ac CAKE \u03ba\u03b1\u03b9 \u03bd\u03bf\u03bc\u03b9\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd BNB",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:11:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 43936,
+            "text": "\u0391\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03c4\u03b5 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 CAKE-BNB LP \u03c0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c4\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c1\u03b5\u03c5\u03c3\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 CAKE \u03ba\u03b1\u03b9 BNB",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:00:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 43938,
+            "text": "\u039a\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03ce\u03bb\u03b7\u03c3\u03b7\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:00:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 43956,
+            "text": "\u038c\u03c4\u03b1\u03bd \u03b7 \u03c0\u03ce\u03bb\u03b7\u03c3\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03be\u03ad\u03bb\u03b9\u03be\u03b7, \u03b4\u03b5\u03c3\u03bc\u03b5\u03cd\u03c3\u03c4\u03b5 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 CAKE-LP \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03b5\u03c4\u03b5 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 IFO",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:05:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 43958,
+            "text": "\u039c\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03ce\u03bb\u03b7\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:05:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 43294,
+            "text": "\u0394\u03b9\u03b5\u03ba\u03b4\u03b9\u03ba\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b1 \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03c7\u03b5\u03c4\u03b5 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03c5\u03c7\u03cc\u03bd \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03be\u03bf\u03b4\u03ad\u03c8\u03b5\u03b9.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:12:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 43296,
+            "text": "\u03a4\u03ad\u03bb\u03bf\u03c2!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:12:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 43298,
+            "text": "\u0394\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:12:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 43300,
+            "text": "\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:12:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 43960,
+            "text": "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03ac\u03be\u03c4\u03b5 \u03c4\u03b1 \u03b3\u03b9\u03b1 CAKE, \u03ae \u03ba\u03c1\u03b1\u03c4\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b1 \u03c3\u03c4\u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03c3\u03b1\u03c2!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:06:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 43980,
+            "text": "\u039a\u03b1\u03c4\u03b1\u03c7\u03c9\u03c1\u03ae\u03c3\u03c4\u03b5 \u03c4\u03bf \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd \u03c3\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03b5\u03c1\u03b4\u03af\u03c3\u03b5\u03c4\u03b5 \u03c4\u03bf NFT \u03c0\u03b1\u03c1\u03b1\u03ba\u03ac\u03c4\u03c9.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:11:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 43982,
+            "text": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ad\u03c7\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c5\u03ba\u03b1\u03b9\u03c1\u03af\u03b1 \u03bd\u03b1 \u03ba\u03b5\u03c1\u03b4\u03af\u03c3\u03b5\u03c4\u03b5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T10:12:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 43346,
+            "text": "\u039c\u03ac\u03b8\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:17:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 43776,
+            "text": "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae NFT",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:26:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 43778,
+            "text": "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:26:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 43348,
+            "text": "\u0398\u03b1 \u03bb\u03ac\u03b2\u03b5\u03c4\u03b5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:17:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 43784,
+            "text": "\u038c\u03c4\u03b1\u03bd \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03b1\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03b1\u03c5\u03c4\u03bf\u03cd \u03c4\u03bf\u03c5 NFT \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 CAKE, \u03b8\u03b1 \u03c7\u03ac\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03b3\u03b9\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:26:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 43350,
+            "text": "\u0394\u03b9\u03b5\u03ba\u03b4\u03af\u03ba\u03b7\u03c3\u03b7 NFT",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:17:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 43352,
+            "text": "\u03a0\u03ce\u03c2 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b5\u03af",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:17:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 43508,
+            "text": "\u039f\u03b9 \u03bd\u03b9\u03ba\u03b7\u03c4\u03ad\u03c2 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b4\u03b9\u03b5\u03ba\u03b4\u03b9\u03ba\u03ae\u03c3\u03bf\u03c5\u03bd NFT \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03bc\u03cc\u03bb\u03b9\u03c2 \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9 \u03b7 \u03c0\u03b5\u03c1\u03af\u03bf\u03b4\u03bf\u03c2 \u03b4\u03b9\u03b5\u03ba\u03b4\u03af\u03ba\u03b7\u03c3\u03b7\u03c2.",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:56:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 43662,
+            "text": "\u0395\u03ac\u03bd \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03b5\u03af, \u03b4\u03b5\u03bd \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b4\u03b9\u03b5\u03ba\u03b4\u03b9\u03ba\u03ae\u03c3\u03b5\u03c4\u03b5. \u039a\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b7 \u03c6\u03bf\u03c1\u03ac!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:15:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 43510,
+            "text": "\u039f\u03b9 \u03bd\u03b9\u03ba\u03b7\u03c4\u03ad\u03c2 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03bd\u03c4\u03b1\u03bb\u03bb\u03ac\u03be\u03bf\u03c5\u03bd \u03c4\u03b1 NFT \u03c4\u03bf\u03c5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03bf\u03b9\u03c7\u03b7 \u03b1\u03be\u03af\u03b1 \u03c3\u03b5 CAKE \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03b7\u03bd \u03b7\u03bc\u03b5\u03c1\u03bf\u03bc\u03b7\u03bd\u03af\u03b1 \u03bb\u03ae\u03be\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b1\u03c1\u03b1\u03ba\u03ac\u03c4\u03c9. \u0395\u03ac\u03bd \u03b4\u03b5\u03bd \u03b1\u03bd\u03c4\u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03c4\u03b5 \u03c4\u03b1 NFT \u03c3\u03b1\u03c2 \u03ad\u03c9\u03c2 \u03c4\u03b7 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b7 \u03b7\u03bc\u03b5\u03c1\u03bf\u03bc\u03b7\u03bd\u03af\u03b1, \u03bc\u03b7\u03bd \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b5\u03af\u03c4\u03b5: \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b4\u03b9\u03b1\u03c4\u03b7\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c3\u03c4\u03bf \u03c0\u03bf\u03c1\u03c4\u03bf\u03c6\u03cc\u03bb\u03b9 \u03c3\u03b1\u03c2!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:00:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 43512,
+            "text": "\u03a0\u03ce\u03c2 \u03b5\u03c0\u03b9\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03bd\u03b9\u03ba\u03b7\u03c4\u03ad\u03c2;",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:00:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 43514,
+            "text": "\u039f\u03b9 \u03bd\u03b9\u03ba\u03b7\u03c4\u03ad\u03c2 \u03b5\u03c0\u03b9\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03c5\u03c7\u03b1\u03af\u03b1! \u039a\u03b1\u03bb\u03ae \u03c4\u03cd\u03c7\u03b7!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:00:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 43516,
+            "text": "\u0391\u03be\u03af\u03b1 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03b1\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:01:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 43788,
+            "text": "\u0391\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b5\u03ba\u03b4\u03bf\u03b8\u03ad\u03bd\u03c4\u03c9\u03bd",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:28:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 43914,
+            "text": "\u0391\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03ba\u03b1\u03bc\u03bc\u03ad\u03bd\u03c9\u03bd",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:55:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 43576,
+            "text": "\u0394\u03b9\u03b5\u03ba\u03b4\u03b9\u03ba\u03ae\u03c3\u03c4\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf NFT",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:07:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 43578,
+            "text": "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03bc\u03b5 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:07:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 43354,
+            "text": "\u03a6\u03cc\u03c1\u03c4\u03c9\u03c3\u03b7\u2026",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:18:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 43356,
+            "text": "\u039b\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:18:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 43358,
+            "text": "\u039a\u03b5\u03c1\u03b4\u03af\u03c3\u03b1\u03c4\u03b5!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:18:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 43360,
+            "text": "\u0394\u03b9\u03b5\u03ba\u03b4\u03b9\u03ba\u03ae\u03c3\u03c4\u03b5 \u03ad\u03bd\u03b1 NFT \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ad\u03c2 \u03c0\u03b1\u03c1\u03b1\u03ba\u03ac\u03c4\u03c9!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:19:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 43582,
+            "text": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03b1\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03ad\u03c9\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:07:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 43362,
+            "text": "\u03a4\u03bf \u03c0\u03bf\u03c1\u03c4\u03bf\u03c6\u03cc\u03bb\u03b9 \u03b1\u03c0\u03bf\u03c3\u03c5\u03bd\u03b4\u03ad\u03b8\u03b7\u03ba\u03b5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:19:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 43668,
+            "text": "\u03a3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03ba\u03b5\u03c1\u03b4\u03af\u03c3\u03b5\u03b9 NFT!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:16:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 43672,
+            "text": "\u0391\u03c1\u03c7\u03b9\u03ba\u03ae \u03c3\u03b5\u03bb\u03af\u03b4\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:16:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 43676,
+            "text": "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:16:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 43680,
+            "text": "Farms",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:16:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Μόνο στοίχημα"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 43196,
+            "text": "\u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ad\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:58:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 43198,
+            "text": "NFT",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:58:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 43200,
+            "text": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:58:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 43202,
+            "text": "IFO",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:58:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 43204,
+            "text": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:58:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 43206,
+            "text": "\u03a1\u03b5\u03c5\u03c3\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:58:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 43208,
+            "text": "\u0395\u03c0\u03b9\u03c3\u03ba\u03cc\u03c0\u03b7\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:58:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 43210,
+            "text": "\u039d\u03cc\u03bc\u03b9\u03c3\u03bc\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:59:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 43212,
+            "text": "\u0396\u03b5\u03c5\u03b3\u03ac\u03c1\u03b9\u03b1",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:59:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 43214,
+            "text": "\u039b\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03af",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:59:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 43216,
+            "text": "\u039a\u03ac\u03bd\u03c4\u03b5 stake \u03bd\u03bf\u03bc\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 LP \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03b5\u03c1\u03b4\u03af\u03c3\u03b5\u03c4\u03b5 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:59:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 43218,
+            "text": "\u0395\u03bd\u03b5\u03c1\u03b3\u03ad\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:00:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 43220,
+            "text": "\u0391\u03bd\u03b5\u03bd\u03b5\u03c1\u03b3\u03ad\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:00:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 43870,
+            "text": "\u0394\u03b9\u03c0\u03bb\u03cc",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:37:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 43688,
+            "text": "\u0391\u03bd\u03b1\u03c4\u03bf\u03ba\u03b9\u03c3\u03bc\u03cc\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:17:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 43690,
+            "text": "\u039a\u03b1\u03c4\u03ac\u03c1\u03b3\u03b7\u03c3\u03b7 stake %asset%",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:17:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 43692,
+            "text": "\u0397 \u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03b1 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:17:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 43872,
+            "text": "\u0391\u03b3\u03bf\u03c1\u03ac\u03c3\u03c4\u03b5 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1 \u03bc\u03b5 CAKE",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:37:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 43878,
+            "text": "\u039a\u03b5\u03c1\u03b4\u03af\u03b6\u03b5\u03c4\u03b5 \u03cc\u03c4\u03b1\u03bd \u03c4\u03b1\u03b9\u03c1\u03b9\u03ac\u03b6\u03bf\u03c5\u03bd 2, 3 \u03ae 4 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03af \u03b1\u03c0\u03cc \u03c4\u03b1 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1 \u03c3\u03b1\u03c2!",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:38:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 43834,
+            "text": "\u0395\u03c0\u03cc\u03bc\u03b5\u03bd\u03b7 \u03ba\u03bb\u03ae\u03c1\u03c9\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:33:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 43694,
+            "text": "\u03a0\u03b5\u03c1\u03b1\u03c3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03ba\u03bb\u03b7\u03c1\u03ce\u03c3\u03b5\u03b9\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:18:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 43698,
+            "text": "\u0393\u03cd\u03c1\u03bf\u03c2 %num%",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:18:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 43702,
+            "text": "\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03cc \u03ad\u03c0\u03b1\u03b8\u03bb\u03bf",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:18:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 43704,
+            "text": "\u03a4\u03b1 \u03bb\u03b1\u03c7\u03b5\u03af\u03b1 \u03c3\u03b1\u03c2 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03b3\u03cd\u03c1\u03bf",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:18:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 43838,
+            "text": "\u039b\u03c5\u03c0\u03bf\u03cd\u03bc\u03b1\u03c3\u03c4\u03b5, \u03b4\u03b5\u03bd \u03ba\u03b5\u03c1\u03b4\u03af\u03c3\u03b1\u03c4\u03b5",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:34:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 43302,
+            "text": "\u03a3\u03c4\u03bf \u03c0\u03bf\u03c1\u03c4\u03bf\u03c6\u03cc\u03bb\u03b9",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:13:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 43304,
+            "text": "\u03a6\u03cc\u03c1\u03c4\u03c9\u03c3\u03b7...",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:13:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 43306,
+            "text": "\u0395\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf IFO",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:13:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 43308,
+            "text": "\u03a0\u03b5\u03c1\u03b1\u03c3\u03bc\u03ad\u03bd\u03b1 IFO",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:13:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Ποντάρετε μάρκες LP για να κερδίσετε FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 43310,
+            "text": "APR",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:13:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Συνολική ρευστότητα"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 43160,
+            "text": "\u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae Syrup",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T07:50:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Στοίχημα"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 43882,
+            "text": "%time% \u039c\u03ad\u03c7\u03c1\u03b9 \u03c4\u03b7\u03bd \u03ba\u03bb\u03ae\u03c1\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03b1\u03c2",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T09:39:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Έγκριση συμβολαίου"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 43312,
+            "text": "\u0395\u03c0\u03b9\u03bb\u03ad\u03be\u03c4\u03b5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03b1\u03c2:",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:13:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Κερδηθείς"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 43314,
+            "text": "\u0391\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7",
+            "user": {
+                "id": 12705396,
+                "username": "tkredmond",
+                "fullName": "tkredmond",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/981f64eb43f66dfaafbd4627b453fedc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2021-02-06T08:14:10+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

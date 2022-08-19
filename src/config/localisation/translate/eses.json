@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Fichas LP de apuesta"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Cancelar"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Confirmación pendiente"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Confirmar"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Obtener"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Deshacer fichas de LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Desapuntar"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 8514,
+            "text": "Granja",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-09T02:58:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 44720,
+            "text": "Invertir",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T05:24:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 45474,
+            "text": "Intercambiar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-12T06:14:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 44722,
+            "text": "Documentos",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T05:24:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 8414,
+            "text": "Votaci\u00f3n",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:39:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 8416,
+            "text": "Loter\u00eda",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:39:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 44764,
+            "text": "Desbloquear monedero",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T18:22:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 44726,
+            "text": "Tu saldo es de %asset%",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T05:26:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 8422,
+            "text": "Suministro total de %asset%",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:39:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 45370,
+            "text": "ASEGURADO",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T12:16:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 44766,
+            "text": "Cosecha pendiente",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T18:28:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 8428,
+            "text": "Nuevas recompensas por bloque",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:40:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 44768,
+            "text": "CAKE total quemado desde el lanzamiento",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T18:29:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 44734,
+            "text": "Ver la cocina",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T05:29:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 8434,
+            "text": "Telegram",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:40:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 8436,
+            "text": "Blog",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:40:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 45476,
+            "text": "GitHub",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-12T06:18:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 8440,
+            "text": "Twitter",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:40:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 44736,
+            "text": "Dep\u00f3sito",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T05:30:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 44738,
+            "text": "Ganar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T05:30:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 45478,
+            "text": "Invierte en tokens LP para ganar un CAKE",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-12T06:20:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 45480,
+            "text": "Puedes intercambiarlo nuevamente en cualquier momento",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-12T06:21:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 45464,
+            "text": "%asset% ganados",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T13:41:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 45466,
+            "text": "Tokens invertidos",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T13:42:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 45482,
+            "text": "Cada vez que inviertas o retires tokens de CAKE, \u00a1el contrato inteligente cosechar\u00e1 autom\u00e1ticamente las recompensas de CAKE para ti!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-12T06:22:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 8464,
+            "text": "Tokens XVS ganados",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:43:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 44784,
+            "text": "Las recompensas se calcular\u00e1n por bloque y las recompensas totales se distribuir\u00e1n autom\u00e1ticamente al final del periodo de farming de cada proyecto.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T18:53:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 45084,
+            "text": "Pool",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T00:02:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 8472,
+            "text": "Pr\u00f3ximamente",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:43:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 8474,
+            "text": "APY",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:43:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 8476,
+            "text": "Liquidez total",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:43:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 8478,
+            "text": "Ver en BscScan",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-08T21:43:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 44786,
+            "text": "Precio del Cake",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:00:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 45468,
+            "text": "%asset% tokens ganados",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T13:42:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 45484,
+            "text": "%num% de bloques para que finalice el farming",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-12T06:24:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 12458,
+            "text": "Pr\u00f3ximamente...",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-10T22:30:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 12460,
+            "text": "Tu inversi\u00f3n",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-10T22:31:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 44794,
+            "text": "El farming inicia con %num% bloques",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:01:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 44796,
+            "text": "Finalizado",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:01:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 44798,
+            "text": "El farming termina con %num% bloques",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:05:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 18702,
+            "text": "Sitio del proyecto",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-15T16:44:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 44808,
+            "text": "Las recompensas se calculan por bloque.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:12:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 20310,
+            "text": "Total",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T22:59:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 20312,
+            "text": "Final",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T22:59:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 44810,
+            "text": "Ver el sitio del proyecto",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:12:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 44812,
+            "text": "\u00bfCu\u00e1l es tu Proyecto? \ud83d\udc40",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:15:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 45086,
+            "text": "Crea un pool para tus token",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T00:03:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 44814,
+            "text": "Implementar ahora",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:15:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 44816,
+            "text": "Ronda 1: COMPRANDO",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:15:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 20326,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T23:01:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 44818,
+            "text": "Gasta CAKE para comprar boletos, contribuyendo al bote de la loter\u00eda. La compra de boletos termina aproximadamente 30 minutos antes de la loter\u00eda. \u00a1Gana premios si 2, 3 o 4 de los n\u00fameros de tus boletos coinciden con los n\u00fameros ganadores y sus posiciones! \u00a1Buena suerte!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:22:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 44820,
+            "text": "Tus billetes totales para esta ronda",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:24:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 44822,
+            "text": "Compra billetes",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:24:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 44824,
+            "text": "Ve tus billetes",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:24:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 44826,
+            "text": "Tiempo restante aproximado para comprar billetes",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:24:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 20340,
+            "text": "Cerrar",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T23:09:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 20342,
+            "text": "\u00daltimos n\u00fameros ganadores",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T23:10:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 44884,
+            "text": "Billetes que coinciden en 4 n\u00fameros:",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T20:59:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 44886,
+            "text": "Billetes que coinciden en 3 n\u00fameros:",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T20:59:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 44888,
+            "text": "Billetes que coinciden en 2 n\u00fameros:",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T20:59:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 44836,
+            "text": "Exporta los n\u00fameros ganadores recientes",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:26:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 44896,
+            "text": "Escribe el n\u00famero de billetes que comprar\u00e1s",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:01:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 48108,
+            "text": "M\u00e1x",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-15T15:31:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 44840,
+            "text": "%num% CAKE disponibles",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:27:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 20358,
+            "text": "Tu cantidad debe ser un m\u00faltiplo de 10 CAKE",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T23:13:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 44842,
+            "text": "1 Billete = 10 CAKE",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:27:16+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 20362,
+            "text": "Vas a gastar: %num% CAKE",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T23:13:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 20364,
+            "text": "Cancelar",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T23:13:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 20366,
+            "text": "Confirmar",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T23:13:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 20368,
+            "text": "Precauci\u00f3n",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-10-22T23:14:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 44844,
+            "text": "Las compras de billetes de loter\u00eda son definitivas.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:31:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 45470,
+            "text": "No se te devolver\u00e1n los CAKE una vez que los hayas gastado para comprar billetes.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T13:44:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 44848,
+            "text": "Los billetes solo son v\u00e1lidos para un sorteo de loter\u00eda y se quemar\u00e1n despu\u00e9s del sorteo.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:33:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 44850,
+            "text": "Comprar billetes no garantiza que ganar\u00e1s algo. Participa solo cuando entiendas los riesgos.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:36:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 44852,
+            "text": "Comprendo",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:36:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 44854,
+            "text": "Las compras de billetes de loter\u00eda son definitivas. No se pueden devolver los CAKE despu\u00e9s de comprar los billetes.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:37:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 44856,
+            "text": "Cobrar premios",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:38:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 44862,
+            "text": "Premios de CAKE para cobrar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:39:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 44864,
+            "text": "Ronda 2: COBROS",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:39:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 44806,
+            "text": "Puedes retirarlos en cualquier momento.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:07:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 44866,
+            "text": "Confirmaci\u00f3n pendiente",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:39:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 44828,
+            "text": "Mis billetes (Total: %TICKETS%)",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:24:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 44868,
+            "text": "Tiempo aproximado antes de la pr\u00f3xima loter\u00eda",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:39:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 44870,
+            "text": "CAKE aprobado",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:40:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 44872,
+            "text": "IFO: Oferta inicial de la granja",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:40:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 44874,
+            "text": "Compra nuevos tokens con un nuevo modelo de venta de tokens.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T19:41:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 45088,
+            "text": "El pago de los nuevos tokens se realizar\u00e1 con tokens CAKE-BNB LP, lo que significa que para participar hay que invertir cantidades iguales de CAKE y BNB en un pool de liquidez.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T00:12:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 22170,
+            "text": "Obt\u00e9n CAKE-BNB LP >",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:36:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 22172,
+            "text": "El proyecto obtiene los BNB, PancakeSwap quema los CAKE.",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:37:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 44878,
+            "text": "T\u00fa obtienes los tokens.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T20:07:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 44880,
+            "text": "\u00bfDeseas lanzar tu propio IFO?",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T20:08:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 44898,
+            "text": "Lanza tu proyecto con PancakeSwap, el proyecto AMM m\u00e1s utilizado de Binance Smart Chain y distribuidor de liquidez, para llevar tu token directamente a la comunidad m\u00e1s activa y de r\u00e1pido crecimiento en BSC.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:06:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 44900,
+            "text": "Solicita el lanzamiento",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:06:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 22184,
+            "text": "Comunidad",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:39:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 22186,
+            "text": "Principal",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:39:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 22188,
+            "text": "Disponible",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:39:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 44902,
+            "text": "Mi monedero",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:15:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 22192,
+            "text": "Cerrar sesi\u00f3n",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:40:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 44904,
+            "text": "Cosecha todo(%count%)",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:17:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 44906,
+            "text": "Estad\u00edsticas de Cake",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:18:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 44908,
+            "text": "Suministro total del CAKE",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:18:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 22200,
+            "text": "Total de CAKE quemados",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:41:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 44910,
+            "text": "Nuevo CAKE\/bloque",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:18:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 44912,
+            "text": "Granjas e inversiones",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:19:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 44914,
+            "text": "CAKE para cosechar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:30:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 44916,
+            "text": "CAKE en el monedero",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:31:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 45132,
+            "text": "Recoger CAKE",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:33:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 44920,
+            "text": "Tus ganancias de la loter\u00eda",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:33:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 45134,
+            "text": "CAKE para recoger",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:33:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 44924,
+            "text": "Premio mayor total para esta ronda",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:34:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 45136,
+            "text": "Recoger ganancias",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:33:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 44928,
+            "text": "Comprar billetes",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:34:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 22224,
+            "text": "Cosecha",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:44:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 44930,
+            "text": "Aprobar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:35:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 44932,
+            "text": "Seleccionar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:35:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 44934,
+            "text": "N\u00fameros ganadores de esta ronda",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:35:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 45090,
+            "text": "Pool de inversi\u00f3n",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T00:12:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 22238,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:45:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 44936,
+            "text": "Los Creadores de Mercado Automatizados (AMM) y de yield farming #1 en Binance Smart Chain.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:48:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 44938,
+            "text": "Invierte en CAKE para ganar nuevos tokens.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:50:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 22366,
+            "text": "Fecha de lanzamiento",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-19T11:05:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 22254,
+            "text": "En venta",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:47:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 22258,
+            "text": "CAKE para quemar (USD)",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:47:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 44940,
+            "text": "Retirar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:51:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 45382,
+            "text": "\u2b50\ufe0f Cada vez que inviertas o retires tokens LP, \u00a1el contrato inteligente autom\u00e1ticamente cosechar\u00e1 las recompensas de CAKE para ti!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T12:18:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 44944,
+            "text": "C\u00f3mo participar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:52:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 22278,
+            "text": "Antes de la venta",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-11-18T14:49:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 44946,
+            "text": "Compra CAKE y tokens BNB",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T21:54:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 44948,
+            "text": "Obt\u00e9n tokens CAKE-BNB LP agregando liquidez en CAKE y BNB",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:16:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 44950,
+            "text": "Durante la venta",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:17:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 44952,
+            "text": "Mientras la venta est\u00e9 activa, asigna tus tokens CAKE-LP para comprar los tokens IFO",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:20:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 44954,
+            "text": "Posventa",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:23:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 44956,
+            "text": "Cobra los tokens que compraste, junto con los fondos no gastados.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:25:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 44958,
+            "text": "\u00a1Listo!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:25:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 44960,
+            "text": "Obtener m\u00e1s informaci\u00f3n",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:26:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 22766,
+            "text": "Conectar",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-12-10T14:28:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 44962,
+            "text": "\u00a1Interc\u00e1mbialo por CAKE, o gu\u00e1rdalo para tu colecci\u00f3n!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:28:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 45472,
+            "text": "A continuaci\u00f3n, registra tu inter\u00e9s para ganar un NFT.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T13:47:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 44966,
+            "text": "Reg\u00edstrate para tener la oportunidad de ganar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:30:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 41842,
+            "text": "Obtener m\u00e1s informaci\u00f3n",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-05T16:08:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 44968,
+            "text": "Negocia en NFT",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:30:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 45022,
+            "text": "Intercambiar",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:46:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 44970,
+            "text": "Recibir\u00e1s",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:31:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 44972,
+            "text": "Cuando intercambies este NFT para recibir CAKE, \u00a1perder\u00e1s el acceso a \u00e9l para siempre!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:33:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 44974,
+            "text": "Cobra el NFT",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:34:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 22786,
+            "text": "C\u00f3mo funciona",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-12-10T14:33:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 45006,
+            "text": "Los ganadores podr\u00e1n cobrar un NFT en esta p\u00e1gina cuando se inicie el periodo de cobros.",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:51:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 45008,
+            "text": "Si no fuiste seleccionado, no podr\u00e1s cobrar. \u00a1Mejor suerte la pr\u00f3xima vez!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:52:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 45010,
+            "text": "Los ganadores pueden intercambiar sus NFT por un valor de CAKE hasta la fecha de vencimiento escrita m\u00e1s adelante. Si no intercambias tu NFT para entonces, no te preocupes: \u00a1lo seguir\u00e1s guardando en tu monedero!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:55:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 22794,
+            "text": "\u00bfC\u00f3mo se seleccionan los ganadores?",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-12-10T15:50:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 22796,
+            "text": "\u00a1Los ganadores se seleccionan al azar! \u00a1Buena suerte!",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-12-10T15:50:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 22800,
+            "text": "Valor si se intercambia",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-12-10T15:51:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 45014,
+            "text": "Cantidad creada",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T22:59:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 45016,
+            "text": "Cantidad de quemados",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:00:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 45018,
+            "text": "Cobrar este NFT",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:00:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 45020,
+            "text": "Intercambiar por CAKE",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:00:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 22812,
+            "text": "Cargando\u2026",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-12-10T15:53:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 22814,
+            "text": "Detalles",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2020-12-10T15:53:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 45024,
+            "text": "\u00a1Ganaste!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:50:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 45026,
+            "text": "\u00a1Cobra un NFT de las opciones que aparecen a continuaci\u00f3n!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:51:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 45028,
+            "text": "Puede negociarse hasta",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:51:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 45030,
+            "text": "Monedero desconectado",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:51:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 45032,
+            "text": "\u00a1Con\u00e9ctate para ver si ganaste un NFT!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:52:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 23954,
+            "text": "Inicio",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:09:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 45034,
+            "text": "Negociaci\u00f3n",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:52:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 45036,
+            "text": "Granjas",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:52:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Solo apostado"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 45038,
+            "text": "Pools",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-10T23:55:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 23962,
+            "text": "NFT",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:14:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 45102,
+            "text": "Informaci\u00f3n",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:09:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 45104,
+            "text": "IFO",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:09:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 23968,
+            "text": "M\u00e1s",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:14:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 23970,
+            "text": "Liquidez",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:15:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 45106,
+            "text": "Vista general",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:12:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 23974,
+            "text": "Token",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:22:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 23976,
+            "text": "Pares",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:22:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 23980,
+            "text": "Cuentas",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:22:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 45110,
+            "text": "Invierte en tokens LP para ganar CAKE",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:13:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 23984,
+            "text": "Activo",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:23:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 23986,
+            "text": "Inactivo",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:23:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 45112,
+            "text": "Doble",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:13:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 46488,
+            "text": "Inter\u00e9s compuesto",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-12T17:24:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 23992,
+            "text": "Retirar %asset%",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:26:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 23994,
+            "text": "La Loter\u00eda CAKE",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:26:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 45116,
+            "text": "Compra billetes con CAKE",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:20:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 45120,
+            "text": "\u00a1Gana si 2, 3 o 4 n\u00fameros de tu billete coinciden!",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:21:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 45124,
+            "text": "Pr\u00f3ximo sorteo",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:21:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 24006,
+            "text": "Sorteos pasados",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:30:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 24008,
+            "text": "Ronda %num%",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:30:24+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 45126,
+            "text": "Bote total",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:22:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 45128,
+            "text": "Tus billetes para esta ronda",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:31:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 45130,
+            "text": "Lo sentimos, no hay premios que recoger",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:32:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 45154,
+            "text": "En el monedero",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:37:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 24018,
+            "text": "Cargando...",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:37:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 45156,
+            "text": "Pr\u00f3xima IFO",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:37:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 45158,
+            "text": "IFO pasadas",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:38:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Apuesta tokens LP para ganar FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 24024,
+            "text": "APR",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:38:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Liquidez total"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 45096,
+            "text": "Syrup Pool",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T00:13:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Apostada"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 45122,
+            "text": "%time% hasta el sorteo de la loter\u00eda",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:21:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Aprobar contrato"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 45160,
+            "text": "Selecciona el n\u00famero para la loter\u00eda:",
+            "user": {
+                "id": 13477006,
+                "username": "AdanM",
+                "fullName": "AdanM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13477006\/medium\/d2ca9bd9c484dcaffc83357371910c58.jpg"
+            },
+            "createdAt": "2021-02-11T02:38:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Ganada"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 24028,
+            "text": "Buscar",
+            "user": {
+                "id": 14439052,
+                "username": "Jockarlos",
+                "fullName": "CoinMarketdrops Channel",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439052\/medium\/77e000d4d08f47a94a515a62435dc05e.jpg"
+            },
+            "createdAt": "2021-01-29T03:39:26+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}

@@ -1,0 +1,2878 @@
+{
+    "data": [{
+        "data": {
+            "stringId": 271,
+            "text": "Ставка токенов LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 272,
+            "text": "Отмена"
+        }
+    },
+    {
+        "data": {
+            "stringId": 273,
+            "text": "Ожидание подтверждения"
+        }
+    },
+    {
+        "data": {
+            "stringId": 274,
+            "text": "Подтверждать"
+        }
+    },
+    {
+        "data": {
+            "stringId": 275,
+            "text": "Получать"
+        }
+    },
+    {
+        "data": {
+            "stringId": 276,
+            "text": "Жетоны Unstake LP"
+        }
+    },
+    {
+        "data": {
+            "stringId": 277,
+            "text": "Unstake"
+        }
+    },{
+        "data": {
+            "stringId": 278,
+            "contentType": "text\/plain",
+            "translationId": 8200,
+            "text": "\u0424\u0430\u0440\u043c",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:01:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 280,
+            "contentType": "text\/plain",
+            "translationId": 8202,
+            "text": "\u0421\u0442\u0435\u0439\u043a\u0438\u043d\u0433",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:01:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 284,
+            "contentType": "text\/plain",
+            "translationId": 8206,
+            "text": "\u041e\u0431\u043c\u0435\u043d",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:01:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 286,
+            "contentType": "text\/plain",
+            "translationId": 8208,
+            "text": "\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:01:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 288,
+            "contentType": "text\/plain",
+            "translationId": 8210,
+            "text": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u0435",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:01:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 290,
+            "contentType": "text\/plain",
+            "translationId": 8212,
+            "text": "\u041b\u043e\u0442\u0435\u0440\u0435\u044f",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:01:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 292,
+            "contentType": "text\/plain",
+            "translationId": 47112,
+            "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u043a\u043e\u0448\u0435\u043b\u0435\u043a",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-14T10:04:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 294,
+            "contentType": "text\/plain",
+            "translationId": 18056,
+            "text": "\u0412\u0430\u0448 \u0431\u0430\u043b\u0430\u043d\u0441",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-13T14:23:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 296,
+            "contentType": "text\/plain",
+            "translationId": 18058,
+            "text": "\u041e\u0431\u0449\u0435\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-13T14:23:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 298,
+            "contentType": "text\/plain",
+            "translationId": 8220,
+            "text": "\u0417\u0410\u0411\u041b\u041e\u041a\u0418\u0420\u041e\u0412\u0410\u041d\u041e",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:02:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 300,
+            "contentType": "text\/plain",
+            "translationId": 8222,
+            "text": "\u041e\u0436\u0438\u0434\u0430\u0435\u0442 \u0441\u0431\u043e\u0440\u0430",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:02:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 302,
+            "contentType": "text\/plain",
+            "translationId": 8224,
+            "text": "\u041d\u0430\u0433\u0440\u0430\u0434\u0430 \u0437\u0430 \u043d\u043e\u0432\u044b\u0439 \u0431\u043b\u043e\u043a",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:02:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 304,
+            "contentType": "text\/plain",
+            "translationId": 8226,
+            "text": "\u0412\u0441\u0435\u0433\u043e CAKE \u0441\u043e\u0436\u0436\u0435\u043d\u043e \u0441 \u043c\u043e\u043c\u0435\u043d\u0442\u0430 \u0437\u0430\u043f\u0443\u0441\u043a\u0430",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:02:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 306,
+            "contentType": "text\/plain",
+            "translationId": 14398,
+            "text": "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043a\u0443\u0445\u043d\u044e",
+            "user": {
+                "id": 14451664,
+                "username": "sanchoos469",
+                "fullName": "Alex Volk",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14451664\/medium\/6b658eae51c2e5e659a1d84ab99952e1.jpeg"
+            },
+            "createdAt": "2020-10-11T10:44:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 308,
+            "contentType": "text\/plain",
+            "translationId": 8230,
+            "text": "Telegram",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:02:38+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 310,
+            "contentType": "text\/plain",
+            "translationId": 8286,
+            "text": "\u0411\u043b\u043e\u0433",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:08:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 312,
+            "contentType": "text\/plain",
+            "translationId": 8284,
+            "text": "Github",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:08:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 314,
+            "contentType": "text\/plain",
+            "translationId": 8282,
+            "text": "Twitter",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:08:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 316,
+            "contentType": "text\/plain",
+            "translationId": 18078,
+            "text": "\u0412\u043b\u043e\u0436\u0438\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-13T15:36:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 318,
+            "contentType": "text\/plain",
+            "translationId": 18084,
+            "text": "\u041d\u0430\u0433\u0440\u0430\u0434\u0430",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-13T17:40:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 320,
+            "contentType": "text\/plain",
+            "translationId": 41906,
+            "text": "\u0412\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0439\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u044b \u043f\u0443\u043b\u0430 \u043b\u0438\u043a\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f CAKE",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:45:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 328,
+            "contentType": "text\/plain",
+            "translationId": 8268,
+            "text": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u043e\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u043e\u0431\u0440\u0430\u0442\u043d\u044b\u0439 \u043e\u0431\u043c\u0435\u043d \u0432 \u043b\u044e\u0431\u043e\u0435 \u0432\u0440\u0435\u043c\u044f",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:07:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 330,
+            "contentType": "text\/plain",
+            "translationId": 8266,
+            "text": "\u0417\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043e %asset%",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:07:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 332,
+            "contentType": "text\/plain",
+            "translationId": 18068,
+            "text": "\u0422\u043e\u043a\u0435\u043d\u043e\u0432 \u0432\u043b\u043e\u0436\u0435\u043d\u043e",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-13T14:31:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 334,
+            "contentType": "text\/plain",
+            "translationId": 41876,
+            "text": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0432\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u0442\u0435 \u0438\u043b\u0438 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u044b CAKE, \u043a\u043e\u043d\u0442\u0440\u0430\u043a\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0434\u043b\u044f \u0432\u0430\u0441 \u043d\u0430\u0433\u0440\u0430\u0434\u044b CAKE!",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:37:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 342,
+            "contentType": "text\/plain",
+            "translationId": 12888,
+            "text": "\u0417\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043e \u0442\u043e\u043a\u0435\u043d\u043e\u0432 XVS",
+            "user": {
+                "id": 13815069,
+                "username": "MikleSM",
+                "fullName": "MikleSM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13815069\/medium\/f01c37c449f381697cbef48eaf51ad9d.jpg"
+            },
+            "createdAt": "2020-10-11T10:05:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 346,
+            "contentType": "text\/plain",
+            "translationId": 8250,
+            "text": "\u0412\u043e\u0437\u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u0435 \u0440\u0430\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u0431\u043b\u043e\u043a, \u0430 \u043e\u0431\u0449\u0430\u044f \u043d\u0430\u0433\u0440\u0430\u0434\u0430 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0432 \u043a\u043e\u043d\u0446\u0435 \u043f\u0435\u0440\u0438\u043e\u0434\u0430 \u0444\u0430\u0440\u043c\u0430 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0430.",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:05:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 348,
+            "contentType": "text\/plain",
+            "translationId": 15330,
+            "text": "\u041f\u0443\u043b",
+            "user": {
+                "id": 13451881,
+                "username": "olexiyfedorov",
+                "fullName": "olexiyfedorov",
+                "avatarUrl": "https:\/\/www.gravatar.com\/avatar\/277b381ee61a92ab1e4f5c47c3c01740?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png"
+            },
+            "createdAt": "2020-10-11T11:20:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 350,
+            "contentType": "text\/plain",
+            "translationId": 8246,
+            "text": "\u0421\u043a\u043e\u0440\u043e",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:05:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 352,
+            "contentType": "text\/plain",
+            "translationId": 12942,
+            "text": "APY",
+            "user": {
+                "id": 13815069,
+                "username": "MikleSM",
+                "fullName": "MikleSM",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13815069\/medium\/f01c37c449f381697cbef48eaf51ad9d.jpg"
+            },
+            "createdAt": "2020-10-11T10:06:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 354,
+            "contentType": "text\/plain",
+            "translationId": 8242,
+            "text": "\u041e\u0431\u0449\u0430\u044f \u043b\u0438\u043a\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:04:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 356,
+            "contentType": "text\/plain",
+            "translationId": 8240,
+            "text": "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043d\u0430 BscScan",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:04:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 358,
+            "contentType": "text\/plain",
+            "translationId": 8238,
+            "text": "\u0426\u0435\u043d\u0430 Cake",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-08T17:04:50+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 360,
+            "contentType": "text\/plain",
+            "translationId": 41846,
+            "text": "\u0417\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043e \u0442\u043e\u043a\u0435\u043d\u043e\u0432 %asset%",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T16:47:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 362,
+            "contentType": "text\/plain",
+            "translationId": 41848,
+            "text": "\u0411\u043b\u043e\u043a\u043e\u0432 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0444\u0430\u0440\u043c\u0438\u043d\u0433\u0430: %num%",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:06:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 382,
+            "contentType": "text\/plain",
+            "translationId": 12490,
+            "text": "\u0421\u043a\u043e\u0440\u043e...",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-11T09:16:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 384,
+            "contentType": "text\/plain",
+            "translationId": 12494,
+            "text": "\u0412\u0430\u0448\u0435 \u0432\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-11T09:17:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 386,
+            "contentType": "text\/plain",
+            "translationId": 41850,
+            "text": "\u0411\u043b\u043e\u043a\u043e\u0432 \u0434\u043e \u043d\u0430\u0447\u0430\u043b\u0430 \u0444\u0430\u0440\u043c\u0438\u043d\u0433\u0430: %num%",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:09:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 388,
+            "contentType": "text\/plain",
+            "translationId": 12504,
+            "text": "\u0417\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043e",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-11T09:18:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 390,
+            "contentType": "text\/plain",
+            "translationId": 41852,
+            "text": "\u0411\u043b\u043e\u043a\u043e\u0432 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0444\u0430\u0440\u043c\u0438\u043d\u0433\u0430: %num%",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:09:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 392,
+            "contentType": "text\/plain",
+            "translationId": 12510,
+            "text": "\u0421\u0430\u0439\u0442 \u043f\u0440\u043e\u0435\u043a\u0442\u0430",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-11T09:19:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 406,
+            "contentType": "text\/plain",
+            "translationId": 19584,
+            "text": "\u0412\u043e\u0437\u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0431\u043b\u043e\u043a.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:16:02+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 408,
+            "contentType": "text\/plain",
+            "translationId": 19590,
+            "text": "\u0412\u0441\u0435\u0433\u043e",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:17:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 410,
+            "contentType": "text\/plain",
+            "translationId": 19592,
+            "text": "\u041a\u043e\u043d\u0435\u0446",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:17:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 412,
+            "contentType": "text\/plain",
+            "translationId": 19558,
+            "text": "\u041e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f \u0441 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u043c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:05:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 414,
+            "contentType": "text\/plain",
+            "translationId": 19924,
+            "text": "\u0423 \u0432\u0430\u0441 \u0435\u0441\u0442\u044c \u043f\u0440\u043e\u0435\u043a\u0442?",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T12:39:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 416,
+            "contentType": "text\/plain",
+            "translationId": 19654,
+            "text": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0443\u043b \u0432\u0430\u0448\u0435\u0433\u043e \u0442\u043e\u043a\u0435\u043d\u0430",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:34:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 418,
+            "contentType": "text\/plain",
+            "translationId": 19652,
+            "text": "\u0423\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:33:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 420,
+            "contentType": "text\/plain",
+            "translationId": 19788,
+            "text": "1 \u0420\u0430\u0443\u043d\u0434: \u041f\u043e\u043a\u0443\u043f\u043a\u0430",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:22:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 424,
+            "contentType": "text\/plain",
+            "translationId": 19642,
+            "text": "%num% CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:30:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 426,
+            "contentType": "text\/plain",
+            "translationId": 46458,
+            "text": "\u041f\u043e\u0442\u0440\u0430\u0442\u044c\u0442\u0435 CAKE \u043d\u0430 \u043f\u043e\u043a\u0443\u043f\u043a\u0443 \u0431\u0438\u043b\u0435\u0442\u043e\u0432, \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u043f\u0440\u0438\u0437\u043e\u0432\u043e\u0439 \u0444\u043e\u043d\u0434 \u043b\u043e\u0442\u0435\u0440\u0435\u0438.\n\u041f\u043e\u043a\u0443\u043f\u043a\u0430 \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0437\u0430 30 \u043c\u0438\u043d\u0443\u0442 \u0434\u043e \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0430.\n\u041f\u043e\u0431\u0435\u0436\u0434\u0430\u044e\u0442 \u0431\u0438\u043b\u0435\u0442\u044b, \u0443 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 1, 2, 3 \u0438\u043b\u0438 4 \u0446\u0438\u0444\u0440\u044b \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u044e\u0442 \u0441 \u0432\u044b\u0438\u0433\u0440\u044b\u0448\u043d\u044b\u043c\u0438 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438 \u0438 \u0438\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u043c\u0438! \u0423\u0434\u0430\u0447\u0438!",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-12T15:51:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 428,
+            "contentType": "text\/plain",
+            "translationId": 19640,
+            "text": "\u0412\u0430\u0448\u0435 \u043e\u0431\u0449\u0435\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u0432 \u044d\u0442\u043e\u043c \u0440\u0430\u0443\u043d\u0434\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:30:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 430,
+            "contentType": "text\/plain",
+            "translationId": 23216,
+            "text": "\u041a\u0443\u043f\u0438\u0442\u044c \u0431\u0438\u043b\u0435\u0442",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:17:39+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 432,
+            "contentType": "text\/plain",
+            "translationId": 23218,
+            "text": "\u0412\u0430\u0448\u0438 \u0431\u0438\u043b\u0435\u0442\u044b",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:17:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 434,
+            "contentType": "text\/plain",
+            "translationId": 19700,
+            "text": "\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u043a\u0443\u043f\u0438\u0442\u044c \u0431\u0438\u043b\u0435\u0442\u044b (\u043f\u0440\u0438\u0431\u043b.)",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:50:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 438,
+            "contentType": "text\/plain",
+            "translationId": 19672,
+            "text": "\u0417\u0430\u043a\u0440\u044b\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:45:35+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 440,
+            "contentType": "text\/plain",
+            "translationId": 19682,
+            "text": "\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0445 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0435\u0439",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:47:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 442,
+            "contentType": "text\/plain",
+            "translationId": 19834,
+            "text": "\u0411\u0438\u043b\u0435\u0442\u044b \u0441 4 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u044f\u043c\u0438:",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-22T11:48:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 444,
+            "contentType": "text\/plain",
+            "translationId": 19832,
+            "text": "\u0411\u0438\u043b\u0435\u0442\u044b \u0441 3 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u044f\u043c\u0438:",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-22T11:48:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 446,
+            "contentType": "text\/plain",
+            "translationId": 19830,
+            "text": "\u0411\u0438\u043b\u0435\u0442\u044b \u0441 2 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u044f\u043c\u0438:",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-22T11:48:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 448,
+            "contentType": "text\/plain",
+            "translationId": 19694,
+            "text": "\u042d\u043a\u0441\u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0445 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0435\u0439",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:48:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 450,
+            "contentType": "text\/plain",
+            "translationId": 19718,
+            "text": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u043b. \u0432\u043e \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u0434\u043b\u044f \u043f\u043e\u043a\u0443\u043f\u043a\u0438",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:58:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 452,
+            "contentType": "text\/plain",
+            "translationId": 19724,
+            "text": "\u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:59:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 454,
+            "contentType": "text\/plain",
+            "translationId": 19728,
+            "text": "%num% CAKE \u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:00:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 456,
+            "contentType": "text\/plain",
+            "translationId": 19732,
+            "text": "\u0412\u0430\u0448\u0430 \u0441\u0443\u043c\u043c\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u043a\u0440\u0430\u0442\u043d\u043e\u0439 10 CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:01:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 458,
+            "contentType": "text\/plain",
+            "translationId": 19790,
+            "text": "1 \u0411\u0438\u043b\u0435\u0442 = 10 CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:24:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 460,
+            "contentType": "text\/plain",
+            "translationId": 19772,
+            "text": "\u0412\u044b \u043f\u043e\u0442\u0440\u0430\u0442\u0438\u0442\u0435: %num% CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:16:05+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 462,
+            "contentType": "text\/plain",
+            "translationId": 19736,
+            "text": "\u041e\u0442\u043c\u0435\u043d\u0430",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:03:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 464,
+            "contentType": "text\/plain",
+            "translationId": 19738,
+            "text": "\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:03:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 466,
+            "contentType": "text\/plain",
+            "translationId": 19556,
+            "text": "\u041f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:03:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 468,
+            "contentType": "text\/plain",
+            "translationId": 19758,
+            "text": "\u041a\u0443\u043f\u043b\u0435\u043d\u043d\u044b\u0435 \u0431\u0438\u043b\u0435\u0442\u044b \u0432\u043e\u0437\u0432\u0440\u0430\u0442\u0443 \u043d\u0435 \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0442.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:10:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 470,
+            "contentType": "text\/plain",
+            "translationId": 19766,
+            "text": "\u0412\u0430\u0448\u0438 CAKE \u043d\u0435 \u0431\u0443\u0434\u0443\u0442 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u044b \u0432\u0430\u043c \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0432\u044b \u043f\u043e\u0442\u0440\u0430\u0442\u0438\u0442\u0435 \u0438\u0445 \u043d\u0430 \u043f\u043e\u043a\u0443\u043f\u043a\u0443 \u0431\u0438\u043b\u0435\u0442\u043e\u0432.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:13:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 472,
+            "contentType": "text\/plain",
+            "translationId": 19828,
+            "text": "\u0411\u0438\u043b\u0435\u0442\u044b \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b \u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u043e\u0434\u043d\u043e\u0433\u043e \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0430, \u0438 \u0431\u0443\u0434\u0443\u0442 \u0441\u043e\u0436\u0436\u0435\u043d\u044b \u043f\u043e\u0441\u043b\u0435 \u043d\u0435\u0433\u043e.",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-22T11:47:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 474,
+            "contentType": "text\/plain",
+            "translationId": 19836,
+            "text": "\u041f\u043e\u043a\u0443\u043f\u043a\u0430 \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0435 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u0435\u0442, \u0447\u0442\u043e \u0432\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u0447\u0442\u043e-\u043b\u0438\u0431\u043e. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0439\u0442\u0435, \u0442\u043e\u043b\u044c\u043a\u043e \u0435\u0441\u043b\u0438 \u0432\u044b \u043e\u0441\u043e\u0437\u043d\u0430\u0435\u0442\u0435 \u0440\u0438\u0441\u043a\u0438.",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-22T11:48:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 476,
+            "contentType": "text\/plain",
+            "translationId": 19774,
+            "text": "\u042f \u0441\u043e\u0433\u043b\u0430\u0441\u0435\u043d",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:16:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 478,
+            "contentType": "text\/plain",
+            "translationId": 19824,
+            "text": "\u041f\u043e\u043a\u0443\u043f\u043a\u0430 \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0435\u043e\u0431\u0440\u0430\u0442\u0438\u043c\u0430. \u0412\u0430\u0448\u0438 CAKE \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u044b \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0431\u0438\u043b\u0435\u0442\u043e\u0432.",
+            "user": {
+                "id": 14439528,
+                "username": "ildarman1",
+                "fullName": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041d\u0438\u0437\u0430\u043c\u0435\u0435\u0432",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439528\/medium\/67858fa2e81db1c6427eb4495a6909e7.jpeg"
+            },
+            "createdAt": "2020-10-22T11:46:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 480,
+            "contentType": "text\/plain",
+            "translationId": 19776,
+            "text": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0432\u044b\u0438\u0433\u0440\u044b\u0448",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:18:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 482,
+            "contentType": "text\/plain",
+            "translationId": 19786,
+            "text": "\u041c\u043e\u0436\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0432\u044b\u0438\u0433\u0440\u044b\u0448 CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:21:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 484,
+            "contentType": "text\/plain",
+            "translationId": 19816,
+            "text": "2 \u0420\u0430\u0443\u043d\u0434: \u041f\u0440\u0435\u0442\u0435\u043d\u0434\u043e\u0432\u0430\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T11:38:06+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 486,
+            "contentType": "text\/plain",
+            "translationId": 19658,
+            "text": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u043e\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u043e\u0431\u0440\u0430\u0442\u043d\u044b\u0439 \u043e\u0431\u043c\u0435\u043d \u0432 \u043b\u044e\u0431\u043e\u0435 \u0432\u0440\u0435\u043c\u044f.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-22T10:36:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 488,
+            "contentType": "text\/plain",
+            "translationId": 20756,
+            "text": "\u0412 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-23T13:36:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 490,
+            "contentType": "text\/plain",
+            "translationId": 20760,
+            "text": "\u041c\u043e\u0438 \u0431\u0438\u043b\u0435\u0442\u044b (\u0412\u0441\u0435\u0433\u043e: %TICKETS%)",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-23T13:37:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 492,
+            "contentType": "text\/plain",
+            "translationId": 20758,
+            "text": "\u0412\u0440\u0435\u043c\u044f \u0434\u043e \u043d\u0430\u0447\u0430\u043b\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u043b\u043e\u0442\u0435\u0440\u0435\u0438 (\u041f\u0440\u0438\u0431\u043b\u0438\u0437\u0438\u0442\u0435\u043b\u044c\u043d\u043e)",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-10-23T13:37:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 494,
+            "contentType": "text\/plain",
+            "translationId": 41858,
+            "text": "\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044c CAKE",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:13:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 500,
+            "contentType": "text\/plain",
+            "translationId": 41860,
+            "text": "IFO: \u043f\u0435\u0440\u0432\u0438\u0447\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0444\u0430\u0440\u043c\u0430",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:14:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 502,
+            "contentType": "text\/plain",
+            "translationId": 21510,
+            "text": "\u041a\u0443\u043f\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0442\u043e\u043a\u0435\u043d\u044b \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043d\u043e\u0432\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u043f\u0440\u043e\u0434\u0430\u0436.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:26:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 504,
+            "contentType": "text\/plain",
+            "translationId": 21522,
+            "text": "\u0412\u044b \u043e\u043f\u043b\u0430\u0447\u0438\u0432\u0430\u0435\u0442\u0435 \u043d\u043e\u0432\u044b\u0435 \u0442\u043e\u043a\u0435\u043d\u044b \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e CAKE-BNB \u0442\u043e\u043a\u0435\u043d LP. \u0427\u0442\u043e\u0431\u044b \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u0432\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0438\u043c\u0435\u0442\u044c \u0440\u0430\u0432\u043d\u044b\u0435 \u0432\u043b\u043e\u0436\u0435\u043d\u0438\u044f CAKE \u0438 BNB \u0432 \u043f\u0443\u043b \u043b\u0438\u043a\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:30:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 506,
+            "contentType": "text\/plain",
+            "translationId": 21524,
+            "text": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c CAKE-BNB LP",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:30:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 508,
+            "contentType": "text\/plain",
+            "translationId": 21526,
+            "text": "\u041f\u0440\u043e\u0435\u043a\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 BNB, PancakeSwap \u0441\u0436\u0438\u0433\u0430\u0435\u0442 CAKE.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:32:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 510,
+            "contentType": "text\/plain",
+            "translationId": 21528,
+            "text": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043d\u043e\u0432\u044b\u0435 \u0442\u043e\u043a\u0435\u043d\u044b.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:33:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 512,
+            "contentType": "text\/plain",
+            "translationId": 21534,
+            "text": "\u0417\u0430\u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432\u0430\u043d\u044b \u0432 \u0437\u0430\u043f\u0443\u0441\u043a\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e IFO?",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:38:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 514,
+            "contentType": "text\/plain",
+            "translationId": 21536,
+            "text": "\u0417\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e Pancakeswap, \u0441\u0430\u043c\u044b\u043c \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u043c \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u043c AMM \u0438 \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u043e\u043c \u043b\u0438\u043a\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u0432 \u0441\u0435\u0442\u0438 Binance Smart Chain, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044f \u043f\u0443\u0442\u044c \u0412\u0430\u0448\u0435\u043c\u0443 \u0442\u043e\u043a\u0435\u043d\u0443 \u043d\u0435\u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0432 \u0441\u0430\u043c\u043e\u0435 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0438 \u0431\u044b\u0441\u0442\u0440\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u043d\u0430 BSC.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:42:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 516,
+            "contentType": "text\/plain",
+            "translationId": 21682,
+            "text": "\u041f\u043e\u0434\u0430\u0442\u044c \u0437\u0430\u044f\u0432\u043a\u0443",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:22:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 520,
+            "contentType": "text\/plain",
+            "translationId": 21656,
+            "text": "\u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:20:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 522,
+            "contentType": "text\/plain",
+            "translationId": 21644,
+            "text": "\u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:19:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 526,
+            "contentType": "text\/plain",
+            "translationId": 41864,
+            "text": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:16:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 528,
+            "contentType": "text\/plain",
+            "translationId": 21626,
+            "text": "\u041c\u043e\u0439 \u043a\u043e\u0448\u0435\u043b\u0451\u043a",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:18:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 530,
+            "contentType": "text\/plain",
+            "translationId": 21624,
+            "text": "\u0412\u044b\u0439\u0442\u0438",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:18:09+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 532,
+            "contentType": "text\/plain",
+            "translationId": 21602,
+            "text": "\u0421\u043e\u0431\u0440\u0430\u0442\u044c \u0432\u0441\u0451 (%count%)",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:13:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 534,
+            "contentType": "text\/plain",
+            "translationId": 21600,
+            "text": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 Cake",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:11:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 536,
+            "contentType": "text\/plain",
+            "translationId": 21596,
+            "text": "\u041e\u0431\u0449\u0435\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:11:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 538,
+            "contentType": "text\/plain",
+            "translationId": 21594,
+            "text": "\u0412\u0441\u0435\u0433\u043e CAKE \u0441\u043e\u0436\u0436\u0435\u043d\u043e",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:11:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 540,
+            "contentType": "text\/plain",
+            "translationId": 41866,
+            "text": "\u041d\u043e\u0432\u044b\u0435 CAKE\/\u0431\u043b\u043e\u043a",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:17:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 542,
+            "contentType": "text\/plain",
+            "translationId": 21588,
+            "text": "\u0424\u0435\u0440\u043c\u044b \u0438 \u0421\u0442\u0435\u0439\u043a\u0438\u043d\u0433",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:06:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 544,
+            "contentType": "text\/plain",
+            "translationId": 21586,
+            "text": "\u0413\u043e\u0442\u043e\u0432\u044b\u0435 \u043a \u0441\u0431\u043e\u0440\u0443 CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:05:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 546,
+            "contentType": "text\/plain",
+            "translationId": 21582,
+            "text": "CAKE \u0432 \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:02:53+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 548,
+            "contentType": "text\/plain",
+            "translationId": 21580,
+            "text": "\u0421\u043e\u0431\u0438\u0440\u0430\u0435\u043c CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:02:32+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 550,
+            "contentType": "text\/plain",
+            "translationId": 21578,
+            "text": "\u0412\u0430\u0448 \u0432\u044b\u0438\u0433\u0440\u044b\u0448",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:01:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 552,
+            "contentType": "text\/plain",
+            "translationId": 21576,
+            "text": "CAKE \u0433\u043e\u0442\u043e\u0432\u044b\u0435 \u043a \u0441\u0431\u043e\u0440\u0443",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:00:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 554,
+            "contentType": "text\/plain",
+            "translationId": 21574,
+            "text": "\u0414\u0436\u0435\u043a\u043f\u043e\u0442 \u0432 \u044d\u0442\u043e\u043c \u0440\u0430\u0443\u043d\u0434\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:00:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 556,
+            "contentType": "text\/plain",
+            "translationId": 21572,
+            "text": "\u0421\u043e\u0431\u0440\u0430\u0442\u044c \u0432\u044b\u0438\u0433\u0440\u044b\u0448",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:59:27+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 558,
+            "contentType": "text\/plain",
+            "translationId": 21928,
+            "text": "\u041a\u0443\u043f\u0438\u0442\u044c \u0431\u0438\u043b\u0435\u0442",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-17T09:34:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 562,
+            "contentType": "text\/plain",
+            "translationId": 21562,
+            "text": "\u0421\u043e\u0431\u0440\u0430\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:56:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 564,
+            "contentType": "text\/plain",
+            "translationId": 21558,
+            "text": "\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:51:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 568,
+            "contentType": "text\/plain",
+            "translationId": 21554,
+            "text": "\u0412\u044b\u0431\u0440\u0430\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:50:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 570,
+            "contentType": "text\/plain",
+            "translationId": 21552,
+            "text": "\u0412\u044b\u0438\u0433\u0440\u044b\u0448\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0432 \u044d\u0442\u043e\u043c \u0440\u0430\u0443\u043d\u0434\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:50:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 574,
+            "contentType": "text\/plain",
+            "translationId": 21538,
+            "text": "Staking \u041f\u0443\u043b",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T09:45:26+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 576,
+            "contentType": "text\/plain",
+            "translationId": 21722,
+            "text": "PancakeSwap",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:29:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 578,
+            "contentType": "text\/plain",
+            "translationId": 21716,
+            "text": "\u041d\u043e\u043c\u0435\u0440 1 AMM \u0438 \u0444\u0430\u0440\u043c\u0438\u043d\u0433 \u0434\u043e\u0445\u043e\u0434\u043d\u043e\u0441\u0442\u0438 \u0432 \u0441\u0435\u0442\u0438 Binance Smart Chain.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:28:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 580,
+            "contentType": "text\/plain",
+            "translationId": 21692,
+            "text": "\u0412\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0439\u0442\u0435 CAKE \u0434\u043b\u044f \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043d\u043e\u0432\u044b\u0445 \u0442\u043e\u043a\u0435\u043d\u043e\u0432.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-16T10:23:47+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 582,
+            "contentType": "text\/plain",
+            "translationId": 21936,
+            "text": "\u0414\u0430\u0442\u0430 \u0437\u0430\u043f\u0443\u0441\u043a\u0430",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-17T10:07:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 584,
+            "contentType": "text\/plain",
+            "translationId": 21934,
+            "text": "\u041a \u043f\u0440\u043e\u0434\u0430\u0436\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-17T10:06:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 586,
+            "contentType": "text\/plain",
+            "translationId": 21926,
+            "text": "CAKE \u0431\u0443\u0434\u0435\u0442 \u0441\u043e\u0436\u0436\u0435\u043d\u043e (USD)",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-17T09:34:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 588,
+            "contentType": "text\/plain",
+            "translationId": 41874,
+            "text": "\u0412\u0435\u0440\u043d\u0443\u0442\u044c",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:36:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 590,
+            "contentType": "text\/plain",
+            "translationId": 21930,
+            "text": "\u2b50\ufe0f \u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0432\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u0442\u0435 \u0438\u043b\u0438 \u0441\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u0442\u043e\u043a\u0435\u043d LP, \u043a\u043e\u043d\u0442\u0440\u0430\u043a\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0434\u043b\u044f \u0432\u0430\u0441 \u043d\u0430\u0433\u0440\u0430\u0434\u044b CAKE!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-17T09:36:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 592,
+            "contentType": "text\/plain",
+            "translationId": 22104,
+            "text": "\u041a\u0430\u043a \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u0438\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:14:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 594,
+            "contentType": "text\/plain",
+            "translationId": 22106,
+            "text": "\u0414\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0438",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:15:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 596,
+            "contentType": "text\/plain",
+            "translationId": 22108,
+            "text": "\u041a\u0443\u043f\u0438\u0442\u0435 CAKE \u0438 BNB \u0442\u043e\u043a\u0435\u043d\u044b",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:15:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 598,
+            "contentType": "text\/plain",
+            "translationId": 22110,
+            "text": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 CAKE-BNB LP \u0442\u043e\u043a\u0435\u043d\u044b \u043f\u0443\u0442\u0451\u043c \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u044f CAKE \u0438 BNB \u043b\u0438\u043a\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:16:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 600,
+            "contentType": "text\/plain",
+            "translationId": 22112,
+            "text": "\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0438",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:16:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 602,
+            "contentType": "text\/plain",
+            "translationId": 22114,
+            "text": "\u0421\u043e\u0432\u0435\u0440\u0448\u0438\u0442\u0435 \u043e\u0431\u043c\u0435\u043d \u0432\u0430\u0448\u0438\u0445 CAKE-LP \u0442\u043e\u043a\u0435\u043d\u043e\u0432 \u043d\u0430 \u0442\u043e\u043a\u0435\u043d\u044b \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:17:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 604,
+            "contentType": "text\/plain",
+            "translationId": 22116,
+            "text": "\u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u043e\u0434\u0430\u0436\u0438",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:18:00+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 606,
+            "contentType": "text\/plain",
+            "translationId": 22122,
+            "text": "\u0417\u0430\u0431\u0435\u0440\u0438\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u044b \u043a\u0443\u043f\u0438\u043b\u0438, \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u043d\u0435\u0438\u0437\u0440\u0430\u0441\u0445\u043e\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u043c\u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u043c\u0438.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:19:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 608,
+            "contentType": "text\/plain",
+            "translationId": 22120,
+            "text": "\u0413\u043e\u0442\u043e\u0432\u043e!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:19:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 610,
+            "contentType": "text\/plain",
+            "translationId": 22118,
+            "text": "\u0427\u0438\u0442\u0430\u0442\u044c \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-11-18T09:18:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 612,
+            "contentType": "text\/plain",
+            "translationId": 23088,
+            "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c\u0441\u044f",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T12:57:51+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 614,
+            "contentType": "text\/plain",
+            "translationId": 23092,
+            "text": "\u041e\u0431\u043c\u0435\u043d\u044f\u0442\u044c \u043d\u0430 CAKE \u0438\u043b\u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u0435 \u0434\u043b\u044f \u0441\u0432\u043e\u0435\u0439 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0438!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T12:58:21+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 616,
+            "contentType": "text\/plain",
+            "translationId": 23100,
+            "text": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0439\u0442\u0435\u0441\u044c \u0432 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0435 NFT.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T12:59:08+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 618,
+            "contentType": "text\/plain",
+            "translationId": 23104,
+            "text": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0439\u0442\u0435\u0441\u044c \u0432 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T12:59:25+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 620,
+            "contentType": "text\/plain",
+            "translationId": 23106,
+            "text": "\u0427\u0438\u0442\u0430\u0442\u044c \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T12:59:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 622,
+            "contentType": "text\/plain",
+            "translationId": 23114,
+            "text": "\u041e\u0431\u043c\u0435\u043d\u044f\u0442\u044c NFT",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:00:03+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 624,
+            "contentType": "text\/plain",
+            "translationId": 23116,
+            "text": "\u041e\u0431\u043c\u0435\u043d\u044f\u0442\u044c",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:00:23+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 626,
+            "contentType": "text\/plain",
+            "translationId": 23120,
+            "text": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:00:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 628,
+            "contentType": "text\/plain",
+            "translationId": 23130,
+            "text": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0441\u043e\u0432\u0435\u0440\u0448\u0438\u0442\u0435 \u043e\u0431\u043c\u0435\u043d NFT, \u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 CAKE, \u043d\u043e \u043f\u043e\u0442\u0435\u0440\u044f\u0435\u0442\u0435 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043d\u0435\u043c\u0443 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:01:28+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 630,
+            "contentType": "text\/plain",
+            "translationId": 23136,
+            "text": "\u0417\u0430\u0431\u0440\u0430\u0442\u044c NFT",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:01:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 632,
+            "contentType": "text\/plain",
+            "translationId": 23140,
+            "text": "\u041a\u0430\u043a \u044d\u0442\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:02:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 634,
+            "contentType": "text\/plain",
+            "translationId": 23168,
+            "text": "\u041f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0438 \u0441\u043c\u043e\u0433\u0443\u0442 \u0437\u0430\u0431\u0440\u0430\u0442\u044c NFT, \u043a\u0430\u043a \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430\u0447\u043d\u0435\u0442\u0441\u044f \u043f\u0435\u0440\u0438\u043e\u0434 \u0441\u043d\u044f\u0442\u0438\u044f.",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:04:36+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 636,
+            "contentType": "text\/plain",
+            "translationId": 23174,
+            "text": "\u0415\u0441\u043b\u0438 \u043d\u0435 \u043f\u043e\u0432\u0435\u0437\u043b\u043e, \u0442\u044b \u043d\u0435 \u0441\u043c\u043e\u0436\u0435\u0448\u044c \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0442\u043e\u043a\u0435\u043d. \u0423\u0434\u0430\u0447\u0438 \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0440\u0430\u0437!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:05:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 638,
+            "contentType": "text\/plain",
+            "translationId": 23180,
+            "text": "\u041f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0438 \u043c\u043e\u0433\u0443\u0442 \u043e\u0431\u043c\u0435\u043d\u044f\u0442\u044c \u0441\u0432\u043e\u0438 NFT \u043d\u0430 CAKE \u0434\u043e \u0438\u0441\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u0441\u0440\u043e\u043a\u0430, \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u043d\u0438\u0436\u0435. \u0415\u0441\u043b\u0438 \u043a \u0442\u043e\u043c\u0443 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u044b \u043d\u0435 \u043e\u0431\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \u0441\u0432\u043e\u0438 NFT, \u043d\u0435 \u0432\u043e\u043b\u043d\u0443\u0439\u0442\u0435\u0441\u044c: \u0432\u044b \u0432\u0441\u0435 \u0440\u0430\u0432\u043d\u043e \u0431\u0443\u0434\u0435\u0442\u0435 \u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0435\u0433\u043e \u0432 \u0441\u0432\u043e\u0435\u043c \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0435!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:06:42+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 640,
+            "contentType": "text\/plain",
+            "translationId": 23184,
+            "text": "\u041a\u0430\u043a \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0438?",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:07:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 642,
+            "contentType": "text\/plain",
+            "translationId": 23186,
+            "text": "\u041f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0438 \u0432\u044b\u0431\u0438\u0440\u0430\u044e\u0442\u0441\u044f \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c! \u0423\u0434\u0430\u0447\u0438!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:07:57+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 646,
+            "contentType": "text\/plain",
+            "translationId": 23190,
+            "text": "\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u043e\u0431\u043c\u0435\u043d\u0430",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:10:18+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 648,
+            "contentType": "text\/plain",
+            "translationId": 23194,
+            "text": "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u043e",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:10:54+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 650,
+            "contentType": "text\/plain",
+            "translationId": 23196,
+            "text": "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u043e\u0436\u0436\u0435\u043d\u043e",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:11:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 652,
+            "contentType": "text\/plain",
+            "translationId": 23212,
+            "text": "\u0417\u0430\u0431\u0440\u0430\u0442\u044c NFT",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:14:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 654,
+            "contentType": "text\/plain",
+            "translationId": 23214,
+            "text": "\u041e\u0431\u043c\u0435\u043d\u044f\u0442\u044c \u043d\u0430 CAKE",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:14:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 656,
+            "contentType": "text\/plain",
+            "translationId": 23198,
+            "text": "\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:11:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 658,
+            "contentType": "text\/plain",
+            "translationId": 23200,
+            "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:12:01+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 660,
+            "contentType": "text\/plain",
+            "translationId": 23202,
+            "text": "\u0412\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u043b\u0438!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:12:17+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 662,
+            "contentType": "text\/plain",
+            "translationId": 23204,
+            "text": "\u0412\u044b\u0431\u0438\u0440\u0430\u0439\u0442\u0435 NFT \u0438\u0437 \u043d\u0438\u0436\u0435\u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0445 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:12:41+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 664,
+            "contentType": "text\/plain",
+            "translationId": 23206,
+            "text": "\u041c\u043e\u0436\u043d\u043e \u043e\u0431\u043c\u0435\u043d\u044f\u0442\u044c \u0434\u043e",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:13:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 666,
+            "contentType": "text\/plain",
+            "translationId": 23208,
+            "text": "\u041a\u043e\u0448\u0435\u043b\u0451\u043a \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:13:31+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 668,
+            "contentType": "text\/plain",
+            "translationId": 23210,
+            "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u0441\u044c, \u0447\u0442\u043e\u0431\u044b \u0443\u0437\u043d\u0430\u0442\u044c, \u0432\u044b\u0438\u0433\u0440\u0430\u043b\u0438 \u043b\u0438 \u0432\u044b NFT!",
+            "user": {
+                "id": 14439050,
+                "username": "Z86-tech",
+                "fullName": "Z",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/14439050\/medium\/2dd940c176c552a65d901d1f087bdcc4.png"
+            },
+            "createdAt": "2020-12-11T13:13:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 670,
+            "contentType": "text\/plain",
+            "translationId": 41878,
+            "text": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:37:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 672,
+            "contentType": "text\/plain",
+            "translationId": 40628,
+            "text": "\u0421\u0434\u0435\u043b\u043a\u0438",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T09:18:49+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 674,
+            "contentType": "text\/plain",
+            "translationId": 41880,
+            "text": "\u0424\u0435\u0440\u043c\u0435\u0440\u0441\u0442\u0432\u043e",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:38:07+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 675,
+            "text": "Только ставка"
+        }
+    }, {
+        "data": {
+            "stringId": 676,
+            "contentType": "text\/plain",
+            "translationId": 41882,
+            "text": "\u041f\u0443\u043b\u044b",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:38:12+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 678,
+            "contentType": "text\/plain",
+            "translationId": 41884,
+            "text": "NFT",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:38:44+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 680,
+            "contentType": "text\/plain",
+            "translationId": 41886,
+            "text": "\u0418\u043d\u0444\u043e",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:38:52+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 682,
+            "contentType": "text\/plain",
+            "translationId": 41888,
+            "text": "IFO",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:38:58+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 684,
+            "contentType": "text\/plain",
+            "translationId": 41890,
+            "text": "\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:39:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 686,
+            "contentType": "text\/plain",
+            "translationId": 41892,
+            "text": "\u041b\u0438\u043a\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:39:13+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 688,
+            "contentType": "text\/plain",
+            "translationId": 41894,
+            "text": "\u041e\u0431\u0437\u043e\u0440",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:39:19+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 690,
+            "contentType": "text\/plain",
+            "translationId": 41896,
+            "text": "\u0422\u043e\u043a\u0435\u043d",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:39:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 692,
+            "contentType": "text\/plain",
+            "translationId": 41898,
+            "text": "\u041f\u0430\u0440\u0438",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:42:34+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 694,
+            "contentType": "text\/plain",
+            "translationId": 41902,
+            "text": "\u0421\u0447\u0435\u0442\u0430",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:44:29+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 696,
+            "contentType": "text\/plain",
+            "translationId": 41904,
+            "text": "\u0412\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0439\u0442\u0435 \u0442\u043e\u043a\u0435\u043d\u044b \u043f\u0443\u043b\u0430 \u043b\u0438\u043a\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c CAKE",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:45:11+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 698,
+            "contentType": "text\/plain",
+            "translationId": 41908,
+            "text": "\u0410\u043a\u0442\u0438\u0432\u043d\u043e",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:45:46+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 700,
+            "contentType": "text\/plain",
+            "translationId": 41910,
+            "text": "\u041d\u0435\u0430\u043a\u0442\u0438\u0432\u043d\u043e",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:45:48+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 702,
+            "contentType": "text\/plain",
+            "translationId": 41912,
+            "text": "\u0414\u0432\u043e\u0439\u043d\u043e\u0439",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:45:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 704,
+            "contentType": "text\/plain",
+            "translationId": 41914,
+            "text": "\u0414\u043e\u043c\u0435\u0448\u0430\u0442\u044c",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:46:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 706,
+            "contentType": "text\/plain",
+            "translationId": 41916,
+            "text": "\u0412\u0435\u0440\u043d\u0443\u0442\u044c %asset%",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:46:33+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 708,
+            "contentType": "text\/plain",
+            "translationId": 41918,
+            "text": "\u041b\u043e\u0442\u0435\u0440\u0435\u044f CAKE",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:46:43+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 710,
+            "contentType": "text\/plain",
+            "translationId": 41920,
+            "text": "\u041f\u043e\u043a\u0443\u043f\u0430\u0439\u0442\u0435 \u0431\u0438\u043b\u0435\u0442\u044b \u0437\u0430 CAKE",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:46:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 712,
+            "contentType": "text\/plain",
+            "translationId": 41924,
+            "text": "\u0415\u0441\u043b\u0438 2, 3 \u0438\u043b\u0438 4 \u0446\u0438\u0444\u0440\u044b \u0432\u0430\u0448\u0435\u0433\u043e \u0431\u0438\u043b\u0435\u0442\u0430 \u0441\u043e\u0432\u043f\u0430\u0434\u0443\u0442\u00a0\u2014 \u0432\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0435\u0442\u0435!",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:48:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 716,
+            "contentType": "text\/plain",
+            "translationId": 41932,
+            "text": "\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:55:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 718,
+            "contentType": "text\/plain",
+            "translationId": 41934,
+            "text": "\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0435 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0438",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:56:10+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 720,
+            "contentType": "text\/plain",
+            "translationId": 41942,
+            "text": "\u0420\u0430\u0443\u043d\u0434 %num%",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:16:40+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 722,
+            "contentType": "text\/plain",
+            "translationId": 41944,
+            "text": "\u041e\u0431\u0449\u0438\u0439 \u043f\u0440\u0438\u0437\u043e\u0432\u043e\u0439 \u0444\u043e\u043d\u0434",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:17:20+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 724,
+            "contentType": "text\/plain",
+            "translationId": 41946,
+            "text": "\u0412\u0430\u0448\u0438 \u0431\u0438\u043b\u0435\u0442\u044b \u0432 \u044d\u0442\u043e\u043c \u0440\u0430\u0443\u043d\u0434\u0435",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:17:37+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 726,
+            "contentType": "text\/plain",
+            "translationId": 41948,
+            "text": "\u0423\u0432\u044b, \u043f\u0440\u0438\u0437\u043e\u0432 \u043d\u0435\u0442",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:17:55+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 728,
+            "contentType": "text\/plain",
+            "translationId": 41950,
+            "text": "\u0412 \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0435",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:17:59+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 730,
+            "contentType": "text\/plain",
+            "translationId": 41952,
+            "text": "\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430...",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:18:30+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 732,
+            "contentType": "text\/plain",
+            "translationId": 41954,
+            "text": "\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 IFO",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:18:45+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 734,
+            "contentType": "text\/plain",
+            "translationId": 41956,
+            "text": "\u041f\u0440\u043e\u0448\u043b\u044b\u0435 IFO",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:18:56+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 735,
+            "text": "Ставьте токены LP, чтобы заработать FAST"
+        }
+    }, {
+        "data": {
+            "stringId": 736,
+            "contentType": "text\/plain",
+            "translationId": 41958,
+            "text": "APR",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:19:04+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 737,
+            "text": "Общая ликвидность"
+        }
+    }, {
+        "data": {
+            "stringId": 738,
+            "contentType": "text\/plain",
+            "translationId": 41832,
+            "text": "\u041f\u0443\u043b Syrup",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T15:35:14+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 739,
+            "text": "Ставка"
+        }
+    }, {
+        "data": {
+            "stringId": 740,
+            "contentType": "text\/plain",
+            "translationId": 41928,
+            "text": "\u0414\u043e \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0430 \u043b\u043e\u0442\u0435\u0440\u0435\u0438: %time%",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T17:53:15+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 741,
+            "text": "Утвердить договор"
+        }
+    }, {
+        "data": {
+            "stringId": 742,
+            "contentType": "text\/plain",
+            "translationId": 41960,
+            "text": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043b\u043e\u0442\u0435\u0440\u0435\u0439\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440:",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:19:22+00:00"
+        }
+    }, {
+        "data": {
+            "stringId": 743,
+            "text": "Заработано"
+        }
+    }, {
+        "data": {
+            "stringId": 744,
+            "contentType": "text\/plain",
+            "translationId": 41962,
+            "text": "\u041f\u043e\u0438\u0441\u043a",
+            "user": {
+                "id": 13473331,
+                "username": "Sergey_B",
+                "fullName": "Sergey_B",
+                "avatarUrl": "https:\/\/crowdin-static.downloads.crowdin.com\/avatar\/13473331\/medium\/77e25350f05ee090503df107a5f64372.jpg"
+            },
+            "createdAt": "2021-02-05T19:19:25+00:00"
+        }
+    }],
+    "pagination": {
+        "offset": 0,
+        "limit": 200
+    }
+}
