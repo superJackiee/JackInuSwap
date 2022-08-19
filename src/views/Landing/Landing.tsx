@@ -17,7 +17,7 @@ import ScrollTop from './components/scrollTop';
 const Landing = () => {
   return(
     <>
-      <Particle/>
+      <ScrollTop/>
       <Header/>
       <Box sx={{width:'100%'}} >
         <JackInu/>
@@ -28,9 +28,7 @@ const Landing = () => {
         <RoadMap/>
         
       </Box>
-      
       <Footer/>
-      {/* <ScrollTop/> */}
     </>
 
   );

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { IconButton } from '@mui/material';
+import { Box, IconButton } from '@mui/material';
 import StraightIcon from '@mui/icons-material/Straight';
 import Fade from 'react-reveal/Fade';
 
@@ -24,38 +24,42 @@ const ScrollTop = () => {
     <>
       {
         visible && 
-        <Fade bottom style={{position:'fixed', bottom:'10', right:'10px',}}>
-          <IconButton 
-            sx={{
-              color:'white', 
-              background:'#d2793d', 
-              borderRadius:'10px', 
-              
-              "&:hover":{
-                background:'white',
-                color:'#d2793d'
-              }
-            }}>
-            <StraightIcon />
-          </IconButton>
-        </Fade>
+        <Box sx={{position:'fixed', bottom:'20px', right:'20px',}}>
+          <Fade bottom >
+            <IconButton 
+              sx={{
+                color:'white', 
+                background:'#d2793d', 
+                borderRadius:'10px', 
+                
+                "&:hover":{
+                  background:'white',
+                  color:'#d2793d'
+                }
+              }}>
+              <StraightIcon />
+            </IconButton>
+          </Fade>
+        </Box>
       }
       {
         !visible && 
-        <Fade top  style={{position:'fixed', bottom:'10', right:'10px',}}>
-          <IconButton 
-            sx={{
-              color:'white', 
-              background:'#d2793d', 
-              borderRadius:'10px', 
-              "&:hover":{
-                background:'white',
-                color:'#d2793d'
-              }
-            }}>
-            <StraightIcon />
-          </IconButton>
-      </Fade>
+        <Box sx={{position:'fixed', bottom:'-100px', right:'-100px',display:'none'}}>
+          <Fade top  >
+            <IconButton 
+              sx={{
+                color:'white', 
+                background:'#d2793d', 
+                borderRadius:'10px', 
+                "&:hover":{
+                  background:'white',
+                  color:'#d2793d'
+                }
+              }}>
+              <StraightIcon />
+            </IconButton>
+          </Fade>
+        </Box>
       }
     </>
   );

@@ -52,7 +52,9 @@
   text-align: center;
 }
 
-
+.particle{
+  z-index: 100;
+}
 
 .lottie_dog{
   width: 30%;

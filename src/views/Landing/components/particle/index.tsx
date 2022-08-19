@@ -11,7 +11,7 @@ const Particle = () => {
   }, []);
   return(
     <>
-      <Particles options={particlesOptions as ISourceOptions} init={particlesInit}/>
+      <Particles style={{height:'100vh !important'}} options={particlesOptions as ISourceOptions} init={particlesInit}/>
     </>
   );
 }
