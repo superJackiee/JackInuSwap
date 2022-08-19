@@ -20,6 +20,34 @@ const PieChart = () => {
             breakpoint: 480,
             options: {
               chart: {
+                width: "120%",
+                animations: {
+                  enabled: true,
+                  easing: 'easeinout',
+                  speed: 800,
+                  animateGradually: {
+                      enabled: true,
+                      delay: 150
+                  },
+                  dynamicAnimation: {
+                      enabled: true,
+                      speed: 350
+                  }
+              }
+              },
+              legend: {
+                show: true,
+                horizontalAlign: 'center',
+                position: 'bottom'
+              },
+              
+            }
+          },
+
+          {
+            breakpoint: 768,
+            options: {
+              chart: {
                 width: "100%",
                 animations: {
                   enabled: true,
@@ -37,11 +65,40 @@ const PieChart = () => {
               },
               legend: {
                 show: true,
-                horizontalAlign: 'center'
+                horizontalAlign: 'center',
+                position: 'bottom'
               },
               
             }
-          }
+          },
+          {
+            breakpoint: 450,
+            options: {
+              chart: {
+                width: "100%",
+                animations: {
+                  enabled: true,
+                  easing: 'easeinout',
+                  speed: 800,
+                  animateGradually: {
+                      enabled: true,
+                      delay: 150
+                  },
+                  dynamicAnimation: {
+                      enabled: true,
+                      speed: 350
+                  }
+              }
+              },
+              legend: {
+                show: true,
+                
+                position: 'bottom'
+              },
+              
+            }
+          },
+
         ],
         chart: {
           events: {
@@ -61,7 +118,7 @@ const PieChart = () => {
           options={state.options}
           series={state.series}
           type="donut"
-          width="800"
+          width="750"
           verticalAlign="center"
 
         />

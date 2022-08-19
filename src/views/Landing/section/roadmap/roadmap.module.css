@@ -5,7 +5,7 @@
   width: 100%;
   background: #0b0c22;
   padding-top: 100px;
-  padding-bottom: 50px;
+  padding-bottom: 70px;
   margin-top: 130px;
   position : 'relative'
 }
@@ -26,12 +26,14 @@
   left: 0px;
   text-align: center;
   width: 100%;
+  font-weight: 600 !important;
 
 }
 
 .ourroadmap{
   color: white !important;
   font-size: 2.3em !important;
+  font-weight: 500 !important;
 }
 
 

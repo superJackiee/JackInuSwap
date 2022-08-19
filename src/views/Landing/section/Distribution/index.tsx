@@ -9,8 +9,9 @@ import './distribution.css';
 const Distribution = () => {
   return(
     <>
-      <Typography className='distribution_title'>Token Distribution</Typography>
+      
       <Box className='distribution'>
+        <Typography className='distribution_title'>Token Distribution</Typography>
         <PieChart/>
       </Box>
     </>

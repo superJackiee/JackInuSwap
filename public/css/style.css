@@ -1617,7 +1617,7 @@ body.modal{
 #particles-js {
 	width: 100%;
 	height: 100%;
-  	position: relative;
+  	position: relative !important;
   	z-index: 2;
 }
 
@@ -2360,3 +2360,4 @@ body.dark .arlo_tm_settings .cursor li .svg,
 	.arlo_tm_counter_section ul{margin: 0px;}
 	.arlo_tm_counter_section ul li{width: 100%;padding-left: 0px;}
 }	
+

@@ -1,17 +1,28 @@
-import React, { useCallback } from "react";
+import React, { useCallback, CSSProperties } from "react";
+import {styled} from '@mui/material/styles';
 import Particles from "react-particles";
 import type { Engine } from "tsparticles-engine";
 import { loadFull } from "tsparticles";
 import { ISourceOptions } from "tsparticles-engine";
 import particlesOptions from "./particles.json";
+import './particle.css';
+
+
+
 
 const Particle = () => {
   const particlesInit = useCallback(async (engine: Engine) => {
     await loadFull(engine);
   }, []);
+  const newPosition = {
+    
+      position: 'absolute !important'
+    
+  }
   return(
     <>
-      <Particles style={{height:'100vh !important'}} options={particlesOptions as ISourceOptions} init={particlesInit}/>
+      <Particles height="120px"
+              width="300px"  style={newPosition as CSSProperties} options={particlesOptions as ISourceOptions} init={particlesInit}/>
     </>
   );
 }

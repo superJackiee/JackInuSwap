@@ -2,6 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    
+    <script src="js/jquery.js"></script>
+    <script>
+      $(document).ready(function() {
+        document.getElementsByTagName("canvas")[0].removeAttribute('style');
+      })
+    </script>
+    <link rel="stylesheet" type="text/css" href="css/particle.css" />
     <!-- GTAG -->
     <script>
       ;(function (w, d, s, l, i) {
@@ -15,7 +23,8 @@
         f.parentNode.insertBefore(j, f)
       })(window, document, 'script', 'dataLayer', '%REACT_APP_GTAG%')
     </script>
-    <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.js"></script>
+    <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    
     <!--[if lt IE 10]> <script type="text/javascript" src="js/ie8.js"></script> <![endif]-->
     <script src="js/plugins.js"></script>
     <script src="js/init.js"></script>
@@ -44,6 +53,7 @@
     <link rel="stylesheet" id="icos-style-css" href="https://jackinu.io/wp-content/themes/icos/style.css?ver=6.0.1" type="text/css" media="all">
 
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+        
     <!-- Meta -->
     <title>Fastswap</title>
     <meta
@@ -63,6 +73,9 @@
   <style>
     html, body {
       overflow-x: clip;
+    }
+    *{
+      font-family: 'Poppins' !important;
     }
   </style>
   <body>

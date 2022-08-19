@@ -7,10 +7,10 @@ import Counter from '../../components/count';
 import PieChart from '../../components/chart';
 
 const Title = styled('div')({
-  fontSize:'1em',
-  fontWeight: 600,
+  fontSize:'0.9em',
+  fontWeight: 400,
   textAlign: 'center',
-  margin: '20px 0px'
+  margin: '25px 0px'
 })
 
 
@@ -30,7 +30,7 @@ const ListTitle = styled('span')({
 const Tokenomics = () => {
   return(
     <>
-      <Box className={styles.token_container}>
+      <Box id='tokenomics' className={styles.token_container}>
         <Box className={styles.token_main}>
             <Fade bottom style={{zIndex:'1000 !important'}}>
               <Box sx={{position:'relative', textAlign:'center'}}>
@@ -92,29 +92,30 @@ const Tokenomics = () => {
               </ul>
             </div>
 
-            
-            <div className="circle-animation">
-              <div className="circle-animation-l1 ca">
-                  <span className="circle-animation-l1-d1 ca-dot ca-color-1" />
-                  <span className="circle-animation-l1-d2 ca-dot ca-color-2" />
-                  <span className="circle-animation-l1-d3 ca-dot ca-color-3" />
-                  <span className="circle-animation-l1-d4 ca-dot ca-color-1" />
-                  <span className="circle-animation-l1-d5 ca-dot ca-color-2" />
-                  <span className="circle-animation-l1-d6 ca-dot ca-color-3" />
-              </div>
-              <div className="circle-animation-l2 ca">
-                  <span className="circle-animation-l2-d1 ca-dot ca-color-1" />
-                  <span className="circle-animation-l2-d2 ca-dot ca-color-3" />
-                  <span className="circle-animation-l2-d3 ca-dot ca-color-2" />
-                  <span className="circle-animation-l2-d4 ca-dot ca-color-1" />
-                  <span className="circle-animation-l2-d5 ca-dot ca-color-2" />
-              </div>
-              <div className="circle-animation-l3 ca">
-                  <span className="circle-animation-l3-d1 ca-dot ca-color-1" />
-                  <span className="circle-animation-l3-d2 ca-dot ca-color-3" />
-                  <span className="circle-animation-l3-d3 ca-dot ca-color-2" />
-                  <span className="circle-animation-l3-d4 ca-dot ca-color-1" />
-                  <span className="circle-animation-l3-d5 ca-dot ca-color-2" />
+            <div className='canimation'>
+              <div className="circle-animation">
+                <div className="circle-animation-l1 ca">
+                    <span className="circle-animation-l1-d1 ca-dot ca-color-1" />
+                    <span className="circle-animation-l1-d2 ca-dot ca-color-2" />
+                    <span className="circle-animation-l1-d3 ca-dot ca-color-3" />
+                    <span className="circle-animation-l1-d4 ca-dot ca-color-1" />
+                    <span className="circle-animation-l1-d5 ca-dot ca-color-2" />
+                    <span className="circle-animation-l1-d6 ca-dot ca-color-3" />
+                </div>
+                <div className="circle-animation-l2 ca">
+                    <span className="circle-animation-l2-d1 ca-dot ca-color-1" />
+                    <span className="circle-animation-l2-d2 ca-dot ca-color-3" />
+                    <span className="circle-animation-l2-d3 ca-dot ca-color-2" />
+                    <span className="circle-animation-l2-d4 ca-dot ca-color-1" />
+                    <span className="circle-animation-l2-d5 ca-dot ca-color-2" />
+                </div>
+                <div className="circle-animation-l3 ca">
+                    <span className="circle-animation-l3-d1 ca-dot ca-color-1" />
+                    <span className="circle-animation-l3-d2 ca-dot ca-color-3" />
+                    <span className="circle-animation-l3-d3 ca-dot ca-color-2" />
+                    <span className="circle-animation-l3-d4 ca-dot ca-color-1" />
+                    <span className="circle-animation-l3-d5 ca-dot ca-color-2" />
+                </div>
               </div>
             </div>
           </div>

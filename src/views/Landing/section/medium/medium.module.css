@@ -3,7 +3,7 @@
 .m_main{
   display: flex;
   margin:0 auto;
-  margin-top: 300px;
+  margin-top: 180px;
   width: 90%;
   z-index: 1000;
   max-width: 1440px;
@@ -31,8 +31,12 @@
 }
 
 .content{
-  font-size: 1em !important;
-  font-weight: 600 !important;
+  font-family: "Poppins", sans-serif;
+  color: #3c3c3c;
+  font-size: 15px;
+  line-height: 1.86;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
 }
 
 .description{
@@ -47,7 +51,7 @@
 }
 
 .right {
-  width: 40%;
+  width: 35%;
   /* margin: auto; */
   max-width: 600px;
 }

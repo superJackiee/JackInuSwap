@@ -10,13 +10,14 @@ const Medium = () => {
   
   return(
     <>
-      <Box className={styles.m_container}>
+      <Box id='about' className={styles.m_container}>
         <Box className={styles.m_main}>
            <Lottie  animationData={dog} style={{width:'30%'}}  />
            <Box className={styles.right}>
             <Fade bottom style={{zIndex:'1000 !important'}}>
-              <Typography className={styles.title}>JACK is a community<br/>based DEFI project</Typography>
+              <Typography className={styles.title}>JACK is a community<br/>based DeFi project</Typography>
             </Fade>
+            
 
             <Typography className={styles.content} sx={{color:'#d2793d', mb:'70px'}}>with an innovative reward system for its holders through future ecosystem development which includes creating a Play-To-Earn game (BONE HUNTER) where players will earn $JACK by simply playing, staking/yield farming pools with mouthwatering APY. and a host of benefits and utilities for our holders.</Typography>
 

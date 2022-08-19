@@ -23,7 +23,7 @@ const circleText = [
 const RoadMap: React.FC = () => {
   return(
     <>
-      <Box className={styles.roadmap_container}>
+      <Box id='roadmap' className={styles.roadmap_container}>
         <div className={styles.line} />
         <Box className={styles.roadmap_main}>
           <Fade bottom style={{zIndex:'1000 !important'}}>

@@ -24,7 +24,7 @@ const Content = styled('span')({
 const Solution = () => {
   return(
     <>
-      <Box className={styles.solution_containter}>
+      <Box id='features' className={styles.solution_containter}>
         <Box className={styles.solution_main}>
           <Fade bottom style={{zIndex:'1000 !important'}}>
             <Box sx={{position:'relative'}}>

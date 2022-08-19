@@ -4,3 +4,60 @@
   width: 100%;
   
 }
+
+.apexcharts-legend.apx-legend-position-right{
+  margin-top: 50px !important;
+  margin-left: 20px !important;
+}
+
+.apexcharts-legend-series{
+  display: flex;
+  align-items: center;
+  
+}
+.apexcharts-legend-text{
+  color: white !important;
+  font-size: 14px !important ;
+  font-weight: 500 !important;
+}
+.apexcharts-legend-marker{
+  border-radius: 4px !important;
+  width: 15px !important;
+  height: 15px !important;
+}
+
+.apexcharts-svg{
+  display: flex !important;
+  align-items: center !important;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .apexcharts-legend.apx-legend-position-bottom.apexcharts-align-center, .apexcharts-legend.apx-legend-position-top.apexcharts-align-center{
+    flex-direction: column !important;
+  }
+ 
+}
+
+@media  screen and (max-width: 500px) {
+  .apexcharts-legend.apx-legend-position-right{
+   
+    margin-left: 20px !important;
+  }
+}
+
+@media screen and (max-width : 480px) {
+  .apexcharts-legend.apx-legend-position-right{
+   
+    margin-left: 10 !important;
+  }
+}
+
+@media  screen and (max-width: 400px) {
+  .apexcharts-legend-text{
+    font-size: 12px !important;
+  }
+}
+
+

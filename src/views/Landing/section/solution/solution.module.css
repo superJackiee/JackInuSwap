@@ -16,7 +16,7 @@
   font-size: 2.3em !important;
   color: white;
   text-align: center;
- 
+  font-weight: 600 !important;
 }
 
 .effect_title{
@@ -33,6 +33,7 @@
   margin-top: -60px;
   line-height: 1;
   z-index: 1000;
+  font-weight: 600 !important;
 }
 
 @media screen and (max-width: 900px) {

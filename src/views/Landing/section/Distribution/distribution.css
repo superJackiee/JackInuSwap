@@ -2,7 +2,8 @@
 
 
 .distribution{
-  margin-top: 200px !important
+  margin-top: 200px !important;
+  margin-left: 100px !important;
 }
 
 
@@ -10,6 +11,21 @@
   width: 30%;
   color: #8082A3 !important;
   font-size: 30px !important;
-  margin-left: 300px !important;
+  margin-left: 180px !important;
   margin-bottom: 30px !important;
+  font-weight: 600 !important;
+}
+
+@media screen and (max-width : 1000px){
+  .distribution_title{
+    font-size: 30px !important;
+    width: 90% !important;
+    margin:20px auto !important;
+  }
+}
+
+@media screen and (max-width : 768px) {
+  .distribution{
+    margin-left: 0px !important;
+  }
 }
