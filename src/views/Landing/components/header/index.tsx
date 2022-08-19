@@ -26,7 +26,7 @@ const Header = () => {
     <>
       <Box id='header' className={styles.header_body} sx={{width: '100%', background: `${color}` , position:'fixed', top:'0px', zIndex:'100000 !important', transition: '0.5s'}}>
         <Box  className={  styles.header_container}>
-          <img src='./images/landing/logo.png' alt='logo' />
+          <img style={{marginRight:'20px'}} src='./images/landing/logo.png' alt='logo' />
           <Box className={styles.menu_item}>
             <Stack className={styles.header_left}  direction='row' alignItems='center' spacing={2}>
             {/* <Link containerId="about" spy={true} smooth={true} className="menuitem">Grill section</Link> */}
