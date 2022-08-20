@@ -49,17 +49,17 @@ const ApyCalculatorModal: React.FC<ApyCalculatorModalProps> = ({
     <Modal title="ROI" onDismiss={onDismiss}>
       <Grid>
         <GridItem>
-          <Text fontSize="12px" bold color="textSubtle" textTransform="uppercase" mb="20px">
+          <Text fontSize="12px" bold color="#d2793d" textTransform="uppercase" mb="20px">
             {TranslateString(860, 'Timeframe')}
           </Text>
         </GridItem>
         <GridItem>
-          <Text fontSize="12px" bold color="textSubtle" textTransform="uppercase" mb="20px">
+          <Text fontSize="12px" bold color="#d2793d" textTransform="uppercase" mb="20px">
             {TranslateString(858, 'ROI')}
           </Text>
         </GridItem>
         <GridItem>
-          <Text fontSize="12px" bold color="textSubtle" textTransform="uppercase" mb="20px">
+          <Text fontSize="12px" bold color="#d2793d" textTransform="uppercase" mb="20px">
             {TranslateString(864, 'FAST per $1000')}
           </Text>
         </GridItem>
@@ -112,14 +112,14 @@ const ApyCalculatorModal: React.FC<ApyCalculatorModalProps> = ({
           <Text>{cakeEarnedPerThousand365D}</Text>
         </GridItem>
       </Grid>
-      <Description fontSize="12px" color="textSubtle">
+      <Description fontSize="12px" color="#d2793d">
         {TranslateString(
           866,
           'Calculated based on current rates. Compounding once daily. Rates are estimates provided for your convenience only, and by no means represent guaranteed returns.',
         )}
       </Description>
       <Flex justifyContent="center">
-        <LinkExternal href={addLiquidityUrl} style={{color:'tomato'}}>
+        <LinkExternal href={addLiquidityUrl} style={{color:'#d2793d'}}>
           {TranslateString(999, 'Get')} {lpLabel}
         </LinkExternal>
       </Flex>
