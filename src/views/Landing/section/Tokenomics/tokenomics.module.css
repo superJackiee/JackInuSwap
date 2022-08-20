@@ -2,13 +2,16 @@
 
 .token_container{
   width: 100%;
+  position: relative !important;
+  /* position: sticky !important; */
 }
 
 .token_main{
-  max-width: 1440px;
+  max-width: 1920px;
   width: 90%;
   margin: 0 auto;
   margin-top: 380px !important;
+  
 }
 
 .token{
@@ -36,16 +39,20 @@
   font-weight: 600 !important;
 }
 
-/* .canimation{
-  margin-left: 20px;
-} */
+.canimation{
+  position: absolute !important;
+  bottom: 460px;
+  margin-left: 50px;
+}
 
 .generaition{
   width: 500px;
   height: 500px;
-  position: relative;
+  /* position: relative;
   left: 200px;
-  top: 100px;
+  top: 100px; */
+  margin: auto;
+  max-width: 1100px;
 }
 
 
@@ -53,10 +60,9 @@
 
 
 .circle_rect{
-  position : relative;
-  left: 90px;
-  top: -80px;
-
+  position : absolute;
+  margin-left: -300px;
+  top: 550px;
 }
 
 .circle_draw1{
@@ -138,14 +144,25 @@ ul li::before {
 }
 
 
+
+.buy_couter{
+  position: absolute;
+  margin-left: -200px;
+  margin-top: 50px;
+  width: 30%;
+  max-width: 500px;
+  min-width: 320px;
+}
+
 .list_box{
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 150%;
   margin-left: -100px;
-
 }
+
+
 
 
 
@@ -155,13 +172,22 @@ ul li::before {
   }
   .generaition{
     left: unset;
-    margin: auto;
+    /* margin: auto; */
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
-  .list_box{
-    width: 100%;
+  .canimation{
+    margin: 0 auto !important;
+    position: relative !important;
+    margin-top: 450px !important;
   }
- 
+  .buy_couter{
+    margin: 0px !important;
+  }
 }
+
 
 
 
@@ -173,9 +199,22 @@ ul li::before {
     font-size: 80px !important;
     top: -40px;
   }
+  .buy_couter{
+    display: block;
+  }
+  .list_box{
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+    display: block;
+    width: 100%;
+  }
 }
 
 @media screen and (max-width : 650px) {
+  .token_main{
+    margin-bottom: 200px;
+  }
   .tokenomics{
     font-size: 1.2em !important;
   }
@@ -183,31 +222,20 @@ ul li::before {
     font-size: 50px  !important;
     top: -25px;
   }
-  .list_box{
-    flex-direction: column;
-    width: 100%;
-  }
-  .list_left{
-    margin-left: 60px !important;
+ 
+  .generaition{
+    height: auto;
   }
 }
 
 @media  screen and (max-width: 500px) {
   .line{
-    width: 50%;
+    width: 70%;
   }
-  
-}
-
-
-@media  screen and (max-width: 400px) {
-  .counter{
-    margin-left: -80px;
+  .list_box{
+    margin: 0px !important;
   }
-}
-
-@media  screen and (max-width: 375px) {
-  .counter{
-    margin-left: -140px;
+  .buy_couter{
+    margin-left: 0px;
   }
 }

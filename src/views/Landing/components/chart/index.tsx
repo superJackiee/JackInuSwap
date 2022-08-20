@@ -120,7 +120,6 @@ const PieChart = () => {
           type="donut"
           width="750"
           verticalAlign="center"
-
         />
       </div>
     );

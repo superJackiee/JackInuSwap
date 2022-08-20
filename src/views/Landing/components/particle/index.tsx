@@ -22,7 +22,7 @@ const Particle = () => {
   return(
     <>
       <Particles height="120px"
-              width="300px"  style={newPosition as CSSProperties} options={particlesOptions as ISourceOptions} init={particlesInit}/>
+        width="300px"  style={newPosition as CSSProperties} options={particlesOptions as ISourceOptions} init={particlesInit}/>
     </>
   );
 }

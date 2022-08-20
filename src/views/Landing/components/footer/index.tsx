@@ -73,7 +73,7 @@ const Footer = () => {
             </Fade> 
             <Typography className={styles.description}>Any question? Reach out to us and we’ll get back to you shortly.</Typography>
             
-              <Stack sx={{mt: 5}} direction='row' className={styles.person_contact} spacing={5}>
+              <Stack sx={{mt: 5}} direction='row' className={styles.person_contact} spacing={{md: 5}}>
                 <a href='info@jackinu.io' rel="noreferrer" target='_blank'>
                   <Stack  direction='row' spacing={2} alignItems='center'>
                     <CustTbMail>
@@ -82,7 +82,7 @@ const Footer = () => {
                     <Title>info@jackinu.io</Title>
                   </Stack>
                 </a> 
-                <a href='https://t.me/jackinutoken' rel="noreferrer" target='_blank'>
+                <a id='tel' href='https://t.me/jackinutoken' rel="noreferrer" target='_blank'>
                   <Stack className={styles.person_contract_child} direction='row' spacing={2} alignItems='center'>
                     <CustTbMail>
                       <FaTelegramPlane className='cust-mail'/>

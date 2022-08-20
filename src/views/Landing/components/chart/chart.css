@@ -5,9 +5,14 @@
   
 }
 
+.apexcharts-legend .apx-legend-position-right{
+  position: fixed !important;
+}
+
 .apexcharts-legend.apx-legend-position-right{
-  margin-top: 50px !important;
-  margin-left: 20px !important;
+  margin-top: 70px !important;
+  /* padding-left: 20px !important; */
+  margin-right: -40px !important;
 }
 
 .apexcharts-legend-series{

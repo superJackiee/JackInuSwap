@@ -54,45 +54,52 @@ const Tokenomics = () => {
           </Box>
           
 
-          <div className={styles.circle_rect}>
-            <div className={styles.circle_draw1} />
-            <div className={styles.circle_draw2} />
-            <div className={styles.circle_draw3} />
-            <div className={styles.circle_draw4} />
-          </div>
+          
 
           <div className={styles.generaition}>
-            <Stack className={styles.counter} direction='column' justifyContent='center' alignItems='center'>
-              <Counter/>
-              <div className={styles.line}/>
-              <Buy>BUY JACKINU</Buy>
-            </Stack>
-            
 
-            <div className={styles.list_box}>
-              <ul  className={styles.list_left}>
-                <Stack  direction='column' spacing={2} sx={{mt: 5}}  >
-                  <li>Token Name</li>
-                  <ListTitle>JACKINU</ListTitle>
-                </Stack>
-                <Stack direction='column' spacing={2} sx={{mt: 7}}>
-                  <li>Emission Rate</li>
-                  <ListTitle>No new tokens will be created</ListTitle>
-                </Stack>
-              </ul>
-              <ul >
-                <Stack direction='column' spacing={2}>
-                  <li>Token Network</li>
-                  <ListTitle>Binance Smart Chain</ListTitle>
-                </Stack>
-                <Stack direction='column' spacing={2} sx={{mt: 7}}>
-                  <li>Total Supply</li>
-                  <ListTitle>10 Bilion</ListTitle>
-                </Stack>
-              </ul>
+            <div className={styles.circle_rect}>
+              <div className={styles.circle_draw1} />
+              <div className={styles.circle_draw2} />
+              <div className={styles.circle_draw3} />
+              <div className={styles.circle_draw4} />
             </div>
 
-            <div className='canimation'>
+            
+            <div className={styles.buy_couter}>
+              <Stack className={styles.counter} direction='column' justifyContent='center' alignItems='center'>
+                <Counter/>
+                <div className={styles.line}/>
+                <Buy>BUY JACKINU</Buy>
+              </Stack>
+              
+           
+              <div className={styles.list_box}>
+                <ul  className={styles.list_left}>
+                  <Stack  direction='column' spacing={2} sx={{mt: 5}}  >
+                    <li>Token Name</li>
+                    <ListTitle>JACKINU</ListTitle>
+                  </Stack>
+                  <Stack direction='column' spacing={2} sx={{mt: 7}}>
+                    <li>Emission Rate</li>
+                    <ListTitle>No new tokens will be created</ListTitle>
+                  </Stack>
+                </ul>
+                
+                <ul >
+                  <Stack direction='column' spacing={2}>
+                    <li>Token Network</li>
+                    <ListTitle>Binance Smart Chain</ListTitle>
+                  </Stack>
+                  <Stack direction='column' spacing={2} sx={{mt: 7}}>
+                    <li>Total Supply</li>
+                    <ListTitle>10 Bilion</ListTitle>
+                  </Stack>
+                </ul>
+              </div>
+
+          </div>
+            <div className={styles.canimation}>
               <div className="circle-animation">
                 <div className="circle-animation-l1 ca">
                     <span className="circle-animation-l1-d1 ca-dot ca-color-1" />
