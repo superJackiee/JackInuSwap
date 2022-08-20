@@ -1,10 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
-import { Box, Button, Stack, IconButton } from '@mui/material';
-import { Link } from 'react-scroll';
-
+import { Box, Stack, IconButton } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
-
 import styles from './header.module.css';
 
 
@@ -30,8 +27,6 @@ const Header = () => {
           <Box className={styles.menu_item}>
             <Stack className={styles.header_left}  direction='row' alignItems='center' spacing={2}>
             {/* <Link containerId="about" spy={true} smooth={true} className="menuitem">Grill section</Link> */}
-
-              
             </Stack>
             <Stack className={styles.header_right} justifyContent='right'  direction='row' alignItems='center' spacing={2}>
               <a href='jack-inu.gitbook.io/docs/' target='_blank'>WHITEPAPER</a>
