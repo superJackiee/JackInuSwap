@@ -8,7 +8,7 @@ import { provider as ProviderType } from 'web3-core'
 import useI18n from 'hooks/useI18n'
 import ExpandableSectionButton from 'components/ExpandableSectionButton'
 import { QuoteToken } from 'config/constants/types'
-import { BASE_ADD_LIQUIDITY_URL } from 'config'
+import { BASE_ADD_LIQUIDITY_URL, PANCAKE_ADD_LIQUIDITY_URL } from 'config'
 import getLiquidityUrlPathParts from 'utils/getLiquidityUrlPathParts'
 import DetailsSection from './DetailsSection'
 import CardHeading from './CardHeading'
@@ -111,7 +111,7 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice,
     if (farm.quoteTokenSymbol === QuoteToken.BNB) {
       return bnbPrice.times(farm.lpTotalInQuoteToken)
     }
-    if (farm.quoteTokenSymbol === QuoteToken.FAST) {
+    if (farm.quoteTokenSymbol === QuoteToken.JACK) {
       return cakePrice.times(farm.lpTotalInQuoteToken)
     }
     if (farm.quoteTokenSymbol === QuoteToken.ETH) {
@@ -129,12 +129,12 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice,
     : '-'
 
   const lpLabel = farm.lpSymbol && farm.lpSymbol.toUpperCase()
-  const earnLabel = farm.dual ? farm.dual.earnLabel : 'FAST'
+  const earnLabel = farm.dual ? farm.dual.earnLabel : 'JACK'
   const farmAPY = farm.apy && farm.apy.times(new BigNumber(100)).toNumber().toLocaleString('en-US').slice(0, -1)
 
-  const { quoteTokenAdresses, quoteTokenSymbol, tokenAddresses } = farm
-  const liquidityUrlPathParts = getLiquidityUrlPathParts({ quoteTokenAdresses, quoteTokenSymbol, tokenAddresses })
-  const addLiquidityUrl = `${BASE_ADD_LIQUIDITY_URL}/${liquidityUrlPathParts}`
+  const { quoteTokenAdresses, tokenSymbol, tokenAddresses } = farm
+  const liquidityUrlPathParts = getLiquidityUrlPathParts({ tokenAddresses: quoteTokenAdresses, quoteTokenSymbol: tokenSymbol, quoteTokenAdresses: tokenAddresses })
+  const addLiquidityUrl = `${PANCAKE_ADD_LIQUIDITY_URL}/${liquidityUrlPathParts}`
 
   return (
     <FCard>

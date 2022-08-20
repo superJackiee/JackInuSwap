@@ -36,7 +36,8 @@ export enum QuoteToken {
   'DUKE' = 'DUKE',
   'CAKE' = 'CAKE',
   'YFT' = 'YFT',
-  'YFII' = 'YFII'
+  'YFII' = 'YFII',
+  'JACK' = 'JACK',
 }
 
 export enum PoolCategory {

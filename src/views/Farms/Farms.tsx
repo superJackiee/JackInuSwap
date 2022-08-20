@@ -15,7 +15,7 @@ import { useFarms, usePriceBnbBusd, usePriceCakeBusd, usePriceEthBusd, usePriceD
 import useRefresh from 'hooks/useRefresh'
 import { fetchFarmUserDataAsync } from 'state/actions'
 import FarmCard, { FarmWithStakedValue } from './components/FarmCard/FarmCard'
-import FarmList, {FList} from './components/FasmList/FarmList'
+import FarmList, { FList } from './components/FasmList/FarmList'
 import FarmTabButtons from './components/FarmTabButtons'
 
 const Flex = styled.div`
@@ -38,13 +38,13 @@ const FarmListHeader = () => {
   const wth = !isMobile ? 'calc(100% - 505px)' : isSmMobile ? 'calc(100% - 100px)' : 'calc(100% - 224px)';
 
   return (
-    <FList style={{height:66, borderTopLeftRadius:28, borderTopRightRadius:28, alignItems:'center'}}>
-      <Text bold color="primary" style={{minWidth:wth}}>Token Pair</Text>
-      {!isSmMobile && <Text bold color="primary" style={{width:90}}>Earned</Text>}
-      <Text bold color="primary" style={{width:120}}>APY</Text>
+    <FList style={{ height: 66, borderTopLeftRadius: 28, borderTopRightRadius: 28, alignItems: 'center' }}>
+      <Text bold color="primary" style={{ minWidth: wth }}>Token Pair</Text>
+      {!isSmMobile && <Text bold color="primary" style={{ width: 90 }}>Earned</Text>}
+      <Text bold color="primary" style={{ width: 120 }}>APY</Text>
       {!isMobile && <>
-        <Text bold color="primary" style={{width:150}}>Liquidity</Text>
-        <Text bold color="primary" style={{width:145}}>Multiplier</Text>
+        <Text bold color="primary" style={{ width: 150 }}>Liquidity</Text>
+        <Text bold color="primary" style={{ width: 145 }}>Multiplier</Text>
       </>}
       {/* <Text bold color="primary" style={{width:130}}>Staked(MLP)</Text>
       <Text bold color="primary" style={{width:100}}>Rewards</Text> */}
@@ -102,26 +102,26 @@ const Farms: React.FC = () => {
         if (!farm.tokenAmount || !farm.lpTotalInQuoteToken || !farm.lpTotalInQuoteToken) {
           return farm
         }
-        const cakeRewardPerYear = new BigNumber(farm.amountFastTokens).div(91).times(365)
+        const cakeRewardPerYear = new BigNumber(farm.amountFastTokens).div(30).times(365)
 
         let apy;
         if (farm.quoteTokenSymbol === 'DUKE') {
-        
+
           // In case of DUKE, Decimal is 9
           apy = dukePriceBusd
-          .times(cakeRewardPerYear)
-          .div(new BigNumber(farm.totalLiquidityWithoutPrice).times(cakePrice)).times(new BigNumber(10).pow(8))
+            .times(cakeRewardPerYear)
+            .div(new BigNumber(farm.totalLiquidityWithoutPrice).times(cakePrice)).times(new BigNumber(10).pow(8))
         }
         else {
-        
-         apy = cakePrice
+
+          apy = cakePrice
             .times(cakeRewardPerYear)
-            .div(new BigNumber(farm.totalLiquidityWithoutPrice).times(cakePrice))
+            .div(new BigNumber(farm.totalLiquidityWithoutPrice).times(bnbPrice))
         }
         return { ...farm, apy }
       })
-      if(viewMode) {
-        return farmsToDisplayWithAPY.filter(farm => farm.pid < 7).map((farm) => (
+      if (viewMode) {
+        return farmsToDisplayWithAPY.filter(farm => farm.pid < 1).map((farm) => (
           <FarmCard
             key={farm.pid}
             farm={farm}
@@ -129,12 +129,12 @@ const Farms: React.FC = () => {
             bnbPrice={bnbPrice}
             cakePrice={cakePrice}
             ethPrice={ethPriceUsd}
-            dukePrice = {dukePriceBusd}
+            dukePrice={dukePriceBusd}
             account={account}
           />
         ))
       } else {
-        return farmsToDisplayWithAPY.filter(farm => farm.pid < 7).map((farm) => (
+        return farmsToDisplayWithAPY.filter(farm => farm.pid < 1).map((farm) => (
           <FarmList
             key={farm.pid}
             farm={farm}
@@ -142,7 +142,7 @@ const Farms: React.FC = () => {
             bnbPrice={bnbPrice}
             cakePrice={cakePrice}
             ethPrice={ethPriceUsd}
-            dukePrice = {dukePriceBusd}
+            dukePrice={dukePriceBusd}
             account={account}
           />
         ))
@@ -161,7 +161,7 @@ const Farms: React.FC = () => {
         setViewMode={setViewMode}
         filter={filter}
         setFilter={setFilter}
-        />
+      />
       <div>
         {viewMode ? <FlexLayout>
           <Route exact path={`${path}`}>
@@ -170,16 +170,16 @@ const Farms: React.FC = () => {
           <Route exact path={`${path}/history`}>
             {farmsList(inactiveFarms, true)}
           </Route>
-        </FlexLayout> : 
-        <Flex>
-          <Route exact path={`${path}`}>
-            <FarmListHeader />
-            {stakedOnly ? farmsList(stakedOnlyFarms, false) : farmsList(oldFarms, false)}
-          </Route>
-          <Route exact path={`${path}/history`}>
-            {farmsList(inactiveFarms, true)}
-          </Route>
-      </Flex>}
+        </FlexLayout> :
+          <Flex>
+            <Route exact path={`${path}`}>
+              <FarmListHeader />
+              {stakedOnly ? farmsList(stakedOnlyFarms, false) : farmsList(oldFarms, false)}
+            </Route>
+            <Route exact path={`${path}/history`}>
+              {farmsList(inactiveFarms, true)}
+            </Route>
+          </Flex>}
       </div>
     </Page>
   )

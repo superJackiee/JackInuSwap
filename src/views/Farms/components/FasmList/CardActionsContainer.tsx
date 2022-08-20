@@ -89,21 +89,21 @@ const CardActions: React.FC<FarmCardActionsProps> = ({ farm, account, addLiquidi
         Coming Soon
         {/* {TranslateString(741, 'Coming Soon')} */}
       </Button>
-    ) : 
-    (
-      <Button mt="8px" width="100%" disabled={requestedApproval} onClick={handleApprove}>
-        {TranslateString(741, 'Approve Contract')}
-      </Button>
-    )
+    ) :
+      (
+        <Button mt="8px" width="100%" disabled={requestedApproval} onClick={handleApprove}>
+          {TranslateString(741, 'Approve Contract')}
+        </Button>
+      )
   }
 
   return (
     <Action>
-      <Rect style={{margin:isMedia?'0px 0px 10px 0px':'0px 10px 0px 0px'}}>
+      <Rect style={{ margin: isMedia ? '0px 0px 10px 0px' : '0px 10px 0px 0px' }}>
         <Flex>
           <Text bold textTransform="uppercase" color="primary" fontSize="12px" pr="3px">
             {/* TODO: Is there a way to get a dynamic value here from useFarmFromSymbol? */}
-            FAST
+            JACK
           </Text>
           <Text bold textTransform="uppercase" color="primary" fontSize="12px">
             {TranslateString(743, 'Earned')}
