@@ -119,7 +119,7 @@ const FarmList: React.FC<FarmListProps> = ({ farm, removed, cakePrice, bnbPrice,
     if (farm.quoteTokenSymbol === QuoteToken.BNB) {
       return bnbPrice.times(farm.lpTotalInQuoteToken)
     }
-    if (farm.quoteTokenSymbol === QuoteToken.FAST) {
+    if (farm.quoteTokenSymbol === QuoteToken.JACK) {
       return cakePrice.times(farm.lpTotalInQuoteToken)
     }
     if (farm.quoteTokenSymbol === QuoteToken.ETH) {
@@ -137,7 +137,7 @@ const FarmList: React.FC<FarmListProps> = ({ farm, removed, cakePrice, bnbPrice,
     : '-'
 
   const lpLabel = farm.lpSymbol && farm.lpSymbol.toUpperCase()
-  const earnLabel = farm.dual ? farm.dual.earnLabel : 'FAST'
+  const earnLabel = farm.dual ? farm.dual.earnLabel : 'JACK'
   const farmAPY = farm.apy && farm.apy.times(new BigNumber(100)).toNumber().toLocaleString('en-US').slice(0, -1)
 
   const { quoteTokenAdresses, quoteTokenSymbol, tokenAddresses } = farm
@@ -152,7 +152,7 @@ const FarmList: React.FC<FarmListProps> = ({ farm, removed, cakePrice, bnbPrice,
           farmImage={farmImage}
           tokenSymbol={farm.tokenSymbol}
         />
-        {!isSmMobile && <Text bold mt="0px" style={{margin:'auto 0', width: 90}}>{earnLabel}</Text>}
+        {!isSmMobile && <Text bold mt="0px" style={{ margin: 'auto 0', width: 90 }}>{earnLabel}</Text>}
         <Text bold style={{ display: 'flex', alignItems: 'center', width: 120 }}>
           {farm.apy ? (
             <>
@@ -164,8 +164,8 @@ const FarmList: React.FC<FarmListProps> = ({ farm, removed, cakePrice, bnbPrice,
           )}
         </Text>
         {!isMobile && <>
-          <Text bold style={{margin:'auto 0', width: 150}}>{totalValueFormated}</Text>
-          <Text bold style={{margin:'auto 0', width: 120}}>{farm.multiplier}</Text>
+          <Text bold style={{ margin: 'auto 0', width: 150 }}>{totalValueFormated}</Text>
+          <Text bold style={{ margin: 'auto 0', width: 120 }}>{farm.multiplier}</Text>
         </>}
         {/* <Text bold style={{margin:'auto 0', width: 130}}>0</Text>
         <Text bold style={{margin:'auto 0', width: 100}}>0</Text> */}

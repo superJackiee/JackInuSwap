@@ -21,7 +21,7 @@ const useFarmsWithBalance = () => {
     const fetchBalances = async () => {
       const calls = farmsConfig.filter(farmConfig => farmConfig.isSpecial === 'no').map((farm) => ({
         address: getMasterChefAddress(),
-        name: 'pendingFast',
+        name: 'pendingJack',
         params: [farm.pid, account],
       }))
 

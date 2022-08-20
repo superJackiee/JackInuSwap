@@ -63,7 +63,7 @@ export const fetchFarmUserEarnings = async (account: string) => {
   const calls = farmsConfig.filter(farmConfig => farmConfig.isSpecial === 'no').map((farm) => {
     return {
       address: masterChefAdress,
-      name: 'pendingFast',
+      name: 'pendingJack',
       params: [farm.pid, account],
     }
   })

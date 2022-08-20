@@ -11,6 +11,7 @@ export const BSC_BLOCK_TIME = 3
 export const CAKE_POOL_PID = 0
 export const BASE_EXCHANGE_URL = `${process.env.REACT_APP_BASE_EXCHANGE_URL}`
 export const BASE_ADD_LIQUIDITY_URL = `${process.env.REACT_APP_BASE_EXCHANGE_URL}/#/add`
+export const PANCAKE_ADD_LIQUIDITY_URL = 'https://pancakeswap.finance/add'
 export const BASE_LIQUIDITY_POOL_URL = `${process.env.REACT_APP_BASE_EXCHANGE_URL}/#/pool`
 export const LOTTERY_MAX_NUMBER_OF_TICKETS = 50
 export const LOTTERY_TICKET_PRICE = 1

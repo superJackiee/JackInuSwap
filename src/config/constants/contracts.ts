@@ -9,7 +9,7 @@ export default {
   },
   masterChef: {
     97: '0x9Fd69c48E6297fc0E488A2754cd3ab4120E2Ca03',
-    56: '0x4c3322Fb7Cd63987d62a99CB6FBd42F3FCb4eee8',
+    56: '0xBAe0B9d067817CC61258360CE6cD4bA9914dFc8F',
   },
   sousChef: {
     97: '0x3710E32CBf0DB8179Ce96BA4dF843f4833A6fab5',
@@ -81,6 +81,10 @@ export default {
   },
   yfii: {
     56: '0x7f70642d88cf1c4a3a7abb072b53b929b653eda5',
+    97: '',
+  },
+  jack: {
+    56: '0x81b8341329ec97e109b604D3C877065A5164aEc1',
     97: '',
   }
 }
