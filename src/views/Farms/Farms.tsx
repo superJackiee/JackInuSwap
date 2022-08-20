@@ -123,7 +123,6 @@ const Farms: React.FC = () => {
         }
         return { ...farm, apy }
       })
-      if (viewMode) {
         return farmsToDisplayWithAPY.filter(farm => farm.pid < 1).map((farm) => (
           <FarmCard
             key={farm.pid}
@@ -136,20 +135,6 @@ const Farms: React.FC = () => {
             account={account}
           />
         ))
-      } else {
-        return farmsToDisplayWithAPY.filter(farm => farm.pid < 1).map((farm) => (
-          <FarmList
-            key={farm.pid}
-            farm={farm}
-            removed={removed}
-            bnbPrice={bnbPrice}
-            cakePrice={cakePrice}
-            ethPrice={ethPriceUsd}
-            dukePrice={dukePriceBusd}
-            account={account}
-          />
-        ))
-      }
     },
     [bnbPrice, ethPriceUsd, cakePrice, account],
   )
