@@ -42,7 +42,7 @@ const Header = () => {
               <a href='jack-inu.gitbook.io/docs/' target='_blank'>WHITEPAPER</a>
               <a href='/'>BUY JACK</a>
               <a href='/'>PLAY BONE HUNTER</a>
-              <a href='/farms'>FIRE SWAP</a>
+              <a href='/farms'>EARN</a>
             </Stack>
           </Box>
 
@@ -66,7 +66,7 @@ const Header = () => {
                 <a href='jack-inu.gitbook.io/docs/' target='_blank'>WHITEPAPER</a>
                 <a href='/'>BUY JACK</a>
                 <a href='/'>PLAY BONE HUNTER</a>
-                <a href='/farms'>FIRE SWAP</a>
+                <a href='/farms'>EARN</a>
               </Stack>
             </Stack>
         }
