@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import styled from 'styled-components'
 import { useRouteMatch, Link } from 'react-router-dom'
-import { Button, ButtonMenu, ButtonMenuItem, Input, Text, Toggle } from '@fastswap-uikit'
+import { Button, ButtonMenu, ButtonMenuItem, Input, Text, Toggle } from '@jackinu-uikit'
 import useI18n from 'hooks/useI18n'
 import Cookies from 'js-cookie'
 
@@ -27,7 +27,7 @@ const FarmTabButtons = ({ stakedOnly, setStakedOnly, setSpecialOnly, viewMode, s
       <InnerFlex>
         <ToggleWrapper>
           <Toggle checked={stakedOnly} onChange={() => setStakedOnly(!stakedOnly)} scale="sm" />
-          <Text fontSize='22px'> {TranslateString(675, 'Staked only')}</Text>
+          <Text fontSize='22px' color='#d2793d '> {TranslateString(675, 'Staked only')}</Text>
         </ToggleWrapper>
         <div style={{maxHeight:'43px'}}>
           <ButtonMenu activeIndex={isExact ? 0 : 1} variant="primary" scale="sm">

@@ -1,4 +1,4 @@
-import { MenuEntry } from '@fastswap-uikit'
+import { MenuEntry } from '@jackinu-uikit'
 
 const zhcn: MenuEntry[] = [
   {

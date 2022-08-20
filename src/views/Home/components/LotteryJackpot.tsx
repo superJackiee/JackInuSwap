@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@fastswap-uikit'
+import { Text } from '@jackinu-uikit'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useTotalRewards } from 'hooks/useTickets'
 import useI18n from 'hooks/useI18n'

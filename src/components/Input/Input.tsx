@@ -1,4 +1,4 @@
-import { Flex } from '@fastswap-uikit'
+import { Flex } from '@jackinu-uikit'
 import React from 'react'
 import styled from 'styled-components'
 

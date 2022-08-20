@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react'
 import BigNumber from 'bignumber.js'
 import styled, { keyframes } from 'styled-components'
-import { Flex, Text, Skeleton } from '@fastswap-uikit'
+import { Flex, Text, Skeleton } from '@jackinu-uikit'
 import { communityFarms } from 'config/constants'
 import { Farm } from 'state/types'
 import { provider as ProviderType } from 'web3-core'
@@ -60,7 +60,8 @@ const StyledCardAccent = styled.div`
 
 const FCard = styled.div`
   align-self: baseline;
-  background: ${(props) => props.theme.card.background};
+  
+  background: #0b0c22;
   border-radius: 30px;
   box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -148,11 +149,11 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice,
       />
       {!removed && (
         <Flex justifyContent="space-between" alignItems="center">
-          <Text color="primary">{TranslateString(736, 'APR')}:</Text>
-          <Text bold style={{ display: 'flex', alignItems: 'center' }}>
+          <Text color="#d2793d">{TranslateString(736, 'APR')}:</Text>
+          <Text  bold style={{ display: 'flex', alignItems: 'center', color:'white' }}>
             {farm.apy ? (
               <>
-                <ApyButton lpLabel={lpLabel} addLiquidityUrl={addLiquidityUrl} cakePrice={cakePrice} apy={farm.apy} />
+                <ApyButton  lpLabel={lpLabel} addLiquidityUrl={addLiquidityUrl} cakePrice={cakePrice} apy={farm.apy} />
                 {farmAPY}%
               </>
             ) : (
@@ -162,8 +163,8 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice,
         </Flex>
       )}
       <Flex justifyContent="space-between">
-        <Text color="primary">{TranslateString(318, 'Earned')}:</Text>
-        <Text bold>{earnLabel}</Text>
+        <Text  color="#d2793d"  >{TranslateString(318, 'Earned')}:</Text>
+        <Text bold color='white'>{earnLabel}</Text>
       </Flex>
       {/* <Flex justifyContent="space-between">
         <Text>{TranslateString(999, 'Liquidity')}</Text>

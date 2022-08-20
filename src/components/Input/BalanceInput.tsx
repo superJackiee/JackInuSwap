@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button, Box, BoxProps, Flex, Text } from '@fastswap-uikit'
+import { Button, Box, BoxProps, Flex, Text } from '@jackinu-uikit'
 import useI18n from 'hooks/useI18n'
 import Input from './Input'
 

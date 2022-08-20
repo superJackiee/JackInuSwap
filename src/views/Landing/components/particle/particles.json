@@ -31,11 +31,11 @@
   },
   "particles": {
     "color": {
-      "value": "#0A4D84"
+      "value": "#0F7D84"
     },
     "links": {
-      "color": "#0C1235",
-      "distance": 130,
+      "color": "#0A4D84",
+      "distance": 150,
       "enable": true,
       "opacity": 0.5,
       "width": 1
@@ -48,7 +48,7 @@
       "enable": true,
       "outMode": "out",
       "random": false,
-      "speed": 1,
+      "speed": 4,
       "straight": false
     },
     "number": {
@@ -56,7 +56,7 @@
         "enable": true,
         "value_area": 800
       },
-      "value": 80
+      "value": 40
     },
     "opacity": {
       "value": 0.5

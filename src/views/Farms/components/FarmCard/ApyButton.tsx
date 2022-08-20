@@ -1,6 +1,6 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import BigNumber from 'bignumber.js'
-import { CalculateIcon, IconButton, useModal } from '@fastswap-uikit'
+import { CalculateIcon, IconButton, useModal } from '@jackinu-uikit'
 import ApyCalculatorModal from './ApyCalculatorModal'
 
 export interface ApyButtonProps {
@@ -11,14 +11,16 @@ export interface ApyButtonProps {
 }
 
 const ApyButton: React.FC<ApyButtonProps> = ({ lpLabel, cakePrice, apy, addLiquidityUrl }) => {
+  const [showModal, setShowModal] = useState<boolean>(false);
   const [onPresentApyModal] = useModal(
     <ApyCalculatorModal lpLabel={lpLabel} cakePrice={cakePrice} apy={apy} addLiquidityUrl={addLiquidityUrl} />,
   )
-
+  
   return (
     <IconButton onClick={onPresentApyModal} variant="text" size="sm" ml="4px">
-      <CalculateIcon />
+      <CalculateIcon style={{color:'white', backgroundColor:'white'}} />
     </IconButton>
+    
   )
 }
 

@@ -18,7 +18,7 @@ const JackInu = () => {
           <div id="particles-js" className="particles-container particles-js myparticle" >
               <Box className={styles.jack_container}>
               <Particle/>
-                  <Fade bottom style={{zIndex:'1000 !important'}}>
+                  <Fade bottom >
                     <Box className={styles.jack_main}>
                       <Typography className={styles.title}>A Game Changer in Crypto Defi</Typography>
                       <Typography className={styles.content} >JACK is a deflationary token built to generate liquidity and yield for holders. A <br/> project that is set aside from all the others by design to help our investors to <br/>  grow their wealth through  play 2 Earn games, yield farming  and Nft <br/> marketplace</Typography>

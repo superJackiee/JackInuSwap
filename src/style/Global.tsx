@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 // eslint-disable-next-line import/no-unresolved
-import { PancakeTheme } from '@fastswap-uikit/dist/theme'
+import { PancakeTheme } from '@jackinu-uikit/dist/theme'
 import back from '../img/back.png'
 
 declare module 'styled-components' {

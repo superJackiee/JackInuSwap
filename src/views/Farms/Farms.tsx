@@ -7,7 +7,7 @@ import BigNumber from 'bignumber.js'
 import Cookies from 'js-cookie'
 import useI18n from 'hooks/useI18n'
 import { useWeb3React } from '@web3-react/core'
-import { Heading, Text } from '@fastswap-uikit'
+import { Heading, Text } from '@jackinu-uikit'
 import { QuoteToken } from 'config/constants/types'
 import FlexLayout from 'components/layout/Flex'
 import Page from 'components/layout/Page'
@@ -17,6 +17,9 @@ import { fetchFarmUserDataAsync } from 'state/actions'
 import FarmCard, { FarmWithStakedValue } from './components/FarmCard/FarmCard'
 import FarmList, { FList } from './components/FasmList/FarmList'
 import FarmTabButtons from './components/FarmTabButtons'
+import Header from './components/header'
+
+
 
 const Flex = styled.div`
   display: flex;
@@ -152,36 +155,23 @@ const Farms: React.FC = () => {
   )
 
   return (
-    <Page>
-      <FarmTabButtons
-        stakedOnly={stakedOnly}
-        setStakedOnly={setStakedOnly}
-        setSpecialOnly={setSpecialOnly}
-        viewMode={viewMode}
-        setViewMode={setViewMode}
-        filter={filter}
-        setFilter={setFilter}
-      />
-      <div>
-        {viewMode ? <FlexLayout>
-          <Route exact path={`${path}`}>
-            {stakedOnly ? farmsList(stakedOnlyFarms, false) : farmsList(oldFarms, false)}
-          </Route>
-          <Route exact path={`${path}/history`}>
-            {farmsList(inactiveFarms, true)}
-          </Route>
-        </FlexLayout> :
-          <Flex>
-            <Route exact path={`${path}`}>
-              <FarmListHeader />
-              {stakedOnly ? farmsList(stakedOnlyFarms, false) : farmsList(oldFarms, false)}
-            </Route>
-            <Route exact path={`${path}/history`}>
-              {farmsList(inactiveFarms, true)}
-            </Route>
-          </Flex>}
-      </div>
-    </Page>
+    <>
+      <Header/>
+    
+      <Page>
+        <div>
+          <FlexLayout>
+              <Route exact path={`${path}`}>
+                {stakedOnly ? farmsList(stakedOnlyFarms, false) : farmsList(oldFarms, false)}
+              </Route>
+              <Route exact path={`${path}/history`}>
+                {farmsList(inactiveFarms, true)}
+              </Route>
+          </FlexLayout> 
+
+        </div>
+      </Page>
+    </>
   )
 }
 

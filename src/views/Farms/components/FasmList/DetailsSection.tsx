@@ -1,7 +1,7 @@
 import React from 'react'
 import useI18n from 'hooks/useI18n'
 import styled from 'styled-components'
-import { Text, Flex, Link, LinkExternal } from '@fastswap-uikit'
+import { Text, Flex, Link, LinkExternal } from '@jackinu-uikit'
 import BigNumber from 'bignumber.js'
 import { Farm } from 'state/types'
 import CardActionsContainer from './CardActionsContainer'

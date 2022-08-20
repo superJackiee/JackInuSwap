@@ -35,7 +35,7 @@
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
     "@ethersproject/abi": "^5.0.7",
-    "@fastswap-uikit": "https://github.com/toshifyfinance/fastswap-uikit.git",
+    "@jackinu-uikit": "https://github.com/ayumieth/jackinu-uikit.git",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.10.1",
     "@reduxjs/toolkit": "^1.5.0",

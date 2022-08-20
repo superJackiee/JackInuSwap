@@ -1,6 +1,6 @@
 import React, { useCallback, useRef } from 'react'
 import styled from 'styled-components'
-import { Heading, Card, CardBody, Flex, ArrowForwardIcon, Skeleton } from '@fastswap-uikit'
+import { Heading, Card, CardBody, Flex, ArrowForwardIcon, Skeleton } from '@jackinu-uikit'
 import { NavLink } from 'react-router-dom'
 import useI18n from 'hooks/useI18n'
 import BigNumber from 'bignumber.js'

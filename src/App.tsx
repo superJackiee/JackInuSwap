@@ -1,6 +1,6 @@
 import React, { useEffect, Suspense, lazy } from 'react'
 import { Router, Redirect, Route, Switch } from 'react-router-dom'
-import { ResetCSS } from '@fastswap-uikit'
+import { ResetCSS } from '@jackinu-uikit'
 import BigNumber from 'bignumber.js'
 import useEagerConnect from 'hooks/useEagerConnect'
 import { useFetchPriceList, useFetchPublicData } from 'state/hooks'
@@ -12,6 +12,9 @@ import EasterEgg from './components/EasterEgg'
 import Pools from './views/Pools'
 import history from './routerHistory'
 import Landing from './views/Landing'
+import Header from './views/Landing/components/header'
+import Footer from './views/Landing/components/footer'
+
 
 
 // Route-based code splitting
@@ -42,6 +45,7 @@ const App: React.FC = () => {
       <ResetCSS />
       <GlobalStyle />
       {/* <Menu> */}
+      
         <Suspense fallback={<PageLoader />}>
           <Switch>
             <Route path='/' exact>
@@ -71,6 +75,7 @@ const App: React.FC = () => {
           </Switch>
         </Suspense>
       {/* </Menu> */}
+      <Footer/>
       <EasterEgg iterations={2} />
       <ToastListener />
     </Router>

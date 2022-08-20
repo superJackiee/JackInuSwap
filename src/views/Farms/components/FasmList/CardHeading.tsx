@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { useMedia } from 'react-use'
-import { Tag, Flex, Heading } from '@fastswap-uikit'
+import { Tag, Flex, Heading } from '@jackinu-uikit'
 import { CommunityTag, CoreTag } from 'components/Tags'
 
 export interface ExpandableSectionProps {

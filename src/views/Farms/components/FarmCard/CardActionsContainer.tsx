@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { provider as ProviderType } from 'web3-core'
 import { getAddress } from 'utils/addressHelpers'
 import { getBep20Contract } from 'utils/contractHelpers'
-import { Button, Flex, Text } from '@fastswap-uikit'
+import { Button, Flex, Text } from '@jackinu-uikit'
 import { Farm } from 'state/types'
 import { useFarmFromSymbol, useFarmUser } from 'state/hooks'
 import useI18n from 'hooks/useI18n'
@@ -77,20 +77,20 @@ const CardActions: React.FC<FarmCardActionsProps> = ({ farm, account, addLiquidi
   return (
     <Action>
       <Flex>
-        <Text bold textTransform="uppercase" color="primary" fontSize="12px" pr="3px">
+        <Text bold textTransform="uppercase" color='#d2793d' fontSize="12px" pr="3px">
           {/* TODO: Is there a way to get a dynamic value here from useFarmFromSymbol? */}
           JACK
         </Text>
-        <Text bold textTransform="uppercase" color="primary" fontSize="12px">
+        <Text bold textTransform="uppercase" color='#d2793d' fontSize="12px">
           {TranslateString(743, 'Earned')}
         </Text>
       </Flex>
       <HarvestAction earnings={earnings} pid={pid} />
       <Flex>
-        <Text bold textTransform="uppercase" color="primary" fontSize="12px" pr="3px">
+        <Text  bold textTransform="uppercase" color='#d2793d' fontSize="12px" pr="3px">
           {lpName}
         </Text>
-        <Text bold textTransform="uppercase" color="primary" fontSize="12px">
+        <Text bold textTransform="uppercase"color='#d2793d' fontSize="12px">
           {TranslateString(739, 'Staked')}
         </Text>
       </Flex>

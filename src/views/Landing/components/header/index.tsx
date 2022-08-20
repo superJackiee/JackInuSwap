@@ -24,9 +24,9 @@ const Header = () => {
 
   return(
     <>
-      <Box id='header' className={styles.header_body} sx={{width: '100%', background: `${color}` , position:'fixed', top:'0px', zIndex:'100000 !important', transition: '0.5s'}}>
+      <Box id='header' className={styles.header_body} sx={{width: '100%', background: `${color}` , position:'fixed', top:'0px', zIndex:'3 !important', transition: '0.5s'}}>
         <Box  className={  styles.header_container}>
-          <img style={{marginRight:'20px'}} src='./images/landing/logo.png' alt='logo' />
+          <a href='/' style={{marginRight:'20px'}} ><img src='./images/landing/logo.png' alt='logo' /></a>
           <Box className={styles.menu_item}>
             <Stack className={styles.header_left}  direction='row' alignItems='center' spacing={2}>
             {/* <Link containerId="about" spy={true} smooth={true} className="menuitem">Grill section</Link> */}
@@ -39,10 +39,10 @@ const Header = () => {
               <Link to='contact' offset={-230} spy='true' smooth='true'>CONTACT</Link>
             </Stack>
             <Stack className={styles.header_right} justifyContent='right'  direction='row' alignItems='center' spacing={2}>
-              <a href='/'>WHITEPAPER</a>
+              <a href='jack-inu.gitbook.io/docs/' target='_blank'>WHITEPAPER</a>
               <a href='/'>BUY JACK</a>
               <a href='/'>PLAY BONE HUNTER</a>
-              <a href='/'>FIRE SWAP</a>
+              <a href='/farms'>FIRE SWAP</a>
             </Stack>
           </Box>
 
@@ -63,10 +63,10 @@ const Header = () => {
                 <Link to='contact' offset={-230} spy='true' smooth='true'>CONTACT</Link>
               </Stack>
               <Stack className={styles.header_right}  direction='row' alignItems='start'  flexWrap='wrap'>
-                <a href='/'>WHITEPAPER</a>
+                <a href='jack-inu.gitbook.io/docs/' target='_blank'>WHITEPAPER</a>
                 <a href='/'>BUY JACK</a>
                 <a href='/'>PLAY BONE HUNTER</a>
-                <a href='/'>FIRE SWAP</a>
+                <a href='/farms'>FIRE SWAP</a>
               </Stack>
             </Stack>
         }

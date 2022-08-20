@@ -1,7 +1,7 @@
 import React from 'react'
 import BigNumber from 'bignumber.js'
 import styled from 'styled-components'
-import { Modal, Text, LinkExternal, Flex } from '@fastswap-uikit'
+import { Modal, Text, LinkExternal, Flex } from '@jackinu-uikit'
 import useI18n from 'hooks/useI18n'
 import { calculateCakeEarnedPerThousandDollars, apyModalRoi } from 'utils/compoundApyHelpers'
 
@@ -119,7 +119,7 @@ const ApyCalculatorModal: React.FC<ApyCalculatorModalProps> = ({
         )}
       </Description>
       <Flex justifyContent="center">
-        <LinkExternal href={addLiquidityUrl}>
+        <LinkExternal href={addLiquidityUrl} style={{color:'tomato'}}>
           {TranslateString(999, 'Get')} {lpLabel}
         </LinkExternal>
       </Flex>

@@ -1,7 +1,7 @@
 import React from 'react'
 import useI18n from 'hooks/useI18n'
 import styled from 'styled-components'
-import { Text, Flex, Link, LinkExternal } from '@fastswap-uikit'
+import { Text, Flex, Link, LinkExternal } from '@jackinu-uikit'
 import { FarmWithStakedValue } from '../FasmList/FarmList'
 
 export interface ExpandableSectionProps {
@@ -26,10 +26,11 @@ const StyledLinkExternal = styled(LinkExternal)`
   align-items: center;
 
   svg {
+    color:white;
     padding-left: 4px;
     height: 18px;
     width: auto;
-    fill: ${({ theme }) => theme.colors.primary};
+    fill: white;
   }
 `
 
@@ -45,17 +46,17 @@ const DetailsSection: React.FC<ExpandableSectionProps> = ({
   return (
     <Wrapper>
       <Flex justifyContent="space-between">
-        <Text>{TranslateString(316, 'Stake')}:</Text>
-        <StyledLinkExternal href={addLiquidityUrl}>{lpLabel}</StyledLinkExternal>
+        <Text color='#d2793d'>{TranslateString(316, 'Stake')}:</Text>
+        <StyledLinkExternal href={addLiquidityUrl} style={{color:'white'}}>{lpLabel}</StyledLinkExternal>
       </Flex>
       {!removed && (
         <Flex justifyContent="space-between">
-          <Text>{TranslateString(737, 'Total Liquidity')}:</Text>
-          <Text>{totalValueFormated}</Text>
+          <Text color='#d2793d'>{TranslateString(737, 'Total Liquidity')}:</Text>
+          <Text color='white'>{totalValueFormated}</Text>
         </Flex>
       )}
       <Flex justifyContent="flex-start">
-        <Link external href={bscScanAddress} bold={false}>
+        <Link color='#d2793d' external href={bscScanAddress} bold={false}>
           {TranslateString(356, 'View on BscScan')}
         </Link>
       </Flex>

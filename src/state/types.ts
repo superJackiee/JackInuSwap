@@ -1,4 +1,4 @@
-import { Toast } from '@fastswap-uikit'
+import { Toast } from '@jackinu-uikit'
 import BigNumber from 'bignumber.js'
 import { CampaignType, FarmConfig, Nft, PoolConfig, Team } from 'config/constants/types'
 
