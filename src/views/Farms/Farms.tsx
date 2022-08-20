@@ -105,7 +105,7 @@ const Farms: React.FC = () => {
         if (!farm.tokenAmount || !farm.lpTotalInQuoteToken || !farm.lpTotalInQuoteToken) {
           return farm
         }
-        const cakeRewardPerYear = new BigNumber(farm.amountFastTokens).div(30).times(365)
+        const cakeRewardPerYear = new BigNumber(farm.amountFastTokens).div(60).times(365)
 
         let apy;
         if (farm.quoteTokenSymbol === 'DUKE') {
