@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import { Box, Button, Stack, IconButton } from '@mui/material';
+import { Box, Stack, IconButton } from '@mui/material';
 import { Link } from 'react-scroll';
 
 import MenuIcon from '@mui/icons-material/Menu';

@@ -13,7 +13,6 @@ const ScrollTop = () => {
     
     if( window.pageYOffset > 200 ) setVisible(true);
     else setVisible(false);
-    console.log("positio:::", window.pageYOffset)
   }
 
   useEffect(() => {

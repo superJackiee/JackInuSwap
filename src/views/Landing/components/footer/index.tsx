@@ -4,7 +4,6 @@ import { Box, Typography, Stack } from '@mui/material'
 import Fade from 'react-reveal/Fade';
 import { FaTwitter, FaFacebookF, FaTelegram, FaGithub, FaMedium, FaTelegramPlane } from 'react-icons/fa';
 import { BsCurrencyBitcoin } from 'react-icons/bs';
-import { TbMail } from 'react-icons/tb';
 import { HiMail } from 'react-icons/hi';
 import styled from 'styled-components';
 import styles from './footer.module.css';

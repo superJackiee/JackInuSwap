@@ -8,9 +8,6 @@ import Tokenomics from './section/Tokenomics';
 import RoadMap from './section/roadmap';
 import Footer from './components/footer';
 import Distribution from './section/Distribution';
-import PieChart from './components/chart';
-import Particle from './components/particle';
-import styles from './index.module.css';
 import ScrollTop from './components/scrollTop';
 
 

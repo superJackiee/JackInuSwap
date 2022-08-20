@@ -1,5 +1,4 @@
 import React, { useCallback, CSSProperties } from "react";
-import {styled} from '@mui/material/styles';
 import Particles from "react-particles";
 import type { Engine } from "tsparticles-engine";
 import { loadFull } from "tsparticles";

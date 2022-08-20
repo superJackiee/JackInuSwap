@@ -1,8 +1,7 @@
 import React from 'react';
-import { Box, Stack, Typography } from '@mui/material';
+import { Box, Typography } from '@mui/material';
 import Fade from 'react-reveal/Fade';
 import { FaCheck } from 'react-icons/fa'
-import {styled} from '@mui/material/styles';
 import styles from './roadmap.module.css';
 import './timeline.css';
 

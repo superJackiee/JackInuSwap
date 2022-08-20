@@ -4,7 +4,6 @@ import {styled} from '@mui/material/styles';
 import Fade from 'react-reveal/Fade';
 import styles from './tokenomics.module.css';
 import Counter from '../../components/count';
-import PieChart from '../../components/chart';
 
 const Title = styled('div')({
   fontSize:'0.9em',
